@@ -1,0 +1,106 @@
+{
+  "bookId": "asp-en-0059",
+  "title": "Akai's special mat",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 358,
+  "pageCount": 15,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Akai's special mat",
+    "author": "Ursula Nafula",
+    "illustrator": "Catherine Groenewald",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 17 とページ数 15 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "When Akai was a little girl, her\nmother used to put her to sleep\non a beautiful mat.\nAkai's aunt made this special\nmat from palm leaves."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The mat had bright pink, blue\nand green colours.\nIt was different from other mats\nthat Akai's mother had in the\nhut."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The land around Akai's home\nwas very dry, hot and full of\nstones.\nThere were many scorpions,\nspiders and snakes too."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "But Akai was never in danger of\nbeing bitten by these\ndangerous creatures.\nHer mother said, \"Her special\nmat protects Akai from any\nharm.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Akai was a clever child.\nShe discovered where the\nnearest shallow well was."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "She also knew where her\ngrandmother's manyatta was\nlocated.\nShe often went to enjoy\ndrinking camel milk with her\ngrandmother."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "One day, Akai was not so lucky.\nShe left to go to her\ngrandmother's manyatta, but\nshe did not get there.\nShe got lost in the hills.\nAkai was afraid."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "She sat under an edome tree\nand waited for help.\nSoon she fell asleep and had a\ndream."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "This is how the dream went:\nShe was lying on her special\nmat.\nA woman who looked like her\ngrandmother was watching over\nher.\nThe lady smiled and gave her a\nbig bowl of camel milk.\nJust when Akai stretched out\nher hand to take the milk, she\nwoke up."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Akai opened her eyes slowly.\nWhen she looked up, she saw a\nsmall blue bird standing on a\nbranch above her."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "When Akai got up, the small\nblue bird flapped its wings and\nled the way for Akai.\nShe followed the bird."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Akai came to a place where the\npath went in two different\ndirections.\nThe blue bird dropped a piece\nof a mat that was like Akai's\nown mat."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Picking up the piece of mat,\nAkai saw footprints that she\nknew were her mother's.\nSoon she saw the shallow well\nfrom where they fetched water."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Akai's family sang and danced\nto welcome her home.\nThey slaughtered a goat,\nroasted the meat and\ncelebrated their child's safe\nreturn."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Akai sat on her special mat and\nenjoyed eating a big piece of\nroast meat."
+    }
+  ]
+}

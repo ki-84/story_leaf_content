@@ -1,0 +1,54 @@
+{
+  "bookId": "pb-en-0252",
+  "title": "The book of poems",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 438,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The book of poems",
+    "author": "Rachita Uday Kumar",
+    "illustrator": "Ajit Narayan, Angie & Upesh, Bulbul Sharma, Kaveri Gopalakrishnan, Priya Kuriyan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2911-the-book-of-poems",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "### Habits\n\n  A habit is a sticky thing;\n\nMuch good or evil it can bring;\n\nIt binds a victim, holds him fast,\n\nAnd keeps him in a vise-like grasp.\n\n  Bad habits grow with extra speed,\n\nMuch like a healthy,growing weed.\n\nThe roots grow deep,the stem grows stout;\n\nHow difficult to pull it out!\n\n Good habits are a little slow;\n\nThey need a lot of care to grow;\n\nIf tended well,they grow more fair\n\nThan any bloom a plant can bear.\n\n  Good habits help us all through life;\n\nBad habits bring us pain and strife;\n\nOur habits weather right or wrong,\n\nEach day will grow more firm and strong."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "### To a butterfly\n\n  I've watched you now a full half-hour;\n\nSelf-poised upon that yellow flower;\n\nAnd little Butterfly!indeed\n\nI know not if you sleep or feed.\n\nHow motionless-not frozen seas\n\nMore motionless!and then\n\nWhat joy awaits you,when the breeze\n\nHath found you out among the trees,\n\nAnd calls you forth again!\n\n  This plot of orchard-ground is ours;\n\nMy trees are there,my Sister's flowers;\n\nHere rest your wings when they are weary;\n\nHere lodge as in a sanctuary!\n\nCome often to us,fear no wrong;\n\nWe will talk of a sunshine and a song!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "### The snare\n\n  I hear a sudden cry of pain!\n\nThere is a rabbit in a snare:\n\nNow I hear a cry again,\n\nBut I cannot tell from where.\n\n  But I cannot tell from where.\n\nHe is calling out for aid!\n\nCrying on the frightened air,\n\nMaking everything afraid!\n\n  Making everything afraid!\n\nWrinkling up his little face!\n\nAnd he cries again for aid;\n\n-and I cannot find the place!\n\n  And I cannot find the place!\n\nWhere his paw is in the snare!\n\nLittle one!Little one!\n\nI'm searching everywhere!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "### Silver\n\n  Slowly,silently,now the moon\n\nWalks the night in her silver shoon;\n\nThis way and that,she peers and sees\n\nSilver fruit upon silver trees;\n\nOne by one the casements catch\n\nHer beams beneath the silvery thatch;\n\nCouched in his kennel,like a log,\n\nWith paws of silver sleeps the dog;\n\nFrom their shadowy cote of white breasts peep\n\nOf doves in a silver-feathered sleep."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "### At the seaside\n\n  Our seaside summer holidays \n\nare as happy as can,\n\nwe love to build sand castles,\n\nand wade out at sea.\n\n  And when we find an empty boat,\n\noff we quickly go\n\nto ask a nearby fisherman,\n\nto take us for a row\n\n  We ride the horse on the beach,\n\nWe drive the go kart too\n\nIt is really surprising to think\n\nof all the things you can do."
+    }
+  ]
+}

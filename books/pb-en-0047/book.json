@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0047",
+  "title": "Bunty and Bubbly",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "むかしばなし",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 120,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Bunty and Bubbly",
+    "author": "Sorit Gupto",
+    "illustrator": "Sorit Gupto",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/202-bunty-and-bubbly",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Bunty loves to play with butterflies..."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "...and with birds."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "She loves to play with paper boats."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "She also likes to make sand castles."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "When Bunty goes back home,\n\nher mother asks her to clean up.\n\nBut she refuses."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"I hate soaps!\" she screams."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "One night, she has a dream.\n\nThe germs are all around her castle, and are attacking her."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Bunty is chased by the germs.\n\nShe runs for her life and screams, “Help... Help!”"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Suddenly, Soap King Bubbly appears.\n\n“Bunty, don't be afraid,” he says. “Go attack the germs!”\n\nthe Soap King orders his army of bubbles."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The army of bubbles chases the germs away."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "These days, Bunty likes to use soap,\n\nand she brushes and scrubs herself clean."
+    }
+  ]
+}

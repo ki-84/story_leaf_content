@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0085",
+  "title": "When Amma Went to School",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 222,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "When Amma Went to School",
+    "author": "Nandini Nayar",
+    "illustrator": "Ruchi Shah",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/684-when-amma-went-to-school",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "“Meera, I went to your school today!” Amma said one day.\n\n“Really?” Meera said.\n\n“And the gate was wide open, and the watchman was missing!”\n\n“Oh! He was in our classroom, to see why our teacher had screamed!”\n\n“And why did your teacher scream?” Amma asked. “Because Rohan began crying!”"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "“And why did Rohan cry?” Amma wanted to know.\n\n“Because the snake he had brought back from the zoo had eaten his mouse! And then the teacher screamed and the watchman came running!”\n\n“But I went to your classroom, and there was nobody there!” said Amma."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "“We were all hiding in the Staff Room,” Meera said.“Because Rohan's snake was in our classroom!”\n\n“But Meera, when I went to the Staff Room, I didn't see anyone there!”"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "“That is because we had all run away to the Principal's Room,” Meera said.\n\n“Because Rohan said the snake was following us!”\n\n“But when I went to the Principal's Room, it was empty!” Amma said."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "“We couldn't stay there,” Meera said, “because Rohan's snake was looking for him. We climbed up to the terrace and stayed there till the bell rang!”\n\n“And I waited and waited in your school, all alone!” Amma said."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "“Not all alone, Amma, you had the snake for company!”\n\n“The snake!” Amma said, sitting down with a thump on a chair."
+    }
+  ]
+}

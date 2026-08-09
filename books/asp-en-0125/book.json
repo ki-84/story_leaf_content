@@ -1,0 +1,96 @@
+{
+  "bookId": "asp-en-0125",
+  "title": "Monkey Eats his Own Tail",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 148,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Monkey Eats his Own Tail",
+    "author": "Mozambican folktale",
+    "illustrator": "Horácio José Cossa",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 15 とページ数 13 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "For a long time, Rabbit\nand Monkey were great\nfriends."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "However, Rabbit was\njealous of Monkey\nbecause of his long tail.\nOne day they went for a\nwalk."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "They went to the shamba and ate maize."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Rabbit tricked Monkey\nto be trapped by the\nfarmer."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Clever rabbit shouted,\n\"Robbers! Robbers!\"\nAnd ran away."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The monkey could not\nrun fast because of his\nlong tail."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The farmers shouted:\nStop! Stop!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "They caught him and\nstarted beating him."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The monkey revealed\nhow his friend Rabbit\ninvited him to the\nshamba."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "But the owners did not\nwant to listen.\n\"We will cut off your\ntail,\" they said."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Rabbit took Monkey's\ntail secretly and cooked\nit.\nThen he invited the\nMonkey for the meal."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "After the meal, the\nmonkey said, \"The\nmeat was delicious.\""
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Rabbit smiled and said,\n\"It was your tail,\" and\nran away.\nAnd from then on they\nbecame enemies!"
+    }
+  ]
+}

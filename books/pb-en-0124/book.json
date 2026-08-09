@@ -1,0 +1,79 @@
+{
+  "bookId": "pb-en-0124",
+  "title": "Grandma's Glasses",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "ゆかい・ユーモア"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 296,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Grandma's Glasses",
+    "author": "Rohini Nilekani",
+    "illustrator": "Tanaya Vyas",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1034-grandma-s-glasses",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Nani keeps losing her glasses.\n\n“Where did I keep them?” she always asks. Without her glasses, she cannot find her glasses."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "So she needs me. To be her eyes, to find her own eyes!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Sometimes her spectacles are in the bathroom. Or on her bed. Or on her head.\n\n“Nani,” I say, “they are on your head!”"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "“Of course! How silly of me. Thank you, Richa dear,” she says with a giggle.\n\nThis time, though, I cannot find Nani's glasses. Not yet."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I have looked everywhere. In all the usual places. On her head, in the bathroom, inside her cupboard, and on the puja shelf. I have looked under her favourite chair and on the dining table.\n\nNothing. No glasses. Where could they be?"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I decided to be a good detective. I decided to find out what she had done all day."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "“I did nothing much today. Except that Veena's mother-in-law came, you know. And how much she gossips! We had many cups of tea. And she ate all the laddoos your mother had made,” said Nani."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Raju said, “Nani was very busy today. She wrote a letter to the Chief Minister about her pension.”"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Amma said, “She spoke for a long time to your Masi. She finished knitting the sweater for Raju. And then she went for a short walk.”\n\nI now had many clues. I quickly looked around new places in the house.\n\nAha! I have found the missing glasses!"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The spectacles were wrapped in wool, kept next to her pen, under the phone, on her desk. And I found a half-eaten laddoo there as well. For Nani's next birthday, I will save money for an extra pair of glasses!\n\nNani: Hindi word for grandmother\n\nMasi: Hindi word for mother's sister"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bookId": "pb-en-0018",
+  "title": "Goloo the Circle",
+  "slug": "goloo-the-circle",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 174,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "storyweaver (global-asp/pb-source mirror)",
+  "attribution": {
+    "title": "Goloo the Circle",
+    "author": "Jagdish Joshi",
+    "illustrator": "Jagdish Joshi",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/90-goloo-the-circle",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "bundled": true,
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I am Goloo the circle.\n\nEveryone likes me.\n\nYou can find me\n\neverywhere, any time!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The sun looks like me.\n\nWhen it's too hot,\n\nyou need an umbrella which also\n\nlooks like half of me."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "At night, the moon\n\nlooks like me with a smile.\n\nI look at it through\n\nthe owl's round eyes."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Huge watermelons, apples, oranges, tomatoes,\n\neven the tiny lemons - all look like me... and mithai!\n\nJuicy rasgullas, syrupy gulabjamuns, lovely laddus...\n\nare among the many sweets that look like me."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Animals want me to decorate them.\n\nThe cheetah, the chital deer,\n\nhave me all over their skin.\n\nI'm there on ladybirds and butterflies too!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "In the playground,\n\nI'm there as a ball,\n\na hoopla ring and\n\nmany other joyful games!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Why, your trucks,\n\naeroplanes, cars, cycles,\n\nwould not be able to move...\n\nif it weren't for me."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "And yet there is one place where I am not welcome.\n\nOn your report card! Sorry friends!\n\nI also feel sad when that happens.\n\nYou will have to work hard to change that!"
+    }
+  ]
+}

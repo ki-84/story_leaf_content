@@ -1,0 +1,44 @@
+{
+  "bookId": "pb-en-0394",
+  "title": "The Big Game",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 477,
+  "pageCount": 3,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Big Game",
+    "author": "Karuna JP",
+    "illustrator": "Lavanya Karthik, Shailja Jain Chougule, Sonal Gupta, Soumya Menon",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/5036-the-big-game",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Oli Tagore was ten years old. She loved football. Rebecca Collins was her best friend. She was eleven years old. These two used to play in a football team called 'Goal'. There were only three girls in the team – Oli, Rebecca and another girl called Anna. The boys were Harry, Allen, Louis, Alex, Liam, Niall, Jacob and Oli's twin, Boom. One day Boom started singing a very silly song...\n\n“the stars are shining bright,\n\nthey are the spectators,\n\nthe moon is the football,\n\nand I am going to kick it,\n\nbefore kicking it I will say – Om, Om, Om,\n\nGOOOOOOOOAAAAALLLLLL!!! ... yay.....\n\nOli and Rebecca were planning for the day's game when Dave, Rebecca's younger brother came crying ''waaa, Mama, the wall hit me'', when he suddenly tripped on Oli's football kit. Dave said, ''KABOOM, waaaaa, waaaa, waaaa... ''. Rebecca called out, “Oh Mama, Davey Pavey's got hurt''."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The next day Oli's mom got a call saying the coach fractured his leg. Boom said to Rebecca, “Fatty Patty (thats what he called his coach), fractured his leg.'' Rebecca asked, ''How?'' Boom said, ''I don't know.'' Rebecca said, ''Wow, new coach, woohoo!'' Then she ran around the field and hugged a light pole and said, ''I hope its a woman.'' Then a colourful car drove up on the driveway, the door opened and a woman with two extra large backpacks came out. She said, ''I am Helen, your new football coach. Is this the team, Goal?'' Alex said, ''Yo, sure we are!'' Then Boom whispered into Oli's ear, ''Too much lipstick, Mommy's going to hate her.'' The coach said, “Don't call me coach, call me Helen. Now lets get started.” Then she loudly said (it even echoed), “Its the Big Game today!” After their practice, they all were very exhausted. Then Helen pulled out twelve bottles out of her bag."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Harry asked, “What's that?” Helen said, “Oh yes, I forgot to tell you, it is 'Power Shoot' an energy drink, quickly gulp it down.” They did as they were told to. Then suddenly Anna's watch started beeping. She said, “Its ten minutes to eleven, get ready.” Then Boom heard a loud bark. He said, “Sweaty is here to watch our game too.” Oli's eyes enlarged and said, “Sweetie, not Sweaty.” Then she huffed and puffed and grunted and sighed. Then they saw the spectators coming. Helen said, “Game time.”\n\nThey were playing against the team 'Double Trouble'. The match started and Double Trouble shot a goal. But the team 'Goal' shot one too. Double Trouble was now struggling to shoot a goal. 'Goal' soon shot another goal. The game was of three goals. For the next half hour none of the teams scored. But finally 'Goal' shot their winning goal and they were really happy. They had won the Big Game."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "bookId": "asp-en-0107",
+  "title": "Jackal and the sun",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 322,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Jackal and the sun",
+    "author": "Traditional San story",
+    "illustrator": "Manyeka Arts Trust",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 11 とページ数 9 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Long ago, there was a foolish lazy jackal. He lived with his old father in the Kalahari bush."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One morning Old Jackal woke up to find his son sleeping in the sun. The food was not ready and the goats were still in the kraal!\n\n\"Young man, you are so lazy! Go and find a wife. I am too old to look after you,\" said Jackal's father. So Jackal jumped up and took the goats out to graze."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "In the bush, he saw something shining on a rock. He went closer and closer to the rock. The closer he got, the more beautiful the shine was. Perhaps this was the wife for him?!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "\"You are beautiful,\" said Jackal to the shine. \"But who are you? Why are you alone?\"\n\n\"I am the sun,\" the shine answered. \"My family left me here when they moved on. They did not want to carry me. I am too hot.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The jackal said, \"But you are so beautiful! I will carry you. I will take you home to meet my father.\"\n\n\"All right, you can carry me. But do not complain when I get too hot for you,\" said the sun."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "So Jackal put the sun on his back and started the journey home. Before long, the sun was burning Jackal's fur.\n\n\"Will you please come down from my back? I need to rest,\" said Jackal. His back was so sore that he could hardly walk.\n\n\"Just carry on!\" said the sun. \"I told you not to complain!\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Then Jackal saw a log across the path. He crawled under the log so that the sun would fall off."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "But the log also scraped the skin and fur from his back and they were left behind with the sun."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The new fur was a different colour to the fur on the rest of his body. The different colours always reminded Jackal not to be so foolish again."
+    }
+  ]
+}

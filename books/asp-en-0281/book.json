@@ -1,0 +1,156 @@
+{
+  "bookId": "asp-en-0281",
+  "title": "How ant saved dove",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 292,
+  "pageCount": 25,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "How ant saved dove",
+    "author": "Kholeka Mabeta, Judith Baker",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 30 とページ数 25 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "It was a hot summer\nday in the dry forest."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Little Ant had no water\nfor many days."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"I need a drop of water,\neven if it falls from a\nleaf.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "But even the dew had\ndried up."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "\"If I don't drink, I will\ndie,\" cried Little Ant.\n\"I must go to the river I\nhave heard about.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"The river will sweep\nyou away,\" a wise\nsquirrel warned him."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "But Little Ant was so\nthirsty.\n\"I will die if I don't drink\nsome water.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Little Ant went to look\nfor the river..."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "across dry grass and\nover dry branches..."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "...until he heard the\nwaves of the river\nsplashing."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Little Ant took a long\nsip of cool water."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "He was so happy he did\nnot see the huge wave\ncoming."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Ant tried to grab the\ndry grass floating past\nhim.\nBut he was swept away\nby the water."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "\"Help someone. Help\nme please.\""
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "\"Quick, climb on,\" said\nWhite Dove, holding a\nbranch in his beak."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "\"I cannot leave until I\nsay thank you to the\ndove. I will wait until he\ncomes back to drink.\""
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "One day as he waited,\ntwo boys came to the\nriver with their\nslingshots."
+    },
+    {
+      "index": 17,
+      "imagePath": "images/19.jpg",
+      "text": "\"There is a big white\ndove that comes here\nto drink,\" said one boy.\n\"We will have it for\nsupper tonight.\""
+    },
+    {
+      "index": 18,
+      "imagePath": "images/20.jpg",
+      "text": "\"I cannot let the boys\nkill White Dove.\nBut I am so tiny, what\ncan I do?\""
+    },
+    {
+      "index": 19,
+      "imagePath": "images/21.jpg",
+      "text": "Just then White Dove\nflew down from the tree\nto drink."
+    },
+    {
+      "index": 20,
+      "imagePath": "images/22.jpg",
+      "text": "Little Ant had an idea."
+    },
+    {
+      "index": 21,
+      "imagePath": "images/23.jpg",
+      "text": "He jumped onto one\nboy's foot, and bit him\nas hard as he could."
+    },
+    {
+      "index": 22,
+      "imagePath": "images/24.jpg",
+      "text": "The boy jumped.\n\"Ouch!\" he cried."
+    },
+    {
+      "index": 23,
+      "imagePath": "images/25.jpg",
+      "text": "White Dove was\nstartled and flew away\nto safety."
+    },
+    {
+      "index": 24,
+      "imagePath": "images/26.jpg",
+      "text": "That was how Little Ant\nthanked White Dove for\nsaving him."
+    }
+  ]
+}

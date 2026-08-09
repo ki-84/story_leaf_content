@@ -1,0 +1,73 @@
+{
+  "bookId": "pb-en-0170",
+  "title": "What Makes You Special?",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 305,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "What Makes You Special?",
+    "author": "Nalini Sorensen",
+    "illustrator": "Greystroke",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1928-what-makes-you-special",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Who are you?\n\nI am a turtle.\n\nWhat's makes you special?\n\nI have the shiniest shell, of all the turtles in the world!\n\nNorth, South, East, West,\n\nOf all the turtles, I'm the best!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Who are you?\n\nI am a cheetah.\n\nWhat makes you special?\n\nI run the fastest, of all the cheetahs in the world!\n\nNorth, South, East, West,\n\nOf all the cheetahs, I'm the best!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Who are you?\n\nI am a whale.\n\nWhat makes you special?\n\nI have the biggest tummy, of all the whales in the world!\n\nNorth, South, East, West,\n\nOf all the whales, I'm the best!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Who are you?\n\nI am a canary.\n\nWhat makes you special?\n\nI have the sweetest voice, of all the canaries in the world!\n\nNorth, South, East, West,\n\nOf all the canaries, I'm the best!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Who are you?\n\nI am an elephant.\n\nWhat makes you special?\n\nI have the brightest memory, of all the elephants in the world!\n\nNorth, South, East, West,\n\nOf all the elephants, I'm the best!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Who are you?\n\nI am a frog.\n\nWhat makes you special?\n\nI hop the highest, of all the frogs in the world!\n\nNorth, South, East, West,\n\nOf all the frogs, I'm the best!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Who are you?\n\nI am a bee.\n\nWhat makes you special?\n\nI make the yummiest honey, of all the bees in the world!\n\nNorth, South, East, West,\n\nOf all the bees, I'm the best!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Who are you?\n\nI am a dinosaur.\n\nWhat makes you special?\n\nI have the sharpest spikes, of all the dinosaurs in the world!\n\nNorth, South, East, West,\n\nOf all the dinosaurs I'm the best!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Who are you?\n\nI am a boy.\n\nWhat makes you special?\n\nI am ME. There is only one ME in the world!\n\nNorth, South, East, West,\n\nI DON'T have to be better than the rest!"
+    }
+  ]
+}

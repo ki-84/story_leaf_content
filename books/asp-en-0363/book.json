@@ -1,0 +1,95 @@
+{
+  "bookId": "asp-en-0363",
+  "title": "The banana thieves",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 223,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The banana thieves",
+    "author": "Ritah Katetemera",
+    "illustrator": "Wiehan de Jager, Cathy Feek, Eden Daniels, Ketan Raut, Herminder Ohri, Benjamin Mitchley, Sean Whitehead, Vusi Malindi, Karlien de Villiers, Catherine Groenewald, Rob Owen, Rijuta Ghate, Magriet Brink, Melany Pietersen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 15 とページ数 13 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Long time ago, there were four little friends namely: Joel, Jonah, Job and Jacob."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "They were studying at Busolwe primary school."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The boys used to go to school with out taking tea."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "They used to feel sleepy at school all the because of hunger."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "One day, they decided to go to to a nearby trading center called gampe and look for something to eat."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "After crossing to a nearby trading center, they saw a bigger banana bunch in a box at the veranda."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The boys whispered at each other hahahaaaaa ...... we have been very hungry but......, said Jonah."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "All ran to the veranda. picked up some bananas from the box, smiled and started eating. Do you know what they forgot to do?"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "While eating, the owner of the bananas came walking in bigger strides. \"Who has given you my bananas?\" asked the man."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "As soon as they heard that voice, the boys ran as fast as they could and hid somewhere. They said to each other that no laughing, no coughing and no talking."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The owner of the bananas made an alarm, \"wulululululua, here are the thieves.\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The boys were arrested, taken to school, called their parents, the teachers, and the school children to gather."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "The boys were given a punishment. Each got some ten strokes and repented not to steal anything again."
+    }
+  ]
+}

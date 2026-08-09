@@ -1,0 +1,39 @@
+{
+  "bookId": "pb-en-0176",
+  "title": "Nadir's Pet",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 238,
+  "pageCount": 2,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Nadir's Pet",
+    "author": "Kushagra Agarwal",
+    "illustrator": "Rajiv Eipe",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1983-nadir-s-pet",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once there was a boy named Nadir. He lived in Adyar, Chennai. He was very adventurous and he was a very lively boy. One day he wanted a pet so he asked his parents but they refused. So one day he was playing with his friends and he found a helpless horse and he took it home."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Nadir named it Faraz. They both had many adventures together. He bought designer clothes for Faraz.\n\nFaraz loved to wear them. The shawl was made from golden threads. The borders were made up of golden lining. The dress for Faraz did not cost anything because Nadir's mother was a tailor who could stitch very good.\n\nBut one day evil had fallen on them. The next night turned out to be Amavasya(night with no moon). A group of thieves arrived to Nadir's place and stole Faraz. The next morning Nadir woke up and found the ugly surprise that was waiting for him. He went to the police station and filed a FIR in no time. They located Faraz in eight months. The address was Vettuvankeni 139 East Coast Road. The drive was of 25 minutes. When they reached there they saw that the thieves were going to cut Faraz but the police took hold of the situation and saved Faraz. Nadir thanked them a lot and never ever kept Faraz out of his home.\n\nMoral: Never treat animals differently treat them like humans."
+    }
+  ]
+}

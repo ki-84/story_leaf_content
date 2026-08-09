@@ -1,0 +1,69 @@
+{
+  "bookId": "pb-en-0200",
+  "title": "The Unusual Rainmaking Duet",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 241,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Unusual Rainmaking Duet",
+    "author": "Srividya Suryanarayanan",
+    "illustrator": "Rajiv Eipe",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2325-the-unusual-rainmaking-duet",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "In Rajasthan, there once lived a traditional folklore Singer. He traveled from village to village telling beautiful stories woven into songs. Yet his region never got any rain."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "As he was traveling, he came across a weird skeleton on the desert. It looked like an unusual creature. An idea sparked and he decided to try out his life-giving folklore song to bring it to life."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "As the Singer finished his folk song, a huge Dinosaur came to life. The Dinosaur gently smiled and licked his hand. Soon they became good friends."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The Dinosaur was overjoyed to hear a story woven into a song. He also wished to learn singing. He asked the Singer to teach him a folklore song."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The Singer taught the Dinosaur the oldest folk-song about rain. Once the Dinosaur learned it well, then both began singing it together."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The unusual combination of the Singer and the Dinosaur's song moved the sky so much that rain bearing clouds gathered with lightening."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Down came the rain drenching the desert with the sky's reward for the duet. The earth and sky rejoiced with renewed happiness along with the villagers. The region enjoyed the first welcome shower after a long time."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Soon it became popular that when the Singer and the Dinosaur sang an unusual duet the sky rewarded them with rain. From then on the Singer and his Dinosaur friend were invited to perform in various villages needing rain."
+    }
+  ]
+}

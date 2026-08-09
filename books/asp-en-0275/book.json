@@ -1,0 +1,111 @@
+{
+  "bookId": "asp-en-0275",
+  "title": "Lion's fire sticks",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 555,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Lion's fire sticks",
+    "author": "Traditional San story",
+    "illustrator": "Manyeka Arts Trust",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "表紙をページ 1 と共用"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/01.jpg",
+      "text": "This story is in the old time\nwhen people and animals lived\ntogether. At that time, people\ndid not have fire. They ate their\nfood raw. Only Lion had fire."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/02.jpg",
+      "text": "The people and animals wanted\nfire. The people and the animals\nhad a meeting. \"We want to\ncook our food'\" they said. \"How\ncan we get the fire from Lion?\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/03.jpg",
+      "text": "In the evening they started\nsinging and dancing. They\ncalled to all the animals, \"come\ndance with us, come dance with\nus!\" Many animals came to join\nthem."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/04.jpg",
+      "text": "Lion came too. He brought his\nfire sticks. He rubbed his sticks\ntogether. He rubbed and rubbed\nuntil at last there was a little\nsmoke. Lion blew on the sticks,\nand then there was a little fire.\nEveryone brought a stick for\nthat fire. Then there was a big\nfire."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/05.jpg",
+      "text": "The people and the animals were so happy! They sang and\ndanced around the fire."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/06.jpg",
+      "text": "The people and the animals wanted to take Lion's fire\nsticks. They thought of a good plan. They called rabbit.\n\"We all know that you are very clever and very fast.\" When\nLion is dancing and singing, you must take his fire sticks\nand run!\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/07.jpg",
+      "text": "So Rabbit took Lion's fire sticks\nand ran as fast as he could. But\nLion saw rabbit, and ran after\nhim. He caught rabbit and\nbrought the fire sticks back."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/08.jpg",
+      "text": "Then lion sang his song: \"I have\nno problem. I can eat you all. I\ncan eat you with hair. I can eat\nyou without hair. All of you are\nfood for me!\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/09.jpg",
+      "text": "The people still wanted Lion's\nfire sticks. They thought of\nanother plan. They called\nspringbok. \"We all know that\nyou can jump very high and run\nvery fast,\" they said. When Lion\nis dancing and singing, you\nmust take his fire sticks and\nrun!\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/10.jpg",
+      "text": "So springbok took Lion's fire\nsticks and ran as fast as he\ncould. But Lion said, \"I don't\nhear springbok's feet dancing.\"\nHe turned and saw springbok\nrunning away into the veld. He\ncaught springbok and brought\nthe fire sticks back."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/11.jpg",
+      "text": "Again lion sang his song: \"I\nhave no problem. I can eat you\nall. I can eat you with hair. I can\neat you without hair. All of you\nare food for me!\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/12.jpg",
+      "text": "The people still wanted Lion's\nfire sticks. They thought of\nanother plan. They called\nostrich. \"We all know that you\nhave the longest and strongest\nlegs of all of us,\" they said.\nWhen Lion is dancing and\nsinging, you must take his fire\nsticks and run!\""
+    },
+    {
+      "index": 12,
+      "imagePath": "images/13.jpg",
+      "text": "So ostrich took Lion's fire sticks\nand ran as fast as he could. But\nLion said, \"I don't hear ostrich's\nsweet singing voice anymore.\"\nHe turned and saw ostrich\nrunning away into the veld."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/14.jpg",
+      "text": "After a long, long time, Lion\ncame back. He was very, very\ntired. He was very, very angry.\nHe did not have his fire sticks.\nOstrich was too fast for him."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/15.jpg",
+      "text": "Then Lion spoke to all the\npeople and all the animals.\n\"From this day on,\" he said,\n\"you must all be very, very\ncareful. I will hunt you, and\nchase you, and when I catch\nyou I will eat you.\""
+    },
+    {
+      "index": 15,
+      "imagePath": "images/16.jpg",
+      "text": "And so this is how people came\nto have fire. And this how Lion\ncame to be the enemy of all\nanimals and all people."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "bookId": "asp-en-0026",
+  "title": "Imagine",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 127,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Imagine",
+    "author": "Kabubbu pilot site",
+    "illustrator": "Jesse Breytenbach, Catherine Groenewald, Alice Toich, Razaque Lázaro Quive, Jano Strydom, Rob Owen, Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 11 とページ数 9 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Imagine a day..... when\nwe could have a picnic\non the shores of Lake\nVictoria."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Imagine a day.... when\neveryone knows how to\nread and there are\nbooks in every\nlanguage."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Imagine a day.... when i gave birth to my first baby."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Imagine a day.... when all people in the world would live\npeacefully as brothers and sisters."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Imagine a day.... when I can walk\non water."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Imagine a day.... when\nyour daughter became\na president."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Imagine a day..... when you are about to be put in a grave\nand then you came back to life again."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Imagine a day.... when people\ndevelop wings, fly and reach where\nthe creator is."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Imagine a day.... when all the ground is covered with a\ncarpet in the whole world."
+    }
+  ]
+}

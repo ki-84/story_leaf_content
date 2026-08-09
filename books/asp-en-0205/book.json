@@ -1,0 +1,95 @@
+{
+  "bookId": "asp-en-0205",
+  "title": "Sound Aaa",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 86,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Sound Aaa",
+    "author": "Cissy Namugerwa, Ritah Katetemera",
+    "illustrator": "Wiehan de Jager, Benjamin Mitchley, Cathy Feek, Sue Kramer, Kathy Arbuckle, Mlungisi Dlamini, Sean Whitehead, Jesse Breytenbach, Franz Phooko, Jesse Pietersen, Catherine Groenewald, Jano Strydom, Karlien de Villiers, Vusi Malindi",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 15 とページ数 13 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I am Ana Maria Namata"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "My dad is Mr. Agaba Ali."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "My mum is Ananga\nAsha. She cares and\nloves so much."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Dad wants apples and ants."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Apples and ants are sweet."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Angela and Agatha play with toy cats and rabbits."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Male is a tall man."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Apples are packed in a basket."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Namata, Cathy, Sara,\nAli and Aba sat\ntogether."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Mummy taught me\nwords with sound Aa"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Namagala is a prayerful\ngirl."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Asaba and Akello learnt about a\ntrain."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Sound Aaa i will never forget you."
+    }
+  ]
+}

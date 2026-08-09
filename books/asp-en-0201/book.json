@@ -1,0 +1,129 @@
+{
+  "bookId": "asp-en-0201",
+  "title": "Donkey Child",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 487,
+  "pageCount": 20,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Donkey Child",
+    "author": "Lindiwe Matshikiza",
+    "illustrator": "Meghan Judge",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "It was a little girl who first saw the mysterious shape in the distance."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "As the shape moved closer, she saw that it was a heavily pregnant woman."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Shy but brave, the little girl moved nearer to the woman.\n\n\"We must keep her with us,\" the little girl's people decided. \"We'll keep her and her child safe.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The child was soon on its way.\n\n\"Push!\"\n\n\"Bring blankets!\"\n\n\"Water!\"\n\n\"Puuuuussssshhh!!!\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "But when they saw the baby, everyone jumped back in shock.\n\n\"A donkey?!\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Everyone began to argue.\n\n\"We said we would keep mother and child safe, and that's what we'll do,\" said some.\n\n\"But they will bring us bad luck!\" said others."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "And so the woman found herself alone again.\n\nShe wondered what to do with this awkward child.\n\nShe wondered what to do with herself."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "But finally she had to accept that he was her child and she was his mother."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Now, if the child had stayed that same, small size, everything might have been different. But the donkey child grew and grew until he could no longer fit on his mother's back.\n\nAnd no matter how hard he tried, he could not behave like a human being. His mother was often tired and frustrated. Sometimes she made him do work meant for animals."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Confusion and anger built up inside Donkey. He couldn't do this and he couldn't do that. He couldn't be like this and he couldn't be like that.\n\nHe became so angry that, one day, he kicked his mother to the ground."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Donkey was filled with shame. He started to run away as far and fast as he could."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "By the time he stopped running, it was night, and Donkey was lost.\n\n\"Hee haw?\" he whispered to the darkness.\n\n\"Hee Haw?\" it echoed back. He was alone.\n\nCurling himself into a tight ball, he fell into a deep and troubled sleep."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Donkey woke up to find a strange old man staring down at him. He looked into the old man's eyes and started to feel a twinkle of hope."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Donkey went to stay with the old man, who taught him many different ways to survive.\n\nDonkey listened and learned, and so did the old man. They helped each other, and they laughed together."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "One morning, the old man asked Donkey to carry him to the top of a mountain."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "High up amongst the clouds they fell asleep.\n\nDonkey dreamed that his mother was sick and calling to him.\n\nAnd when he woke up..."
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "... the clouds had disappeared along with his friend, the old man."
+    },
+    {
+      "index": 17,
+      "imagePath": "images/19.jpg",
+      "text": "Donkey finally knew what to do."
+    },
+    {
+      "index": 18,
+      "imagePath": "images/20.jpg",
+      "text": "Donkey found his mother, alone and mourning her lost child. They stared at each other for a long time.\n\nAnd then hugged each other very hard."
+    },
+    {
+      "index": 19,
+      "imagePath": "images/21.jpg",
+      "text": "The donkey child and his mother have grown together and found many ways of living side by side.\n\nSlowly, all around them, other families have started to settle."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "bookId": "asp-en-0341",
+  "title": "Antoni ke bo mang bale",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 25,
+  "pageCount": 1,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Antoni ke bo mang bale",
+    "author": "Traditional song",
+    "illustrator": "Kathy Arbuckle",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Antoni, who is that?\nAntoni, that's Lettia\nAntoni, what is she\ndoing? Antoni, she is\nskipping.\nOne! Mamlenze\nmamlenze\nTwo! Mamlenze\nmamleze\nThree! You're out!"
+    }
+  ]
+}

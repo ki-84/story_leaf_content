@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0326",
+  "title": "The talking bag",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ファンタジー",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 218,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The talking bag",
+    "author": "Caroline Lentupuru",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time there was a\nfemale giant.\nAs she was walking near the lake\none day, she found three little girls.\nShe asked them, \"Who among you\nis loved by both parents?\""
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One of the girls said, \"My mother\nloves me most.\"\nAnother said, \"My father loves me\nmost.\"\nBut the third one said, \"I am loved\nby both parents.\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The giant then asked the girl loved\nby both parents to help her put a\nload of firewood on her back.\nSo the girl followed the giant."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "After going for some distance, the\ngirl asked the giant, \"Where is your\nfirewood?\"\nThe giant replied, \"It is near those\ntrees over there!\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "When they reached the trees, the\ngirl asked again, \"Where is your\nfirewood?\"\nThe giant answered, \"Not far now!\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "They walked on and met a man.\nHe asked the giant, \"What is the\nname of your child?\"\nThe giant replied, \"She is called the\n'talking bag'.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The girl burst out singing:\n\"I am not called the talking bag.\nMy name is Kaamungei!\nOh! My mother, whom I love,\nOh! My father, whom I love,\nOh! My calabash, which I use to\ndrink milk!\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "When the man heard what the girl\nsang, he rescued her and took her\nback to her parents.\nThe story ends there!"
+    }
+  ]
+}

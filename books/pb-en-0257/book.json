@@ -1,0 +1,54 @@
+{
+  "bookId": "pb-en-0257",
+  "title": "Nina Plays With the Butterflies",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 191,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Nina Plays With the Butterflies",
+    "author": "Adhvika Deepak",
+    "illustrator": "Herminder Ohri, Preeti Krishnamurthy, Priya Kuriyan, Sanjay Sarkar, Sorit Gupto",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2953-nina-plays-with-the-butterflies",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, there was a girl called Nina. She loved butterflies a lot. One day, Nina saw a lot of butterflies sitting on a flower bush. She wanted to touch and see them. So she ran but the butterflies flew away and she came back sadly."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The next day, Nina again went to the flower bush to see the butterflies. But when the butterflies came Nina's mother called her and she couldn't see them."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "After awhile, Nina came back to the flower bush but it started raining. She waited and waited and waited for a long time. When she really got tired of waiting, she decided to go back home."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The next day, she said to her mother rather crossly, “This is the final day, that I am going to the flower to see the butterflies.”"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "After a few minutes, she went back to the flower bush and all the butterflies came. Nina happily played with all of them and she called her Mother and said, “I saw a lot of butterflies come and take a look at it, mother.” Both Nina and her mother, enjoyed the butterflies together."
+    }
+  ]
+}

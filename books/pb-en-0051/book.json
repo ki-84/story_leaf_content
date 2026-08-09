@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0051",
+  "title": "The Timid Train",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 619,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Timid Train",
+    "author": "Bharati Jagannathan",
+    "illustrator": "Preeti Krishnamurthy",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/209-the-timid-train",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "When Loco, the lovely new train was rolled into the railway shed, all the older trains admired its fine face and figure. “Oh, you will soon go to all kinds of strange and new places. What wonderful adventures you will have!” they promised. But Loco did not want any adventures — it was, you see, a frightened little train — not little at all, of course, but it was so scared of everything that it felt tiny!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "It didn't want to leave the railway shed. It shrank when the cows in the fields bellowed, but felt comforted by the friendly, older trains around.\n\nIt was scared even when a dog ran barking towards it, and wished it could hide somewhere safer! But how was it to hide anywhere, and how could it always stay in the shed?"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "A wise old train who had been all over the country saw how frightened Loco looked, and pointed out that it was much bigger than dogs and cows.\n\nBut Loco was not sure. “Oh, but they are all so strong and fierce. I don't want to go anywhere alone,” it said. So the old train said, “But you won't be alone, dear Loco. The engine driver and the guard will be with you.”"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Loco knew the guard. He was a pleasant fellow who waved the flag when trains had to leave. Loco saw that he was quite small. It didn't think the guard could protect it from anything. Loco also knew the engine driver Babu and it trusted his kind face."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Soon the big day arrived when Loco was rolled out of the yard for its maiden journey. Loco was to go all the way across from Tamil Nadu near the sea to Jammu next to the mountains.\n\nBabu, the engine driver pushed some buttons, and twisted some knobs, and off chugged Loco from the station, its heart in its mouth."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "“Oooo,” it cried in fright but what do you suppose happened? It came out sounding exactly like a sharp train whistle! Some mynahs pecking nearby quickly flew off cackling. And as it thundered on, off flew all the crows and sparrows and other birds perched on wires along the railway track in great fright. Loco was really surprised that anybody could be frightened of it, and laughed."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "At once, the ground shuddered, and dogs nearby took to their heels!\n\nSoon Loco was far from its home. Seeing a big bull sitting on the track, Loco was so scared that it let out a piercing shriek, “Oooo!” And the bull lifted its tail and sprang away, its legs flaying about wildly as it ran for dear life."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Loco could hardly believe that such a big, powerful creature could be afraid of it, a mere train! It felt much braver and decided that now it wouldn't even fear lions and tigers.\n\nBut guess where Loco had to go next?"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Deep inside a dark cave in the mountains. Babu, the driver didn't even flinch as he merrily punched some buttons to switch on the engine lights, but Loco was horrified. “Noooo, I don't want to go in there,” it wailed, but it just came out as a great long whistle. Through the deep cavern hurtled dear Loco, its great beams lighting the pitch black tunnel."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "When it emerged on the other side, it let out a big sigh of relief “Oooo!” It came out as another long whistle of course, but then, it was never afraid of anything anymore."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Now Loco chugs merrily across fields and over bridges, over mountains and through forests, whistling when it feels happy, and to tell everyone else to move out of its way. Have you taken a trip on Loco?"
+    }
+  ]
+}

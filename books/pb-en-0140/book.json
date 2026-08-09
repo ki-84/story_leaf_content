@@ -1,0 +1,74 @@
+{
+  "bookId": "pb-en-0140",
+  "title": "It's All the Cat's Fault!",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 190,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "It's All the Cat's Fault!",
+    "author": "Anushka Ravishankar",
+    "illustrator": "Priya Kuriyan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1281-it-s-all-the-cat-s-fault",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Why haven't you done your homework?\n\nMiss, it's all the cat's fault."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "If she had not got stuck on the tree, I would not have taken the ladder to climb it."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "If I had not taken the ladder to climb it, I would not have needed to fix it.\n\nIf I had not needed to fix it, I wouldn't have woken up the baby."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "If I had not woken up the baby, my mother would not have rushed out of the kitchen.\n\nIf my mother had not rushed out of the kitchen, the monkey would not have got in."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "If the monkey had not got in, he would not have eaten up all the food.\n\nIf he had not eaten up all the food, my father would not have bought rotis and chicken curry at the tea-shop."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "If my father had not bought rotis and chicken curry at the tea-shop, the dog would not have followed him home."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "If the dog had not followed him home, he would not have eaten my homework."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "So, you're saying the dog ate your homework?"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Yes, Miss, it's all the cat's fault!"
+    }
+  ]
+}

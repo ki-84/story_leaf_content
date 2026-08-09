@@ -1,0 +1,69 @@
+{
+  "bookId": "pb-en-0264",
+  "title": "The perfect project",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 127,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The perfect project",
+    "author": "Rachita Uday Kumar",
+    "illustrator": "Priya Kuriyan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3004-the-perfect-project",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "What should I do for my project?Dia stared at the the birds on the mango tree."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Suddenly, Amma called Dia and Pradeep to eat lunch. The sweet smell of Gujia's, Dokhla and Thepla gave Dia an idea."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Dia thought about doing her project on\" The India Gate.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Or \"The Desert's of Rajasthan\"."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Or \"The Dancing Peacok of Mysuru.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "But she did'nt know what to choose. So she asked Dadhi for help."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Dadhi told Dia to do her project on\" Diwali\". So Dia agreed."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "So when Dia submitted her project in class, everyone clapped their hands. Mrs Shamena, her class teacher asked her from where did she get such a wonderful project. Dia replied that her Dadhi had given her the idea. It was a wonderful project."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "bookId": "asp-en-0133",
+  "title": "Little Badger goes to the moon",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 432,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Little Badger goes to the moon",
+    "author": "Melissa Anne Bottcher",
+    "illustrator": "Wiehan de Jager, Catherine Groenewald, Ketan Raut, Laura Libertore, Benjamin Mitchley",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 14 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "The big bright moon rose up in the dark night sky. Little Badger was sitting under the stars,\ndreaming about one day going to visit the moon."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Badger was a little grey dog, he had big ears and a large black and grey beard. He is a\nschnauzer dog."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One morning at breakfast Badger said to his mother; \"Mum, please can you go to the train\nstation and buy me a ticket to go to the moon?\"\nHis mother laughed, \"Oh dear little Badger, I am afraid you are too small to go to the moon.\n\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "One morning at breakfast Badger said to his mother; \"Mum, please can you go to the train\nstation and buy me a ticket to go to the moon?\"\nHis mother laughed, \"Oh little Badger! You are to small to go to the moon!\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "When Badger was at school his teacher asked the class what they want to be when they\ngrow up. Badger put his paw up and said, \"Miss Trudy, I want to go to the moon.\"\nThe class and Miss Trudy laughed; \"Oh dear little Badger! I am afraid that the aliens will\ncatch you!\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Not ready to give up yet, Badger asked Peppy Pig. \"Peppy, I really want to go to the\nmoon.Can you help me?\" asked Badger.\nPeppy laughed so much, he almost fell off his chair. \"Oh dear little Badger! I am afraid that\nyour big beard will not fit into your space helmet!\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Badger was sad. All he wanted to do was go to the moon. He thought if his friends won't\nhelp him go to the moon, he will find someone who can. So he left home and walked far and\nwide to find a friend who loved the moon."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Badger walked down the hill, through a scary forest, crossed over an old bridge and finally\nswam through a very deep river. He then saw a house.\nIt was Grandpa Garry's house."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "\"Grandpa Garry, I am so to see you!\" he said. \"I want to go to the moon! Mum says I am too\nsmall, Miss Trudy said the aliens will catch me and Peppy said my beard was too big! What\ncan I do now?\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Grandpa Garry smiled at Badger and said, \"Oh dear little Badger! Not to worry, we will go to\nthe moon together.\" Badger was excited."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Grandpa Garry went behind his house and pulled out a large box.\n\"Are you ready to make our spaceship Badger?\" laughed Grandpa Garry."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Badger was so excited he jumped in the air, \"To\ninfinity and beyond!!\" he cried."
+    }
+  ]
+}

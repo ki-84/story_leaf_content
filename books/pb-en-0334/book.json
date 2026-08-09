@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0334",
+  "title": "Kardi",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 233,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Kardi",
+    "author": "Samidha Gunjal",
+    "illustrator": "Samidha Gunjal",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4020-kardi",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "It was the hottest day of that summer, Mintoo was helping his granny to sell cabbages in the weekly market. Everyone was shouting loud to lure customers to their vegetable stalls.\n\nIn that hustle bustle the voice came, \"Baaai... baaaii...\"\n\nMintoo heard something which immediately drawn his attention."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Mintoo searched for the source of that voice. In the middle of that crowded market, he was amazed to see a very fat goat baaing, scared and exhausted.\n\nMintoo went near the goat and kept his hand on her head to pacify her. The goat stopped baaing and followed him to their stall in the market."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Mintoo and Granny were selling cabbages at the market. They gave some left over cabbages to the goat.\n\nThat evening they took the goat to their home in the near by village. Mintoo named the goat as 'Kardi' which means light gray."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "When they reached home granny told Mintoo to take good care of Kardi as she is Pregnant.\n\nMintoo was soo happy to know about arrival of cute little friends so he took good care of Kardi, fed her soft grass and cabbages everyday."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Few days later, Kardi gave birth to a tiny goat baby. Mintoo helped her granny to clean the baby. He was surprise to see the baby could immediately stand and started walking after birth!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Mintoo and the baby goat baaed and jumped with joy!"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "bookId": "asp-en-0088",
+  "title": "Young Palinyang'",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 498,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Young Palinyang'",
+    "author": "Gaspah Emukuru Juma",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 14 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Long time ago there lived an orphan\nboy called Palinyang'.\nPalinyang's parents were killed by\nrobbers when he was only six\nmonths old.\nAs the villagers mourned the death\nof Palinyang's parents, they\nwondered what would become of\nPalinyang'."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "After the burial, Sausau, the village\nheadman called a meeting.\nSausau was respected and feared at\nthe same time because of the way\nhe dressed and talked. His hair was\nlong and fell on his back.\nIt was believed that Sausau lived in\nthe forest long before trees were\ncut down and houses were built."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "During the meeting, Lokeyokoni, a\nvery rich villager, adopted\nPalinyang'.\nLokeyokoni had many sons and\ndaughters. The daughters helped\ntheir mother with household chores\nwhile the sons went out to graze\ntheir father's big herd of cattle."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Palinyang' grew up in this family\nand was very happy.\nHe was loved and he loved\neverybody.\nHe enjoyed grazing the animals in\nthe fields."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Palinyang' loved one particular cow\nso much that he gave it the name\nAlinyang'.\nAlinyang' was the oldest cow in the\nwhole herd. For this reason, the\nowner valued it a lot."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "One day when the boys were out\ngrazing the animals, it started\nraining and they had to shelter\nunder a tree.\nThe rain fell for many hours until it\nwas dark.\nWhen it eventually stopped raining,\nthe boys went to collect the animals\nand take them home but there were\nno animals to be seen."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "They were afraid of what their\nfather would do to them if they\narrived home without the animals.\nWhen they could not trace the\ncattle, two boys decided to go to\ntheir uncle's home while two others\nwent to their aunt's place.\nPalinyang' decided to continue\nlooking for the animals till he found\nthem. He had no uncle or aunt to\nrun to."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Palinyang' followed all the tracks\nthat he knew while singing the\nname of his favourite cow.\nThis is how the song went:\nPiii pi Alinyang'!\nPiii pi Alinyang'!\nChaka akula chi!\nChaka orete chi!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Palinyang' went on singing the song\nthroughout the night.\nHe stepped on the cow dung but it\nwas cold.\nHe then stepped on the urine but it\nwas cold as well. Palinyang' did not\ngive up."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "At dawn, Palinyang' reached a small\nvillage and found the animals in the\ncare of the village headman. He\npleaded with the headman to let\nhim lead the animals home, but the\nheadman refused."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Frustrated, Palinyang' started\nsinging his song as he turned to go\nhome.\nIt was then that Alinyang', the\noldest cow, heard Palinyang'.\nAlinyang raised her ears and started\nfollowing Palinyang'.\nAll the animals broke from the\nenclosure and followed Palinyang.\nHe lead them home."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "When they reached home, villagers were waiting\nbecause they had heard Palinyang's voice from far.\nThey all sang songs praising Palinyang'.\nLokeyokoni thanked Palinyang' and bought him a red\nbag for carrying books to school.\nAnd that is how Palinyang' started going to school."
+    }
+  ]
+}

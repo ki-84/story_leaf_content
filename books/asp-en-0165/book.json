@@ -1,0 +1,91 @@
+{
+  "bookId": "asp-en-0165",
+  "title": "Mulongo and the ogre",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 706,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Mulongo and the ogre",
+    "author": "Fabian Wakholi",
+    "illustrator": "Natalie Propa",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 14 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A long time ago, there lived a man\ncalled Mulongo and his wife\nNambuya. They had two children,\nMukhwana and Namono. There was\na famine in the land where they\nlived. All the villagers, including\nMulongo and his family, would leave\ntheir homes early to look for food in\nthe forest."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, Mulongo, his wife and\nchildren decided to go deep in the\nforest in search of something to eat.\nFrom morning to evening they\nlooked for food but they found\nnothing. Nambuya urged her\nhusband to go further into the\nforest. Mulongo led the way as\nNambuya and the two children\nfollowed."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Suddenly Mulongo saw a beautiful\nbanana plantation. He called his\nwife and said, \"Is that not a banana\nplantation? I can see bananas and\nother food crops. I wonder whose it\nis.\" They moved on and soon saw a\nhouse in the middle of the\nplantation. They stopped, looked in\nall directions, but there was no one\naround. Because they were hungry\nand it was nearly night time, they\ndecided to sit and wait for the\nowner."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Suddenly they heard heavy\nbreathing close to the house. They\nwere frightened to see a huge ogre\narrive. \"Who are you and what do\nyou want?\" asked the ogre in a\nfearful voice. Mulongo in a\ntrembling voice said, \"We came\nlooking for food because there is\nfamine in our place.\" The ogre gave\nthem food."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "For several days the ogre allowed\nMulongo and his family to eat his\ncrops without asking for anything in\nreturn. One morning, however, the\nogre said to Nambuya, \"I want you\nto cook your son for me to eat when\nI come back this evening.\" When\nthe ogre had gone Mulongo went\ninto the bush and killed some small\nanimals, which he asked his wife to\ncook for the ogre. Meanwhile he\nasked Mukhwana to climb up a leafy\nmango tree and hide."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "In the evening the ogre returned\nand asked, \"Have you cooked\nMukhwana for me?\" Mulongo's wife\nanswered, \"Yes.\" She gave the ogre\nthe meat and he greedily ate\neverything. Then he said,\n\"Tomorrow you cook your\ndaughter.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The following morning Mulongo and\nhis wife did as they had done on the\nfirst day. Namono was hidden up\nthe mango tree. When the ogre\nreturned he said, \"Did you cook\nNamono?\" Again, Nambuya told the\nogre that she had done so."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "After eating, the ogre instructed\nNambuya to cook her husband\nMulongo, the next day. Nambuya\nwas perturbed but Mulongo said he\nwould go out again and catch some\nanimals to cook. He did that and\nafter giving the meat to his wife, he\nalso climbed up the mango tree to\nhide."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "At dusk the ogre came back.\nNambuya gave the meat to the\nogre who enjoyed it very much. He\ntold Nambuya, \"Tomorrow cook\nyourself.\" When the ogre had left\nNambuya called her husband to\nadvise her. Mulongo said, \"Go and\nlook for some small animals and\ncook them for the ogre. When\neverything is ready, come up the\ntree where we are.\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The ogre came back in the\nafternoon and started eating his\ntasty evening meal of sweet meat.\nHe felt sleepy, went to lie under the\nmango tree and began snoring. But\nnot so long after, the ogre woke up\nbecause he heard noises above\nhim. The ogre looked up to the tree\nand saw Mulongo and his wife and\nchildren."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The ogre was very angry. \"So you\ndeceived me? Let me come and get\nyou,\" he shouted.\nAs the ogre was struggling to climb\nup the tree, Mulongo quickly\nthought of a trick and said, \"It will\nbe easier for you to reach us if you\ntie a rope around your neck and we\nhelp to pull you up.\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The ogre ran into the house,\nbrought a strong rope and after\ntying it around his neck he threw\nthe other end of the rope to\nMulongo. Mulongo and his wife and\nchildren started pulling the ogre up\nas they twisted the rope. The rope\nsoon tightened around the ogre's\nneck until he could not breathe and\ndied. Mulongo and his family came\ndown the tree and took over the\nogre's house and property."
+    }
+  ]
+}

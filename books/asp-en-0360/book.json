@@ -1,0 +1,86 @@
+{
+  "bookId": "asp-en-0360",
+  "title": "Counting cats",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 73,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Counting cats",
+    "author": "Nina Orange",
+    "illustrator": "Jesse Breytenbach",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 13 とページ数 11 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "How many cats?\n\n0\n\nZero cats."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "How many cats?\n\n1\n\nOne cat."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "How many cats?\n\n2\n\nTwo cats."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "How many cats?\n\n3\n\nThree cats."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "How many cats?\n\n4\n\nFour cats."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "How many cats?\n\n5\n\nFive cats."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "How many cats?\n\n6\n\nSix cats."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "How many cats?\n\n7\n\nSeven cats."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "How many cats?\n\n8\n\nEight cats."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "What's this we see?\n\nA kitten is stuck in a tree!\n\n\"I will rescue you!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "\"Mama, can we keep him? Just one more.\"\n\nHow many cats?\n\n9\n\nNine cats."
+    }
+  ]
+}

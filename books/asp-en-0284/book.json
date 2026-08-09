@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0284",
+  "title": "Come back, cat",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 60,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Come back, cat",
+    "author": "Nicola Rijsdijk",
+    "illustrator": "Karen Lilje",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "表紙をページ 1 と共用"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/01.jpg",
+      "text": "Come back, cat! Play with me."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/02.jpg",
+      "text": "Sit in your basket. Stay\nright here!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/03.jpg",
+      "text": "Come back, cat! That's way too high."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/04.jpg",
+      "text": "Come back, cat! Don't go outside."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/05.jpg",
+      "text": "Come back, cat! That's not yours."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/06.jpg",
+      "text": "Come back, cat! What have you got?"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/07.jpg",
+      "text": "Come back, cat! That's not your friend!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/08.jpg",
+      "text": "Hello, cat! Are you back?"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/09.jpg",
+      "text": "Stay in your basket. It's nap time now."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/10.jpg",
+      "text": "Cat?"
+    }
+  ]
+}

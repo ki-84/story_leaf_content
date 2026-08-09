@@ -1,0 +1,34 @@
+{
+  "bookId": "pb-en-0199",
+  "title": "The Magical Zoo",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 79,
+  "pageCount": 1,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Magical Zoo",
+    "author": "Rajesh CB",
+    "illustrator": "Kushagra Agarwal",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2299-the-magical-zoo",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, here was a magical jungle in which all the animals could talk and sing, but one an elephant named 'JUMBO' could not do those things. So he felt very sad. One day , there was a running race in the zoo , for the animals. The elephant came very well trained but the others started telling him a slow poke but Jumbo did not lose hope. At the end, Jumbo came out victorious .\n\nMoral: Never judge someone."
+    }
+  ]
+}

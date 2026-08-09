@@ -1,0 +1,96 @@
+{
+  "bookId": "asp-en-0261",
+  "title": "Fruit",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 619,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Fruit",
+    "author": "Shakira Bodio",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "表紙をページ 1 と共用"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/01.jpg",
+      "text": "Once there was a family who had a\ntree with such sweet fruit that\neveryone visited their compound to\ntaste the fruit.\nThe family also had a very beautiful\ndaughter. Many people admired her\ndazzling beauty, white eyes and\nabove all, her great personality."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/02.jpg",
+      "text": "When she grew up into a young\nwoman, young and old men flocked\nto her home seeking her hand in\nmarriage.\nHer parents decided that the man\nwho could sit in the compound the\nwhole day without eating any fruit\nwould be given her hand in\nmarriage."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/03.jpg",
+      "text": "The news spread all over the\nvillage.\nThe first man to come was the head\nof all farmers in the village. He was\nhandsome, rich and young. He was\nwelcomed and served the fruit.\nHe sat for a few minutes, but before\nlong, he ate the fruit and was sent\naway."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/04.jpg",
+      "text": "The leader of animal keepers was\nnext. He was handsome, young and\nrich. The girl admired him. But\nwhen he was served with the fruit,\nhe immediately ate it, and was sent\naway."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/05.jpg",
+      "text": "The next man to come had many\npieces of land. He was arrogant and\nugly. The girl prayed that he would\neat and go away.\nWhen served, he refused to eat.\nThe time passed, and the girl\nstarted begging him to eat. By\naround four o'clock, he was\novercome with hunger, and he ate.\nHe, too, was sent away."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/06.jpg",
+      "text": "Next, the chief came around. He\nwas arrogant, old, and ugly. No one\nliked him in the village. The girl\nwished that he would eat and go\naway.\nWhen he was served with the fruit,\nhe refused to eat. He stayed the\nwhole day. At about six o'clock, he\nasked if he could go to the toilet."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/07.jpg",
+      "text": "He was allowed to go.\nWhen he returned, the aroma of the fruit hung around him, and his\nlips were red! He had eaten the fruit in the toilet!\nTo the girl's relief, he was sent away."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/08.jpg",
+      "text": "A few days later, a young,\nhandsome, rich prince arrived. The\ngirl looked at him in admiration.\nShe took him aside, and begged\nhim not to eat the fruit. She served\nhim much less fruit than the other\nsuitors.\nBut by midday the prince had\nalready eaten and was sent away.\nThe girl burst into tears of anger\nand disappointment."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/09.jpg",
+      "text": "The next day, a farmer came\naround. He was poor and lazy, but\nhe was young and popular among\nmany people for being a great\ntalker. He came determined to win.\nThe girl served him many fruits and\nasked him to eat and go away."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/10.jpg",
+      "text": "When he was served, he refused to eat. The girl waited painfully.\nMidday passed, and then two o'clock. At four o'clock, the farmer\nasked for water.\nThe girl prayed that he would eat the fruit, but she was still\npraying when the clock turned to seven. This farmer had overcome\nthe test of endurance set by the parents!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/11.jpg",
+      "text": "Her parents had to hand over their\ndaughter to the \"lazy one\".\nThe girl begged to be saved from\nher fate, but her parents could do\nnothing.\nAs the farmer took her home, he\nsang such a beautiful song while\nclapping his hands. Many people\nflocked to the road to see the\ncouple."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/12.jpg",
+      "text": "Among the people were servants of\nthe rich prince. They called the\nfarmer aside, and offered him\nmoney and cattle if he would leave\nthe girl.\nWithout a moment's hesitation, he\ntook the money and the cattle, and\nwalked off."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/13.jpg",
+      "text": "The servants dressed the girl in fine\nclothes and took her to the palace,\nstraight to the prince.\nBefore long, her parents were called\nand a ceremony was organised to\njoin the two in marriage."
+    }
+  ]
+}

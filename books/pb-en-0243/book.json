@@ -1,0 +1,34 @@
+{
+  "bookId": "pb-en-0243",
+  "title": "Where is my Home?",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 74,
+  "pageCount": 1,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Where is my Home?",
+    "author": "Vedic Kashyap",
+    "illustrator": "Megha Vishwanath, suyeon song",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2743-where-is-my-home",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time all animals of jungle thought to had a urgent meeting. The agenda of meeting was continuous cutting of trees by man because of that animals are short of space. Mr. Elephant started the meeting. Mr. Elephant,\" I am worried about my coming generations , oh! Where they will have shelter if these MEAN HUMANS will continue to cut down our natural habitats.\" Yeah yeah we agree said all the animals together."
+    }
+  ]
+}

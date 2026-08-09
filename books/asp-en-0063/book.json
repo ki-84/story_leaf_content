@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0063",
+  "title": "Hen tricks Eagle",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 148,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Hen tricks Eagle",
+    "author": "Nathan Higenyi",
+    "illustrator": "Rob Owen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Long ago Hen and Eagle were\nfriends. One day, Eagle found\nHen under a tree resting with\nher shopping bags. Hen was\nstanding on one leg."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Eagle asked Hen, \"Where is\nyour other leg?\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Hen told Eagle, \"The\nshopkeeper cut off my leg and\ngave me these groceries in\nreturn.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Eagle asked Hen whether\nhe could do the same.\nHe also wanted a bag\nof groceries. Hen agreed."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Eagle went to the shopkeeper\nand asked her to cut off one\nof his legs in exchange for\ngroceries. The shopkeeper\naccepted."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The eagle hopped on one leg\nall the way home. But he was\nhappy with the things\nthe shopkeeper gave him."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "When Eagle reached home,\nhe found Hen with both\nher legs."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Eagle was furious and chased\nHen. But he never caught her.\nInstead, Eagle always looks out\nfor Hen's children. Whenever he\ncatches one, he eats it."
+    }
+  ]
+}

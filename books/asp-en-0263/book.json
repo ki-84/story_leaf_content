@@ -1,0 +1,89 @@
+{
+  "bookId": "asp-en-0263",
+  "title": "Queen of Soweto: The Story of Basetsana Kumalo",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 711,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Queen of Soweto: The Story of Basetsana Kumalo",
+    "author": "Jessica Taylor",
+    "illustrator": "Mia du Plessis",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Basetsana Makgalemele was born\nin a township called Soweto. She\nwas her parents' third daughter.\nThey named her Basetsana, which\nmeans \"girls\". In Tswana culture,\ncalling your daughter that means\nyour next child will be a boy. This\nactually happened. Her parents'\nnext child was a boy. Her parents,\nbig sisters and younger brother all\ncalled her Bassie for short."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "When she was a child, Bassie was\nvery shy. She liked to sing and\ndance in her room on her own.\nOne day at school netball practice,\nthe coach told two girls to pick\nteams. Bassie stood on the edge of\nthe field hoping someone would\nsay, \"Come play with us!\" But\nnobody wanted her on their team.\nLittle did they know, Bassie would\nbecome one of the most popular\ngirls in the country."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "On weekends, she and her brother\nand sisters helped their teacher\nmom and bus driver dad to pay the\nbills. They made sandwiches to sell\nat local soccer matches. They tried\nto sell everything as fast as they\ncould so they had time to play with\nthe other children when the game\nwas over."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "By the time Bassie turned 16, she\nwas a beautiful young woman. She\nwas so beautiful that she won two\nbeauty competitions in one year:\nMiss Soweto and Miss Black South\nAfrica.\nBut Bassie was not only beautiful on\nthe outside. She was also beautiful\non the inside. Even though she was\na beauty queen, she still cared\nabout the community where she\ngrew up."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Bassie was also very smart. She\nworked hard at school, especially on\nher favourite subject: science. Her\nhard work was rewarded when she\nwas the top science student at her\nschool in matric. That's not all, she\nwas also Head Girl. The shy little\ngirl was now one of the most\npopular girls in school."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Bassie's father always encouraged\nhis children to read. He gave her a\nbook called The Power of Positive\nThinking. From that book, she learnt\nthat being optimistic is the key to\nmaking your dreams a reality. She\ndreamt of winning Miss South\nAfrica. Not only did that dream\ncome true, she was even crowned\nFirst Princess in the Miss World\ncompetition!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Bassie's mother was her role model.\nBassie described her mom as a\n\"fierce, hardworking Xhosa woman\nwho did not suffer fools\". She was a\nteacher and Bassie had plans to\nfollow in her footsteps, but things\ndon't always go as planned! After\nwinning Miss South Africa, she\nbecame a TV presenter. She wasn't\na teacher, but like her mom, she\nwas hardworking. Her career in TV\nled to her opening her own\ntelevision production company. She\nwas now a successful business\nwoman."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Bassie's motto is: \"To whom much\nis given, much is expected.\" She\nbelieves that you are given a gift so\nthat you can give to others. Bassie\ndoes this by volunteering, giving of\nher time and money and even\ncreating jobs. She is involved with\nprojects and charities to help\npeople in her community. One that\nis very close to her heart is the\nNelson Mandela Institute."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Bassie had a very close relationship\nwith Nelson Mandela. When she was\ncrowned Miss South Africa, Madiba\nwrote her a letter of\ncongratulations. In the letter, he\ncalled her \"our Queen\". They shared\na passion for children and education\nand the belief that an educated\nnation can help fight poverty."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Bassie married Romeo Kumalo and\nbecame known as Basetsana\nKumalo.\nTogether they established the\nRomeo & Basetsana Kumalo Family\nFoundation. The foundation looks\nafter orphans - children who don't\nhave a mom and dad."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Bassie has had to learn to balance\nher busy work and family life.\nShe has her own company called\nBasetsana Women Investment\nHoldings. She and Romeo have\nthree children, two boys and a girl.\nBassie sees her role as mother to\nher children as her \"highest calling\nand greatest privilege\"."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Bassie says the secret to her\nsuccess is \"courage, determination,\npassion and staying committed to\nthe course\". Despite all her\nsuccess, she remains humble while\ntrying to make the world a better\nplace.\nBeing beautiful on the outside is not\nwhat makes you a beautiful person.\nIt's a heart filled with love and\ngenerosity. And that's why Bassie is\nour beautiful Queen."
+    }
+  ]
+}

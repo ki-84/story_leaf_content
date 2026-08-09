@@ -1,0 +1,94 @@
+{
+  "bookId": "asp-en-0221",
+  "title": "Guilty Conscience",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 332,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Guilty Conscience",
+    "author": "Jacinta Recha",
+    "illustrator": "Rob Owen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, there was an old woman who lived with her three grandchildren."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Every morning they all went to work in the field. \n\nBut one day, one of the girls said, \"Grandmother, I don't feel well today.\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "So the old woman sent the child home."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "When the girl got home, she saw that there was meat in the pot. She ate all the meat and then went to sleep."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The old woman and two children were tired and hungry when they returned from the field.\n\nGrandmother prepared ugali for supper, to eat with the meat she had cooked early in the morning."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "She opened the pots to serve her grandchildren. When she opened the pot with the meat, it was empty!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"Who ate the meat?\" asked Grandmother, frowning. But all three grandchildren shook their heads.\"Not me,\" each one said."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "So their grandmother tied a rope across the river. She told each of them to walk on the rope as they sang a song.\"The one that ate the meat will fall into the river, and learn to tell the truth,\" Grandmother said to the children."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The first granddaughter walked quickly across the river, singing the song.\n\nThe song went like this:\n\n_If am the one who ate the meat_\n\n_May the rope break and drop me in the lake_\n\n_Let me fall deep into the lake_\n\n_May the rope break and drop me in the lake_"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The other two grandchildren began to argue with each other. The girl said to the boy, \"You go next.\" The boy replied, \"No, you go next!\""
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The granddaughter who ate the meat was scared and shivering. As she stepped forward to walk on the rope, she slipped and fell into the river."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "\"Help! Help!\" shouted the girl.\n\nGrandmother said to the other two, \"She is guilty, but we must help her.\""
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Together they pulled the frightened girl out of the river.\n\nSince that day, the old woman's grandchildren have always told the truth."
+    }
+  ]
+}

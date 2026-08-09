@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0026",
+  "title": "Can and Can't",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 50,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Can and Can't",
+    "author": "Radha HS",
+    "illustrator": "Ruchi Shah",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/137-can-and-can-t",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I can't knit, cats can't write, fish can't blink..."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "... pigs can't fly!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Dogs can't dance, ants can't read, crows can't sing..."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "... monkeys can't cook!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "But, monkeys can swing!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Crows can caw... ants can bite...\n\ndogs can bark!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Pigs can eat, fish can swim, cats can jump...\n\nand I can read!"
+    }
+  ]
+}

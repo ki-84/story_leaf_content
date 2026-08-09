@@ -1,0 +1,109 @@
+{
+  "bookId": "asp-en-0097",
+  "title": "Silly Sizwe",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "ゆかい・ユーモア"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 802,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Silly Sizwe",
+    "author": "Val Morris",
+    "illustrator": "Felicity Bell",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once, long ago, there was a boy\ncalled\nSizwe who lived with his mother\nnear to the Chief's kraal.\nNow Sizwe did so many silly\nthings, that everybody called\nhim \"Silly Sizwe.\""
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The Chief, who lived in that\nkraal, had a daughter who\nnever ever smiled or laughed,\neven when someone did\nsomething very funny or tickled\nher."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day, Sizwe and his mother\nhad nothing eat, so his mother\ntold him to go and get a job at\nthe Chief's kraal. He was asked\nto collect all the eggs, which\nthe hens had laid all around the\nkraal."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "All day Sizwe looked for eggs, and when it was time to go home, he was given\nsome eggs to take to his mother. He was very happy as he ran off with the eggs\nin his hands. But just as he passed the Chief's house, he tripped over a stone and\ndropped the eggs.\n\nThe Chief's daughter watched as he tried to catch them\nbefore they fell on the ground. He looked very funny, but\nthe girl did not even smile."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "When he got home, he told his\nmother what had happened.\n\"You silly boy,\" said his mother.\n\"You should have put the eggs\nin your hat and you could have\nbrought them safely home.\"\n\"Never mind Mother,\" said\nSizwe.\n\"I will do that next time.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The next day, Sizwe was asked\nto milk the\nChief's cows.\nWhen he had finished milking at\nthe end of the day, he was\ngiven a bucket of milk to take\nhome to his mother.\nJust as he got to the Chief's\nhouse, he remembered that the\nbucket belonged to the Chief.\nSo he poured the milk into his\nhat. Then Sizwe put his hat on\nagain."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Woosh! The milk splashed all\nover him.\nHe looked very funny, as the\nmilk ran down his face and\nclothes.\nThe Chief's daughter saw what\nhappened, but she never even\nsmiled."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "\"You silly child,\" said his\nmother, \"If you had carried the\nbucket in your hand, you could\nhave brought the milk safely\nhome.\"\n\"Never mind Mother,\" said\nSizwe. \"I will remember to do\nthat next time.\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The next day, Sizwe had to look\nafter the Chief's pigs. He\nworked very hard feeding the\npigs. When the work was done,\nhe was given a little piglet to\ntake home.\nRemembering what his mother\nhad said, he tried to carry the\npiglet in his hands. But the\npiglet wriggled and wriggled,\nuntil it wriggled out of his\nhands.\nSizwe tried to catch it, but he\nfell in the mud."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The Chief's daughter saw Sizwe\nfall in the mud, but she did not\nlaugh. She never even smiled.\nHis mother was very cross with\nSizwe when he told her what\nhad happened.\n\"You stupid boy,\" she said, \"you\nshould have held the rope and\npulled the piglet behind you.\"\n\"Never mind Mother. I will do\nthat next time,\" said Sizwe."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The next day, Sizwe had to work in the Chief's kitchen. He\nworked hard all day washing the dishes. When all the work\nwas done, the cook gave Sizwe a big fish to take home.\n\nSizwe was very happy with the fish, and remembering what his mother had said,\nhe tied a rope to the fish and went off home, pulling it behind him."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The chief's cats smelled the fish\nand came running out of the\nhouses to get a bit of fish. Soon\nthey had eaten all the fish.\nBy the time he got to the\nChief's house, all he was pulling\nwas the fish bones.\nDid the chief's daughter laugh?\nNo, she did not even smile."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "\"You silly, silly boy,\" said his\nmother when she told her what\nhad happened. You should have\ncarried it on your shoulder.\"\n\"Don't worry,\" said Sizwe, \"I will\ndo so next time.\""
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "The next day when Sizwe got to\nwork, he had to clean the cow's\nkraal. He worked hard all day. At\nthe end of the day, he was\ngiven one of the Chief's cows to\ntake to his mother.\nSizwe was very happy. He\nremembered his mother's\nwords, \"Carry it home on your\nshoulder.\""
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Sizwe got down on his hands\nand knees under the cow. then\nhe pushed and pushed until at\nlast he had the cow on his\nshoulders.\nAs he staggered past the\nChief's house, the daughter saw\nSizwe. He looked so funny!\nAnd do you know what\nhappened?\nShe laughed and laughed and\nlaughed."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "The Chief was so happy to hear\nhis daughter laugh, that he\ncalled Sizwe into his house and\ntold him that because he had\nmade his daughter laugh, Sizwe\nand his mother should live in\nthe kraal.\nSo Sizwe and his mother went\nto live in the Chief's kraal.\nEverybody lived happily ever\nafter."
+    }
+  ]
+}

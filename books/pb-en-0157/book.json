@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0157",
+  "title": "My Musical Adventure",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 696,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "My Musical Adventure",
+    "author": "Anush-Adi Navaneeth",
+    "illustrator": "Ajit Narayan, Madhuri Purandare, Preeti Krishnamurthy, Priya Kuriyan, Rijuta Ghate, Vibhash Pandey",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1791-my-musical-adventure",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I come from a family of artistes. Not just artists but writers, musicians, dancers, sculptors, actors, chefs and designers. But no singers. I am sure they wonder what my gift is. I love to sing. But they don't know because I sing in private and so softly that no one can hear me.\n\nMy name is Savitri which means Goddess Saraswati. I am 12 years old and I live in Kolkata.\n\nOne Friday night, when I couldn't sleep, I began to hum. And my voice soared with a high pitched song. Suddenly, I heard a noise outside. Somebody was outside my room! I flung open the door. It was my grandma, Sarojini who I love a lot.\n\nShe was muttering excitedly to herself. She saw me and immediately turned away and hobbled down the stairs."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I realized she had been listening in while I was singing. I called out to her \"Dida, wait! Where are you going?\" But she had already gone.\n\n* * *\n\nThe next morning I woke up late, it being a Saturday. I went downstairs to be greeted with radiant smiles. I smiled back and started eating breakfast slowly. Suddenly, my mother announced that we would be going out of town for two weeks. I was surprised since my parents are usually very strict about me going to school. I wondered whether this was about last night. I looked at my dida. Even though she stared straight ahead, her eyes gave her away. They were twinkling with joy and did I notice a small amount of guilt?\n\nI couldn't wait for our trip!!!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "At the train station, I figured out that we were headed to Bangalore. I would be exposed to Carnatic Music from my cousin, Sushma's music teacher, Mrs Ragini Iyer.\n\nI love Bangalore!! It has splendid weather.\n\nTomorrow I begin my music classes!\n\nClass was excellent! We first spoke about ragas and then she taught me some basics. She taught me geethams and guided me on voice control and shared books and CDs that I could practice with. My parents and Dida were thrilled that I was to continue classes over Skype."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "My introductory course with Mrs. Iyer was so much fun.\n\nWe are now at the airport waiting for a flight to Goa, the place where I would learn western music basics from Ms. Perry.\n\nI loved the course with Ms. Perry!!! She was so pleasant and I learned so many songs of different types. I even learned some yodeling!\n\nNow, we are on the flight back to Kolkata where I will be learning Rabindro Sangeet. These are songs written by Rabindranath Tagore.\n\nI also listened to Hindustani music, under Dida's guidance. She explained that it is the North Indian style of classical music."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "My days acquired a new routine over the next couple of months. I went to school, finished my homework and also practiced all my styles of singing. I enjoyed this a lot and grinned inwardly while singing.\n\nThe sky looks beautiful from the terrace at my apartment. Day or Night. And the starry night sky seemed to smile back at me.\n\nA few months after our musical journey, my parents told me something that made me giddy with joy. Two somethings, actually.\n\nNo. 1- I was shortlisted for Indian Idol!\n\nNo. 2- I was going to have a baby sibling!\n\nThe first round contestants had to mail a song recording and my parents had secretly recorded my singing and posted it!\n\nI was so excited that I had made it. My Dida said\" Savitri, it doesn't matter if you win or lose. Just enjoy yourself and the music\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Some months later I was in the final round of Indian Idol! I sang \" Suraj Dooba Hai\" and... WON!\n\nRight now I am in hospital, waiting. Amma gave birth yesterday!! I cannot wait to see my sibling!\n\nI have a brother! I chose the name Mohan for him. Maa says it means attractive or charming. And indeed he is.\n\nPlump cheeks and body and the most beautiful eyes ever. I cuddled him and sighed happily. I sing a lot to him. Sometimes softly when he needs to sleep .\n\nCould things get any better?"
+    }
+  ]
+}

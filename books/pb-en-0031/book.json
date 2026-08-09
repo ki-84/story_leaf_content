@@ -1,0 +1,83 @@
+{
+  "bookId": "pb-en-0031",
+  "title": "Cheep Cheep Drip Drip",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 127,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Cheep Cheep Drip Drip",
+    "author": "Lubaina Bandukwala",
+    "illustrator": "Zainab Tambawalla",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/153-cheep-cheep-drip-drip",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "It's hard to be still,\n\nit's hard to be quiet."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "It's hard to say no,\n\nto toes that wiggle so."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "It's hard to keep down\n\nthese merry feet,"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "When sounds all around tap a happy beat.\n\nCheep, cheep, cheep call the sparrows."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Drip, drip, drip goes the tap."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "SHEE... SHEEEE..."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "SHEE... sings the cooker."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Crunch, crunch, crunch...\n\n... uh oh, I know what that is!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "“Why little one, have you wandered so far, away from your books, your toys and your cars? Why indeed? There's nothing here to hear or to see.”"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "I look up at mamma. I look in surprise. Can she not see?\n\nCan she not hear? The cheep, the drip, the sheee..."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "... and the crunch? A world full of sounds, all waiting to be found?"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "bookId": "pb-en-0307",
+  "title": "Hyena and Raven",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 495,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Hyena and Raven",
+    "author": "Ann Nduku",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3687-hyena-and-raven",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Hyena and Raven were once great friends,\neven though they were quite different in some ways. Raven could fly but Hyena was only able to walk."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day Hyena, curious to know something about his friend, asked Raven, “What is this white thing which is always below your neck?”\n\nRaven answered, “It is the fatty meat which I usually eat in the sky. I have been eating it for so long now it is stuck on my neck.”\n\nOn hearing about meat, saliva started pouring out of Hyena's mouth for he was greedy and he loved meat very much.\n\nHyena really wanted to eat that meat. But how could he reach the meat in the sky if he had no wings to fly?\n\n“Please my friend,” he asked Raven, “lend me some feathers so that I can make myself some wings. I really want to be able to fly like you.”"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Raven was not mean, so he gave him some feathers. Hyena sewed them together into wings. He fastened them to his body, and tried to take off into the sky. But he was far too heavy for the few feathers to carry him. So he had to think of another plan."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "“Please my friend,” he asked Raven, “could I hold onto your tail as you fly up into the sky?”\n\n“All right,” said Raven. “I know how much you want to fly. Let's do it tomorrow morning.”\n\nWhen day came, Hyena took hold of Raven's tail and Raven flew up into the sky."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Raven flew and flew and flew until he was exhausted. But Hyena said, “Just a little\nfurther, my friend!” He could see the white\nand fatty meat just above them, and his\nmouth was watering."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "When they reached the first piece of fatty meat, Hyena felt a jerk. One of Raven's tail feathers came off in his hand! Then there was another jerk, and another.\n\nRaven felt much lighter, and the ache in his tail was going. He sang: Raven's feathers, unpluck yourselves. Raven's feathers, unpluck yourselves.\n\nIn response, Hyena sang the opposite: Raven's feathers hold on, don't unpluck yourselves. Raven's feathers hold on, don't unpluck yourselves."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Finally, the feathers could not hold Hyena anymore. He was in the middle of nowhere in the sky. He jumped onto the fatty meat thinking that as he ate, the fatty meat would hold him. But as he tried to hold and eat the ‘meat', all he felt was moist cloud!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "By now he was falling fast.\n“Help, help!” he shouted.\nBut no one could hear him.\nRaven was lost in the clouds."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Hyena fell on the ground with a crash and lay silent for some minutes. He woke up howling in pain, with a broken leg and dark scars all over his body."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "From that day to now, Hyena limps and he\nhas many scars on his body. He has never\nbeen able to fly. And he and Raven are no longer friends."
+    }
+  ]
+}

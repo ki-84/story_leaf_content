@@ -1,0 +1,44 @@
+{
+  "bookId": "pb-en-0147",
+  "title": "Mili's birthday celebration",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 221,
+  "pageCount": 3,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Mili's birthday celebration",
+    "author": "Reshma Krishnamurthy Sharma",
+    "illustrator": "Priya Kuriyan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1531-mili-s-birthday-celebration",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "\" Amma, I want a new kind of celebration said Mili to her mother.\n\nAmma looked at her older brother and they smiled as they had decided that this time it will not be the cakes, balloons, or the usual decorations.\n\nThis time Mili will have her home decorated like it is done for Deepavali, just as Mili finds it the happiest festival in the year."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Soon Anna (older brother) got ready with the decorations of putting a new toran at the door, flowers strung on the walls, windows and Amma started keeping the diya's ready for the evening.\n\nAs the clock struck 6'o clock in the evening her home was looking beautiful as though it was Deepavali on her birthday. Suddenly she saw the entire neighborhood were lighting diyas and children were getting ready to come to Mili's house."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\" Oh wow,\" Mili thought to herself. It was really beautiful. The entire street was looking glittering with traditional decorations. Everyone was happy to celebrate Mili's birthday. Her friends came with mithai's, dressed in traditional Indian attire and everyone had a great time.\n\nThere was antakshari competition, laddoo eating competition, best Indian dressed child. Amma had made small packets of beautiful diyas to be given as gifts to the children who won. Everyone had fun. Mili felt this was her most special birthday."
+    }
+  ]
+}

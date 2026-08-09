@@ -1,0 +1,50 @@
+{
+  "bookId": "asp-en-0330",
+  "title": "A greedy boy",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 67,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "A greedy boy",
+    "author": "Tukei A Cathy",
+    "illustrator": "Marleen Visser, Wiehan de Jager, Eden Daniels, Bronwen Heath",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 6 とページ数 4 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day three boys from Mugulu\nvillage went to hunt. They used\ndogs to help them."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "When they were moving they come\nacross two guinea fowls. They\nchased until they killed them."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "When it came to time\nfor going back home,\nthey wanted to share\nthe birds.One boy ran\naway with the two\nbirds."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The other two boys chased him\nand removed the birds from him."
+    }
+  ]
+}

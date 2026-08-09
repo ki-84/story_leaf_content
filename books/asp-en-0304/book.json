@@ -1,0 +1,90 @@
+{
+  "bookId": "asp-en-0304",
+  "title": "Greedy Kiundu",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 280,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Greedy Kiundu",
+    "author": "Mutugi Kamundi",
+    "illustrator": "Zablon Alex Nguku",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 14 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A long time ago, in the village\nof Nyamani, there lived a man\nknown as Kiundu.\nHe liked to eat meat a lot."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, the chief of Nyamani\nvillage invited all the villagers\nto his son's wedding."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Kiundu also heard that there\nwas another wedding party in\nKatumbi village.\n\"Ugh! Two parties on the same\nday!\" Kiundu thought."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "\"I must attend both parties,\"\nKiundu said.\n\"I will first walk to Katumbi then\ncome back to Nyamani.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Kiundu woke up early in the\nmorning and walked to Katumbi\nvillage.\nHe looked around and saw that\nthe party had not yet started.\n\"I will go back to Nyamani and\nreturn to Katumbi later,\" Kiundu\ndecided."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Kiundu walked back to Nyamani\nhoping to find the meat ready.\nHe was now very hungry.\nWhen he arrived, men were still\npreparing the food."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"I left cooks at Katumbi\npreparing to cook,\" he thought.\n\"The food must be ready now.\"\nKiundu decided to go back to\nKatumbi."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "When Kiundu arrived at the\nKatumbi party, people had\nalready eaten.\nGuests were giving presents to\nthe bride and the groom.\nKiundu was very mean.\nHe did not have a present to\ngive. He only wanted to eat."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Kiundu was very disappointed\nabout missing the food.\nHe decided to walk back to\nNyamani village.\nBecause he was hungry and\ntired, he could not walk fast."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "When he arrived at Nyamani\nvillage, people were singing and\ndancing.\nThey had already eaten all the\nfood."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Upon hearing that there was no\nfood, Kiundu fell and fainted.\nHe had missed meat from both\nparties.\nAll he got was some porridge in\na small cup."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Slowly, he walked home sad\nand hungry."
+    }
+  ]
+}

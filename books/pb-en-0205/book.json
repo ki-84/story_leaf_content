@@ -1,0 +1,54 @@
+{
+  "bookId": "pb-en-0205",
+  "title": "Golu Detective",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ファンタジー",
+    "ぼうけん"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 81,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Golu Detective",
+    "author": "Swetapadma Satpathy",
+    "illustrator": "Megha Vishwanath",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2413-golu-detective",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Little Golu was roaming in a jungle with a magic torch in his hand. Golu always wanted to become a detective."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Suddenly he saw red colored umbrellas in the jungle. They were very big in size."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Golu went near the red umbrellas. And look what he found with his magic torch?\n\nA cute little girl."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "She was lost in the jungle while playing. So she was very sad."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Golu promised her to take her back home. And they became good friends"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "bookId": "asp-en-0146",
+  "title": "My first Trip to kampala",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "ファンタジー"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 91,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "My first Trip to kampala",
+    "author": "Barke Ramadhan",
+    "illustrator": "Wiehan de Jager, Laura Libertore, Catherine Groenewald, Rijuta Ghate, Jemma Kahn",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 8 とページ数 6 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A walk in kampala,\nwhat do you see?\nShops selling clothes,\nin very congested streets."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "A shower in Nakivuubo,\nwhat do you see?\nowino market, taxi park, play ground,\npetrol station, mukwano arcade."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "A drive in kampala,\nwhat do you see?\nvery tall buildings, very many cars of different\ntypes."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Languages in kampala,\nwhat do you hear?\nLuganda, Swahili, English and Lunyankole,\nall are being spoken."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "A breakfast in Kampala,\nwhat do you see?\nmenvu, black tea, milk tea and Bushera."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "A trip to kampala,\ndo you wish to go back?"
+    }
+  ]
+}

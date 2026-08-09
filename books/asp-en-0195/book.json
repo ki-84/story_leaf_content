@@ -1,0 +1,89 @@
+{
+  "bookId": "asp-en-0195",
+  "title": "Sindiwe and the Fireflies",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 412,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Sindiwe and the Fireflies",
+    "author": "Cheré ne Pienaar",
+    "illustrator": "Jano Strydom, Candace di Talamo",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day a very clever baby was\nborn in Gungululu in the\nEastern Cape.\nHer name was Sindiwe Magona.\nShe was the oldest of eight\nchildren."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "At night, her grandmother told\nmagical stories about ogres and\ngiants, animals of the forests,\ngreat beasts, and little\ncreatures of the veld.\nIt was Sindiwe's favourite time."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Sindiwe loved school and she\ndreamed about being a teacher."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "When Sindiwe became a\nteenager, her family organised\na feast to celebrate.\nShe was given special things to\nwear and a wise old man sang a\npraise song to her.\n(Blessings, long life! May your\nancestors guard you!)"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Sindiwe trained to be a teacher.\nShe was very excited to teach\nat her first school.\nBut there weren't enough\nschools for black children and\nthey had no desks or books to\nwrite in.\nThis made Sindiwe feel scared.\nHow could she be a good\nteacher when the children had\nnowhere to sit?"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "She left the school to work as a\ncleaner.\nShe worked in four different\nhouses. Sometimes the people\nthere treated her badly and\nSindiwe became very unhappy."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "All this time Sindiwe studied.\nHer hard work paid off!\nShe won a scholarship to study\nat a university in New York.\nShe and her three small\nchildren packed their bags and\nflew across the sea to the\nUnited States of America."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "In New York, Sindiwe studied to\nbecome a social worker. She\nwanted to help families make\ntheir lives better."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "When she finished studying, the\nUnited Nations gave Sindiwe a\njob.\nMost of the countries in the\nworld meet at the United\nNations to talk about their\nproblems."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Sindiwe told the world about\nSouth Africa, and how hard it\nwas for black people living\nthere.\nThe people at the United\nNations loved to listen to\nSindiwe's stories. They wanted\nto learn more and more about\nSouth Africans.\nPerhaps, together, they could\nhelp to change things in South\nAfrica."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "She worked at the United\nNations for twenty years while\nher children grew into adults.\nBut Sindiwe missed the country\nwhere she was born.\nShe wanted to tell her stories to\nthe people at home.\nSo she packed her luggage, got\non a plane and flew back over\nthe sea to Cape Town."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Sindiwe's love for books and\nstories have helped her write\npiles and piles of books.\nAnd children and grown-ups\nlove to read her stories.\nMany people call her Nomabali\nbecause she's always writing,\ntelling and reading stories."
+    }
+  ]
+}

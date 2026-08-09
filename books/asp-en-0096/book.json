@@ -1,0 +1,91 @@
+{
+  "bookId": "asp-en-0096",
+  "title": "Rainbow visits the village",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 156,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Rainbow visits the village",
+    "author": "Ursula Nafula",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 14 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Kobole lived in a small\nvillage."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One afternoon, Kobole\nwas out picking passion\nfruits. Something\nunusual happened."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He saw colourful lines\ncurved across the sky."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "He dropped all the fruit\nand ran home to tell the\nvillagers."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "He found everybody\nalready standing\noutside their homes.\nThey were looking at\nthe sky."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Kobole said, \"It is a\nbeautiful cloth hanging\nfrom the sky.\" Neno\nsaid, \"No! I think\nsomeone is pouring\npaint from the sky.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Some people agreed\nwith Kobole. Others\nthought that Neno was\nright. The two groups\nargued."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "A man from a faraway\nvillage arrived and said,\n\"You are all wrong.\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The people shouted,\n\"Then what is it?\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The stranger said, \"It is\nthe rainbow. Have you\nnever seen the rainbow\nbefore?\""
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "\"What is a r-a-i-n-b-ow?\" the villagers asked,\nlooking at the stranger."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Neno asked, \"Is it ours?\nCan we keep it here?\"\nBut the man had\nalready gone away."
+    }
+  ]
+}

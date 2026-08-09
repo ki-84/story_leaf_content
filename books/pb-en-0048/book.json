@@ -1,0 +1,104 @@
+{
+  "bookId": "pb-en-0048",
+  "title": "My Home",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 114,
+  "pageCount": 15,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "My Home",
+    "author": "Rukmini Banerji",
+    "illustrator": "Rajeev Verma 'Banjara'",
+    "translator": "Manisha Chaudhry",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/206-mera-ghar",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "This is my home."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I live here with my whole family."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "We take off our shoes and chappals here."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "This is where we wash our face and hands."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I hang my clothes on the hook."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "My grandfather keeps his stick in the corner."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "We also keep our mats there."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "My father keeps his motorcycle outside."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "But his helmet is on the cupboard."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "My mother and grandmother keep their saris in the trunk."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Tasty food is cooked in the kitchen."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "When it is cold, we bring out quilts."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "When it is hot, we use a fan."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "When we have important guests, we bring out the chairs."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "You must come and visit my home. Come soon."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "bookId": "asp-en-0166",
+  "title": "The girl who got rich",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "ぼうけん"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 383,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The girl who got rich",
+    "author": "Salaama Wanale",
+    "illustrator": "Mango Tree",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 14 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, there lived\ntwo sisters called Nelima and\nNambuya. Their parents were\ndead. They lived on bare land.\nThere was neither rain nor\ncrops to eat. Whoever wanted\nfood had to go a long distance\nto find any."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Nelima was a humble, quiet and\nhelpful girl. Her sister Nambuya\nwas proud and she would not\nlisten to advice. She did not\ncare about other people."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day, the two sisters woke\nup in the morning and found\nthat they had nothing to eat.\nThey had to look for food. So\nNelima and Nambuya went off\nin different directions."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Meanwhile, there lived an old\nwoman called Netasile. She was\nbelieved to be a giver of riches.\nNetasile had leprosy and her\nbody was full of sores."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Nambuya came across this old\nwoman, who called her, \"My\ndaughter, how are you? Where\ndo you come from? Where are\nyou going?\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Nambuya answered all the\nquestions. Then the old woman\nsaid, \"Come carry me to my\nhouse and I will tell you what to\ndo.\" Nambuya was rude to the\nwoman. She said, \"I would\nrather die than touch those\ndisgusting sores of yours.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The old woman kept quiet and\nwished her a safe journey."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Nambuya walked until she\nreached a strange place. A\nplace where there were\nmillipedes, snakes, caterpillars\nand many other insects.\nNambuya was very tired and\nweak because she had not\neaten anything. When she sat\ndown to rest, these creatures\npreyed on her."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "On her journey, Nelima came to\nthe same woman. She was\nhappy to see Netasile, being\nthe first person she met since\nstarting her journey. The old\nwoman called her and asked\nthe same questions."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Nelima agreed to carry Netasile\nto her house. \"You have done\nwhat many have failed to do,\"\nsaid the old woman. She gave\nNelima a stick and told her to\ngo back home, where she would\nfind everything she wanted."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Nelima was very grateful and\nthanked the old woman and ran\nback home. She found a new\nhouse with everything in it, and\na lot of food. She became the\nrichest woman in the land."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "But she mourned for the loss of\nher sister and she said, \"One\nwho did not listen to advice\nended up in an elephant's\nmouth.\""
+    }
+  ]
+}

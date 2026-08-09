@@ -1,0 +1,48 @@
+{
+  "bookId": "pb-en-0297",
+  "title": "Holiday Fun",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ぼうけん"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 43,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Holiday Fun",
+    "author": "Ameyy & Jhari C",
+    "illustrator": "Ameyy & Jhari C, samyukta guntreddy",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3547-holiday-fun",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day there are 3 warriors. We fight evil to protect our India. But we lost and we fought back with full might and took back our India."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Dancing is fun!!!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Swimming in the beach is awesome!!! Let's do it again!!!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "we love beach!!!"
+    }
+  ]
+}

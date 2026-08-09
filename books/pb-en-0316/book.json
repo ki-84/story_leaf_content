@@ -1,0 +1,44 @@
+{
+  "bookId": "pb-en-0316",
+  "title": "“Everything happens for the good”",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "むかしばなし",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 316,
+  "pageCount": 3,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "“Everything happens for the good”",
+    "author": "Rupa Prakash",
+    "illustrator": "Rupa Prakash",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3827-everything-happens-for-the-good",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time there was a king who had a close friend that he grew with. The friend had a habit to face each situation that happened in his life (positive or negative) saying, “Everything happens for the good”.\n\nOne day, the king and his friend left for hunting. Bows & Arrows were the most famous weapons during that time and were used for hunting and fighting. While preparing the weapons for the king, the friend, made some mistake and the king shot and it took his thumb away."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The king answered, \"No, this is not good\", and he promptly commanded the soldiers who arrested his friend and put him in the prison.\n\nMore than a year passed by, the king was hunting in a region where, cannibals appeared, captured the king and took him to their village. When they were about to tie up his hands, they noticed that the king did not have a thumb. As they were superstitious, they disliked people who had a part of their body missing. Thus, after setting the king free, they banished him from the village."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The King realized he had escaped from the cannibals because of his friend and when he arrived at the palace, he paid a visit to the prison to speak with his friend. \"You were right\", said the king. \"It was good that I lost my thumb\".\n\nThe King told his friend everything that happened to him. \"I am sorry that I have ordered you to prison for such a long period. It was a great mistake\". \"No\", the friend said, \"That was the good decision.” What do you mean by that? How it can be good decision? I ordered my best friend to prison?\" The friend answered; if I was not in the prison certainly I would be with you in the hunt\". Then you know what would have happened with me?"
+    }
+  ]
+}

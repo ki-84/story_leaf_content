@@ -1,0 +1,54 @@
+{
+  "bookId": "pb-en-0381",
+  "title": "Am I Alone?",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 213,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Am I Alone?",
+    "author": "Sarita Shetty",
+    "illustrator": "Rajeev Verma 'Banjara'",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4798-am-i-alone",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "My name is Bhola. Today, I cannot play cricket as my friends have not come to play. What can I do? I am all alone."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Let me take a walk. Oh! Nature is so colourful. Pink and Yellow swaying flowers. Green trees and bushes. Green chirpy Parrots with red beak. Yellow buzzing honey bee. Blue open sky. Brown soft ground. Peach fishes with pink lips in blue water. I am feeling so fresh and happy."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Let me do some reading now, under the big shady tree. Wow! Short stories and long stories to read from big books and small books, fat books and thin books. My books, let me be anyone who I want to be. It also takes me to so many places."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Now, it is play time with my four legged rockstar friends. So much fun, we are making music together. Bow Bow barks Browny the dog. Meow Meow purrs Maumau the cat. Baa Baa bleats Rani the goat. Squeak Squeak squeaks Chua the rat. I go Sa Re Ga Ma...."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Ha Ha Ha, there are so many nice things to do even when I am alone. I just have to look around, the whole world wants to play with me and I am no longer alone. I am so happy."
+    }
+  ]
+}

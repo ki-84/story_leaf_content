@@ -1,0 +1,110 @@
+{
+  "bookId": "asp-en-0069",
+  "title": "My new friends",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 77,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "My new friends",
+    "author": "Zimbili Dlamini, Hlengiwe Zondi",
+    "illustrator": "Catherine Groenewald",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 18 とページ数 16 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "My name is Simo"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Meet my new friends"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Zizo, Lele, Sisa and\nAyanda"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Zizo loves football"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Lele loves to swim"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Sisa loves to play hide\nand seek"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Ayanda loves reading"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "I enjoy everything my\nfriends love"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "I will play football with\nZizo"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Sometimes I swim with\nLele"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Or even play hide and\nseek with Sisa"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Come on , make new\nfriends and have fun"
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Play football together"
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Swim together"
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Play hide and seek\ntogether"
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Or even read together"
+    }
+  ]
+}

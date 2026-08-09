@@ -1,0 +1,56 @@
+{
+  "bookId": "asp-en-0212",
+  "title": "My little goat",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "ゆかい・ユーモア"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 37,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "My little goat",
+    "author": "Bukheye Mulongo",
+    "illustrator": "Marion Drew, Rob Owen, Catherine Groenewald, Magriet Brink",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 7 とページ数 5 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Where are you going my little goat?"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I am going to market to buy a new coat."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "A coat for a goat?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Can a goat have a coat?"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "People will laugh at a goat with a coat!"
+    }
+  ]
+}

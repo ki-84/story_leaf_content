@@ -1,0 +1,91 @@
+{
+  "bookId": "asp-en-0354",
+  "title": "Old rooster",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 608,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Old rooster",
+    "author": "Cissy Kiwanuka Luyiga",
+    "illustrator": "Magriet Brink",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 14 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time there was an old\nwoman who lived alone. She had\nmany chickens. Among them was a\nrooster that was very old and could\nno longer crow."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day the old woman's grandson\nvisited. She was very happy to see\nhim. She asked the young man to\ncatch the old rooster so they could\ncook and eat it."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The old rooster heard the woman\ntalking and its heart sank.\n\"Aaiii, you are also very old but I\ndon't see anyone trying to kill you,\nwe will see!\"\nSo the old rooster sneaked away\nand decided to head for the big city\nto start singing."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "As the old rooster walked, he met\nthe cat.\n\"What has happened?\" the cat\nasked.\n\"My friend, my boss wants to eat\nme because I can no longer tell her\nthe time,\" said the old rooster.\n\"I am going to the big city to sing.\nWhere are you going?\"\n\"My friend, my boss has also\ndecided to kill me because I can no\nlonger catch rats. I am running\naway,\" said the cat. \"Can I join\nyou?\"\n\"Let's go!\" said the old rooster."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "They had walked a short while when\nthey saw a dog running very fast.\nThe old rooster called the dog and\nasked why he was running so fast.\n\"My friend, my boss chased me\nbecause I can no longer catch\nthieves,\" replied the dog while\npanting.\n\"We have similar problems. We are\ngoing to the big city to sing,\" said\nthe old rooster.\n\"Can I join you?\" asked the dog."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The three animals set off together.\nAs they were walking, a horse\nstopped them and asked what was\nhappening.\n\"Our bosses want to kill us because\nwe can no longer do our jobs,\" they\nall replied together.\n\"I have the same problem, where\nare you going?\" asked the horse.\n\"We are going to the big city to\nsing,\" they replied.\nThe horse asked to join them and\nthey accepted."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "They all walked until it was dark.\nThey saw a house and when they\nreached it they heard noises inside.\nThey were afraid and decided to\nsing a song to chase away the\npeople who were in the house.\nThe horse stood on the ground, the\ndog climbed onto the horse's back,\nthe cat climbed on the dog's back,\nand the rooster climbed on the cat's\nback."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "They immediately started singing.\n\"Kookoliookoo,\" sang the rooster.\n\"Myaaawuu myaaawuu,\" sang the\ncat.\n\"Woo woo,\" sang the dog.\n\"Wuuuu wuuuu,\" sang the horse.\nThey all sang loudly together. The\npeople inside the house were\nthieves. The thieves were afraid and\nran away."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The old rooster, the dog, the horse\nand the cat entered the house and\nfound food. When they had finished\neating they went to sleep. The\nrooster slept near the door, followed\nby the cat, the dog, and lastly the\nhorse."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "It was not too long before the\nthieves were back. Their boss was\nthe first to go into the house. He\nhad just opened the door when the\nold rooster pecked him with its\nbeak.\nThen the cat scratched him with its\nnails. And then he found the dog,\nwhich bit him."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The man jumped but continued into\nthe house. He found the horse,\nwhich kicked him to death. The\nother thieves did not enter the\nhouse. They ran away, never to\nreturn."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The animals lived happily ever after\nin that house. The old rooster told\nthe time to his friends, and the dog\nkept them safe. The cat killed all\nthe rats in the house, and the horse\ncarried them on its back wherever\nthey wanted to go."
+    }
+  ]
+}

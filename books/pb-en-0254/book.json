@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0254",
+  "title": "The Magical Jackal",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 286,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Magical Jackal",
+    "author": "Gabriella Robes",
+    "illustrator": "Aryan Deepak, Helga Parekh, Kruttika Susarla, Sonal Goyal, Sukhada Rahalkar, Sumit Sakhuja",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2935-the-magical-jackal",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Bong! It was 1'o' clock in the morning on a winter Saturday . As far as Andromeda aka Andi knew , no one was awake except her. Now it was time to put her plan into action."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Two nights before, Andi had seen a mystical glowing light in the forest. It had a magical feel to it, and Andi was immediately drawn to it. The next night , she had seen the same thing. And so, she planned a way to see what was the source of the light."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Quietly, she stole out of her room with a torch in her hand. She tip toed past the the other dormitories. She breathed a sigh of relief once she was out of the stark, dull brown building. Andi made her way to the dark forest. Quiet as a mouse, she took up her hiding place near one of the clearings to keep watch for the source of the silvery light."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Finally, after a long wait, there seemed to be a silvery light approaching. Andi stiffened up and waited. It seemed to take forever, walking almost lazily into the clearing. Then, she saw it!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "It was a jackal! Andi could hardly believe her eyes! Suddenly, after walking into the clearing, it stopped and tensed. Andi held her breath. Then, it looked straight at her.\n\nAndi looked into those bright blue eyes as the world around her began to fade. Her head was swimming and she felt very dizzy......"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"And that is why I never went back to that jungle!\" Andi told the attentive children sitting around her.\n\n\"Wow!! One more story grandma, please!\" the children begged her.\n\n\"No more. Now go ask your grandpa to take you for a boat ride.\""
+    }
+  ]
+}

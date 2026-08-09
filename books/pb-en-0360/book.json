@@ -1,0 +1,126 @@
+{
+  "bookId": "pb-en-0360",
+  "title": "Reeti and Mithu",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 1051,
+  "pageCount": 19,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Reeti and Mithu",
+    "author": "Anupa Lal",
+    "illustrator": "Soumya Menon",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4628-reeti-and-mithu",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 11 とページ数 19 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Reeti's holidays have begun. But Reeti isn't happy. She doesn't like holidays. She likes going to school!\n\nIn school Reeti has lots of friends. At home she has no one to play with."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "She has a Papa who brings her toys and books and tells her stories. Reeti likes that. Her Papa does yoga every morning. Reeti likes that too and tries to imitate him."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "She has a Mummy who writes poetry and works on a computer. Reeti likes looking at the computer with Mummy.\n\nShe also likes looking at Mummy's tummy! Mummy's tummy is getting big and round. Because there is a baby in it.\n\n“Soon you'll have a little brother or sister to play with,” says Mummy. Reeti likes that. But right now, she has no one to play with. Not one of her friends lives close by."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Then one evening the doorbell rings. Their neighbour Das Uncle is standing outside holding a bright-green parrot in a black cage.\n\n“We are leaving town,” says Das Uncle. “Would you like to have our Mithu as a pet? He can talk!”\n\nPapa and Mummy look at each other. They don't think birds should be in cages. But Reeti is very excited. “Yes, Uncle!” she says, with a big smile. And so Mithu becomes Reeti's new friend."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "“Hello Mithu!” says Reeti.\n\nMithu looks at her. “Hello!” he says. “Hello!”\n\nReeti is thrilled. “What's your name?” she asks.\n\n“Hello,” says the parrot.\n\n“No,” says Reeti. “Your name is Mithu. Say Mithu.”\n\n“Hello,” says Mithu."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "“No! No!” says Reeti, shaking her head. “Let's try again. My name is Reeti. Mithu, listen carefully. My name is Reeti. What is my name?”\n\n“Hello,” says Mithu.\n\n“NO!” Reeti laughs. “Mithu, you are a naughty boy!”\n\nEvery day Reeti tries to teach Mithu new words. “Say Pa-pa. Say Mum-my. Say Ree-ti.”\n\nBut all Mithu says is, “Hel-lo.”"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "One day, Mummy takes Reeti across town to her friend's birthday party. Reeti meets all her friends and enjoys herself. She brings back a piece of birthday cake for Mithu."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "BUT – where is he?\n\n“Mummy, where's Mithu?” cries Reeti, running from room to room.\n\n“I don't know,” says Mummy. “But don't worry. We'll find him.”"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Just then Papa walks in, with Mithu in his cage.\n\n“Hello!” says Mithu.\n\n“I took your friend to the park for some fresh air,” says Papa.\n\nReeti is so relieved! She gives Mithu the birthday cake. But he doesn't like it."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Just as Reeti's holidays are coming to an end, a flock of green parrots come flying to the big tree outside her window. They are all squawking and talking loudly."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/11.jpg",
+      "text": "Mithu goes mad inside his cage, which Reeti has now placed near the window. He squawks, he jumps up and down and spreads his wings.\n\nReeti watches. “Are they your friends, Mithu?” she asks.\n\nMithu doesn't answer. He only looks at the parrots on the tree."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/11.jpg",
+      "text": "As swiftly as they had come, the parrots fly away.\n\n“What were they saying, Mithu?” Reeti asks.\n\n“Hello,” says Mithu sadly. “Hello.”"
+    },
+    {
+      "index": 12,
+      "imagePath": "images/11.jpg",
+      "text": "Reeti's holidays are over.\n\nIt is the first day of school. Reeti meets all her friends and teachers. During the lunch break she plays happily with her friends.\n\nThe big trees around the school playground are full of twittering birds."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/11.jpg",
+      "text": "When Reeti reaches home after school, she sees Mithu sitting quietly in his cage.\n\n“Hello, Mithu,” she whispers. He looks at her but doesn't say anything."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/11.jpg",
+      "text": "Reeti puts down her schoolbag. She opens the window. Then she opens the door of the cage.\n\n“Go, Mithu!” she says. “Go and find your friends.”\n\nHe looks at her. “Go, Mithu!” she says again. “Fly away!”"
+    },
+    {
+      "index": 15,
+      "imagePath": "images/11.jpg",
+      "text": "Mithu steps out of his cage. He looks at Reeti one last time. And with a final “hello”, he spreads his wings and flies away to join his friends."
+    },
+    {
+      "index": 16,
+      "imagePath": "images/11.jpg",
+      "text": "### Who Needs A Pet?\n\nAnyone who wants a loving and loyal friend needs a pet. If you're feeling lonely and lost or mean and mad, a pet is sure to do something... anything to make you glad. A pet will play with you, make you feel better, teach you lots of important things, and bring endless fun into your life. Now, who doesn't want that?\n\n### Should You Have A Pet Or Not?\n\nSure, pets are fun, but don't rush out to get one! Think carefully:\n\n- Will your parents let you keep a pet?\n- Do you really want a pet? Remember, a pet is for life. It is not a toy you can throw away once you get bored with it.\n- Pets need food, clean water, exercise, and love. They also have to be trained, taken to the vet, and given baths. That means extra work, every single day. Do you have the time for that?\n- Can you forgive your pet if it makes a mess with its muddy paws, or chews your favourite shoes?"
+    },
+    {
+      "index": 17,
+      "imagePath": "images/11.jpg",
+      "text": "### Am I Really Ready For A Pet?\n\nYour best friend has a pet, and you wish you had one too! So you're wondering whether you should get a dog, a cat, or maybe, even a rat. Stop right there, before you pick a pet, and ask yourself these questions.\n\nDo I have the time to take care of a pet?\n\nHaving a pet is a h-u-g-e responsibility. Whether it is for training, feeding or plain loving, you've got to spend time on your pet – big time!\n\n### Do I Have Space At Home For A Pet?\n\nSmall pets like cats, fish and birds can adapt to houses of any size. But dogs may need more space to run around and exercise."
+    },
+    {
+      "index": 18,
+      "imagePath": "images/11.jpg",
+      "text": "### What Kind Of Pet Do I Want?\n\nIf you want a specific kind of pet, talk to a vet or to people who own similar pets. Find out what they eat and how they behave. Then think hard about whether the pet will suit you.\n\n### Can I Afford To Have A Pet?\n\nAll pets require food and shelter. Then, there are the visits to the vet for check-ups, vaccinations, and for treatment when the pet falls ill.\n\n### Will A Pet Be Welcome At Home?\n\nYou may love animals, but do the rest of the family share your feelings? You need to talk this through with your family before you get a pet."
+    }
+  ]
+}

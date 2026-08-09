@@ -1,0 +1,99 @@
+{
+  "bookId": "pb-en-0057",
+  "title": "Ritu's Letter Gets Longer!",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 600,
+  "pageCount": 14,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Ritu's Letter Gets Longer!",
+    "author": "Mala Kumar",
+    "illustrator": "Henu",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/270-ritu-s-letter-gets-longer",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Grandpa was writing a letter. Ritu stood beside him, leaning on the arm of the old chair.\n\n“Grandpa, have you asked Aunty to send Mani to our home for the holidays?”"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "“Of course, dear Ritu, I have written to your Aunty. Look here, let me read out the letter - Dear Pooja, Hope you are fine. Mani must be having holidays now. Ritu is very eager to see him. Do send him here to Tumkur.”"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Ritu jumped up and down. And since she could not stop herself, she ran around the room once and hugged Grandpa.\n\n“Would you like to post this letter yourself?” asked Grandpa.\n\nRitu's eyes opened wide. “All by myself? Oh, may I?”"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "“Yes, little Ritu. See, I have written the address. Take it to the Post Office. Give the postcard to Ramesh Uncle. You do know that big uncle with the big, handle-bar moustaches, don't you?”\n\n“Yes Grandpa. He is the uncle who taught Mani how to ride the cycle last summer. Will he take the letter to Aunty Pooja?” asked Ritu.\n\n“No, dear. But the letter will reach your aunty, don't worry.”"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Ritu picked up her little pink bag. She put the postcard inside. She put a pencil inside too. She felt very important.\n\nRitu felt very grown-up. And just a wee bit scared: what if Bageera the dog chased her?\n\nBut Ritu was very eager to post the letter. So she left for the post office that was just four buildings away!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "After taking a few steps,\n\nRitu stopped and took out the letter. She could not read Grandpa's handwriting very well. She tried to remember what Grandpa had read.\n\nThen, after the word that she thought was ‘Tumkur' Ritu wrote, ‘PLEECE.' Happy with her work, Ritu walked on."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "After she had reached the next building, Ritu stopped and took out the postcard once again. What if Pooja Aunty did not realise how eager Ritu was to see Mani? So Ritu took out her pencil again and wrote, ‘PLEEEESE.'"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Finally, Ritu reached the small post office. There was a red post box outside the post office. Ritu could not reach the mouth of the post box even if she stood on her toes."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "She walked boldly up to Uncle Ramesh. He took the postcard from her and smiled. “Smart girl! Now run back to your house carefully. I shall make sure your letter reaches your aunty.”\n\nBut Ritu did not run out. She saw Uncle Ramesh pick up a pen and scribble something on the card. Then he gave it to the postman who was stamping many letters with the postmark."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Dhhum, dhhum, DHHUM, he pounded on the letters. When he saw Ritu's letter, he stopped. Then he smiled. He picked out a pencil from behind his ear and wrote something on the card."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Five days passed. The postman brought a letter to Grandpa. Grandpa read it with a smile. “Ritu, your aunty says she will send Mani here day-after. Let me read out the letter.\n\nDear Father...\n\ntara...ra...ra...da...\n\nta...da...da...dada...\n\nI am sending Mani tomorrow. He will reach Tumkur on Friday. I think Ritu must be very eager to see him. Your letter was very interesting...”"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "“Grandpa, I wrote ‘PLEECE' on the letter, that's why!” said Ritu in excitement.\n\n“.... Your postcard had twenty ‘Please's written all over it!”"
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Ritu did not know how one ‘please' had become twenty.\n\nShe was just happy she had added one ‘PLEECE' And another ‘PLEEEESE!'"
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Pleese Pleece\n\nPLEASE PLIS pleej\n\npleece Please\n\npleej PLIS pleece\n\nPLEASE Pleeese PLEASE"
+    }
+  ]
+}

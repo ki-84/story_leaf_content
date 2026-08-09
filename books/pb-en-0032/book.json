@@ -1,0 +1,81 @@
+{
+  "bookId": "pb-en-0032",
+  "title": "Paper Play",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 368,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Paper Play",
+    "author": "Mala Kumar",
+    "illustrator": "Ruchi Shah",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/156-paper-play",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Swoosh came the wind. A sheet of paper floated in.\n\nManju picked it up and sat down to draw the sun.\" Oh, this looks horrible! she said. Manju crumpled the paper and threw it out of the window. The paper fell on Wasim's head. “Ah, a ball!” he said happily."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Wasim threw the crumpled paper ball up into the air and watched it come down. He threw it higher, and it came down faster. Wasim aimed the paper ball at Syeda, his sister.\n\n“Got you!” he shouted with glee."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Syeda picked up the crumpled paper.\n\nShe stuck a pencil into it and said, “Would you like this lollipop? When I am big, I am going to sell many kinds of lollipops in my sweet shop.”"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Just then, Bittu came in. “May I have the lollipop please?” he asked.\n\nHe pretended to eat the sweet and then rolled up the crumpled paper.\n\n“Testing, testing, mike testing, one, two, three!” he said. “Now I am going to sing you a song.”"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Bittu finished singing a film song very loudly.\n\nManju took the crumpled paper from Bittus hands.\n\nShe smoothened the paper and made a boat."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "“Bittu, the famous singer will sail all around the world in\n\nthis big ship!”\n\n“May I come with you too?” asked Wasim."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Wasim picked up the boat. Very carefully, he smoothened the paper.\n\nThen he folded it like a handkerchief. He cut out a corner. Then Wasim opened the paper."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "“Look here, all of you! Smile please!” he said as he held up the paper with a hole in the centre.\n\nSyeda, Bittu and Manju smiled. Then they grinned. Soon they were giggling. Wasim crumpled his paper camera."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Just then, Anil came along with his donkey.\n\nHe picked up Manju's pencil and drew lines around the hole in the paper. “That's the best sun I have ever seen!” said Manju."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Anil's donkey grabbed the paper sun from Manju's hand and gobbled it up fast. He burped loudly. Then the donkey had a very strange look on his face.\n\nNow who can tell if it was because he had eaten very fast without chewing well, or if it was because he had eaten up the sun?"
+    }
+  ]
+}

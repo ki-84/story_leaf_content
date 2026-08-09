@@ -1,0 +1,89 @@
+{
+  "bookId": "asp-en-0322",
+  "title": "One hot Saturday afternoon",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 278,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "One hot Saturday afternoon",
+    "author": "Nombulelo Thabane",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "It was a very hot Saturday afternoon in December."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "\"Bontle and Mpho and Lerato, go out and play!\" Mme said to us. \"I don't want you under my feet.\" We ran out of the house."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"Let's go to the river,\" Lerato said. \"It's cooler there.\" \"But Mme told us not to swim in the river,\" said Bontle. \"We won't swim,\" answered Lerato. \"We'll just play in the shade next to the water.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "But playing libeke is hot work, even when you're under the trees next to the river. First we took off our shoes. But we were still hot. Then we took off our shirts and skirts. But we were still hot."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "We put our feet in the river to cool off. Then we splashed each other. Soon we were soaked with water."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"Oh come on! Let's swim,\" said Mpho. \"Mme will never know.\" We swam and swam and forgot about the time."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The sun started to go down, and the day began to cool. Where were our clothes?"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "We looked under the trees. We looked on the bushes. We looked everywhere."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "There were some cows near the river, enjoying the sweet grass. Bontle looked up, \"Look at that cow! What's in her mouth?\" \"She's eating a red flower,\" said Lerato. \"It's not a red flower,\" shouted Mpho. \"It's your shirt!\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "We looked at another cow who was chewing something blue. \"That's my skirt!\" shouted Bontle."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "We went home in our panties, shivering. But not only because it was cool. \"It was the cows,\" we cried. \"The cows ate our clothes.\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "But did Mme believe us? Soon our bottoms were very warm. And it wasn't from the sun."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "bookId": "pb-en-0283",
+  "title": "Food makes everything better!",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 169,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Food makes everything better!",
+    "author": "Rachita Uday Kumar",
+    "illustrator": "Delwyn Remedios, Lovely Samhitha, Priya Kuriyan, Taposhi Ghoshal",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3372-food-makes-everything-better",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day, Dia was listening to the story of king Thutankan. It was a very sad story. Dia felt hungry. Amma gave her pakodas. It made her feel better."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Collette was a nice girl, but she was weak in studies. This made her very miserable. Mom gave her some milk and biscuits. She was no longer a weak girl."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Baloo was a greedy bear. He liked eating sardines. One day, the lake had dried up and there was no water. So Baloo made a wish that it would rain fish. And it did!Baloo ate till his heart was contended."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Merani was a little girl. She loved pakodas and gujias. But her mother was not buying them for her. She felt sad. One day, her mom bought pakodas for her. It made Merani happy."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Madhu and her mother were making a kolam for pongal. After putting the kolam, Madhu was tired. But her mother gave her Thepla's. Madhu was not tired anymore.\n\nSo, remember folks\n\n!!!! FOOD MAKES EVERYTHING BETTER!!!!"
+    }
+  ]
+}

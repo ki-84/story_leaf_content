@@ -1,0 +1,111 @@
+{
+  "bookId": "asp-en-0260",
+  "title": "The boy who nobody loved",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 779,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The boy who nobody loved",
+    "author": "Phumy Zikode",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 18 とページ数 16 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, there was a boy\nwho was so ugly that nobody loved\nhim, even his parents.\nAt home, he would sit alone while\nhis family watched television."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "At school, you would find him sitting\nalone while other children were\nplaying."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "When they went to fetch the cattle,\nyou would find him walking behind\nall the other boys because they\ndidn't want to walk with him."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "One day he decided to leave, but he\ndidn't know where he would go. He\nwalked until he got to an indigenous\nforest. He started to get scared but\nwas comforted by the thought that\nnobody would speak to him\nbecause nobody loved him."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "When he was about to enter the\nforest, an old, dirty, ugly woman\ncame up to him. She greeted him\nand asked what he was doing in the\nscary forest. The boy was shocked\nto hear someone speaking to him.\nHe told the old woman that he was\ngoing anywhere because nobody\nloved him."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The old woman asked if he needed\nhelp. He responded quickly and said\n\"Yes\". The old woman said that\nbefore she helped him, she wanted\nhim to lick her face until she was\nclean and beautiful."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The boy didn't have any other\noption but to lick the old woman's\nface in order to get the help he\nneeded. He started licking the sleep\nfrom her eyes, the snot from her\nnose and the wax from her ears. He\nlicked her face until she was clean\nand beautiful."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The old woman thanked him. She\nsaid, \"You will find many wonderful\nthings in the forest, but don't take\nany of these things. Only bring back\nthe root that you find.\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The boy ran, wanting to see all of\nthose things in the forest. But\nbefore he could enter the forest, the\nold woman called him. She said,\n\"Boy! Come back here!\" He ran\nback to her and said, \"I'm here\".\nShe asked him if he had heard what\nshe said to him. \"I said you will find\nmany wonderful things in the forest,\nbut don't take any of these things.\nOnly bring back the root that you\nfind,\" she repeated. The boy\nnodded and so the old woman\nallowed him to go into the forest."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The boy ran off, but before he could\nenter the forest, he heard a voice\nsaying, \"Boy! Come back here!\" He\nstarted to be confused about what\nthe old woman wanted. He ran back\nto her. She said, \"I don't think you\nheard me properly. I said you will\nfind many wonderful things in the\nforest, but don't take any of these\nthings. Only bring back the root that\nyou find.\" The boy nodded and ran\nback to the forest."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Just after he had entered the forest,\nhe heard a voice again saying,\n\"Boy! Come back here!\" He tried to\nignore the voice but he continued\nhearing it so he went back to the\nold woman. The old woman said, \"I\ndon't trust you. I don't think you'll\ndo what I ask you to do. I said you\nwill find many wonderful things in\nthe forest, but don't take any of\nthese things. Only bring back the\nroot that you find.\" The boy was\nstarting to become annoyed with\nthe repetition. He ran faster than\nbefore, until he was in the forest."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Once he was in the forest, he saw a\nbowl filled with money. He took the\nmoney and put it in his pocket. All\nof a sudden, he thought about what\nthe old woman said, that he mustn't\ntake anything except the root.\n\nHe took the money out his pocket and put it back in the bowl."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "He looked around and saw some\nsplendid new clothes. He took off\nthe clothes he was wearing and put\non the new ones. Again he thought\nabout what the old woman had\nsaid. He took off the new clothes\nand put his old ones back on."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "He looked around and saw the root.\nIt was withered from the sun. He\nasked himself what the old woman\nthought he would do with the root.\nNext to the root, there was a bowl\nof food. The food smelled delicious\nand the boy was hungry. He\ncouldn't stop himself from eating\nthe food."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "When he had finished, he\nremembered what the old woman\nhad told him. He remembered that\nthe old woman had said he must\nonly take the root. He looked\naround for the root, but he couldn't\nsee it."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "He went back, feeling disappointed,\nto tell the old woman what had\nhappened. But he couldn't find her\nwhere he had left her."
+    }
+  ]
+}

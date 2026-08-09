@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0011",
+  "title": "Father and son",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 112,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Father and son",
+    "author": "Frista Nattabira",
+    "illustrator": "Wiehan de Jager, João Carlos Brito",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was a man called\nNsangabisibe."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "This man had a son. The son's\nname was Mudduawulira."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day the man said to his\nson, \"Let's go for a walk.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "On the way, they saw a very\nnice suitcase. It was packed full."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The man got very excited. He\nsaid to Mudduawulira, \"Pick it\nup and we will take it home.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The son did what the father told\nhim to do. Mudduawulira put\nthe suitcase on his head and\ncarried it."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "On the way home, a snake\nslithered out of the suitcase. It\nlanded on Mudduawulira's feet!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Father and son were both very\nscared. Mudduawulira dropped\nthe suitcase. They ran away\nvery fast!"
+    }
+  ]
+}

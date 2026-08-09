@@ -1,0 +1,109 @@
+{
+  "bookId": "asp-en-0189",
+  "title": "Hare the trickster",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 237,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Hare the trickster",
+    "author": "Dan Kaasha",
+    "illustrator": "Abraham Muzee",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day, Hare was out looking for food. He met Elephant, who had a pot of honey. Hare asked Elephant, \"Please be kind and carry me. I am weak.\""
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Elephant agreed to carry Hare. Hare got onto Elephant's back and held on tightly. He started eating Elephant's honey straight away!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Honey began dripping on Elephant's back. When Elephant asked what it was, Hare said that it was from his wound."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "They reached a river and found a large buffalo drinking water."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Hare wanted to know who was stronger, Buffalo or Elephant."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "They began arguing. Elephant said she was stronger and Buffalo said she was stronger."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Hare said he had an idea how to find out who was stronger. He asked them to wait for him there."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Hare came back with a long rope. He tied the one end around Elephant's waist and led her away from the river."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Hare tied the other end of the rope around Buffalo's waist and left her near the river."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Hare ran and hid himself in a tree. He shouted, \"Ready! One, two, three! Pull!\""
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Buffalo and Elephant pulled. Elephant pulled Buffalo."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Buffalo pulled Elephant. Neither could win."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "From where he was hiding, Hare continued to eat Elephant's honey."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "After he had finished the honey, he cut the rope closer to Buffalo."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Elephant fell over hard and hit a tree."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Hare went to Buffalo and praised her, saying that she was stronger."
+    }
+  ]
+}

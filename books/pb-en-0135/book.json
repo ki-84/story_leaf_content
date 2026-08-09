@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0135",
+  "title": "Singing in the Rain",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 217,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Singing in the Rain",
+    "author": "Mala Kumar, Manisha Chaudhry",
+    "illustrator": "Rajiv Eipe",
+    "translator": "Mala Kumar, Manisha Chaudhry",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1207-baarish-mein-kya-gaayein",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Sukhiya Kaka lived in a village called Bitauna. Bitauna was famous all over Rajasthan for its singers. No celebration was complete without Sukhiya Kaka's sweet songs.\n\nToday he had been invited to village Jhalaura."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Sukhiya Kaka twirled his big moustache and set off.\n\nHe was singing raag Malhar.\n\n... Come to me o rolling clouds..."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Suddenly, he heard, dhupp dhupp dhupp dhupp!\n\nWas someone giving a beat to his song?\n\nDinoo, the dinosuar came running towards him. Sukhiya Kaka was so happy to see him!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "You don't get such a BIG listener every day!\n\n... Come to me o rolling clouds, shower me with lovely rain!\n\nSukhiya Kaka and Dinoo sang a duet and did a little jig to keep time."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The clouds just had to listen to them!\n\nLightning flashed and the wind danced. Dark clouds came rolling in.\n\nSukhiya Kaka and Dinoo laughed with joy."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "As the rain came pouring down, Sukhiya Kaka and Dinoo shared a small umbrella. Then off they went to Jhalaura following the smell of yummy pakoras, singing\n\n... O thank you for the lovely rain... O..la la la."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Dear Reader,\n\nHave you ever seen a dinosaur?\n\nDo you think they would have sung songs?\n\nWhat do you like to do in the rain?\n\nWhat do you like to eat when it rains?"
+    }
+  ]
+}

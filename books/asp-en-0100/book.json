@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0100",
+  "title": "Jaaka the fisherman",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 94,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Jaaka the fisherman",
+    "author": "Tom Sabwa, Children's Development Center at Masese",
+    "illustrator": "Zablon Alex Nguku",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "This is Jaaka the\nfisherman from\nNaminya."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He fishes on the river\nNile."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He has a boat, fishing\nnet and a hook."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "He always wakes up\nvery early in the\nmorning to catch the\nNile perch."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "At around 10am, he's\nselling his catch in Jinja\ncentral market."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Jaaka what happened?\nWas it a loss? He's so\nsad."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"Today the situation is\nbad. The Nile breeze did\nnot permit me to fish.\nAnd one perch swam\naway with my hook.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "\"But I have hope that\ntomorrow will be good,\nbecause I've bought a\nnew hook.\""
+    }
+  ]
+}

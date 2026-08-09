@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0050",
+  "title": "What type of teeth?",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 65,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "What type of teeth?",
+    "author": "Zanele Buthelezi, Thembani Dladla, Clare Verbeek, Abu Enock, Dudu Mary, Ajuru Florence",
+    "illustrator": "Rob Owen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A crocodile has sharp\nteeth."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "A lion has sharp teeth\nas well."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "A shark has very sharp\nteeth!\nWhy do some animals\nhave sharp teeth?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "A cow has strong teeth\nfor grinding."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "A bird does not have\nteeth.\nHow does a bird eat?"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Rats have big front\nteeth."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "I used to have front\nteeth."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "My front teeth fell out!\nHow many teeth do you\nhave?"
+    }
+  ]
+}

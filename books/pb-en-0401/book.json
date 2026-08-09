@@ -1,0 +1,44 @@
+{
+  "bookId": "pb-en-0401",
+  "title": "Baby in the clouds",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 321,
+  "pageCount": 3,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Baby in the clouds",
+    "author": "Nidhi Jha",
+    "illustrator": "Nidhi Jha",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/5111-baby-in-the-clouds",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once little Baby boy saw a photo album of his Mommy and Papi. In every picture he tried to find himself, and was very sad that the album only had his parent's pictures and not his.\n\nBaby boy was sad and angry. He asked his Mommy \"where am I? You went on a holiday without me! Mommy saw how upset Baby boy was. She smiled and said, \"That's because, Baby boy you were busy playing in the clouds! When you were very little and wore only diapers, you lived in the white puffy clouds in the sky. You would crawl in and out of them, smile at me and then again crawl back into those clouds\""
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Baby boy was listening with astonishment! Mommy continued, \"And then one day, I asked Mr. Crane, who is that cute little baby in the clouds? I would very much like to invite him for some cake and chocolate milk\"\n\n\"Mr. Crane looked in your direction and said, Oh I see, you are asking about Baby Boy! he indeed is the cutest little baby in the entire sky. I can very much fly him down here on my back\"\n\n\"Mr. Crane, caught you by your diaper and whispered in your ears, hey Baby boy, would you like to meet Mrs. Mommy and eat some cake and have some milk? to which, you replied YES! with a big grin\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"And the next min, what do I see!! It's Baby boy, sitting on my bed! I took you in my arms and thanked Mr. Crane and fed you lots of cake and made you some delicious chocolate milk. You then slept as soon as your head touched the pillow. And that is how you came into our house and into our lives\"\n\nBaby boy was happy again after listening to the story and Mommy and baby boy sat to eat their cake and sip on some chocolate milk."
+    }
+  ]
+}

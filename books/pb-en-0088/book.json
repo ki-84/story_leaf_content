@@ -1,0 +1,94 @@
+{
+  "bookId": "pb-en-0088",
+  "title": "The Flyaway Cradle",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 324,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Flyaway Cradle",
+    "author": "Sridala Swami",
+    "illustrator": "Sanjay Sarkar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/702-the-flyaway-cradle",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "That is a cradle hanging from the Neem tree. You know what is in there? Devi's little sister!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Yes, she is crying. You mean you can hear it as well? Devi certainly can. And she is sick of it!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Devi has finally stopped playing hopscotch, and she has taken her sister out. Oops! The cradle is flying! Right over the tree! It's only an old sari, what do you expect?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "That is Krishna, Devi's friend. He thinks throwing small rocks at the sari will bring it down. The little girl in the orange skirt is Leela."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "She wants Devi to use a long stick to untangle the sari. All the kids are laughing at her.\n\n“If it was that easy, do you think WE wouldn't have thought of it?” they ask."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Salia is taking running jumps at the sari. She is quite tall, and her fingers just touch the cloth. Now ALL the children are lining up for jumps!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Devi's sister is quite happy. She is smiling and chewing on some grass she has found. Oh, no, she isn't. Devi has taken it from her."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Raju has organised all the children, big ones first, small ones later. Oh, gosh!\n\nDo you think he's going to make them climb on top of each other?\n\nYes! and they are going to manage it!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "No, they are not! What now?"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "That is Devi's father at the top of the road! Quick! Think of something!\n\nLeela is tottering under the long pole she has found. It's about to fall!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "No, it isn't. Krishna has taken it from her. Raju is helping too. This time they just might get it down!"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Quick! Put the baby in the cradle before Devi's father sees!\n\nIn any case, it is nice to have friends to play hopscotch with."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Quick! Put the baby in the cradle before Devi's father sees!\n\nIn any case, it is nice to have friends to play hopscotch with."
+    }
+  ]
+}

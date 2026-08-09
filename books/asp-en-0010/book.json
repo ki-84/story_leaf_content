@@ -1,0 +1,76 @@
+{
+  "bookId": "asp-en-0010",
+  "title": "The Animals of Uganda",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 238,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The Animals of Uganda",
+    "author": "Wendy Parry",
+    "illustrator": "Rob Owen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 11 とページ数 9 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "This is the giraffe. It has a very\nlong neck. It eats leaves from\ntall trees. What colour is the\ngiraffe?"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "This is the elephant. The males have white\ntusks. They have large ears. Elephants have\nlong trunks that they use to pick leaves off the\ntall trees. Elephants eat grasses and leaves.\nWhat colour is the elephant?"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "This is the crocodile. It lives in\nthe rivers and lakes. It has a\nlong tail. It can open its wide\nmouth to eat fish and other\nanimals. What colour is the\ncrocodile?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "This is the lion. He has big teeth\nwhich he uses to catch his food.\nThe male lions have a\nmane.Where is the mane on\nthis lion?"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "This is the crested crane. It is\nthe symbol of Uganda. It has\nlong legs and a crown. What\ncolour is the crested crane?"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "This is the water buffalo. It eats grasses and\nlives near rivers and lakes. What are the things\non the top of its head called?"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "These animals are called\nzebras. They have black and\nwhite strips. What other\nanimals look like a zebra?"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Here are two different animals. Here is a\nmother warthog with her babies. Warthogs\nhave tusks too. Which animal looks like the\nwarthog? The other animal is the cob. It eats\ngrasses. What colour is the cob?"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "What are these two animal friends? Where do\nthey live? Which one would you eat?"
+    }
+  ]
+}

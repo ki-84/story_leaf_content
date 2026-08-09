@@ -1,0 +1,33 @@
+{
+  "bookId": "pb-en-0163",
+  "title": "Me and my Strong Kite",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 58,
+  "pageCount": 1,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Me and my Strong Kite",
+    "author": "Nirvaan Pahwa",
+    "illustrator": "Priya Kuriyan, Rajeev Verma 'Banjara'",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1876-me-and-my-strong-kite",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I have a kite which is strong and has enough might,\n\nWhen I sail it up in the air it starts to fight with the other kites.\n\nMy kite is big, cartoony and wide,\n\nWhen it wanders a bit, my father sets it right!\n\nWhen it rains at night,\n\nI think about if I could fly my kite!"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "bookId": "asp-en-0334",
+  "title": "The frog and the lizard",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 163,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The frog and the lizard",
+    "author": "Nabune Beatres",
+    "illustrator": "Hélder de Paz Alexandre, Wiehan de Jager, Graham Paterson, Rob Owen, Maya Marshak, Marion Drew",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "The frog and the lizard were once\ngood friends ."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "They used to live at the beach\nwhich was the frog's compound."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The frog lived in water but could\nalways come out to the beach."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The lizard lived on one of the tall\ndry trees near the beach."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "One day, the lizard requested the\nfrog to pay a visit to him at his\nhome on the tree."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "''I cannot climb a tree'' a frog\nexplained to his friend,\" I will help\nyou to climb\" answered the lizard."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "They then agreed to a certain date,\nthe one frog could pay the visit."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The day came and the lizard tied a\nrope onto the frog's tail."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "He started pulling the frog upwards\nthe tree .the frog cried out \"am\nfeeling a lot of pain, the lizard\nhowever, continued pulling the\nrope upwards the frog's tail got\nremoved and the Frog fell down."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The frog lost his tail to date the\nfrog does not have its tail."
+    }
+  ]
+}

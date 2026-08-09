@@ -1,0 +1,124 @@
+{
+  "bookId": "pb-en-0416",
+  "title": "Dive!",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 735,
+  "pageCount": 19,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Dive!",
+    "author": "Rajiv Eipe",
+    "illustrator": "Rajiv Eipe",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/5287-dive",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Blue skies and calm waters — a perfect day for diving! We set out in a little boat, hoping for a BIG adventure!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "When we reached the dive site, we carefully checked all our equipment and put on our fins and masks."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "As soon as we were underwater, we were greeted by a school of yellowback fusiliers."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "There were so many different creatures to see around this large table coral: oriental sweetlips, parrotfish, batfish, and even a beautifully-patterned nudibranch.\n\nTo know more about the creatures marked out in bold lettering, turn to the back section of this book."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "This trumpetfish changed colour to try and blend in with a school of yellow tang, but you can pick him out easily enough, can't you?"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "It's a good thing we kept a safe distance from this lionfish. The spines on his back can be quite poisonous!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "These clownfish carefully guarded their sea anemone home, but finally agreed to let me take a few pictures."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "We saw a honeycomb moray eel having its teeth cleaned by cleaner wrasses, and another pair even offered to give us a scrub!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "There were triggerfish and sea urchins.\n\nWe even saw a coral grouper and a reef octopus playing hide-and-seek."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The octopus won the game. They're masters of disguise.\n\nPipefish are great at disguise too. Can you spot the two ghost pipefish in this picture?"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "We came across a couple of whitetip reef sharks resting near the bottom. They're pretty harmless, so we swam in for a closer look."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "We followed this hawksbill turtle for a while as he looked around the reef for a nice sea sponge to lunch on."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "As we made our way back to the boat, we were thrilled to see a manta ray ‘flying' through the water with two remora fish in tow."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "And just when we thought this dive couldn't possibly get any better, we sighted a dugong grazing on some sea grass."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "What an incredible experience! I can't wait to go diving again!"
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Corals are both plants and animals. Thousands of little algae live inside corals, and give them energy to grow. They have hard outer skeletons and grow into many different shapes.\n\nPlankton is the main source of food for many sea creatures. They are a mix of algae, bacteria, tiny animals, and the eggs and larvae of larger animals that float about with the ocean currents.\n\nFeather stars may look like plants, but they're really animals. They use their feather-like ‘arms' to catch and eat bits of floating plankton."
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "Parrotfish have strong teeth that form a parrot-like beak, which they use to scrape algae off hard coral. Some species don't mind eating bits of coral as well, and they later poop out a fine sand that washes up on land to form beautiful white beaches.\n\nClownfish and sea anemones live together and help each other. The clownfish help the anemones by cleaning their tentacles and luring other fish for the anemone to eat. The anemones, in turn, allow the clownfish to hide among their poisonous tentacles without stinging them.\n\nCleaner wrasses are small fish that keep bigger fish clean by feeding on their parasites and dead skin. The bigger fish recognise the wrasses by their colours and the dance-like way they move."
+    },
+    {
+      "index": 17,
+      "imagePath": "images/19.jpg",
+      "text": "The reef octopus can hide by changing its colour and texture. It makes its home in holes in the reef, or buries itself in the sand.\n\nGhost pipefish can be found in pairs, floating with their heads down and hidden among sea grass, corals or feather stars. Like the reef octopus, they can change colour to blend in perfectly.\n\nThe whitetip reef shark has a thin body, broad head, and white tips on its dorsal and tail fin. They hunt at night, and sleep through most of the day."
+    },
+    {
+      "index": 18,
+      "imagePath": "images/20.jpg",
+      "text": "The hawksbill turtle has a flat body, a shell with jagged edges, and a sharp, curving mouth that looks like a hawk's beak.\n\nManta rays are huge fish with wing-like fins on the sides of their bodies. These large fins help them swim gracefully through the water. On some manta rays, the distance from one wing tip to the other can reach up to 23 feet!\n\nThe dugong is a vegetarian marine mammal. Its favourite food is sea grass, which it is able to graze on with its specially-shaped snout. Dugongs are also called sea cows."
+    }
+  ]
+}

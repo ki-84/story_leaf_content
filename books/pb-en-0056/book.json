@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0056",
+  "title": "Goodnight, Tinku!",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 422,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Goodnight, Tinku!",
+    "author": "Preethi Nambiar",
+    "illustrator": "Sonal Goyal, Sumit Sakhuja",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/258-goodnight-tinku",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "It was a bright moonlit night. All the animals in Mangu's farm were sleeping.\n\nExcept Tinku!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "“I am not sleepy, Ma,” murmured Tinku. But Ma did not hear him. She was fast asleep.\n\nHe turned left, and he turned right. He lay on his tummy, and rolled on his back. But he could not sleep!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "So he set off into the night to see what he could find. Up in the sky, Tinku saw the moon, white and round, smiling down at him. He felt very happy.\n\n‘Night is beautiful,' thought Tinku."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Far away on the top of a tree, there were some tiny lights. One spot of light flew down! “I'm a firefly,” said the spot of light. “I glow in the dark!”\n\n“Will you be my friend?” asked Tinku.\n\n“Yes, I will!” said the firefly."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Something flew by and hung upside down on a tree.\n\n“What is your name, bird?” asked Tinku.\n\n“I am not a bird, I am a bat. I can see during the night!” said the bat.\n\n“Will you be my friend?” asked Tinku.\n\n“Yes, I will!” said the bat."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "A few leaves moved in the bushes. Someone was hiding! “Who are you?” asked Tinku.\n\n“I am a fox,” said the fox. “I go strolling out at night.”\n\n“Will you be my friend?” asked Tinku.\n\n“Yes, I will!” said the fox."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Two shiny eyes looked at him from a tree. “Who are you?” asked Tinku.\n\n“I'm an owl,” said the owl. “I hunt for food during the night.”\n\n“Will you be my friend?” asked Tinku.\n\n“Yes, I will!” said the owl."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "“CHIRRRRRP! CHIRRRRRP!”\n\n“Who is here?” Tinku asked.\n\n“I'm a cricket,” said the cricket. “I chirp when it is dark.”\n\n“Will you be my friend?” asked Tinku.\n\n“Yes, I will!” said the cricket."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Tinku and his friends jumped and tossed and rolled until Tinku yawned. “I am sleepy. I have to go home now,” said Tinku. He was happy that he had many new friends.\n\nSnuggling close to Ma, he said, “Night is not a lonely place, Ma. Night is full of wonderful beings.”\n\n“Yes!” replied Ma. “Your new friends are nocturnal, just like wild dogs.”"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "“Nocturnal animals eat, play and work at night. They rest during the day. You must sleep now. Sleep will give you energy to play with your day-time friends tomorrow. Good night, little one!” she said, hugging him tight."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The bright round moon shone all night long, spreading her calm light all around.\n\nAnd Tinku slept all through the night!"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "bookId": "asp-en-0021",
+  "title": "Dembe the shopkeeper",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 110,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Dembe the shopkeeper",
+    "author": "Annet Ssebaggala",
+    "illustrator": "Zablon Alex Nguku",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 11 とページ数 9 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "In my home village,\nthere is a trader called\nDembe."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Dembe has a big shop\nin the village."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The shop sells flour,\nsugar, rice, beans, and\nmany more things."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Dembe and his wife\nhave three children.\nThey all work hard in\nthe shop."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "During the holidays, the\nchildren help their\nparents to serve\ncustomers. They count\nthe money and give\nchange."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Dembe has a business\nbook. He keeps records\nin this book every day."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Dembe and his wife\nhave a good house and\na car."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "They keep goats, cows,\nchickens and rabbits.\nTheir life is good."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Dembe and his wife\nhave enough money to\npay school fees for their\nchildren."
+    }
+  ]
+}

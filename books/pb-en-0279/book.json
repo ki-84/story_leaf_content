@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0279",
+  "title": "Croaky the Frog",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 313,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Croaky the Frog",
+    "author": "Aahan Sarin",
+    "illustrator": "Ajit Narayan, Greystroke, Ketan Raut, Santosh Pujari, Srikrishna Kedilaya",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3291-croaky-the-frog",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time there was a frog named Croaky. He was just the opposite of his name as he couldn't croak. But he could talk like humans. His home was near the sea-shore and he usually went to play in the sea. So one day while"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "playing he asked a dolphin, \"what sound do you make?\" The Dolphin just clicked and whistled and swam away. After that Croaky swam back to the shore and he saw a rat running past. He stopped the rat and asked,\" What sound do you make?\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The rat didn't understand Croaky's language, so he squeaked and ran away. Finally he saw a man and asked \" Hi! My name is Croaky? Could you help me?\" The boy was astonished to see a talking frog and asked Croaky how could he speak this"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "language. Croaky explained that when he was born he heard some humans taking like that and that's where he picked up this language. The man was surprised and asked how could he help. Croaky asked\" Could you teach me how to Croak?\" The man said, \" I'll try give me sometime."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The man went inside his home which was nearby and switched on his computer. He asked Google how do frogs croak and this is what he read : Try to burp and chirp like a cricket at the same time. Do this fifty times for practice and you are done. He switched off his computer and went out to tell Croaky"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "the same thing, \" Burp and chirp like a cricket and do this fifty times for practice and you are done.\" Croaky said thank you to the man and went back to his home. He practiced as the man had asked him and he was able to croak. Croaky could really croak now, just like his name."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "All thanks to that man and google.\n\nTHE END"
+    }
+  ]
+}

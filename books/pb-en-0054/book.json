@@ -1,0 +1,63 @@
+{
+  "bookId": "pb-en-0054",
+  "title": "Do and Don't",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 117,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Do and Don't",
+    "author": "Radha HS",
+    "illustrator": "Ruchi Shah",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/250-do-and-don-t",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Good Morning!\n\nTime to wake up."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I DON'T want to wake up!\n\nI DON'T want to do the big job!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I DON'T want to brush my teeth!\n\nI DON'T want to have a bath!\n\nI DON'T want to have idlis for breakfast!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I DON'T want to go to school!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Hmm...\n\nBut, today's your class picnic at the zoo!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I DO like idlis with sugar!\n\nI DO want to go to school!\n\nI DO like singing while I take a bath!\n\nI DO want to use my new tooth brush!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Oops! This is urgent!\n\nI DO want to go for the big job!\n\nHere I come, like a rocket... DO please give way,\n\nDON'T stand in my way!"
+    }
+  ]
+}

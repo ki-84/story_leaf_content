@@ -1,0 +1,49 @@
+{
+  "bookId": "asp-en-0098",
+  "title": "A cow is my friend",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 29,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "A cow is my friend",
+    "author": "Frista, Fatima",
+    "illustrator": "Marleen Visser, Felicity Bell",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Mother cow cow,\nI like you cow."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Yesterday you gave me milk."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "My father buys meat every Saturday."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Mummy has a nice\nbag, and I have very\ngood shoes."
+    }
+  ]
+}

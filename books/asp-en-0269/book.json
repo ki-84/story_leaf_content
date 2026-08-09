@@ -1,0 +1,80 @@
+{
+  "bookId": "asp-en-0269",
+  "title": "Soccer skills",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 118,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Soccer skills",
+    "author": "Joseph Ejoyi",
+    "illustrator": "Joseph Ejoyi",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time there\nlived a boy called\nJoseph who liked\nfootball.\nHe could kick the ball\nusing either of his two\nlegs."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Joseph plays the ball\nusing his head."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Sometimes he controls\nthe ball using his chest."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "One day he dribbled\nthrough the defenders\nusing the outside of his\nfoot."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "If the ball comes from\nthe air, he controls it\nvery well using his\nthigh."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "He also dribbles the ball\nvery well using the\ninside of his foot."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "He traps the ball using\nhis instep."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "One time he volleyed\nthe ball using his\ninstep."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "But he could not score\nbecause the keeper\ncaught the ball."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The keeper also\npunched the ball which\nwas shot by Joseph."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0158",
+  "title": "Hen and Eagle",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 390,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Hen and Eagle",
+    "author": "Ann Nduku",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, Hen and\nEagle were friends. They lived\nin peace with all the other birds.\nNone of them could fly."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, there was famine in\nthe land. Eagle had to walk very\nfar to find food. She came back\nvery tired.\n\"There must be an easier way\nto travel!\" said Eagle."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "After a good night's sleep, Hen\nhad a brilliant idea. She began\ncollecting the fallen feathers\nfrom all their bird friends.\n\"Let's sew them together on top\nof our own feathers,\" she said.\n\"Perhaps that will make it easier\nto travel.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Eagle was the only one in the\nvillage with a needle, so she\nstarted sewing first.\nShe made herself a pair of\nbeautiful wings and flew high\nabove Hen.\nHen borrowed the needle but\nshe soon got tired of sewing.\nShe left the needle on the\ncupboard and went into the\nkitchen to prepare food for her\nchildren."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "But the other birds had seen\nEagle flying away. They asked\nHen to lend them the needle to\nmake wings for themselves too.\nSoon there were birds flying all\nover the sky."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "When the last bird returned the\nborrowed needle, Hen was not\nthere. So her children took the\nneedle and started playing with\nit.\nWhen they got tired of the\ngame, they left the needle in\nthe sand."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Later that afternoon, Eagle\nreturned. She asked for the\nneedle to fix some feathers that\nhad loosened on her journey.\nHen looked on the cupboard.\nShe looked in the kitchen. She\nlooked in the yard. But the\nneedle was nowhere to be\nfound."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "\"Just give me a day,\" Hen\nbegged Eagle. \"Then you can\nfix your wing and fly away to\nget food again.\"\n\"Just one more day,\" said Eagle.\n\"If you can't find the needle,\nyou'll have to give me one of\nyour chicks as payment.\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "When Eagle came the next day,\nshe found Hen scratching in the\nsand, but no needle.\nSo Eagle flew down very fast\nand caught one of the chicks.\nShe carried it away.\nForever after that, whenever\nEagle appears, she finds Hen\nscratching in the sand for the\nneedle."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "As the shadow of Eagle's wing\nfalls on the ground, Hen warns\nher chicks. \"Get out of the bare\nand dry land.\"\nAnd they respond:\n\"We are not fools. We will run.\""
+    }
+  ]
+}

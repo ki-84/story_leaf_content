@@ -1,0 +1,58 @@
+{
+  "bookId": "pb-en-0294",
+  "title": "Truth Alone Triumphs",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 287,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Truth Alone Triumphs",
+    "author": "Bharadwaj K P",
+    "illustrator": "Angie & Upesh, Deval Maniar, Greystroke, Suvidha Mistry, Rakesh Naidu",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3490-truth-alone-triumphs",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Vladmir was a young boy living in Russia. It was snowing like never before there. He wanted to go out, but his parents would not let him out as it was very cold. But he was stubborn with his decision."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Days passed. He was bored sitting in is house. He thought that it was a jailed life in his house. He used to take a peep at the snow from the window every now and then. Now he was frustrated and couldn't resist his feelings!!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Once when their parents were having a small nap, he proved himself as a naughty boy. He opened the door stealthily and lo! he was at his destination. The paradise of snow outside. He wore all the winter costumes too. He imagined the most common thing with snow. \"Idea snowman!!\" he exclaimed. He began with his work."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "He enjoyed making the snowman. He also enjoyed the cool atmosphere in the outside winter world. But a constant fear kept haunting him \"what if I am caught red handed by mom and dad?\" he was sure he was gonna be beaten. His mom was seeing all these from the window without Vladmir's knowledge. Vladmir decided to tell the truth."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "He entered inside his house. His mom was just in front of him, angry and frustrated. This time Vladmir knew he had to tell the truth. Just before his mom started scolding him, he just asked a moment and blurted out the truth. His mom was rather angry but was very happy as his son told the truth. His mom accepted his apology and warned him not to do these things once again."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"There is nothing bigger than Mom's love in this world,\" Vladmir thought"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "bookId": "pb-en-0292",
+  "title": "God",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 151,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "God",
+    "author": "Murthy Pannala",
+    "illustrator": "Nidhi Jha, Nimret Handa, P. G. Dinesh, Preeti Krishnamurthy, Shikha Gupta, Wiehan de Jager, Zainab Tambawalla",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3477-god",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once god came to earth."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He is god - recognized by peacock and gave him a peacock eye. He adored it, on head."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He is god - recognized by bamboo and gave him a bamboo shoot. He adored it in hand as flute -'murali'."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "He is god - recognized by bushes and trees, gave him flowers. He adored them as garland-'mala'."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "He is god - recognized by cow and gave him milk and followed him. He has become lord 'Krishna'."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "He has seen beggar, asking for alms. He appeared before him. Beggar thought him as another beggar, in krishna's attire. He told him, he is busy seeking alms."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "He went to him , in the shape of human, and the beggar asked him for alms, and he gave.\n\nGod then decided, to help humans, I come in human shape, they donot recognise any other form. To save any other being, I will go as god!"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "bookId": "asp-en-0251",
+  "title": "Nonkungu and the imbulu",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 778,
+  "pageCount": 18,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Nonkungu and the imbulu",
+    "author": "Alan Kenyon, Viv Kenyon",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 20 とページ数 18 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time there was a poor\nman and his wife. They had only\none child, a girl. The child's name\nwas Nonkungu.\nHer parents loved Nonkungu very\nmuch."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day her parents decided to\nsend her to stay with her rich Uncle\nMtonyama.\nNonkungu's mother made a special\nskirt with ribbon, buttons and\nbeads.\nShe also made a beautiful bead\nnecklace for Nonkungu.\nThen she sent her off to her uncle's\nvillage."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "On the way Nonkungu came to a\nstream. She crossed the stream\nusing the stepping stones.\nOn the other side she met a young\ngirl wearing rags."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "\"Where are you going?\" asked the\nyoung girl.\n\"I'm going to visit my Uncle\nMtonyama,\" said Nonkungu.\n\"Well, Mtonyama is my uncle, too\nand I am also on my way to visit\nhim,\" said the young girl.\nSo they walked on together."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Before they had gone very far, the\nyoung girl said, \"Your skirt is so\nbeautiful and your beads are so\npretty. Please let me try them on.\"\nSo Nonkungu took off her skirt and\nbeads and gave them to the young\ngirl."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "When the girl took off her rags and\nchanged into Nonkungu's clothes,\nNonkungu saw that the young girl\nhad a tail!\nNonkungu was afraid.\nShe knew now that the young girl\nwas really an imbulu."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "They walked on together.\n\"Please give me back my skirt and\nmy beads,\" asked Nonkungu.\nBut the imbulu answered, \"Let me\nwear them until we get to that\ntree.\"\nShe pointed to a tree on the hill."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "When they reached the tree,\nNonkungu said to the imbulu,\n\"Please give me back my skirt and\nbeads.\"\n\"Just let me wear them until we get\nto the next stream,\" said the\nimbulu.\nNonkungu was afraid, so she\nagreed."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "At last they reached the stream.\nAgain Nonkungu asked the imbulu,\n\"Please give me back my skirt and\nmy beads.\"\n\"Just let me wear them until we get\nto that hut where the women are\nsitting,\" said the imbulu.\nSo they walked on."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "When they reached the hut, the\nimbulu pushed Nonkungu back and\ncalled to the women sitting by the\nhut.\n\"Look at this girl wearing rags. She\nhas been following me all day. I\nwish she would go away,\" said the\nimbulu.\nNonkungu was so ashamed and so\nfrightened that she ran hid in the\nkraal."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Then the imbulu went to Uncle\nMtonyama's hut. She said sweetly,\n\"I am your niece, Nonkungu. My\nparents sent me to stay with you.\"\nMtonyama welcomed the young\ngirl. He and his family were very\nkind to the imbulu.\nBut poor Nonkungu had to sleep in\nthe kraal and share the dog's food."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "During the day Nonkungu went to\nthe fields, hid in the corn, and sang:\n\"Oh misery me, misery me.\nI was sent by my father and mother\nto stay with my Uncle Mtonyama.\nOn the way I met an imbulu and she\ntook my skirt and my beads.\nOh misery me, misery me.\""
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "One day, one of Mtonyama's\nbrothers was walking in the fields.\nHe heard the strange and beautiful\nsong.\nHe didn't know who was singing,\nbut when he got home, he told\nMtonyama the words.\nMtonyama went into the fields. He\nheard the song, and looked until he\nfound Nonkungu."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Nonkungu told him what had\nhappened, how the imbulu had\ntaken her beautiful clothes.\nMtonyama took her back to his\nplace and hid her in a hut.\nMtonyama knew what he was going\nto do to catch the imbulu."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Mtonyama had heard that an\nimbulu's tail loves milk and that it\ncan't go past milk without drinking\nsome.\nSo he told his men to dig a deep\nditch and to fill the ditch with sour\nmilk.\nThen he called all the girls of the\nvillage to take part in a jumping\ncompetition."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "The imbulu was worried. She did\nnot want to jump over the ditch.\nShe knew that her tail would be\nthirsty for the sour milk.\nSo she went into a hut and tied her\ntail to her body as tightly as she\ncould. Then she took her place with\nthe other girls."
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "One girl after another jumped over\nthe ditch.\nAt last it was the imbulu's turn.\nShe tried to jump high over the\nditch, but her tail broke loose.\nThe imbulu's tail pulled her down,\ndown, down into the sour milk."
+    },
+    {
+      "index": 17,
+      "imagePath": "images/19.jpg",
+      "text": "As the imbulu struggled in the sour\nmilk, the men quickly filled the\nditch with sand and buried her. That\nwas the end of the imbulu.\nNonkungu stayed happily with her\nuncle for a long, long time.\nAnd that is the end of the story."
+    }
+  ]
+}

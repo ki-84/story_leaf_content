@@ -1,0 +1,33 @@
+{
+  "bookId": "pb-en-0168",
+  "title": "My Anti Litter Poem",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 62,
+  "pageCount": 1,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "My Anti Litter Poem",
+    "author": "Baani Pahwa",
+    "illustrator": "Sorit Gupto",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1922-my-anti-litter-poem",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I am smelly, I am dirty!\n\nI never feel guilty!\n\nI cause a lot of pain and acid rain,\n\nstopping me you will have a strain!\n\nI cause malaria in your area,\n\nCausing dengue is fun because it makes you run!\n\nSea animals die and soon you will cry,\n\nSave your planet, save your earth,\n\nor more diseases soon will take birth"
+    }
+  ]
+}

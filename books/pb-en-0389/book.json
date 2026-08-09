@@ -1,0 +1,49 @@
+{
+  "bookId": "pb-en-0389",
+  "title": "My best friend and I",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 165,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "My best friend and I",
+    "author": "Neha Harsh",
+    "illustrator": "Suvidha Mistry",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4970-my-best-friend-and-i",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "My name is Neha and my friend's name is Aiyana...\n\nWe watch movies, have some snacks, Chit- Chat, paint masks, draw and color,\nplay instrument, do horse riding, make lollipops, ice-creams, cup-cakes, chocolates, and cookies."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day I called my friend out in the BEAUTIFUL PARK....\n\nWe climbed a tall and beautiful tree, and sat on a branch.. Oh I said.. we took some rest. and all\n\nwas quiet. A bird came and sat on my hand, we sang a song; flowers started blooming; the sun shined bright; we got fresh air and it felt like MAGIC was surrounding us."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "It was turning dark. We got down from the tree and we were talking and walking and talking and walking and.... walking and talking and walking and talking. I knew it was my birthday tomorrow but wanted to surprise my friend."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I felt happy that she remembered it was my BIRTHDAY. I was filled with joy.\n\nI promised to fulfill her dream too."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "bookId": "pb-en-0128",
+  "title": "Noisy Crows",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 177,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Noisy Crows",
+    "author": "Kanchan Bannerjee",
+    "illustrator": "Deepa Balsavar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1062-noisy-crows",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I live in the mango tree. I eat lots of ripe fruit in summer."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "When my babies are in the nest, I have to be on guard."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Come peep into my nest. See the lovely things I have found."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I love to fly up in the sky, like a plane."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I sit on the tree and look around for some tasty bits of food."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I look to my right. I look to my left."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "I love fish. When I spot it, I fly down to pick it up."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "With my cawing I call my friends to share the feast with me."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Some people shout at me, “Go away, you noisy bird.”"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Mr Fox likes my singing. He told me so himself."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "LET US LEARN SOME NEW WORDS.\n\nThe sound that each animal or bird makes, has a special name. How many of these do you know?\n\nA crow caws.\n\nA cat mews."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "A lion roars.\n\nA dog barks.\n\nCrows make a lot of noise. So when some people talk loudly we say, “As noisy as a crow”."
+    }
+  ]
+}

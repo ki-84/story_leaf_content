@@ -1,0 +1,69 @@
+{
+  "bookId": "asp-en-0023",
+  "title": "Lion that wanted friendship",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 192,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Lion that wanted friendship",
+    "author": "Joachim Muhindo",
+    "illustrator": "Marleen Visser",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon time, a lion\nwanted to come out of\nthe bush and have a\nhuman as a friend."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "And so the lion and the\nman became friends."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "They ate together and\nshared meat. The lion\nrealised that the man\nwas a meat lover. It\nbegan to fear that the\nman would kill it."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The lion feared that\nperhaps the man might\nspear it with his spears.\nThe man feared that\nthe lion might eat him\nat night when he slept."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "One night the man\ndreamed that the lion\nwas moving towards\nhim slowly, trying to eat\nhim."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The man took up his\nspear, shouting, \"If you\nwant to eat me, then I\nwill spear you.\" The lion\nwoke up and ran out, \"I\nsaid this man will one\nday kill me.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "From that day, the lion\nand the man were no\nlonger friends. The lion\nwill kill a human\nwhenever it finds one.\nAnd humans will kill a\nlion if they can."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "That is why it is said: if someone wants\nfriendship with you, you should first know\nabout that person's character. You should\nknow if you can be together peacefully."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0306",
+  "title": "Our easy escape",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 385,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Our easy escape",
+    "author": "Aryan NK",
+    "illustrator": "Angie & Upesh, Greystroke, Henu, ayyagari anju",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3664-our-easy-escape",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time there was a HAUNTED HOUSE . One day a boy was going to his friend's house.\n\nSuddenly he heard some strange sound coming from the lane. He got very curious he wanted to go inside the house, he wanted to see what is inside it. Then he went inside the house. He did not know which house is it."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "But suddenly he remembered that his mother always advised him not to go to stranger's house. He did not listen to his mother's word and he opened the gate and went inside because he was very curious. He heard some strange sound and he got scared."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He saw one ghost coming out of the room and going in. The boy got very scared he ran to the second floor but he did not see anybody. Then suddenly wind was blowing on his face and he could not see who is blowing the wind on his face because it was very fast."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Then the boy ran to third floor. He saw a man and asked him,\" Why are you crying? The man said,\" I was on the road searching for the barber's shop. Then I saw this HAUNTED HOUSE \". The man did not know that this house was haunted and he thought that this is a barber's shop. And when he entered the house he got scared and he came to the third floor. The man told the boy that he was here since 50 days! The boy said that he did not know that this is a haunted house. And the boy told the man that he was going to his friends house and he heard some strange sound coming from the house so he ran to the house."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The man got an idea!. He recollected once a guy was trying to cross the road putting on his headphones and so he was not scared of the traffic since he could not hear the noises of the traffic. But the man said that where we will get these headphones from. The boy said he always carries two headphones with him, one for himself and another for his friend."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Both of them put on their headphones and easily got out of the haunted house. And then they went back to their homes safely ever after."
+    }
+  ]
+}

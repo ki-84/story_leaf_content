@@ -1,0 +1,91 @@
+{
+  "bookId": "asp-en-0256",
+  "title": "My first pair of shoes",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 320,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "My first pair of shoes",
+    "author": "Ursula Nafula",
+    "illustrator": "Rob Owen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 14 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I had never worn shoes before.\nWhen I saw children wearing\nnice shoes, I would look at them\nwith longing."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "My mother would say, \"You will\nhave many pairs in the future,\njust wait!\"\nSometimes I did not believe her.\n\"When is the future?\" I asked\nher one day."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Time passed and it was nearly\nChristmas.\nEverybody was busy going to\nthe market and coming back\nwith bags of new things.\n\"Mother, are we going to the\nmarket?\" I asked her."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The day before Christmas, my\nmother woke me up earlier than\nusual.\nShe asked me to fetch\nthe big shopping basket she\nalways carried to the market."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "At the open-air market there\nwere many parents with their\nchildren.\nThey were buying new clothes\nand stocking up on food."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "We went straight to where there\nwere many different types of\nshoes.\nMy eyes were wide with\namazement. I gaped at row\nafter row of neatly arranged\nshoes."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "After trying on many pairs, I\nsettled for black lace-up shoes.\nAt home that night, I couldn't\nsleep.\nI was so excited thinking of how\nI would wear my new shoes and\nshow off to every child in the\nvillage."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "After a while, I got out of bed\nand put on the shoes.\nI walked slowly around the room\nand then put the shoes back\ninto\nthe box.\nI lay down again, but I couldn't\nsleep."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "I got up and tried on the shoes\na second time.\nI strutted around the room for a\nwhile and then put them back."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "I lay down once more and tried\nto sleep. But I got up a third\ntime.\nI put on the shoes and jumped\naround the room. Then I felt\ntired.\nI decided to get back into bed."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The following morning, I was\nwoken by my mother. \"What is\nthis I see?\" she asked."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "I was wearing my new shoes in\nbed!"
+    }
+  ]
+}

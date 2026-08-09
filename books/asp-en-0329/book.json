@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0329",
+  "title": "Lazy Anansi",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "むかしばなし",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 432,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Lazy Anansi",
+    "author": "Ghanaian folktale",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, there was a\nspider called Anansi.\nHe was too lazy to cook his own\nfood. Instead, he used to visit his\nfriends and eat the delicious food\nthey had cooked."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, he was walking past\nRabbit's house when he smelled\nsomething cooking.\n\"Greens!\" he said excitedly.\n\"They're not quite ready yet,\" said\nRabbit. \"You can help me with the\nwashing up in the mean time.\"\n\"Sorry, I have things to do. I'll come\nback later,\" said Anansi."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"How will I call you when they're\nready?\" asked Rabbit.\nAnansi thought for a minute.\n\"I'll spin a web,\" he said, \"and tie\none end around my leg and one end\nto your pot. When the greens are\nready, pull on the web string and I'll\ncome right away.\"\nSo Anansi tied the web to the pot,\nand walked on."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "A short while later he saw Monkey\nand his wife, cooking some beans in\na large pot.\n\"Come and join us!\" they said. \"The\nbeans are nearly ready.\"\n\"Sorry, I have things to do,\" said\nAnansi before they could ask him to\nhelp.\n\"But let me tie one end of this web\naround my leg and one end to your\npot. When the beans are ready, pull\non the web string, and I'll come.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "He walked on until he smelled\nsweet potatoes.\n\"Anansi,\" called his friend Warthog.\n\"My pot is full of sweet potatoes\nand honey! Come and share my\nfood with me. Here's a fork for you\nto help me stir.\"\n\"I'll come back later,\" said Anansi\nquickly. \"But let me tie one end of\nthis web around my leg and one\nend to your pot. When the sweet\npotatoes are ready, pull on the web\nstring, and I'll come.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "By the time Anansi arrived at the\nriver, each of his eight legs was tied\nto a different pot of delicious food.\nJust then, Anansi felt a tug on one\nof his legs.\n\"Rabbit's food is ready!\" he said,\nlicking his lips."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "He felt a second tug.\nAnd a third.\nAnd a fourth, fifth, sixth, seventh,\neighth...\nEveryone was pulling on the web\nstrings at the same time!\n\"Stop! Stop!\" he cried in pain, as\nhis legs were stretched thinner and\nthinner.\nBut no one could hear him."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Finally, the web strings could hold\nno longer. They snapped one by\none.\nAnansi rolled into the river to\nsoothe his painful legs. But his legs\nwould not return to their normal\nshape.\nAnd he was too embarrassed to go\nto any of his friends and share their\nfood that day."
+    }
+  ]
+}

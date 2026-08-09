@@ -1,0 +1,49 @@
+{
+  "bookId": "pb-en-0285",
+  "title": "Zara",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 90,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Zara",
+    "author": "Rachita Uday Kumar",
+    "illustrator": "Radhika Pendse",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3406-zara",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was this beautiful girl named Zara. She lived with her father. Her mom had died two months ago."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Soon, Zara's father died. So Zara had to live with her step mother. Her step mother had 3 naughty daughters."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day, there was a ball at the palace. Zara wanted to go, but her mother told no. She was heartbroken."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Just then, a fairy came. She gave Zara a gown. Zara thanked her. Zara went to the ball and her step mom and sisters were surprised. Zara had a nice time."
+    }
+  ]
+}

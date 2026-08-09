@@ -1,0 +1,80 @@
+{
+  "bookId": "pb-en-0433",
+  "title": "The Tree",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 408,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Tree",
+    "author": "Usha Rane",
+    "illustrator": "Ketan Raut",
+    "translator": "Madhav Chavan",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/212-the-tree",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 13 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Here is a tree.\n\nThe tree is on the ground.\n\nAnd green grass grows all around.\n\nAnd green grass grows all around."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Here is a tree. The tree is on the ground.\n\nIts roots are in the soil.\n\nAnd green grass grows all around.\n\nAnd green grass grows all around."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Here is a tree. The tree is on the ground.\n\nIts roots are in the soil. Soil covers the roots.\n\nAnd green grass grows all around.\n\nAnd green grass grows all around."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Here is a tree.\n\nThe tree is on the ground.\n\nIts roots are in the soil.\n\nSoil covers the roots.\n\nThe trunk stands above.\n\nAnd green grass grows all around.\n\nAnd green grass grows all around."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Here is a tree.\n\nThe tree is on the ground.\n\nIts roots are in the soil.\n\nSoil covers the roots.\n\nThe trunk stands above.\n\nAnd branches spread from the trunk.\n\nAnd green grass grows all around.\n\nAnd green grass grows all around."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Here is a tree.\n\nThe tree is on the ground.\n\nIts roots are in the soil.\n\nSoil covers the roots.\n\nThe trunk stands above.\n\nBranches spread from the trunk,\n\nand leaves sprout from the branches,\n\nand green grass grows all around.\n\nAnd green grass grows all around."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Here is a tree.\n\nThe tree is on the ground.\n\nIts roots are in the soil.\n\nSoil covers the roots.\n\nThe trunk stands above.\n\nBranches spread from the trunk.\n\nLeaves sprout from the branches.\n\nAnd flowers bloom by the leaves,\n\nand green grass grows all around.\n\nAnd green grass grows all around."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Here is a tree.\n\nThe tree is on the ground.\n\nIts roots are in the soil.\n\nSoil covers the roots.\n\nThe trunk stands above.\n\nBranches spread from the trunk.\n\nLeaves sprout from the branches.\n\nFlowers bloom by the leaves.\n\nAnd fruits grow from flowers,\n\nand green grass grows all around.\n\nAnd green grass grows all around."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Here is a tree.\n\nThe tree is on the ground.\n\nIts roots are in the soil.\n\nSoil covers the roots.\n\nThe trunk stands above.\n\nBranches spread from the trunk.\n\nLeaves sprout from the branches.\n\nFlowers bloom by the leaves.\n\nFruits grow from flowers.\n\nAnd inside the fruit is a seed.\n\nAnd green grass grows all around.\n\nAnd green grass grows all around."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Soon...\n\nA tiny little plant will come from the seed. One day it will be a tree.\n\nAnd green grass will grow all around.\n\nAnd green grass will grow all around."
+    }
+  ]
+}

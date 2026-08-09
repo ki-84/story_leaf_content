@@ -1,0 +1,73 @@
+{
+  "bookId": "pb-en-0231",
+  "title": "Shruti's secret to winning",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 170,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Shruti's secret to winning",
+    "author": "Anushka and Preeti Praveen",
+    "illustrator": "Deepa Balsavar, Greystroke, Henu, Rajiv Eipe, Sheetal Thapa, Soumya Menon, Suvidha Mistry..",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2616-shruti-s-secret-to-winning",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Shruti is a smart girl. She wins all the competitions she takes part in."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Everybody wonders how she does it. They want to know her secret!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Miss Shalini is Shruti's favorite teacher. Shruti invites Miss Shalini to stay at her place for a few days.\n\nMiss agrees because she also wants to know Shruti's secret."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Miss Shalini brings with her a robot camera which follows Shruti everywhere."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "There is a new competition coming up. A dance competition!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "On the day of the competition, everybody wakes up to find Shruti missing. \"Where is she\", they ask?"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "They go and look for the robot camera. The camera shows Shruti practising a lot for the competition.\n\nOn that day also, she has woken up early to practice. “Ah so that's where she has been!”, says, Miss Shalini.\n\nMiss Shalini is happy with her hard work."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Shruti wins the dance competition! Miss Shalini hugs Shruti and says “well done!”"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Miss Shalini announces to everyone- \"Practice makes a person perfect. That's Shruti's secret to winning\"."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0298",
+  "title": "Inhabitants of the Sea",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 160,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Inhabitants of the Sea",
+    "author": "Payoshni Saraf",
+    "illustrator": "Muniza Shariq, Sangeeta Das",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3565-inhabitants-of-the-sea",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "This is a Seahorse.\n\nIt is mostly found in shallow tropical and temperate waters throughout the world."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "This is an Octopus.\n\nOctopuses inhabit diverse regions of the ocean, including coral reefs and the ocean floor."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "This is a Clown Fish.\n\nClown Fish are native to warmer waters and live at the bottom of shallow seas in sheltered reefs or in shallow lagoons."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "These are Dolphins.\n\nThey are found across the world with most species of Dolphins preferring the warmer waters of the tropical zones. A few species however prefer colder climates."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "This is a Sea Turtle (also known as Marine Turtle)\n\nSea turtles can be found in all oceans except for the polar regions."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "This big fish here is a Manta Ray.\n\nMantas are found in temperate, subtropical and tropical waters."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "This is a Starfish (also known as Sea Stars).\n\nStarfishes are found in salt waters all over the world, from the Atlantic Ocean to the Indian Ocean and beyond."
+    }
+  ]
+}

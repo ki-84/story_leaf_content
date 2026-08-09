@@ -1,0 +1,53 @@
+{
+  "bookId": "pb-en-0311",
+  "title": "The huge beauty",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 240,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The huge beauty",
+    "author": "Vaishnavi guttikonda",
+    "illustrator": "Nimret Handa, Santosh Pujari",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3748-the-huge-beauty",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There lived a girl called Mavis, she was a fifth grader. At home she grew a garden with all sorts of things like tomatoes, flowers, and potatoes. She took very good care of her garden."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "So, it all started one day when Mavis was at school, she heard about a poster on the wall. She was so curious that she wanted to check this poster out after school.\n\nSo it was after school when Mavis was searching for that poster everyone was talking about."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "And as she was passing through the lunch hall she immediately bumped into the poster. The poster was about a competition of the amazing fruits, veggies, and flowers. The date this competition was held on was tomorrow and the time was 9 A. M. to 9 P. M. She took a picture of the poster with her phone and went home."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The next day she went to her garden and couldn't believe her eyes, because one of her tomatoes had grown extremely large. Mavis remembered the competition, so she got ready to go to the competition with her extremely large or over grown tomato."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "she reach exactly when they started to hand out the awards. Mavis got first place in all the veggie competition which were largest tomato, tallest tomato, tastiest tomato and the best name for a tomato which was “The huge beauty”. She even won the happiest girl award but that is another story.\n\nThe end"
+    }
+  ]
+}

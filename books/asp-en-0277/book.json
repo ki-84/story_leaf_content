@@ -1,0 +1,111 @@
+{
+  "bookId": "asp-en-0277",
+  "title": "Friends",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 97,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Friends",
+    "author": "Zimbili Dlamini, Hlengiwe Zondi",
+    "illustrator": "Catherine Groenewald",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 18 とページ数 16 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "My name is Simo."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I have four friends."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Their names are Zizo,\nLele, Sisa and Ayanda."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "My friend Zizo likes to\nplay soccer."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "My friend Lele likes to\nswim."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "My friend Sisa likes to\nplay hide-and-seek."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "My friend Ayanda likes\nto read."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Me?\nI like to do all the things\nthey like to do."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "I play soccer with Zizo."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "I swim with Lele."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "I play hide-and-seek\nwith Sisa."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Come, friend, what do\nyou like?"
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Come, play soccer with\nus."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Come, swim with us."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Come, play hide-andseek with us."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Come, read with us!"
+    }
+  ]
+}

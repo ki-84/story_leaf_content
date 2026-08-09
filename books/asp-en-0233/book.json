@@ -1,0 +1,66 @@
+{
+  "bookId": "asp-en-0233",
+  "title": "Rabbit Goes to a Party",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 146,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Rabbit Goes to a Party",
+    "author": "Mozambican folktale",
+    "illustrator": "Hélder de Paz Alexandre",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 9 とページ数 7 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, the\nanimals decided to\nhave a party. But it was\nnot for all of them. It\nwas only for the\nanimals that had horns."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The rabbit was getting\nready for the party. But\nthen he found out that\nthe party was not for\neveryone. It was just for\nanimals with horns."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The rabbit went\nsomewhere and got\nsome horns. Then he\nput them on his head\nand went to the party."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "During the party the\nrabbit ate and drank\nand danced."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "This made him tired\nand he fell down in the\nsun. But while the\nrabbit was sleeping, the\nhorns fell off!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Then all the animals\ndiscovered that the\nrabbit was not the kind\nof animal they wanted.\nSo they pulled his ears\ntill they got bigger and\nbigger."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Then they ran away.\nAnd that's the reason\nwhy rabbits have big\nears!"
+    }
+  ]
+}

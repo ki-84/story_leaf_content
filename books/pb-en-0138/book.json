@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0138",
+  "title": "Thangwang and Bhalluka",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 286,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Thangwang and Bhalluka",
+    "author": "Mala Kumar",
+    "illustrator": "Jithin Jacob",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1261-thangwang-and-bhalluka",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Baby Thangwang likes to talk.\n\nGAA! GEE! GLUG GLUG, he says.\n\nBhalluka, the brown bear likes to talk too.\n\nGRRRR. GROOOOOWWWW.\n\nKHURRR.\n\nBaby Thangwang and Bhalluka the bear like to talk to each other."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, Thangwang lost his little red toy. He began to cry."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Don't cry please, said Bhalluka!\n\nHA- HOO, HOO-HA! GRR-GROO!\n\nBhalluka's tummy went in and out when he talked.\n\nThangwang looked at the tummy and tapped it – TAP-TAP-TAP. TAPP! THUPP!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "That made Bhalluka burp. Loudly! BURP BURPPPPPP!\n\nAnd out came many things that he had put into his mouth."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "OOPS! Out came the little red top.\n\nTONGG - it hit Thangwang on the head.\n\nTIDDINGGGG - it fell near Baby Thangwang's little feet."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Baby Thangwang and Bhalluka the bear began to laugh. They were so happy that they began to sing loudly.\n\nGLUG-GRRR GAA-GAA-KHURR KHURR, GLUG-GRRR, GAA-GAA-KHURR khurr... and then they went to sleep.\n\n(Thangwang slept for a night. Bhalluka slept for five months!)"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "What Do We Know About Bears?\n\nIn India, there are three kinds of bears - The Himalayan Black Bear, The Brown Bear and The Sloth Bear. The bear in this book looks like a brown bear.\n\nBears like fresh growing shoots of grass. They also like fruits like apples, peaches and mulberries. Though brown bears do kill goats and other animals, they usually do not attack human beings.\n\nDuring winter in cold places, bears in the wild do not get enough to eat. What do they do then? They just go to sleep for a very long time! This long sleep is called hibernation. They can sleep without eating, drinking or - even going to the bathroom - for more than 100 days!"
+    }
+  ]
+}

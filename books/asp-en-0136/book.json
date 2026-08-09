@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0136",
+  "title": "Hamisi's lucky day",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "ファンタジー"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 111,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Hamisi's lucky day",
+    "author": "Adelheid Marie Bwire",
+    "illustrator": "Rob Owen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Hamisi needs a new\nschool uniform. His dad\ntakes him to the\nmarket."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Hamisi sees a boy\nwearing a beautiful\nshirt. \"That is a very\nfine shirt,\" thinks\nHamisi."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"I wish I had a shirt like\nthat boy,\" says Hamisi."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "\"Look, she is selling\nthose special shirts,\"\nsays Hamisi. \"Dad,\nplease buy one for me,\"\nhe asks."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "\"Hamisi, I have to buy\nyour uniform,\" says\ndad."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"I do not have enough\nmoney for that shirt,\"\nsays dad."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Hamisi's dad pays for\nthe uniform. He is\nsurprised when he gets\nthe change. There is\nenough money left over\nto buy a shirt!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "It is Hamisi's lucky day!\nWhich shirt will he\nchoose?"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "bookId": "pb-en-0111",
+  "title": "Too Much Noise",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 621,
+  "pageCount": 17,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Too Much Noise",
+    "author": "Rohini Nilekani",
+    "illustrator": "Angie & Upesh",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/946-too-much-noise",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day, Sringeri Srinivas, the farmer, set out with his best cows to the cattle fair. He had to walk along the new national highway that had come up near his village."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "That big road had many cars and trucks. Every driver seemed to be honking loudly.\n\nPaoon! Ponn! Paaa! The cows did not like the noise. They decided to go back home."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He waved his hands at the drivers to stop the noise. This did not help. Seeing him, they just honked louder. The noise of the horns went straight into his head. And it stayed there. It was a bad day for him. He went back home with his cows. MOOO! The cows were happy to be in the cowshed again."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "But the noise simply would not go away from his head.\n\nPaoon! Ponn! Paaa!\n\nIt kept on playing like a band of untrained musicians.\n\nOther noises around him soon joined in the chorus. Even the sounds that he heard daily suddenly became too loud for Sringeri Srinivas."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The ribbit ribbit of the frogs was noisy. The cicadas and their kirkk kirkk were too loud.\n\nSringeri Srinivas wanted the hooting owls to be sent away. He was angry at the koyals for screeching loudly at 4 am."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "And at the cows that mooed at 5 am. And whoever asked the roosters to act as alarm clocks? And that stupid tiger! Enough of his roaring!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Poor Sringeri Srinivas. His ears had become raw, like a fresh wound.\n\nHe tried hard to keep things quiet. He shouted at the children if they talked loudly. He glared at his wife Parvatamma when the pressure cooker whistled and whistled."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Sringeri Srinivas only wanted silence. Everyone tried to help.\n\nParvatamma stopped scolding the children. The children played cricket quietly with a very soft ball."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The cows did not moo any more. The cicadas and owls moved to another village.\n\nEven the tiger stopped growling."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Yet Sringeri Srinivas was not happy. He could hear the noise of everyone trying to be silent!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "“I will go away from this place,” he declared one morning.\n\n“Please don't,” said Parvatamma. “Where will you find silence?”\n\nSringeri Srinivas simply frowned at her and started to walk away from his village."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Soon, he came close to a new town. He watched the noisy people in the noisy town. A young man passed by. He had some wires dangling from his ears. Sringeri Srinivas could also hear a ‘ting dang ting dang' sound. The man looked very happy. He did not even notice that trucks were blaring horns nearby."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "“What is this?” he asked the man.\n\n“These are my headphones. Here, try them on,” the young man said. He put them on for Sringeri Srinivas. Music! Ting dang ting dang. No horns.\n\n“Aha! This is just what I need,” he said."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Sringeri Srinivas went into the town. He bought a pair of the best headphones and put them on. At last... no more noise! He returned to his village, with his big new headphones."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "His wife was happy to see him. Sringeri Srinivas gave her a big smile. His children helped him to connect the new headphones to some good, happy music."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Now, when Sringeri Srinivas gets very angry at the cars or even at the frogs, he puts on his headphones and listens to the silence. Or he listens to good music. In the village, the cows are mooing again. The koyals have come back. Ribbit ribbit, go the frogs. Kirkk kirkk, sing the cicadas."
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "But the cars on the highway are still making too much noise.\n\nPaoon! Ponn! Paaa! It is not a good sound.\n\nSringeri Srinivas has to take his cows to the fair soon. Will they want headphones too?"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "bookId": "pb-en-0255",
+  "title": "The love of art",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 182,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The love of art",
+    "author": "Rachita Uday Kumar",
+    "illustrator": "Tanvi Choudhury",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2942-the-love-of-art",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Ridhima and Rohan loved painting. They painted all day. They won many art prizes in school."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, mummy told them that they were moving to a new house. The children were very happy. Mummy told them that they also had to paint the house."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "They liked the house very much. The builders told them to paint the fence. They happily agreed."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "After they finished, they asked the builder if they could paint the gate. The builder happily agreed."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "After they finished, they wanted to paint the house. So they went inside."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "They had to first clean they house. They cleaned it and then they started painting."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "They designed the walls with fingerprints and checkers."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "After they had finished, everyone around the neighbourhood came and praised them."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "After the people had gone, mummy told them to make paintings. So they made them. They even sold their paintings. Mummy was very pleased with their talent."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Ridhima and Rohan were world famous for their paintings. They even started their own little shop. If we want to make something like them, we should love art."
+    }
+  ]
+}

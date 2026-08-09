@@ -1,0 +1,74 @@
+{
+  "bookId": "pb-en-0261",
+  "title": "Aditi's Trip To Moon",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 227,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Aditi's Trip To Moon",
+    "author": "Rajalakshmi Paramasivam",
+    "illustrator": "Ajit Narayan, Greystroke, Helga Parekh, Rijuta Ghate, Sorit Gupto, Suvidha Mistry, Taposhi Ghoshal",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2985-aditi-s-trip-to-moon",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "After finishing her dinner, sitting on bed Aditi looked out of the window. She saw the bright moon. \" How I wish I go to moon.\" she thought.\nImmediately, Aditi found herself flying ."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Soon she landed on the moon.\n\nshe wanted to play there."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "She built a sand castle on the moon and decorated it with the moon stones found there."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Suddenly she felt hungry. She started exploring the moon for food, but could find nothing."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "She wanted to return home and eat something.. But how? She could not find her way back home.\n\nShe started crying."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "At that time, she felt like someone touching her. It was a fluffy cloud. The cloud said,\" Aditi, Don't cry. I shall take you home. Sit on me.\" Aditi happily sat on the cloud."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The cloud started moving. Eyes wide opened Aditi was looking around. She saw an aeroplane passing by. She tried to reach the plane but could not. So Aditi came to the edge of the cloud to reach the plane. Now, the cloud lost balance and flipped."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "And so Aditi started to fall down. That was scary for her. She was about to scream."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "At that time she could hear her mom calling her,\" Aditi wake up. It will be late for school.\"\n\nAditi woke up and saw herself on her bed.\n\nOh! . It was all a dream."
+    }
+  ]
+}

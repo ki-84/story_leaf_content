@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0242",
+  "title": "The Elephant and the Frogs",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 175,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The Elephant and the Frogs",
+    "author": "Mozambican folktale",
+    "illustrator": "Amir Bachir António Necas",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A long time ago, the\nking of the bush was Mr.\nLion."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He sent his animals to\nstop the noise coming\nfrom a small lake in the\nbush. But they did not\nsucceed!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "An elephant\nvolunteered to stop it.\nThe elephant was sent\nout as a guard."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "At midnight the noise\nbegan and the elephant\nstarted killing the frogs.\nHe did the same thing\nthe next day."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "After a couple of weeks,\nKing Lion was happy\nbecause the elephant\nhad stopped the noise."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "But about a month\nlater, they saw a lot of\ninsects on their farm."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "King Lion asked the\nelephant to call the\nfrogs to come and eat\nthe insects."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The elephant was very\nnervous because he\nhad killed all of them.\nHe said: Sorry, sorry, I\nk- k- k- killed them!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Then King Lion said:\nElephant, I asked you to\nstop the noise, not to\nkill the frogs. And the\nelephant was put in\nprison for many years!"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "And the king told all the\nanimals to always do\nexactly what he said."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "bookId": "asp-en-0035",
+  "title": "Wind",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "ファンタジー"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 128,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Wind",
+    "author": "Ursula Nafula",
+    "illustrator": "Marion Drew",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "The wind roars.\n\nIt roars past our home."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The wind is powerful.\n\nIt tears my kite from my hand."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I run after my kite.\n\nThe wind blows me away from the kite!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The wind becomes a tornado.\n\nIt carries my kite higher and higher."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The tornado swallows me up!\n\nI see nothing, I touch nothing."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Where is my kite now?\n\nPerhaps it is caught in a tree."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Perhaps my kite is still flying in the sky."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The wind finally dies down.\n\nI am still spinning."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "When I stop spinning I look around.\n\nWhere did the wind go?"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "I cannot see my kite anywhere.\n\nI cannot hear the wind anymore."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Perhaps tomorrow I will find my kite.\n\nNow, I must go home, before the wind starts to roar again."
+    }
+  ]
+}

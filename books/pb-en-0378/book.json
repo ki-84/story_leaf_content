@@ -1,0 +1,68 @@
+{
+  "bookId": "pb-en-0378",
+  "title": "Have You Ever Travelled By?",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 17,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Have You Ever Travelled By?",
+    "author": "Payoshni Saraf",
+    "illustrator": "Ajanta Guhathakurta, Deepa Balsavar, Lavanya Karthik, Priya Kuriyan, Rajeev Verma 'Banjara', Shikha Nambiar, Taposhi Ghoshal",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4775-have-you-ever-travelled-by",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A cycle"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "A bike"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "An auto rickshaw"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "A car"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "A train"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "A boat"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "An aeroplane"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "A parachute?"
+    }
+  ]
+}

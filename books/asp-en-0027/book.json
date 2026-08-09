@@ -1,0 +1,111 @@
+{
+  "bookId": "asp-en-0027",
+  "title": "Decision",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 187,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Decision",
+    "author": "Ursula Nafula",
+    "illustrator": "Vusi Malindi",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 18 とページ数 16 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "My village had many problems.\n\nWe made a long line to fetch water from one tap."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "We waited for food donated by others."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "We locked our houses early because of thieves."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Many children dropped out of school."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Young girls worked as maids in other villages."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Young boys roamed around the village while others worked on people's farms."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "When the wind blew, waste paper hung on trees and fences."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "People were cut by broken glass that was thrown carelessly."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Then one day, the tap dried up and our containers were empty."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "My father walked from house to house asking people to attend a village meeting."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "People gathered under a big tree and listened."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "My father stood up and said, \"We need to work together to solve our problems.\""
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Eight-year-old Juma, sitting on a tree trunk shouted, \"I can help with cleaning up.\""
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "One woman said, \"The women can join me to grow food.\""
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Another man stood up and said, \"The men will dig a well.\""
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "We all shouted with one voice, \"We must change our lives.\"\n\nFrom that day we worked together to solve our problems."
+    }
+  ]
+}

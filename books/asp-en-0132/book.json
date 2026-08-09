@@ -1,0 +1,69 @@
+{
+  "bookId": "asp-en-0132",
+  "title": "No pigs allowed",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 186,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "No pigs allowed",
+    "author": "Basilio Gimo",
+    "illustrator": "Laura Libertore",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Years ago, a group of horned\nanimals decided to have a big\nparty high up in the mountains.\nThey only invited other animals\nwith horns. No one else."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "When the pig heard about the\nparty, he thought, \"I don't have\nhorns. What am I going to do?\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The next day, he had an idea.\nHe'd stick some horns to his\nhead with wax!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "It worked and the pig felt very\nclever when he was allowed\ninto the party. The problem was\nthat the party was taking place\nclose to the sun."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "When the party started heating\nup, the wax began to melt and\nhis horns fell off.\nThe horned animals were\nshocked. \"Who's that one with\nno horns? Why did he come\nhere?\" they asked."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The king of the animals\ncommanded, \"Grab that pig and\nthrow him down to earth.\"\nThey grabbed the pig and threw\nhim down to earth."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Poor pig! When he fell, he\nlanded on his nose. And his\nnose was flattened into a snout."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "So don't be surprised when you\nsee the pig's flat snout,\nbecause it's been that way ever\nsince."
+    }
+  ]
+}

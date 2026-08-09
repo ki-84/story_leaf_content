@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0185",
+  "title": "How night came to Opio's village",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 399,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "How night came to Opio's village",
+    "author": "Robert Ekuka",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Long ago, there was no night in\nOpio's village.\nPeople slept when they were tired\nand worked when they were awake."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day Opio went out hunting with\nhis dogs. After a short time, his\ndogs started to chase an antelope.\nOpio followed them. He ran for\nmany hours.\nEvery time he became tired, he\nrested. Then he would run again.\nBut he could not find his dogs."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "After many days, he came to a\nvillage. He went to one of the\nhouses and said to the owner, \"I\nhave chased an antelope for a long\ntime and I am very tired. I want to\nrest.\"\nThe man said, \"Sit down and rest.\nWould you like some beer?\"\nOpio was very thirsty so he drank\nsome. Then he went to sleep."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "When he woke up, he couldn't see.\nHe opened and closed his eyes\nmany times.\n\"You have given me something very\nbad to drink,\" he said to the man. \"I\ncan't see properly anymore!\"\n\"There is nothing wrong with you,\"\nthe man replied. \"It's night now.\nHaven't you ever seen night? When\nthe day leaves, the night comes.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Opio asked many questions about\nthe night. He began to like it very\nmuch.\nHe and his new friend talked until\nmorning.\nHe stayed for another day so that\nhe could see the night come again."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The next morning he asked his\nfriend,\n\"How can I take the night to my\nown village? I want my people to\nsee the night.\"\n\"When it starts to get dark this\nevening, walk to your village. If you\nlook straight in front, the night will\nfollow you. But you must not look\nback. If you look back, the night will\ngo away.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Opio did as he was told. That\nevening, he began to walk towards\nhis village.\nHe felt the dark night behind him as\nhe walked.\nHe wanted to look back.\nBut he did not."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "When he came to his village, the\nvillagers were afraid.\n\"What disease have you brought to\nus, Opio?\" they asked. \"What is this\ndark thing following you?\"\nOpio said, \"My friends, this dark\nthing is called night. Now you are\nafraid and I was afraid, too.\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "\"But you will learn to like the night.\nWhen the light comes we can work\nand when night comes, we can\nrest.\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "And that is how night came to Opio's village."
+    }
+  ]
+}

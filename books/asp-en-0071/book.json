@@ -1,0 +1,66 @@
+{
+  "bookId": "asp-en-0071",
+  "title": "Our river, our life",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 130,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Our river, our life",
+    "author": "Rebecca Njuguna",
+    "illustrator": "Catherine Groenewald",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 9 とページ数 7 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Two small streams\nformed River Temu. The\nsheep, goats and deer\nlived because of River\nTemu."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "But when Matata\nbecame headman, he\ncut down trees. He\nmade a path from the\ntop of the hill to the\nbottom."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Matata's children and\ntheir friends ran all over\nthe place. They broke\nbranches. They lit fires\nand left them burning."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "River Temu stopped flowing. The\ndeer went away. The sheep and\ngoats grew thinner and thinner."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The people chased away Matata,\nthe headman. They appointed\nBaraka as the new leader. The\npeople were happy."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The path was closed\nand grass grew once\nagain. River Temu was\nrevived. The land\nbecame greener than\never before."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "People sang, \"Long live\nBaraka, long live\nBaraka.\" \"May our\nchildren and children's\nchildren forever respect\nRiver Temu.\""
+    }
+  ]
+}

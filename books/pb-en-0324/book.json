@@ -1,0 +1,94 @@
+{
+  "bookId": "pb-en-0324",
+  "title": "Why Can't We Glow Like Fireflies?",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "ファンタジー"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 658,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Why Can't We Glow Like Fireflies?",
+    "author": "Nabanita Deshmukh",
+    "illustrator": "Samidha Gunjal",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3905-why-can-t-we-glow-like-fireflies",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Fireflies are small winged insects that glow in the dark but why do they shine and what creates this spark within them?\n\nThey're bright and twinkling like little stars! I wish I could have glowed like them but I can't! Can anyone tell me why?"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Imagine a dark, moonless night when you have gone camping with your classmates and you lose your way. What would you do? Will you not try contacting your friends by flashing your torchlight?"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Well, fireflies or ‘lightning bugs' as they are sometimes called do the same, except that they have an unlimited supply of light within themselves! That is why fireflies never worry about fused light bulbs or electricity tariffs. They seem immensely happy just flying around and glowing- this is their signal to say, “Hey, look! I'm here!”"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The glow of the firefly is produced by a protein called luciferase and a pigment called luciferin. Proteins are special food used by our bodies to create muscles, bones and skin while pigments are natural colouring substances found in plants and animals. When these two meet inside the tiny belly of the firefly, they react with the oxygen already found in there."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "A celebration takes place, a soft firework display, so to say and bright light is produced which is the ‘glow' of the firefly!\n\nFireflies therefore are bio-luminescent but they are not the only ones. Different types of fish and marine creatures in the sea also produce their own lights!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The glow of the firefly functions like a light switch and is periodically turned on and off by the insect. It does this by sending a special ‘message' from its brain to the ‘light organ' inside its body that is its abdomen and soon the chemical reaction begins and the glow is produced!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The grown up fireflies use their ‘glow' to call out to their mates. In fact, female fireflies prefer ‘flashy males' that can blink the longest or at a faster pace.\n\nOnce they see this special glow, the females respond to it by switching on their own lights. The firefly-mates soon meet and baby fireflies get created!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The younger fireflies or the larvae, unlike their parents, use their glow mainly to chase predators away. The chemicals within their bodies are toxic and have a horrible taste so creatures that come to feast on them get put off and go hunting elsewhere for tastier munchies!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Fireflies are never actually alone! There are more than 2,000 species of fireflies on this earth. During springtime, especially on dark nights, you may spot a few of them flitting around brightly!\n\nFireflies maybe tiny, smaller than your fingers perhaps, but grouped together, these glowing insects can light up an entire garden and all for free!\n\nSounds incredible, doesn't it?"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Amazing facts about fireflies\n\n1. Fireflies are not flies but beetles! They are often called ‘lightning bugs' but they aren't bugs either.\n\n2. Different species of fireflies glow in different colors that range from yellow to green. Fireflies that flit around in the dark emit a greenish glow while those found outdoors during twilight give out a yellowish light."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "3. There are a few non-vegetarian fireflies that feed on mites and other fireflies!\n\n4. Adult fireflies aren't the only ones that glow, their eggs and larvae glow as well! If you tap a firefly's egg, it flashes in response to your touch.\n\n5. Fireflies live in all continents except Antarctica. They love tropical climate but also thrive in temperate zones. They flit around forests, meadows and gardens during summer everywhere except in Antarctica that is much too cold for them."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Do It Yourself\n\n1. Find out what else glows in the dark. Both, living and non-living.\n\n2. While playing in a group, imagine yourselves as fireflies. Carry a small torch in your hand and make different formations like fireflies."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "3. Make a firefly with trash.\nFor example, with a plastic bottle and glow stick.\nYou can also try your own special ideas."
+    }
+  ]
+}

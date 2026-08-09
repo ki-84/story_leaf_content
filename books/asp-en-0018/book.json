@@ -1,0 +1,91 @@
+{
+  "bookId": "asp-en-0018",
+  "title": "Why is Yayeri great?",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 169,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Why is Yayeri great?",
+    "author": "Michael Oguttu",
+    "illustrator": "Vusi Malindi",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 14 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Yayeri the great one\nwakes up very early\nevery morning.\nWe ask ourselves, \"Why\nis Yayeri great?\""
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "She is grateful for the\nnight past.\nWe ask ourselves, \"Why\nis Yayeri great?\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "She prepares her bed\nvery well.\nWe ask ourselves, \"Why\nis Yayeri great?\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "She greets her parents\nand grandparents.\nWe ask ourselves, \"Why\nis Yayeri great?\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "She cleans her face\nwith blue soap.\nWe ask ourselves, \"Why\nis Yayeri great?\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "She brushes her teeth\nwith the lughano\ntoothbrush.\nWe ask ourselves, \"Why\nis Yayeri great?\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "She takes a cold water\nbath.\nWe ask ourselves, \"Why\nis Yayeri great?\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "She puts on her orange\nschool uniform.\nWe ask ourselves, \"Why\nis Yayeri great?\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "She puts on her black\nshoes.\nWe ask ourselves, \"Why\nis Yayeri great?\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "She hurries to her\nschool at Mbala.\nWe ask ourselves, \"Why\nis Yayeri great?\""
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "She studies Science,\nSocial Studies and\nMathematics.\nWe ask ourselves, \"Why\nis Yayeri great?\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "She sings, and dances\notamenhaibuga, and\nplays football.\nWe ask ourselves, \"Why\nis Yayeri great?\""
+    }
+  ]
+}

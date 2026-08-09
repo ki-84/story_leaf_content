@@ -1,0 +1,68 @@
+{
+  "bookId": "pb-en-0229",
+  "title": "Manya's perfect dress",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 143,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Manya's perfect dress",
+    "author": "Rachita Uday Kumar",
+    "illustrator": "Tanvi Choudhury",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2608-manya-s-perfect-dress",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Manya was getting ready for a party. But she did'nt know what to wear."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "She tried every t-shirt and pant she had. She still could not find the perfect dress."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "She tried her new frock and her t-shirt. She felt it was not nice."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "She tried on a t-shirt and a pant. They were too loose."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "She tried on her t-shirt with a poncho tied around her hip. Still not perfect."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "She took a green t-shirt and a pant. But they were too tight."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "She tried on her frock. But it was too long."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Manya was tired. She did'nt know what to wear. She suddenly stared out of her window, her eyes falling in her chudidhar. At first , she did'nt think about the dress. She wore the dress to the party. Manya had finally found the perfect dress."
+    }
+  ]
+}

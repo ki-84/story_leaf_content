@@ -1,0 +1,74 @@
+{
+  "bookId": "pb-en-0045",
+  "title": "What Shall I Wear Today?",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "ゆかい・ユーモア"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 137,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "What Shall I Wear Today?",
+    "author": "Natasha Sharma",
+    "illustrator": "Tanvi Choudhury",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/191-what-shall-i-wear-today",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Do you get the feeling sometimes that none of your clothes are just right? I do!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The shirt buttons trouble me.\n\nThe pants feel too tight on me."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The lehenga seems to trip me.\n\nThe choli does not fit me."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "My salwar keeps slipping.\n\nThe golden zari keeps itching."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The churidaar pulls and tugs everywhere.\n\nNothing perfect seems to be there."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "This frock is too bright.\n\nBrother's T-shirt? What a funny sight!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Papa's kurta is rather long.\n\nMummy's sari is wrapped all wrong.\n\nSome things are well out of my reach. Oh, it really makes me want to screech!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "These clothes seem to say, ‘We shall trouble you all day.'\n\nBut I have made up my mind today..."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "... to mix and match these clothes in a way that I have my very own style today!"
+    }
+  ]
+}

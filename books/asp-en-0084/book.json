@@ -1,0 +1,109 @@
+{
+  "bookId": "asp-en-0084",
+  "title": "Demane and Demazane",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 864,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Demane and Demazane",
+    "author": "South African Folktale",
+    "illustrator": "Jemma Kahn",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, there was a boy called Demane.\n\nHe had a twin sister called Demazane."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "When their mother and father died, they went to stay with their uncle.\n\nBut they were badly treated.\n\nThey were beaten with long sticks, and given thin porridge only once a day for food.\n\nSo they ran away."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "They found a cave to live in. They were scared because they had heard that there were cannibals living in the hills.\n\nSo they made a strong door to cover the entrance, with only two holes to let in air and light.\n\nDemane warned his sister, \"Stay in the cave while I am out hunting, and don't cook any meat. Cannibals love the smell of cooking meat.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Each evening Demane brought back something he had killed – a hare or some birds or a small buck.\n\nAs he came to the cave, he sang, \"Demazane, Demazane, child of my mother, open this cave to me. The swallows can enter it. It has two holes.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Demazane found it very boring to stay in the cave all day.\n\nSo one day, when her brother had gone, she went out to explore.\n\nShe found a stream to play in, and some trees to climb.\n\nShe felt free and happy. \"Perhaps,\" she thought, \"there are no cannibals. Perhaps Uncle said there were cannibals just to frighten us.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The next day she felt bold enough to make a fire to warm herself.\n\nBut she made it inside the cave with the door firmly shut – just to be on the safe side. \"I'm sure it won't matter if I put a little meat on the fire. It will be so good to have a cooked meal.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "When her brother came home he sang as usual,\"Demazane, Demazane, child of my mother, open this cave to me.  The swallows can enter it. It has two holes.\"\n\nShe opened the door and let him in.\n\nWhen he saw the cooked meat, Demane asked, \"How did you do this without a fire?\" \"I dried the meat in the sun outside the cave,\" Demazane replied quickly.\n\nDemane was too tired to argue, and they sat down to enjoy the meal together."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The next day, she made a fire and cooked meat again.\n\nShe had just finished when a voice sang outside the door, \"Demazane, Demazane, child of my mother, open this cave to me. The swallows can enter it. It has two holes.\"\n\nBut the voice did not sound like her brother's.\n\nDemazane said, \"No. You are not my brother. Your voice is not like his.\"\n\nShe felt safe in the cave."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "A little while later, someone was singing outside the cave again, \"Do let me in, my sister.\"\"Demazane, Demazane, child of my mother, open this cave to me. The swallows can enter it. It has two holes.\"\n\nThe voice sounded just like her brother's, so she opened the door."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "A huge hairy man filled the opening of the cave.\n\nHe grabbed Demazane before she could run away.\n\nDemazane just had time to pick up some ashes from the fire.\n\nAs she was being carried away, she dropped some ashes here and there along the path."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "That day, all Demane had managed to trap was a hive full of bees. He carried them in a thick bag slung over his shoulder.\n\nWhen he came to the cave, he found the door open and his sister gone. But there were ashes pointing the way into the woods.\n\nHe followed the ash along the path until he saw a fire in the distance."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Near the fire was a huge hairy man sitting with a large bag next to him.\n\nDemane walked up to the man, pretending to limp, \"Please, father, can you help me? I've hurt my leg. I need some water.\"\n\nThe man replied, \"I'll get you some water, if you will promise not to touch my bag.\" And he put the bag carefully in his hut."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "But when he had gone, Demane cut the string of the bag, and out climbed his sister.\n\nDemane replaced the bag with his own bag full of bees.\n\nBrother and sister hid and waited to see what would happen."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "When the man came with the water, his son and daughter came with him.\n\nHe said to his daughter, \"There is something nice in the bag in our hut. Go! Bring it!\"\n\nShe opened the bag a little to see what it was, but the bees stung her hand, and she called out, \"It is biting.\" \"Go and help her!\" he shouted to his son. But the result was the same."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "\"Don't treat me like a fool,\" he shouted, and stormed into the hut. He closed the door and opened the bag himself.\n\nThe angry bees swarmed out and stung his head, his nose, his eyes. Blinded, he jumped about, howling with pain."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Then he ran and fell headlong into a pond, where his head stuck fast in the mud.\n\nHe turned into a piece of wood like the stump of a tree. Just right for a bee hive.\n\nFor a long time after that, Demane and Demazane ate delicious honey from that hive."
+    }
+  ]
+}

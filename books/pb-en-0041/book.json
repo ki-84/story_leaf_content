@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0041",
+  "title": "Look At Me",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 120,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Look At Me",
+    "author": "Pankaj Chaturvedi",
+    "illustrator": "Ajit Narayan",
+    "translator": "Manisha Chaudhry",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/183-yeh-main-hoon",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Look at us.\n\nDo you want to be our friend?"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "My legs are very strong.\n\nI can run really fast with them."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "And my arms... such a nice swing!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I like to draw.\n\nI use my hands for drawing."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Should I draw your picture?\n\nI can see you with my eyes."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The bird sings a sweet song.\n\nI can hear it with my ears."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "I think Ma is making halwa.\n\nI can smell it with my nose."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Oh! This sugarcane is so tough! But my teeth are strong too!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "It is very sweet.\n\nMy tongue just told me."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "I can sing.\n\nShould I sing you a song?"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Ma says I have a good voice. Does it come from my throat?"
+    }
+  ]
+}

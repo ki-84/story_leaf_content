@@ -1,0 +1,111 @@
+{
+  "bookId": "asp-en-0362",
+  "title": "Nanu's taxi",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 299,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Nanu's taxi",
+    "author": "Marion Drew",
+    "illustrator": "Marion Drew",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 18 とページ数 16 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Hello! My name is Nanu. I am waiting with my mother for a\ntaxi. We are going home."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Here I am standing in line. My mother sings me a song.\n\"Come Mr Taxi can't you see? We are waiting, Nanu and me!\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The lady next to me is taking her chickens home. They will\nlay eggs for her to eat."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "These men are coming back from work. They smile at me. I\nhear them sing, \"Hey little Nanu, don't you worry. Taxi's\ncoming in a hurry.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "A lady walks past. She is a very smart lady. Aren't her shoes\nbeautiful? They go \"click, click, click...click, click, click...\"\nwhen she walks."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "This man is selling cold drinks. I love cold drinks. They are so\ncold and sweet. Do you like them?"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Look! There are ladies taking their supper home on their\nheads. Aren't they clever?"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "That lady is having her hair done. She is going out with her\nfriends tonight."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "I am tired now. My mother puts me on her back where I can\nrest. She sings, \"Please Mr Taxi, don't be late, Gogo is\nwaiting at our gate.\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "There is my friend Tumi. He is also resting. We will be home\nsoon."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "High up there the birds are flying home. They must get home\nbefore it is dark."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "This lady has beautiful earrings. I think she bought them in\ntown today. When I grow up I will buy many earrings for me\nand my mother."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "My mother is getting tired now. I sing her a song, \"Please Mr\nTaxi, won't you come, we are waiting, me and mum.\""
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Wait! I can hear the taxi! Here it comes!!!"
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "This is our big red taxi. It has come to take me and my\nmother home. I am very happy!"
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Goodbye!!!"
+    }
+  ]
+}

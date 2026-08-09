@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0055",
+  "title": "Baby snatched by cranes",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 539,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Baby snatched by cranes",
+    "author": "South African Folktale",
+    "illustrator": "Emily Berg",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time there was a\nfamily who lived in a village. The\nparents in this family woke up early\nevery morning to work in the fields.\nThey left the baby with their elder\nson, Sipho who was ten years old,\nand their eldest daughter Bulelwa,\nwho was twelve years old."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The older children loved playing\noutside during the day and they\nforgot about doing their household\nchores. They called their friends to\ncome and play with them. The boys\nloved playing soccer. The girls loved\nplaying with dolls around the yard.\nThey forgot about looking after the\nbaby when their friends arrived. The\nbaby cried and cried and nobody\nheard."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day the children put the baby\nunder a tree in the shade on a\nbright red blanket. They went to\nplay. The baby began crying as\nusual. A group of cranes flew above\nthe playground and felt sorry for the\ncrying baby. They tried to get the\nchildren to notice that the baby was\ncrying but the children kept on\nplaying. The cranes decided to take\nthe baby and raise it themselves."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Four cranes came to pick up the\nbaby from under the tree. Each\ncrane took a corner of the baby's\nblanket, lifted the baby up and flew\naway. The children did not notice\nanything because they were busy\nplaying. The children's parents were\nworking hard in the hot sun."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "It was so hot that the mother\ndecided to rest under a tree. While\nshe was resting she heard her baby\ncrying. She looked around and she\ncould not see anything. Then she\nlooked up and she saw four cranes\nflying away with her baby in the\nbright red blanket. She screamed\nand chased after the cranes. When\nthe woman told her husband what\nshe saw he did not believe her."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The cranes hid the baby between\nthe reeds to protect it. They wanted\nto find a new family that would care\nfor the baby. They fed it and put it\nto sleep. Then they flew away to\nlook for more food. The baby slept\nfor a long time without crying.\nWhen the baby woke up it started\ncrying because it was hungry."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "A big frog heard the baby's cry. It\ncame closer and saw the baby\nwrapped in the blanket. The frog\nthought the cranes had stolen the\nbaby, and decided to hide the baby\nfrom the cranes. Suddenly the frog\nheard the voices of the cranes.\nThere was no time to hide. The frog\nswallowed the baby and hid behind\na big rock. When the cranes arrived\nthey could not find the baby and\nthey flew off to look for it. The frog\nhopped back to the baby's family\nhome."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The baby's family was sitting in the\nevening feeling very sad. Suddenly,\na big frog jumped through the door.\nThe frog told them about how it\nswallowed their baby. They begged\nthe frog to give them the baby.\n\"Give me three flies to eat then I\nwill give you the baby,\" said the\nfrog.\" The father caught three flies\nand fed them to the frog. The frog\ncoughed and the baby popped out.\nThe family and the frog jumped and\ndanced with joy."
+    }
+  ]
+}

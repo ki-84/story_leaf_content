@@ -1,0 +1,90 @@
+{
+  "bookId": "asp-en-0342",
+  "title": "Punishment",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 131,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Punishment",
+    "author": "Adelheid Marie Bwire",
+    "illustrator": "Melany Pietersen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 14 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day, mama got a lot of fruit."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "\"When can we have some fruit?\" we ask.\n\n\"We will have the fruit tonight,\" says mama."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "My brother Rahim is greedy. He tastes all the fruit. He eats a lot of it."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "\"Look at what Rahim did!\" shouts my little brother.\n\n\"Rahim is naughty and selfish,\" I say."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Mother is angry with Rahim."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "We are also angry with Rahim. But Rahim is not sorry."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"Aren't you going to punish Rahim?\" asks little brother."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "\"Rahim, soon you will be sorry,\" warns mama."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Rahim starts to feel sick."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "\"My tummy is so sore,\" whispers Rahim."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Mama knew this would happen. The fruit is punishing Rahim!"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Later, Rahim says sorry to us. \"I will never be so greedy again,\" he promises.\n\nAnd we all believe him."
+    }
+  ]
+}

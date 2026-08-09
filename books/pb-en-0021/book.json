@@ -1,0 +1,63 @@
+{
+  "bookId": "pb-en-0021",
+  "title": "Chhuk-Chhuk-Chhak",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 124,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Chhuk-Chhuk-Chhak",
+    "author": "Vinita Krishna",
+    "illustrator": "Suvidha Mistry",
+    "translator": "Ritu Singh",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/101-chhuk-chhuk-chhak",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Nanhi picked up her slate and chalk.\n\nShe wanted to draw a long, l-o-n-g train."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Nanhi first drew an engine which gave out a lot of smoke, for the long, long train."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "“Oh dear! Now where shall I make the coaches?” Nanhi wondered, for there was no more space on the slate."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Nanhi put the slate and chalk down on the floor and thought."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "She drew a coach on the floor.\n\nThen a second coach, then another, and another, and another... Nanhi just kept drawing."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Until her chalk got over.\n\nNanhi got up and took a look. Wow!\n\nHer train was as long as the verandah!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "And off went Nanhi's train – Chhuk-Chhuk-Chhak, from here to there, so very far!"
+    }
+  ]
+}

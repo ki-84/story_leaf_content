@@ -1,0 +1,70 @@
+{
+  "bookId": "asp-en-0306",
+  "title": "My daughter Polar",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 46,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "My daughter Polar",
+    "author": "Cissy Namugerwa",
+    "illustrator": "Vusi Malindi",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "This my daughter Polar."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "She is a good girl."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "She likes telling stories."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Her mother tells her stories."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Polar tells her friends too"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "One day Polar told a very good\nstory."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The story was about\ncooking."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Her teacher gave her a\ncake and all became\nhappy."
+    }
+  ]
+}

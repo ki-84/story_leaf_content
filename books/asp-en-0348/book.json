@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0348",
+  "title": "Things I know",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 221,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Things I know",
+    "author": "Ursula Nafula",
+    "illustrator": "Michael Nakuwa",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "This is a Manyatta.\nIt is my home.\nMy home is in Turkana\nCounty."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "This is a camel.\nIn Turkana County\npeople keep many\ndifferent animals.\nBut the camel is very\nimportant."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "These are my teachers.\nI like going to school.\nMy school is called\nLolupe Primary School.\nI like my Art teacher\nvery much."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "This is a ship.\nShips are big.\nThey are used to\ntransport people and\ngoods on water.\nIf I go to Mombasa, I\ncan see a ship."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "This is a bed.\nI like the bed that my\nfather made for me.\nI share it with my\nyounger brother.\nIt is comfortable."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "This is a cock.\nAt home, we have two\ncocks.\nWe also have many\nchickens.\nThe chickens lay many\neggs."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "This is a mouse.\nMice are dangerous\nanimals.\nThey eat food.\nThey also destroy\nclothes.\nThey can cause\ndisease."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "This is a dog.\nDogs are domestic\nanimals.\nOur dog is called Daa.\nHe barks a lot."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "This is an umbrella.\nMy parents have a big\numbrella.\nIt has red, blue, orange\nand green colours.\nWhen it rains, we use\nan umbrella so we do\nnot get wet."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "I am in class two and I know many things.\nI want to know many more.\nWhat I do not know, I ask my parents or my teacher."
+    }
+  ]
+}

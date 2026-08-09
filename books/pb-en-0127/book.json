@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0127",
+  "title": "Clean Cat",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 200,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Clean Cat",
+    "author": "Kanchan Bannerjee",
+    "illustrator": "Deepa Balsavar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1057-clean-cat",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "This is my house. Ma, Pa and Cheena also live here."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The best chair in the house is for me. But sitting on the lap is even better, isn't it?"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Cheena is my best friend. I wait for her to return from school."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I keep myself clean without water. I do not need a bath like Tommy."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Shhh... don't tell anyone that I am hiding here.\n\n1...2...3... Got you!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Ma shouts at me, when I bring some tasty food from the garden."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "I can climb trees. I can jump. I know all the short cuts here."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Sanju lives nearby. He teases me. It makes me very angry."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Please tell Sanju that the tiger is from our cat family. We have sharp claws."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "My friends sometimes make a lot of noise at night. By then I am quietly in bed."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Tails can speak!\n\nDid you know how animals and birds tell us something by using their tails?\n\nA dog wags its tail when it is happy. A cat puffs up its tail when it is angry.\n\nOften we say, “As clean as a cat”. This is because cats do not like water, yet they are always keeping themselves clean by licking themselves."
+    }
+  ]
+}

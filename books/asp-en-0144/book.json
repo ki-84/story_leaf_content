@@ -1,0 +1,60 @@
+{
+  "bookId": "asp-en-0144",
+  "title": "A Trip to Zanzibar",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ファンタジー"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 87,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "A Trip to Zanzibar",
+    "author": "Barke Ramadhan",
+    "illustrator": "Wiehan de Jager, Laura Libertore, Catherine Groenewald, Rijuta Ghate",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 8 とページ数 6 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A walk in Zanzibar,\nwhat do you see?\nShops selling sweets,\nin very narrow streets."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "A swim in Zanzibar,\nwhat do you see?\nChangu, Kibua, Tasi,\nPono, Jodari na Kambisi."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "A drive in Zanzibar,\nwhat do you see?\nAnimals in a jungle,\nwatching at an angle"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "A dance in Zanzibar,\nwhat do you see?\nSwahili, English and Arab,\nall dancing Taarab."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "A drink in Zanzibar,\nwhat do you see?\nmiwa, madafu juicy,\ncoffee and tea are spicy."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "A trip to Zanzibar,\ndo you wish to go back?"
+    }
+  ]
+}

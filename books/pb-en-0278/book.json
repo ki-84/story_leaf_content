@@ -1,0 +1,44 @@
+{
+  "bookId": "pb-en-0278",
+  "title": "Queen's Village",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "むかしばなし",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 154,
+  "pageCount": 3,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Queen's Village",
+    "author": "Lakshmi Prasanna",
+    "illustrator": "Lovely Samhitha, anil k, ayyagari anju",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3281-queen-s-village",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time , there lived a beauty queen in a village called tungatoor.\n\nThe queen was so beautiful that the whole village was fond to see her.\n\nOne fine morning, a news broke that the queen has fallen sick and doctors from all over the kingdom tried to save her from the disease."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "But, the prayers of villagers and doctors went into vain. Atlast the queen had to leave her last breathe and died.\n\nAfter this incident, there was so much disturbances in the village. Like, ther was no rains, kingdom suffered with many diseases and people died."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "This is continued till there was an other girl born in the same family of that of queen's and who was also named as \"devishta\" same as the queen's.\n\nAfter that birth, the kingdom regained its state as it was earlier. The mystery behind the death of queen and village devastation was not yet known."
+    }
+  ]
+}

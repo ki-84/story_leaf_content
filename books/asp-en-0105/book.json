@@ -1,0 +1,89 @@
+{
+  "bookId": "asp-en-0105",
+  "title": "Ms Phone",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 140,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Ms Phone",
+    "author": "Ursula Nafula",
+    "illustrator": "Marion Drew",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "She is called Ms Phone. Look at her!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "She has five cellphones.\n\nWhen she wakes up, she arranges her cellphones on the table."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The yellow one is for communicating with family."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The white one is for communicating with people at work."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The red one is for communicating with those who owe her something."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The pink one is for communicating with her best friends."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The purple one is for communicating with people who need her help."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Ms Phone likes people to be happy. She does not like fighting."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "She lets the children watch television at her shop."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "She visits the sick and the elderly in their homes."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "When she passes, there are shouts of \"Ms Phone! Ms Phone!\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Then she feels happy and says, \"I am Ms Phone. Here, look at my phones!\"\n\nThat is Ms Phone and her five cellphones."
+    }
+  ]
+}

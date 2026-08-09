@@ -1,0 +1,99 @@
+{
+  "bookId": "asp-en-0270",
+  "title": "Hare Tricks Tortoise",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 345,
+  "pageCount": 14,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Hare Tricks Tortoise",
+    "author": "Maimouna Jallow, Haji Gora Haji",
+    "illustrator": "João Carlos Brito, Katrien Coetzer, Wiehan de Jager, Claudio Molina, Padmanabha, Catherine Groenewald, Marion Drew",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, there lived a tortoise, who had worked\nvery hard during his entire life."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "When he retired, he received a nice lump sum of money."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He decided that he would buy a big piece of land with the\nmoney, and become a farmer."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "News spread all over the village that Tortoise was looking for\nland to buy."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "When Hare heard the news, he had an idea! He rushed to\nsee Tortoise and said:\n\n\"Mr Tortoise! I can help you find land to buy. Come with me!\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "That very same day, Hare took Tortoise to visit a plot. He\npointed to a large field and said:\n\n\"I own all this land!\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Tortoise was impressed.\nAfter bargaining for a while, they agreed on\na price and Tortoise paid for the land."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The next day, Tortoise got up bright and early. He gathered\nsome of his friends together and they went with their tools to\nvisit the farm. They wanted to prepare it for planting."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "When they reached, all they could see was water!\n\"Where is your land?\" they asked, unable to contain their\nlaughter."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Tortoise realised that he\nhad been tricked.\nHare had sold him a\nbeach, and when the\ntide came in, all that\nwas left was the sea.\nThere was no farm land."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Tortoise went straight away to see Elephant, who was the\nhighest judge in the land, and told him what had happened.\n\nElephant ordered lion to go and find Hare and bring him to\nthe court."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "When Hare heard lion coming, he\nran out and said: \"I am so happy to\nsee you lion, but I have to run. Wild\ndogs have invaded our village!\"\n\nAs soon as he was out of sight,\nHare ran from house to house,\nhowling like a wild dog."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Lion could hear the howling wild dogs coming from all\ndirections, and shaking with fear, he ran away."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "And hare too ran away,\nwith all of Tortoises\nmoney!\n\nTortoise was sad, but he\nhad many friends who\nhelped him find another\npiece of land to farm."
+    }
+  ]
+}

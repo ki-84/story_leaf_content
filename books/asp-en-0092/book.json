@@ -1,0 +1,99 @@
+{
+  "bookId": "asp-en-0092",
+  "title": "Hare and Tortoise (Again!)",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 461,
+  "pageCount": 14,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Hare and Tortoise (Again!)",
+    "author": "Venkatramana Gowda, Divaspathy Hegde",
+    "illustrator": "Padmanabha",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Do you remember the Great Race between the hare and the tortoise?\n\nFor a long time, no one in the entire animal kingdom could talk about anything but the Great Race and its two contestants."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "We all know that the rabbit was defeated because he was lazy and overconfident.\n\nWe know that the tortoise won the race because he was slow and steady. The forest animals knew this too, and continued to respect both creatures equally."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Even the two competitors remained friends. The tortoise did not assume airs because he had won, and the hare, realising he had been defeated fair and square, bore the tortoise no grudge."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Many months passed. The king of the jungle where the hare and the tortoise lived had some important matters to discuss with the king of the neighbouring jungle.\n\nBut the first king could not leave his jungle just then. He decided, instead, to send the hare and tortoise to the neighbouring king, as his representatives."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "\"At least one of you must go to the neighbouring kingdom,\" ordered the king, when the hare and the tortoise had presented themselves.\n\n\"I want you to discuss certain important matters with the king there, and come back to me with his thoughts on those matters.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"Now go!\" he said, as he dismissed them. \"And mind, you only have a day to complete the task.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The road to the neighbouring kingdom was not smooth or easy.\n\nIt was rocky and full of thorns.\n\nThere were also two rivers to cross on the way."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "After some thought, both the hare and the tortoise realised that neither of them could complete the task alone.\n\nThey had to travel together."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The plan was for the hare to carry the tortoise over the thorny parts of the route, and for the tortoise to carry the hare across the two rivers."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The next day, they collected the various messages from their king and were ready to go.\n\nThe hare made short work of the thorny parts of the route with his giant loping strides, while the tortoise held on for dear life."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "When they came to a river, they switched places, and the hare clambered onto the tortoise's back."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The tortoise swam across the river gracefully.\n\nOnce both rivers had been crossed, it did not take them long to arrive at the neighbouring kingdom."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "After long discussions with the neighbouring king on all the matters raised by their own king, the hare and the tortoise were ready to leave."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "The journey home was even smoother than the outward journey, since both the hare and the tortoise now knew exactly what to do.\n\nThe two old rivals had worked so well that they reached the king well ahead of the deadline he had set!"
+    }
+  ]
+}

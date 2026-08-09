@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0323",
+  "title": "Chhoti and Bade",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 183,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Chhoti and Bade",
+    "author": "Shivani Kumar",
+    "illustrator": "Rayika Sen, Sanjay Sarkar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3903-chhoti-and-bade",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Chhoti used to love being outdoors. Everyday she would walk through the fields talking and singing to the crops and birds."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day she entered the forest. In the forest she could hear a lot of birds chirping and also some animal sounds."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "As Chhoti walked through the forest, she saw a huge footprint on the ground. It was so big that both her feet could fit into the print and there was still some extra space."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "For a brief moment she got really scared! She wondered which animal could be so big and huge. She started thinking about dark and scary things."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Then all of a sudden, in the distance, Chhoti saw Bade- the elephant. He was really big. This footprint was surely his."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Bade walked up to Chhoti and nudged her with his trunk to say Hello. Chhoti had never seen such kind eyes before"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Bade lifted Chhoti on to his back and they went for a long walk through the forest. From that day onwards each day Chhoti would sit on Bade's back and they would discover the forest together."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "bookId": "pb-en-0009",
+  "title": "Susheela's Kolams",
+  "slug": "susheela-s-kolams",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 210,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "storyweaver (global-asp/pb-source mirror)",
+  "attribution": {
+    "title": "Susheela's Kolams",
+    "author": "Sridala Swami",
+    "illustrator": "Priya Kuriyan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/54-susheela-s-kolams",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "bundled": true,
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Susheela lives in Tamil Nadu.\n\nShe learnt to draw kolams from her mother."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Every Pongal, she was allowed to make one kolam all by herself."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Susheela loved to make kolams!\n\nShe drew them on floors and steps and walls..."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "... on trains and on the sides of tall buildings..."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "... even on kites that skipped in the sky.\n\nEveryone admired Susheela's kolams!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "One day, the Air Force asked her to help them make a kolam!\n\nSusheela told the pilots how to dip, dive and turn their planes..."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "... and in minutes there was a big, beautiful and colourful kolam in the sky, that everyone in the city could see!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "That night, Susheela stood on her terrace and looked up at the sky. She saw the stars twinkling down at her.\n\nWhere do you think Susheela will make her next kolam?"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Know more about Kolams...\n\nKolams are beautiful patterns made freehand or by joining dots. People decorate the outside of their homes with kolams to welcome a new day. They are also thought to bring good luck. Traditionally, the powder used to make kolams is made out of rice flour.\n\nKolams are also known as Moggu, Rangoli, Chowkpurna, Alpana and Hase Chittara. What do you call a kolam in your part of the country?"
+    }
+  ]
+}

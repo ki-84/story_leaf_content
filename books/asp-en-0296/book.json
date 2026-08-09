@@ -1,0 +1,88 @@
+{
+  "bookId": "asp-en-0296",
+  "title": "Tom the banana seller",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 140,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Tom the banana seller",
+    "author": "Humphreys Odunga",
+    "illustrator": "Zablon Alex Nguku",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Tom carries a tray of ripe bananas."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Tom goes to the market to sell bananas."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "People at the market are buying fruit."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "But no one is buying\n\nTom's bananas.\n\nThey prefer to buy fruit from women."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "\"In our community, only women sell fruit,\" people say. \"What kind of a man is this?\" people ask."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "But Tom does not give up.\n\nHe calls, \"Buy my bananas!\n\nBuy my sweet ripe bananas!\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "One woman picks up a bunch of bananas from the tray.\n\nShe looks at the bananas carefully."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The woman buys the bananas."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "More people come to the stall.\n\nThey buy Tom's bananas and eat them."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Soon, the tray is empty.\n\nTom counts the money he earned."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Then Tom buys soap, sugar, and bread.\n\nHe puts the things in his tray."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Tom balances the tray on his head and goes home."
+    }
+  ]
+}

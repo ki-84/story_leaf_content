@@ -1,0 +1,64 @@
+{
+  "bookId": "asp-en-0255",
+  "title": "The baboons that went this way and that",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 745,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The baboons that went this way and that",
+    "author": "Southern African Folktale",
+    "illustrator": "Benjamin Mitchley",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was much unhappiness in a village of small huts. The people\nwho lived there had been happy before, but then wild animals had\ncome and had begun to frighten them. These animals ate all their\ncrops and from time to time they even carried off children who\nwandered away from their parents. It was not a good place to live\nany longer, and the people began to think of where they might go\nto lead a new life."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One family found the answer. Rather than deal with the wild\nanimals who seemed to be everywhere on the flat land, they\ndecided to go in search of food up in the hills. It was not hard to\nfind food there. There were bushes that grew in the cracks\nbetween rocks. There were trees that grew at the foot of the\nslopes. There were rock rabbits which could be trapped and birds\nwhich could be brought down with the stones which littered the\nfloor of the caves."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Other families noticed how well the hill family was doing. They saw\nthe sleekness of their children, and they noticed how calm the\nparents were.\n\"It is a good life that we lead up in the hills,\" said the husband.\n\"You should come there too.\"\nSoon the other families abandoned their homes on the flat land\nand went up to the hills. Each family found a cave to live in, and in\nthis way they were warm and secure. Soon everybody talked about\nhow sorry they were that they had not come to the hills earlier,\nrather than letting the wild animals eat their crops and drag off\ntheir children."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "As the children grew up in the hills, they began to get better at the\nthings that had to be done to live in such a place. They became\nvery quick at climbing rocks, and even the youngest could\nscamper up a face of rock almost as quickly as any rock rabbit.\nThey also became good at climbing into trees to look for fruit, and\nthey could swing in the branches almost as well as any monkey.\nPeople who passed by and saw the hill people living on their hill\nwondered whether they were perhaps wild animals, but when they\nsaw their faces and the clothes that they were wearing they\nrealised that they were only people who had made the hills their\nhome."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Slowly, things began to change. The parents noticed that their\nchildren were talking less, and that rather than speaking to one\nanother in the language of people they were beginning to use\ngrunts. Then the adults themselves noticed that their noses were\ngetting bigger and that they were growing hairier. Every time they\nlooked at one another they saw that their faces had changed yet\nmore and that their teeth were longer.\nSoon they spent as much time on four legs as on two, and it was\nat this point that they became a new creature. This creature,\nwhich had never before been seen in that place, was the creature\nwhich people now call the baboon."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "For a time, the baboons lived happily. They stopped chasing the\nrock rabbits and started to eat grubs from the ground. They also\nforgot how to talk, and nobody now made any sound other than a\nbark or a grunt. They took off their clothes and let the rags lie on\nthe ground until they were destroyed by ants. Their legs and arms\nwere now completely covered with dark hair.\nThey still remembered, though, that they had been people, and\nthis was something which made them worried. When they looked\ninto each other's faces, they realised that their noses were now\nmuch bigger than they had been before, and this made them jeer.\nEvery baboon laughed at every other baboon, pointing at his\nenlarged nose and throwing his hands about in mirth. This made\nthe baboon who was being laughed at angry. He would jump up\nand down in anger, all the while laughing at the large nose of the\nother."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Eventually the mockery became so great that the baboons could\nno longer bear to be together. Each family split off and lived by\nitself, laughing at the others because of their great noses, but not\nliking to be laughed at for their own noses. That is why baboons\nlive in small groups today and do not live as a baboon nation, as\ndo people and many other animals."
+    }
+  ]
+}

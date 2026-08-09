@@ -1,0 +1,119 @@
+{
+  "bookId": "pb-en-0070",
+  "title": "Bani",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 716,
+  "pageCount": 18,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Bani",
+    "author": "Herminder Ohri",
+    "illustrator": "Taposhi Ghoshal",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/396-bani",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Bani is a little girl of four.\n\nShe lives in a house with a green door.\n\nShe goes to a school with bright yellow windows and red doors."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Bani loves her school. Along with lessons, she dances, sings and plays with her friends."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One night, Bani was really tired. As she closed her eyes to sleep, she felt herself floating away, out of the house, down the hill into a grove of trees."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Wake up! Wake up Bani! Bani woke up with a start. She saw many strange children with funny faces and hats standing in front of her."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The children made a ring around Bani and began singing.\n\n“Welcome! Welcome! We have waited for you for nearly a year.”\n\n“For a whole year!” whispered Bani.\n\n“Yes! Yes!” they shouted."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "“We know you can float in your sleep.”\n\n“May be sing in your sleep.”\n\n“But I am not asleep,” said Bani pinching herself, “Ouch!”\n\n“Even fly in your sleep,” they sang.\n\n“Fly? How and where?” asked Bani.\n\n“Stretch your arms out like wings, fly like a bird, a cloud or anything.”"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Bani stretched out her arms and she was flying with her new friends.\n\nThey flew over the forest and when Bani looked down, she saw hundreds of lights."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "She followed the children down towards the lights.\n\nBani saw a town all made of giant mushrooms.\n\nThere were green mushrooms, yellow, white, purple and red mushrooms.\n\nIn each mushroom was a house."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Bani flew into one house. The house was like any other house, but the floors were mushroom floors – so – so – soft. Softer than any carpet. The children skipped and ran showing Bani the mushroom town."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "“Come! Let us eat,” said the children together. All Bani could see were fields and fields of odd looking mushrooms.\n\n“What funny mushrooms,” said Bani. “Oh! those are laddoo mushrooms.”\n\nBani was surprised to see that on top of each mushroom was a laddoo. There were yellow, green and white laddoos and barfis too."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Bani broke off one laddoo and ate it. It was so...o...delicious.\n\nQuite laddoo–licious, she thought. Bani heard her name being called.\n\nShe saw mushrooms shaped like books. The pages were turning by themselves.\n\nThe figures on these pages were jumping up and down, “Bani come read with us.”"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Bani went to the book mushrooms. The figures told her stories of kings, queens, fairies and brave warriors. She listened while eating mushroom chips.\n\nSoon she was very thirsty. The children took her to a stream of sparkling water.\n\nIt was lemonade. The next stream was orange juice and another mango juice.\n\nBani drank a little from all the streams. It was nice and cold."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "There was wonderful music coming from the music mushrooms. Bani found herself dancing with a little boy in a pointed hat and pointed shoes. “What is your name?” asked Bani.\n\n“I am Pointy,” said he. Even his face was pointed.\n\nThen Bani danced with a little girl who wore a heart-shaped hat and shoes to match her heart-shaped face. “I am Little Heart,” she sang."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Bani sang and danced with all the children. “I am tired,” said Bani, “Can we rest?”\n\n“No time! No time! Take a sip of lemonade.”\n\nBani took a sip and she felt better.\n\n“Let us fly to the mountains,” they said. They flew past mountains made of cake, ice cream and candy."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Then they came to the very last mountain. It was a toy mountain.\n\nBani had never seen so many toys! The children played with brightly coloured magic balls that bounced here and there making the children jump.\n\nToy cars whizzed up to them and took them for rides."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "There were magic jigsaw puzzles that spoke, “Put us together!”\n\nColoured blocks shouted, “Build us up and you can knock us down.”\n\nBani had a great time. Now it was time to go home.\n\nThey all flew over the forest to Bani's home."
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "“Bye bye Bani! Come again!” The children flew back to mushroom town."
+    },
+    {
+      "index": 17,
+      "imagePath": "images/19.jpg",
+      "text": "Bani got into her bed and fell fast asleep. In the morning she thought she had such a lovely dream, till she opened her hand and saw a ...\n\nWhat do you think Bani saw in her hand?\n\nWhy don't you make your own little story ... about Bani."
+    }
+  ]
+}

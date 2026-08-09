@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0224",
+  "title": "The Dancing Goat",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "ぼうけん"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 145,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The Dancing Goat",
+    "author": "folktale",
+    "illustrator": "José Nhambo",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day, a goat went out in the bush, and wandered around\nhappily. But then she got lost!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Suddenly, she met a wolf! The wolf came up to her, and he\nlooked very hungry."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The goat said: Mr. Wolf, I know you want to eat me. But I\nwould like to die happy!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The wolf asked the\ngoat: What do you\nmean? Die happy?\nHow?"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The goat answered: If I\nhave to die, I would like\nto die dancing!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Then the wolf took his\nguitar. He sat down and\nstarted playing it."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "And the goat started\ndancing, though she\nwas still a little bit\nworried."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Near that place, there were dogs. They came to see what\nwas happening."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Now that wolf was afraid of dogs. So he turned and ran\naway!"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "And the goat kept on\ndancing, because now\nshe was free from the\nwolf!"
+    }
+  ]
+}

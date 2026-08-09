@@ -1,0 +1,69 @@
+{
+  "bookId": "pb-en-0091",
+  "title": "The Boat Ride",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 358,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Boat Ride",
+    "author": "Herminder Ohri",
+    "illustrator": "Herminder Ohri",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/723-the-boat-ride",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "In a small garden in the city, there was a big pipal tree.\n\nA family of squirrels lived on that tree. Vikki is one member of that family who likes to talk big. His cousin, Kato had come to visit him from Far Forest."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "“Today we shall go on a big boat,” said Vikki to Kato.\n\n“B... B... But, I... I...am afraid of water, I cannot swim,” mumbled Kato.\n\n“Come on, you scrappy squirrel! With Vikki around, you need not be afraid. I have been on a boat many times.”\n\nVikki importantly leading the way, they reached the river."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The boat was tied to a post. So they ran up the rope, hopped into the boat, and sat curled in a corner."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Slowly the boat started moving up and down the river, which curled and curved through the trees. Kato saw many ducks swimming past them.\n\nThe fish put their heads out of the water and gulped a “Hello!”\n\nSome swans majestically glided near them."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "They were so beautiful that Kato tried to touch one and he toppled over into the river. As he went deeper into the water, he passed some fish.\n\n“Help! Help!” he gurgled, as he passed the boat."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Vikki did not know what to do. He just scampered from one side of the boat to the other side, shouting, “Help! Squirrel overboard!”\n\nA swan had seen Kato fall into the water. She just put her head down in the water and picked up Kato in her beak. Then she tossed him into the boat."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "A shivering, trembling Kato sat in a sunny corner to dry himself.\n\nVikki sat quietly near him. As he got warm and dry, he cheered up, “What an adventure! Wait till I tell the folks back home.”\n\nAlready he fancied himself as a sailor! A hero! Brave and adventurous!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "When the boat reached the bank, the squirrels hopped off and swaggered their way home. Kato was finding it difficult to keep his grand adventure inside his head. His head was going round and round like the boat.\n\nHe shut his eyes and fell fast asleep at the dinner table."
+    }
+  ]
+}

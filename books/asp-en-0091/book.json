@@ -1,0 +1,96 @@
+{
+  "bookId": "asp-en-0091",
+  "title": "Adun, the beautiful",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 320,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Adun, the beautiful",
+    "author": "Taiwo Ẹhinẹni",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 15 とページ数 13 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Adun was very beautiful. All the\nmen in her village wanted to\nmarry her. But Adun refused\nthem all."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One market day, a man\nborrowed legs from another\nman, and arms from another,\nand a body from a third man.\nThen this man joined all the\nparts together. He put his head\non top and went to the market."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "This man wanted Adun and was\ndetermined to marry her. Adun\nwas pleased by his appearance.\nShe wanted to be with him. The\nman came from a far town, and\nAdun decided to return with\nhim."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "As Adun and the man journeyed\nto his place, the owner of the\nlegs took the legs back.\nThen the owner of the arms\ntook his arms back.\nAnd finally the owner of the\nbody took that back."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Only the head was left, and the\nhead went on. Adun was scared\nbut she did not run away. They\narrived at the house of the\nhead."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The following morning, before\nthe head went to his farm, he\nspoke to Tortoise. \"If Adun tries\nto escape, blow this horn to tell\nme,\" said the head."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "After the head left, Adun packed\nher things. Then she began to\nrun away."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Seeing her, Tortoise blew the\nhorn, \"Head, head, Adun is\nabout to run away,\" puffed\nTortoise."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The head went up to Adun and\nsaid, \"Where do you think you\nare going?\"\nAdun went back to the head's\nhouse."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Eventually Adun consulted a\ndiviner about what to do. The\ndiviner advised, \"Go and buy\nsome bean cakes. Soak them in\npalm oil and put them in\nTortoise's horn.\""
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Adun followed the diviner's\ninstructions. She put the oily\ncakes into the horn."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The following day, she took her\nthings and began to run away\nagain. When Tortoise took the\nhorn to blow it, the delicious\nbean cakes fell into his mouth."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Tortoise ate, ate and ate.\nAnd Adun ran away."
+    }
+  ]
+}

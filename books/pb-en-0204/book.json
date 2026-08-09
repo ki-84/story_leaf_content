@@ -1,0 +1,74 @@
+{
+  "bookId": "pb-en-0204",
+  "title": "The Story of Stories",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 557,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Story of Stories",
+    "author": "Roopa Pai",
+    "illustrator": "Prashant Miranda",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2380-the-story-of-stories",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "It was a beautiful summer day in the Forest-By-The-Sea in the glorious land of Somewheristan. Whales danced in the waves, singing to each other. Sea lions, their smooth brown bodies glistening in the sun, played peek-a-boo with the noisy seagulls, barking and scolding.\n\nEvery creature in the Forest was happy, happy, happy."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Excuse me! you say. That can't be true. There's NEVER a time when EVERY creature ANYwhere is happy, happy, happy.\n\nHmmm. Maybe you're right. Maybe not EVERY creature was happy. This journalist bear, for instance.\n\nIn this picture, Bear is trying to smile, but he has a great sorrow. He simply cannot find a ‘BREAKING NEWS' story. He even sent Bird to look - because Bird moves faster and sees better - but Bird came back with nothing."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "‘BREAKING NEWS' stories are about anger and fear and hate and greed, and there was none of that in the Forest. Everything was happy, happy, happy.\n\nA journalist bear without a ‘BREAKING NEWS' story doesn't deserve to be a journalist bear, thought Bear sadly to himself. He should be a Waiter Bear, or a Sweeper Bear, or a Telephone Voice Bear, saying, ‘Please check the number you have dialled', or ‘Kindly wait - you are in a queue'."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "He packed his things and started walking to the bus-stop, when Singing Sardarji popped out from behind a tree."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "“Arrey oh Journalist Bear!” said Sardarji. “Going somewhere?”\n\n“Don't call me that or I will cry,” said Bear, and told Sardarji he was leaving to become a Telephone Voice Bear.\n\n“Don't be such a silly bear, Bear!” scolded Sardarji. He pulled out a guitar and began to sing.\n\n“If Tweety birds stop tweeting,\n\nand Hooty Owls stop hooting,\n\nthe world would be a sad playyyy-ce,\n\ndon't you see?”"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "“Don't you seeeeeeee?” sang the Tweety Birds and the Hooty Owls.\n\n“If Singing Sardarjis don't,\n\nand Journalist Bears won't,\n\nthe world would be a bad playyyyy-ce, don't you see?” sang Sardarji."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "“I do enjoy being a Journalist Bear,” Bear said sadly. “I do love finding out things, and talking to people, and writing their stories, but I also do NOT have a ‘BREAKING NEWS' story, which means...”\n\n‘A-HA!' said Singing Sardarji.\n\n“What?” said Bear, puzzled.\n\n“You like finding out things! And talking to people! And writing their stories! You are a Journalist Bear, Bear, but you have the soul of a... drumroll please... Writer Bear!”"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Bear beamed. Sardarji was right! He really WAS a Writer Bear.\n\n“Tell you what, Bear,” Sardarji went on, “let's travel the world, you and I. I will sing, and you, Bear, will write. Not 'BREAKING NEWS' stories - no one remembers those after three days, anyway - but real stories of real people, stories that will never grow old.”\n\n“Hurray!” said Bear."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "And that was how Writer Bear and Singing Sardarji set out to explore the world.\n\nEverywhere they went, Sardarji sang to the people, and Bear listened to them. Over time, Bear wrote many, many stories. Happy stories that made people cry, funny stories that made them think, sad stories that made them hope, and scary stories that made them laugh.\n\nAnd Storyweavers all over the world picked up the long, strong, shining threads of Bear's stories, and wove them into new and wonderful stories for all of us to enjoy."
+    }
+  ]
+}

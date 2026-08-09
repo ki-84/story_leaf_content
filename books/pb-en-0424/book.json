@@ -1,0 +1,54 @@
+{
+  "bookId": "pb-en-0424",
+  "title": "The Moon and Daisy",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 313,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Moon and Daisy",
+    "author": "Joysree Das",
+    "illustrator": "Aditi Dilip, Alison Byrnes, Helga Parekh, Lovely Samhitha, Muniza Shariq, Prashant Miranda",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/5428-the-moon-and-daisy",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time there was a beautiful girl. Her name was Daisy. She was so beautiful, so beautiful, that gods, men and animals all loved her."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "But there was an ugly and wicked sea-beast Moron, who liked to get anything beautiful and precious and store it in his palace under the sea. One day when Daisy was playing on the sea shore with wet sand and sea-shells, Moron saw her. His eyes glittered and he came up on the sea-shore and touched Daisy softly with the tip of his tail. Daisy who was innocent and loving smiled"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "at Moron and soon Moron trapped her into a conversation with his false sugared words. Daisy did not suspect any trick and was talking her heart out about her books, toys and flowers and birds that she loved. All the time Moron was smiling a toothy smile, and getting closer and closer to Daisy. Daisy did not like the salty sea-weedy smell coming from Moron's body. But before she"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "could get up and run away Moron caught her and dragged her into the wide blue sea where no one could hear Daisy cry but only the fishes and porpoises who were busy playing and did not bother about what Moron was doing. Moron kept Daisy locked in a room in his palace. The room had only one window which opened out to the sea. Sunlight did not reach the room. Daisy cried"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "and cried till one night the Moon heard her cry. He peeped through the window of the room in Moron's palace where Daisy was crying her heart out. The Moon took pity on her and changed her into a white sea-bird. Daisy flew out of the window and went and sat on a mast of a ship that was sailing on the sea. Moron never saw her again."
+    }
+  ]
+}

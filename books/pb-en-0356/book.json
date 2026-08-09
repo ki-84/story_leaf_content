@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0356",
+  "title": "Life full of dreams",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ファンタジー",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 245,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Life full of dreams",
+    "author": "Batul Bhanpurawala",
+    "illustrator": "Aditi Dilip, Lavanya Karthik, Manjari Chakravarti, Preeti Krishnamurthy, Vibhash Pandey",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4562-life-full-of-dreams",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Mansha is the only daughter of her parents. Since they both used to work to earn a living, Mansha was brought up by her granny."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Granny used to narrate lovely stories to Mansha at night as well as during the day. Due to this, Mansha had developed the habit of dreaming of living a life inspired by nature."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day granny and Mansha were walking in the garden. As Mansha came across beautiful flowers blooming gracefully, she told her granny, \" I dream to become like these flowers which are a symbol of love, peace and beauty. I shall symbolize harmony!\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Upon reaching home, as she sat by the window she saw the birds flying high up in the sky. She called out to her granny and said, \"Granny! I dream to become a bird so that I can fly high up in the sky and touch it!\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "At night when she was listening to her granny's bed-time story about stars, she jumped up with joy and said, \"Granny! I dream to become a star so that I can twinkle and shine bright and spread light everywhere!\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Her granny hugged her and said, \"You should dream big but for that you got to have a lot of patience and courage to make to dream come true.\" Mansha replied, \"Yes granny! With your guidance and support I shall surely fulfill my dreams.\" Saying so she hugged her granny and got lost in her world of dreams."
+    }
+  ]
+}

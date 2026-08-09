@@ -1,0 +1,74 @@
+{
+  "bookId": "pb-en-0411",
+  "title": "Nilofar",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 599,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Nilofar",
+    "author": "Arun Kumar",
+    "illustrator": "Aditi Dilip, Deepa Balsavar, Helga Parekh, Jit Chowdhury, Kalyani Ganapathy, Sitara Nikhil",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/5206-nilofar",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "How many stories of ordinary people do you know?\n\nShe was an ordinary girl. Ordinary intelligence. Ordinary looks. Nothing exceptional, brilliant, or one-of-a-kind about her. She was like a few of you and most of me. Very very average.\n\nOne won't think that a story can be wasted on her. And yet...."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Her abbu and ammi loved her as parents do. Her friends treated her as friends do. Sometimes she sulked and cried. Sometimes she joked and laughed. She did what was expected of her. She avoided what was forbidden to her.\n\nHer name was Nilofar.\n\nNi-lo-furr, as she would say, if people asked her who she was. Not that many did."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Nilofar had a dream. It would visit her again and again. If ever she woke up before it was complete, the next day she would start from exactly where she had left. She controlled that dream as it were. At times she wondered if indeed it was a dream!\n\nThere was a huge kite, bigger than the biggest lake. No one but Nilofar knew about it. Effortlessly it flew from the known to the unknown skies."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "All colours ran through the kite like haunted rivers. Nervous yellow peeped from the right and leapt on to bold orange at the left. Deep hopeful green jetted down the middle, embraced the silky silver, felt the angry brown, before losing itself into sleepy blue. One strong breeze and all the colours would begin to shiver. Nilofar, however, would dance in the sky like a fearless boat, unmindful of the terrifying tides of a tumultuous sea."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "She would notice the inviting football in the middle of the vast field and run like a warrior and kick it with the power unfamiliar to her. Before the swoosh sound of the net receiving the ball could end, she would jump from one tree to another, with a group of pigeons, koels, and sparrows resting on her stretched arms. One summersault and she would be on the back of her favourite black horse that would carry her from magical mountains to the inviting plains."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "She is removing the tufts off her face. She is flying. It's not a kite. It's a whole world. It's freedom. So much to see. So much to do.\n\n“Nilofar!”\n\nThe wind is strong. She is hanging by the tail of the kite; it's beginning to come down. Grudgingly. Ever so Slowly.\n\n“Nilofar.”"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Now she can see the familiar bazaar, spot the fragrance shop where her abbu worked.... She is above the school where children from her neighbourhood studied.... She hated the boy from this biggest house in her locality; he always made faces at her.... Should she scare him a little? She wonders. Bicycle shop, subzi market, bus-stop, Hanuman Mandir.... The mosque is about to come. She tries to cover her head. The wind is still very strong. She can hear the call of the first azan."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The kite is getting smaller as it is coming closer to the earth.\n\n“Nilofar”!!!\n\nOh the garments shop! Nilofar turns toward it with the swiftness of a fish, snatches a skirt she had cried for all her life.... The shopkeeper runs after her.... She tries to fly away, without looking behind, she is trying harder... the kite is getting smaller... hardly able to bear her weight... He is going to catch her any moment now. She is breathless. Her eyes are about to well up. She can't look behind anymore. Suddenly a hand is on her shoulder; she shrieks. It is ammi."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "\"Get up, betu jaan\""
+    }
+  ]
+}

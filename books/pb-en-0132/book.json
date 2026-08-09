@@ -1,0 +1,169 @@
+{
+  "bookId": "pb-en-0132",
+  "title": "We Are All Animals",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 284,
+  "pageCount": 28,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "We Are All Animals",
+    "author": "Madhav Chavan, Meera Tendolkar",
+    "illustrator": "Santosh Pujari",
+    "translator": "Rohini Nilekani",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1111-aamhi-saare-praani",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "ACT-1"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Look at me, animals! I am a human being! I know everything!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Look, these are my eyes. I can see everything with them."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "So what? We have eyes too. And we can see in the dark!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Fine, but look at my nose. I breathe through my nose."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "So what? We also have noses and ours are prettier than yours!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "And yes, my teeth. I use my teeth to chew and bite."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Teeth? Ha! Ha! Have you seen our teeth?\n\nYou can chew. But WE CAN BITE! Hiee.. Hiee...Hiee..."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Yes, but listen! I can hear a lot with my ears!"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Little one! We can hear sounds which you cannot imagine at all!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "And I can walk, run and even dance with my feet."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Oh! We have four feet! We can jump, we can dance\n\nand we can parade too!"
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "I can plait my hair."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Uh! Our hair is pretty too.\n\nWe could plait it if we wanted to. Maybe!"
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Look! I can work with my hands!"
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Hands! Keep your hands to yourself!"
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "ACT-2"
+    },
+    {
+      "index": 17,
+      "imagePath": "images/19.jpg",
+      "text": "Aha! I told you! I am the best! I know it all!"
+    },
+    {
+      "index": 18,
+      "imagePath": "images/20.jpg",
+      "text": "Really?\n\nHave you seen our sharp claws?"
+    },
+    {
+      "index": 19,
+      "imagePath": "images/21.jpg",
+      "text": "Yes! But your nails will pick up dirt!"
+    },
+    {
+      "index": 20,
+      "imagePath": "images/22.jpg",
+      "text": "Now see, these are our lovely tails."
+    },
+    {
+      "index": 21,
+      "imagePath": "images/23.jpg",
+      "text": "Tails! We gave them up long ago!\n\nHow else could we wear our shorts?"
+    },
+    {
+      "index": 22,
+      "imagePath": "images/24.jpg",
+      "text": "And we can roar!"
+    },
+    {
+      "index": 23,
+      "imagePath": "images/25.jpg",
+      "text": "Roar? Have you heard my mother?"
+    },
+    {
+      "index": 24,
+      "imagePath": "images/26.jpg",
+      "text": "So then! You are only animals - I know that!"
+    },
+    {
+      "index": 25,
+      "imagePath": "images/27.jpg",
+      "text": "Humans are animals too. We know that!"
+    },
+    {
+      "index": 26,
+      "imagePath": "images/28.jpg",
+      "text": "You may be right. Look at my brother!\n\nMother says he is wild. He is definitely an animal."
+    },
+    {
+      "index": 27,
+      "imagePath": "images/29.jpg",
+      "text": "Yes! And so are you! Believe us! We are all animals.\n\nWe all belong here. Just like you."
+    }
+  ]
+}

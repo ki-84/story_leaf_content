@@ -1,0 +1,119 @@
+{
+  "bookId": "asp-en-0211",
+  "title": "Goat, the false king",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 567,
+  "pageCount": 18,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Goat, the false king",
+    "author": "Alice Nakasango",
+    "illustrator": "Marleen Visser",
+    "translator": "Cornelius Wambi Gulere",
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, there was a goat called Igodhoobe. Igodhoobe the goat was the king of farm animals and birds. He lived a good life. One day, Igodhoobe the goat called all the animals and birds to a meeting."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "\"My friends, I have called you because I had a dream,\" said Igodhoobe the king. All the animals and birds kept quiet. They listened to their king carefully."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"I dreamed that there was no food or water left in the land. Many of our relatives died!\" said Igodhoobe the king. When the animals and the birds heard the dream, they were worried. \"What shall we do?\" asked the cat."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The hen and the duck had an idea. They said, \"Let each one of us bring food and put it in the king's store.\" All the animals agreed with this idea."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Igodhoobe the king made a rule. He said, \"Get ropes. Tie up anyone who does not bring food to my store. Then carry him to me.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Soon after this, it was time for a new king to rule over the farm. All the animals and birds met and elected the cat as their new king."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "But Igodhoobe the goat refused to agree that the cat was king. \"I'm the king. There is no other king. I can't obey any other animal,\" said Igodhoobe the goat."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The animals took food to the new king's store. But Igodhoobe the goat did not take anything. \"When Igodhoobe the goat was king, we all obeyed him. Now he does not want to obey our new king. What shall we do to him?\" asked the cow."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "All the domestic animals and birds were angry. \"He thinks he is different to us,\" they all muttered."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The dog said, \"I helped him when he was king. I did not sleep at night. I was always with him, ready to help.\""
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The sheep said, \"I gave him my wool to cover his children.\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The pig said, \"When he was king, he told his friends that I eat a lot. But I was often in his garden digging and weeding his maize and millet.\""
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "The sheep asked, \"What did he say? That you eat a lot? Did he think that he will be king forever?\" Then the sheep added, \"Let him understand that he is not king any more. I don't know why he thinks he is so important.\""
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "All the animals laughed and agreed that Igodhoobe the goat must take food to the new king. King Cat ordered Igodhoobe to come to him."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "When the animals went to fetch Igodhoobe the goat, he was sitting on a chair with his legs crossed. The cow told Igodhoobe what the new king said. \"I shall not go to the cat. There is no other king except me. When you become a king, you are always a king,\" replied Igodhoobe the goat."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "\"We will tie you with ropes and take you to the new king,\" said the sheep."
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "So the cow tied Igodhoobe the goat to her tail. She then pulled Igodhoobe to the king. The sheep, the duck, the dog, the pig, and the cock cheered as the cow pulled the goat. They all shouted together, \"Take this stubborn goat to our new king!\""
+    },
+    {
+      "index": 17,
+      "imagePath": "images/19.jpg",
+      "text": "From that time, every goat refuses to move when it is pulled. It thinks that you are taking it to the king's court."
+    }
+  ]
+}

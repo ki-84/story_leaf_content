@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0182",
+  "title": "Kabali and Kateera",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 92,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Kabali and Kateera",
+    "author": "Milly Kasule",
+    "illustrator": "Franz Phooko",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Kabali and Kateera are friends."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Kabali has a cat. Kateera has a rabbit."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Kabali plays with his cat every day."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Kateera feeds his rabbit twice a day."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Kateera's rabbit produced six babies. Two rabbits were black.\nTwo rabbits were brown. Two rabbits were white."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Kabali's cat produced three babies. One kitten was male. Two\nkittens were female."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Kateera sold three of the baby rabbits. He used the money to\nbuy books and pencils to use at school."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Kabali did not sell any kittens. The people in the village did\nnot want cats."
+    }
+  ]
+}

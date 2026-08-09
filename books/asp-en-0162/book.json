@@ -1,0 +1,111 @@
+{
+  "bookId": "asp-en-0162",
+  "title": "Hare and Hyena",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 627,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Hare and Hyena",
+    "author": "Mutugi Kamundi",
+    "illustrator": "Rob Owen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 18 とページ数 16 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Long time ago Hare and Hyena\nwere great friends.\nThey did many things together.\nThey danced and sang together."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, Hare said, \"My friend\nHyena, let us start farming together\nand we will be rich.\"\n\"Oh yes, we can plant a lot food,\nharvest it, and sell it to others,\"\nHyena said.\n\"But what shall we plant?\" asked\nHare."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Hyena suggested that it was good\nto plant maize. Hare agreed.\nHare also told Hyena that it was\ngood for them to share duties on\nthe farm.\n\"My work will be guarding the\nmaize from birds,\" said Hare.\nThen Hare told Hyena to till the\nland, plant, and weed."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Hyena complained that he had been\ngiven more work. But Hare told\nHyena that the work of chasing\nbirds was the most difficult and\nmost important.\n\"My work is not easy. I will be\nclimbing trees and chasing birds\naway day and night. And you are\nnot able to climb a tree,\" Hare\nexplained."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Hyena was convinced by Hare's\nwords. He agreed to till the land\nalone. It was a lot of work. Hare did\nnot help at all.\nAfter tilling the land, Hyena planted\nmaize in the whole field, alone."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "When weeds grew in the field,\nHyena used a hoe to weed. It was a\nlot of work.\nHare sat on a rock singing:\n\"My friend is a worker,\nI am his adviser.\nHe works like a tractor,\nI am his manager.\nThe soil he toils,\nThe hills he tills,\nThe seeds he plants,\nThe weeds he cuts,\nThe maize we harvest.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "When the maize was almost ready,\nHare enjoyed himself singing in the\nfield to keep birds away. Chasing\nthe birds was not a hard job. He did\nnot sweat at all."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Finally, the maize was ready to\nharvest. Hare told Hyena that they\nwould share the harvest between\nthemselves.\nHare said, \"I will harvest everything\nthat grows above the soil and you\nwill harvest everything that grows\nbelow the soil.\"\nHyena thought that it was a good\nidea."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Hare said, \"I will first get my\nharvest then you will harvest\nyours.\"\nSo Hare harvested all the maize in\nthe field and put it in his store."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Hyena went to harvest things that\ngrew below the soil. He dug, hoping\nto get a good harvest. But he only\nfound roots under the soil. He dug\neverywhere. He did not find\nanything to harvest."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Hyena realised that he had been\ncheated. He was angry. He returned\nhome carrying empty baskets.\nIn the evening he went to Hare's\nhome very annoyed. He told Hare,\n\"Let us now farm together again my\nfriend.\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Hyena told Hare, \"This time I will\nharvest everything that grows\nabove the ground and you will\nharvest everything that grows\nbelow the soil.\"\nHare accepted. He told Hyena that\ninstead of planting maize it was\ngood to change the crop. They\nagreed to plant potatoes."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Hyena also insisted that this time\nthey would both do the digging,\nplanting and weeding. Hare\naccepted. So they worked on the\nfarm together, singing."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "When the potatoes were ready,\nHare told Hyena to harvest what\ngrows above the ground.\nHyena went looking for something\nto harvest. But he did not find\nanything. He only found potato\nleaves. He went back home with\nempty baskets."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Hare harvested a lot of big\npotatoes. He put them in his store.\nWhen Hyena saw Hare's harvest, he\nwas annoyed. \"Why did you cheat\nme?\" Hyena asked Hare.\nHare explained that it was Hyena\nhimself who chose to harvest the\nthings that grew above the soil."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Hyena was very angry. He chased\nafter Hare in order to get revenge.\nBut Hare ran away fast.\nSince that day, Hare and Hyena\nhave not been friends."
+    }
+  ]
+}

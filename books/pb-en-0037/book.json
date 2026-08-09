@@ -1,0 +1,74 @@
+{
+  "bookId": "pb-en-0037",
+  "title": "The Jungle School",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 322,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Jungle School",
+    "author": "Madhav Chavan, Meera Tendolkar",
+    "illustrator": "Ketan Raut",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/173-the-jungle-school",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was a big dark jungle.\n\nThere were lots of trees and a narrow path. Many animals and birds lived here."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, all the animals came together.\n\n“Did you hear?” asked Tota, the parrot.\n\n“Yes,” said Hirni, the deer.\n\n“What?” asked Darpok, the rabbit.\n\n“We have a school in the jungle,”\n\nanswered Zhoola, the monkey.\n\nMota, the elephant wondered, “Hmph?”\n\nLamboo, the giraffe said, “Oh, good!”\n\nDheema, the snail squealed, “Hurry, let's go!”"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Tota, the parrot flew ahead.\n\nZhoola, the monkey jumped from tree to tree. Poorakha, the python slithered fast.\n\n“Here!” shouted Tota. “Can you read?”\n\n“It is upside down, I think,” said Zhoola\n\nhanging by the branch.\n\nPoorakha concluded, “Hisssss. No one can read.”"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Soon, all the other friends joined them.\n\nLamboo looked over the tree. “No one here,” he said.\n\nZhoola repeated, “No one here.”\n\nTota proposed, “Look carefully!”\n\nPilloo, the little bear declared, “I found a room!”"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "“I found a swing,” announced Dheema.\n\n“What are these blocks?” Darpok wanted to know.\n\n“What is this?” was Zhoola's question.\n\nPoorakha explained, “I believe, this is a pencil.”"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Mota and Lamboo found a classroom.\n\nThey called the others, “Look, what is this?”\n\nEveryone came with school bags.\n\nThey began shouting, “Teacher! Teacher!\n\nWhere is our teacher?”\n\nNo one knew."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Then they heard a roar.\n\nThey heard a loud roar.\n\nThey heard a louder roar.\n\nPoorakha was worried. Dheema was scared. Tota hid behind the board. Lamboo and Zhoola were puzzled.\n\nWho is this? “Hup!” said Zhoola the monkey. No one spoke."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Who is this?\n\n“Hup!” said Zhoola the monkey.\n\nNo one spoke.\n\nThey all looked at the teacher. Up and down carefully.\n\nThen they looked at one another.\n\nThe teacher turned to write on the black board."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "“Jump,” said Zhoola.\n\n“Fly!” said Tota.\n\nThump, thump, thump ran Mota.\n\n“Run, run, run fast,” screamed Dheema.\n\n“Bhagoooo,” they all shouted together.\n\nWhen the teacher turned... there was no one in the class."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "bookId": "asp-en-0183",
+  "title": "Hare tricks Elephant again",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 260,
+  "pageCount": 14,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Hare tricks Elephant again",
+    "author": "Agnes Gachaba, Ursula Nafula",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 16 とページ数 14 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time,\nElephant and Hare were\nvery good friends.\nThey shared a large herd\nof camels, cattle, and sheep."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "They grazed their animals\nin the valley of Kingilo.\nSometimes they took\nthe animals to the hills,\nwhere there was plenty\nof grass and water."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "As the animals grazed,\nHare and Elephant played\ngames.\nThey enjoyed playing\nfootball very much."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Every time they played,\nElephant would score\nmore goals than Hare.\nThis upset Hare very much."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "One day Hare asked Elephant,\n\"What makes you so good?\"\nElephant quickly answered,\n\"My big legs.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The next day,\nHare suggested that\nthey run a race.\nElephant agreed and\nthey started their race."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Hare won all the races.\nElephant was upset\nbecause he had never\nbeen defeated.\nSo he asked Hare,\n\"What makes you a\ngood runner?\"\nHare answered,\n\"My thin legs.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Without a second thought,\nElephant asked what\nhe could do to make\nhis legs thin.\nHare said, \"It is simple,\nI will show you with fire.\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Hare said, \"Put your legs\nin the fire.\"\nElephant stepped into\nthe fire. He shouted,\n\"I am burning! I am\nburning!\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Hare was happy.\nHe encouraged Elephant\nto hold on, because burning\nhis legs was the only way\nthey could become thin."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Elephant's legs hurt very badly,\nso he crawled out of the fire.\nHe could not stand with his\nburned legs, so he lay down."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Elephant sat for many\ndays before he could\nstand on his legs."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Eventually, he was able\nto limp home to his family."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Hare and Elephant are\nno longer friends."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "bookId": "pb-en-0038",
+  "title": "My Balwadi",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 286,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "My Balwadi",
+    "author": "Rukmini Banerji",
+    "illustrator": "Sheetal Thapa",
+    "translator": "Madhav Chavan",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/177-hamaari-balwadi",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 11 とページ数 9 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "This is my school. It is called the balwadi."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "My brother Mannu and I go to the balwadi.\n\nIt is a small school for little children like us."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "We leave our shoes and slippers by the door.\n\nEveryone puts their shoes or slippers in a line.\n\nIt looks good that way."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "We leave our tiffin boxes near the wall.\n\nSome boxes are big. Others are small.\n\nWater bottles are hung on the wall.\n\nThe bottles are of different colours. Red, blue, green, yellow."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I like to count. Mannu plays with blocks and puts different shapes together. He likes to play with beads. I like the cards with dots.\n\nOur teacher says playing with these toys is good for the brain."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "We read books. Some books have pictures.\n\nThe teacher helps us to learn the letters. She says I will read soon because I can recognize all the letters. I can also read sentences.\n\nShe does not know it."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Now it is time for stories. Our teacher has puppets.\n\nThe teacher uses the puppets to tell us stories.\n\nThe puppets speak in a funny voice."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "My friends think that the puppets can speak. They are surprised.\n\nBut I am not. Puppets do not talk.\n\nI know that it is the teacher who speaks in a funny voice for them."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "It is now time to play. The school has a tub with some play dough. Mannu likes to make shapes out of the dough. I like to make fruits, toys and other things.\n\nAt 4 o'clock, the school bell rings. My mother comes to take us home. I hug her first. Mannu does not like that. He complains. I have fun at school. But going home is more fun."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "bookId": "asp-en-0239",
+  "title": "Namorutunga",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "ゆかい・ユーモア"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 269,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Namorutunga",
+    "author": "Simon Ipoo",
+    "illustrator": "Zablon Alex Nguku",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Long time ago, in a Turkana village, people loved to dance the edonga dance."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Every evening they gathered together and danced edonga. \n\nThe whole region came to know of this village and its dancers."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "People from nearby villages also came to this village to dance."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "A stranger heard of the famous village. He sent his messenger to go there before him."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "When the messenger arrived, the villagers were afraid. They wondered who the stranger was, and why he had sent his messenger. \n\nThe villagers prepared food and animals to be slaughtered."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The villagers gathered and waited. They sat the whole day until evening. But the stranger did not arrive."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "That night, the villagers danced as usual until midnight. That night there were many dancers. Everybody in the village was excited."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "While they were dancing, the stranger arrived. Although he was a stranger, he looked just like the other villagers. They did not notice him at first."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "When it was the stranger's turn to dance, he joined the men. But his dancing was strange and different from the others."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "People were amused and began to laugh at the stranger. \n\nSome dancers fell down laughing. Some sat down, and others knelt laughing."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The stranger did not like people laughing at him. He decided to curse them.\n\nHe stopped dancing and everyone became a stone in the position they were in. Some were lying down, others standing, others sitting and kneeling. \n\nThen the stranger left the village.\n\nSince then, those stones remained there. \n\nAt night they can be heard singing and dancing edonga.\n\nThat is how we have the site of Namoratunga."
+    }
+  ]
+}

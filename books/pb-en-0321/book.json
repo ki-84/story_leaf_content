@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0321",
+  "title": "Drigo lost in Space",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ぼうけん",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 277,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Drigo lost in Space",
+    "author": "Anushka Kapse",
+    "illustrator": "Priya Kuriyan, Somesh Kumar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3889-drigo-lost-in-space",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was a GIANT dragon DRIGO. He wanted to fly in the whole solar system.... So he went on a cliff, took the stance and whoosh!!! he was off to explore....."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Drigo was very excited to see all the planets around him so closely. He saw a silver planet (which is moon) besides the blue and green planet (of course earth).\n\n\"Oh!!! what a round bulgy planet with a silver paint.\" he exclaimed.\n\nHe landed there with a big thud.\n\nWhile he started staring at planet, a Spacecraft came and landed over the planet and stared at Drigo. Some red colored creatures came out of it...."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Drigo picked it up and thought it would be tasty and he mixed the chillies with the rice cake and ate.............he was soooo hungry....\n\nBut the chillies were actually aliens from outer space."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "See, what is happening inside stomach when he ate the rice cakes with the alien chillies....."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The chillies went in his mouth and it got so frightened that they used their power and made red pepper chilly....... Drigo started spiting fire everywhere.(hmmm...now I know why dragons spit fires)..... He cried\" I waaant waaaterrrrrrrrrrrrrrrr!!!!!\".....\n\nHe thought of the green and blue painted planet......"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Drigo found water on planet, he drank half of the water of pond...... He suddenly heard some noise.....there was another dragon eating mangoes... Drigo was so happy as he thought that he has discovered life on the planet......he went back in space searching for HIS planet(he did not know that it was his planet!!!).\n\nBut he lost in space.... Now his whole life is spent in search of HIS planet........."
+    }
+  ]
+}

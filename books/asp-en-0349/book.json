@@ -1,0 +1,89 @@
+{
+  "bookId": "asp-en-0349",
+  "title": "Mod the Toad",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "ぼうけん"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 464,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Mod the Toad",
+    "author": "Alice Mulwa",
+    "illustrator": "Rob Owen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "It was a cold and wet morning in the forest. Mod the little toad was tired of swimming in cold water.\"I need to leave this place during the rainy season,\" she said to herself."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "\"I want an adventure,\" said Mod to the terrapin. \"I must find out about the world.\"\"Be careful, don't leave the water for too long or your skin will dry out,\" warned the wise terrapin. \n\nAt that time, toads still had smooth wet skin like frogs. Without water, their skins would become too dry."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "But Mod the toad was curious. \"I must find out, I must go beyond the forest,\" she said.\n\nMod hopped out of the water. Hop, hop, she went, away from the river. She had fun jumping over the rocks, across grass, and past trenches."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "She heard the sound of an airplane. Mod looked up into the sky. \"What is up there?\" she asked, \"I wonder if the clouds are talking.\" But no one answered her."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Mod carried on her way. She met a chameleon for the first time. He was next to a large puddle of water. \"Hello, I am on my way to dry land for adventure. What can you tell me?\" she asked.\"Nothing much stranger. It rains here too. Lots of rain and lots of flies,\" replied the chameleon."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "As Chameleon was talking, his body changed colour. Mod got a fright. She quickly said goodbye to Chameleon and hopped into a nearby bush."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "But she was unlucky. Hyena was busy burning bushes in preparation for planting season."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Mod did not want to turn around for fear of meeting the chameleon again. She stayed in the bush, only her round eyes could be seen. They were big with fear. Mod was surrounded by fire!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Mod did not know where to go. The flames began to burn her back. Then the little toad remembered the puddle of water where she met the chameleon. She closed her eyes, held her breath, and jumped high in the direction of the puddle."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "She was lucky this time. She landed in the puddle, and the water put out the flames that were burning her skin. But the damage was done. When she came out of the puddle, the skin on her back was full of blisters."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Mod did not want an adventure anymore. She wanted to go home. But she did not know the way back to her river in the forest. \n\nSo the little toad found a cool, dark place under a rock and sadly made a new home. Her burned skin slowly healed, but it was dry and bumpy."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "This is why toads have dry rough skin, and can live away from water.\n\nFrogs still have smooth wet skin and need to stay where it's wet."
+    }
+  ]
+}

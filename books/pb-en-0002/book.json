@@ -1,0 +1,66 @@
+{
+  "bookId": "pb-en-0002",
+  "title": "Fat King Thin Dog",
+  "slug": "fat-king-thin-dog",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 62,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "storyweaver (global-asp/pb-source mirror)",
+  "attribution": {
+    "title": "Fat King Thin Dog",
+    "author": "Parismita",
+    "illustrator": "Parismita",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/7-fat-king-thin-dog",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "bundled": true,
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "This is a fat king."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The fat king has a thin dog.\n\nThe fat king and his thin dog go for a walk."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The dog sees a bird.\n\nThe dog runs after the bird."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The king runs after the dog."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "They run and run.\n\nThey run and run for many days."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The king catches the dog."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Now the fat king is thin."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "bookId": "pb-en-0064",
+  "title": "My Friends",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 69,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "My Friends",
+    "author": "Rukmini Banerji",
+    "illustrator": "Rajeev Verma 'Banjara'",
+    "translator": "Manisha Chaudhry",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/342-mere-dost",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I have many friends."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Some of my friends are older and..."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "some of them are younger than me."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Some of my friends are old."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "And some of them are tiny!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Some of my friends have tails..."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Some of my friends have no feet."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Some of my friends fly. Some of them swim."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Oh! Books are my friends too!"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "But who is my best friend?\n\nWho? Who? Who?"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "My mother!!!"
+    }
+  ]
+}

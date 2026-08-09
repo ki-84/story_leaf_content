@@ -1,0 +1,86 @@
+{
+  "bookId": "pb-en-0108",
+  "title": "The Royal Toothache",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 223,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Royal Toothache",
+    "author": "Sanjiv Jaiswal 'Sanjay'",
+    "illustrator": "Ajit Narayan",
+    "translator": "Manisha Chaudhry",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/926-raja-ka-dard",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "表紙をページ 1 と共用"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/01.jpg",
+      "text": "The lion was the king of the jungle.\n\nEveryone shivered and shook when he roared."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/02.jpg",
+      "text": "He had a terrible toothache since two days.\n\n“Maharaj, get this tooth extracted,” suggested the monkey, the jungle physician.\n\n“Alright,” agreed the lion."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/03.jpg",
+      "text": "Who would extract the lion's tooth? They were all terrified of him!\n\n“Maharaj, I will give you a kick with my hind legs. The tooth will pop out,” said the foolish donkey."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/04.jpg",
+      "text": "“You will dare to kick the king?” roared the lion peevishly.\n\nThe donkey tucked his tail between his legs and ran off."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/05.jpg",
+      "text": "The elephant, cheetah, bear and deer were all worried.\n\nWho would stick their hand into the lion's mouth?"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/06.jpg",
+      "text": "Two days passed. The toothache was getting unbearable.\n\n“Should I take a look?” asked the mouse one night when the lion and he were alone.\n\n“Alright,” said the lion and opened his mouth wide."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/07.jpg",
+      "text": "“Oh! There is a lot of dirt trapped between your teeth!” said the mouse taking a peek inside. Using his sharp teeth, he cleaned out the lion's teeth. The lion felt much better."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/08.jpg",
+      "text": "“Maharaj, please clean your teeth everyday, or else your teeth will rot,” said the wise little mouse."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/09.jpg",
+      "text": "“Yes, you are right. But please don't tell anybody or they will say their king doesn't keep clean...” pleaded the lion."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/10.jpg",
+      "text": "\"Alright,\" laughed the mouse."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/11.jpg",
+      "text": "The lion also laughed."
+    }
+  ]
+}

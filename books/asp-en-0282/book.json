@@ -1,0 +1,91 @@
+{
+  "bookId": "asp-en-0282",
+  "title": "Maddy Moona's Menagerie",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 554,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Maddy Moona's Menagerie",
+    "author": "Rachel Zadok",
+    "illustrator": "Candace di Talamo",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "表紙をページ 1 と共用"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/01.jpg",
+      "text": "My name is Maddy Moona,\nAnd today I'm turning five.\nDad promised I could choose a\npet,\nA real one! Something live!\nWe'll travel across the whole\nwide world,\nSearching Mali through Tibet,\nUntil we find the perfect one...\nOh, I know just what I'll get!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/02.jpg",
+      "text": "I'm going to get an elephant.\nI'll ride on it to school.\nMy brother Billy can walk\nbehind\nhe'll think I'm awfully cool.\n\nBut... what if Ellie caught a\ncold?\nI guess she'd sneeze.... A LOT!\nThere is no tissue big enough\nto wipe up all that snot."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/03.jpg",
+      "text": "I want a Nile crocodile sent to me by the pharaohs.\nI'll call him Tut and feed him soup, fish fingers, and baby marrows.\nI'll keep him in the bathtub and brush his pearly whites,\nBut... what if flossing all those teeth takes me all day and night?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/04.jpg",
+      "text": "Perhaps a pair of porcupines,\nfor games of robbers and cops.\nTheir prickly quills will be handy\nfor holding up sweetie shops.\nI can munch away on candy\nbars\nwhile my gang sharpen their\nspines.\nBut... what if my sharp-shooting\npals\nput me in the firing line?"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/05.jpg",
+      "text": "Maybe I need a stealthier plan.\nLet's clear out the store with\nfunk!\nThere isn't a smellier critter on\nearth\nThat's what I want — a skunk!\nBut.... what if I can't go into the\nshop\nafter Skunky has let off his\nstink?\nSweets are no good for my\nteeth anyway.\nA rotten idea! I need to rethink!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/06.jpg",
+      "text": "A rhino! The horns, the big\nstomping feet,\nthe armour on both of its flanks!\nBilly would never chase me\nagain.\nIt would be my own personal\ntank.\nBut... what if Billy raises his\ntemper\nand Rhino goes on the\nrampage?\nCrash bang boom! The teacups!\nThe plates!\nNow I'm grounded 'til I'm gran's\nage."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/07.jpg",
+      "text": "I need a beast to tame my\nbrother.\nWith teeth, sharp claws and a\nroar.\nA LION! I could feed it Billy\nBiltong...\nYes! A lion would settle the\nscore.\nBut... a lion has a huge\nappetite.\nSkinny Billy won't satisfy.\nAnd once Brutus has a taste for\nus Moonas,\nhe'll see me as Maddy stir-fry."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/08.jpg",
+      "text": "Dad thinks I should choose a\ncuddlier pet.\nMy parents are so hard to\nplease.\nThey want me to have a pet I\ncan hug.\nA python? A python has\nsqueeze.\nBut... if Snakey develops too\nmuch of a crush,\nhe'll suffocate me with\naffection.\nTo be honest, I just can't marry\na snake!\nAnd reptiles can't handle\nrejection."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/09.jpg",
+      "text": "No, reptiles aren't the way to\ngo.\nI definitely need something\ntaller.\nA giraffe would be awesome. I'll\nslide down her neck,\nand think up a long name to call\nher.\nBut... something more than\neight foot tall is\nno good.\nOur house has a rather low\nceiling.\nI'd spend hours massaging\ncricks out her neck.\nMy fingers would lose all their\nfeeling."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/10.jpg",
+      "text": "None of these are the perfect\npet!\nOh what, oh what will I get?"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/11.jpg",
+      "text": "Those animals just don't work.\nNone are my perfect partner in\ncrime.\nI want something with fur, a pet\nwho will follow.\nOh wait! I know — a canine!"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/12.jpg",
+      "text": "My Bandit is the biggest bark on\nthe block!\nHe's the fastest pup in the\nwest!\nNothing can stop us. Not Billy\nnor bedtime.\nI love my Bandit. He's my best!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "bookId": "pb-en-0392",
+  "title": "We Don't Pick Up Dog Family",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 155,
+  "pageCount": 1,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "We Don't Pick Up Dog Family",
+    "author": "Oviee Sarwate",
+    "illustrator": "Santosh Pujari",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/5001-we-don-t-pick-up-dog-family",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "表紙をページ 1 と共用"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/01.jpg",
+      "text": "We Don't Pick Up Dog Family - Oviee Sarwate\n\nOne day there was a dog. He had many friends. He wanted to have less friends. One day another dog came and scared him and ran away. Then one cat came and scared the dogs away. The dogs sat in one garden. There they met old friends and make new friends.\n\nOne girl came and took one dog away because she wanted a pet. She had one sister, she too went to the garden and took one dog home. Then one night when all had dinner and were sleeping and they woke up in the morning, they both sat in bus and go to school. They play in school garden.\n\nThe dogs ran away when they are in school. When they come back in afternoon after school, they both are crying. They did not study or sleep in the afternoon. Then mummy and papa scolded at children."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "bookId": "asp-en-0247",
+  "title": "The man who lived alone",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 142,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The man who lived alone",
+    "author": "Carlos Kanembera",
+    "illustrator": "Trevor Kellog",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was a man who\ndidn't want to live close\nto his neighbours. And\nhe also didn't want his\nwife to visit the homes\nof her neighbours."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day he went and\nbuilt a home way out in\nthe bush, far from the\nhomes of his\nneighbours."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He would go out every\nday in the morning and\ncome home late at\nnight."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "One night the man was\nvery late getting home.\nA hyena saw what that\nman was doing."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The hyena went and\nknocked on the door of\nthe house."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The woman, thinking it\nwas her husband,\nopened the door. The\nhyena jumped on her\nand devoured her."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The man, when he\nreturned home saw that\nhis wife had been eaten\nby a hyena. There was\nnothing he could say."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "All this happened\nbecause he didn't want\nto live near his\nneighbours."
+    }
+  ]
+}

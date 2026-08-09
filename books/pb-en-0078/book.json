@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0078",
+  "title": "Cheenu's Gift",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 302,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Cheenu's Gift",
+    "author": "Sridala Swami",
+    "illustrator": "Suvidha Mistry",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/633-cheenu-s-gift",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "School was about to get over. Just five minutes more, but Cheenu could not wait! He looked outside. There was nobody there. From somewhere close by, a bell jingled."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "“Cheenu, what are you doing?” asked his teacher.\n\n“Sorry Miss,” Cheenu said.\n\n“It's just that...”"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "“Paperwala, kaidalu*! Papere kaidalu!” sang Cheenu's father, the Kabadiwala**. Even from outside, he could see Cheenu's grin.\n\n*Kaidalu: Paper in Telugu, **Kabadiwala: Junk dealer in Hindi."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The school bell rang. Cheenu ran out to his father, grinning from ear to ear. He was the only child in school whose father came to pick him up."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Cheenu jumped on to the bandi and dangled his legs. His father pushed the bandi*, shouting, “Paperwala... kaidalu!!!”\n\nCheenu also shouted. They were quite loud! When a watchman stopped them, Cheenu jumped off. He went with his father, carrying an empty sack. All the things they would get today would go into that sack.\n\n*Bandi: Cart in Telugu."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "From this house, newspapers.\n\nFrom that one, newspapers and magazines.\n\nFrom the ground floor, newspapers and magazines and empty bottles."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Cheenu ran to the bandi to get another empty sack. They were going up in a lift! Cheenu's eyes grew big and round!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "From the fifth floor, newspapers and magazines, bottles and boxes and books."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "While his father was talking to the lady, Cheenu put everything away so that the books were right on top. Where he could look at them!"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "This time, Cheenu had to help his father push the bandi!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "At home, after they had put everything away, Cheenu's father called him. “I have something for you,” he said.\n\nIt was the book Cheenu had been looking at all afternoon!\n\n“Thank you, Naana*!” Cheenu said. After that, they had to call him three times to come and have dinner!\n\n*Naana: Father in Telugu."
+    }
+  ]
+}

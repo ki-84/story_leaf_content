@@ -1,0 +1,109 @@
+{
+  "bookId": "asp-en-0108",
+  "title": "Dima and Owl",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 1095,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Dima and Owl",
+    "author": "Traditional San story",
+    "illustrator": "Manyeka Arts Trust",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "In the old days there were two\npeople, Dima and Owl.\nOwl owned the sun, water and fire.\nDima did not have any of these\nthings and lived in darkness with his\nfamily."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Dima tried to make a garden, but\nhe could not grow vegetables\nbecause there was no sun.\nEverybody suffered because there\nwas no sun.\nWhen they hunted animals to eat,\nthey hung the meat in the trees to\ndry, but it rotted because there was\nno sun."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day, Dima decided to visit Owl.\nWhen they served food, Dima\nwondered why Owl's food tasted so\ngood. He wondered if it was\nbecause the food grew in the sun\nand it was cooked in fire.\nSecretly, Dima made a plan. He\ndecided to dance. He wanted\neveryone at Owl's place to gather\naround him and see him dance. He\nwas a good dancer. Owl and his\nfamily admired the beautiful\ndancing."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "When it grew dark, Owl decided to\nfetch the sun from his house so that\nhe could still watch Dima's dancing.\nOwl kept the sun in an animal skin\nbag inside his hut. He carried the\nsun out from his house and held it\nhigh up above his shoulders.\nNow it was light. Everyone could\nsee far into the distance. Soon\neveryone was dancing in the light of\nthe sun."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Dima crept closer to the sun while\nhe was dancing. Owl held on to the\nsun but after a while he forgot\nabout it because he enjoyed the\ndancing so much. He saw how\nbeautifully Dima danced. He too\nwanted to dance like this."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Suddenly, Dima took his fighting\nstick and hit the sun into the air\nlike a ball. The sun travelled so far\nthat it remained forever in the sky.\nIt gave everyone light all day."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Dima ran away so fast that Owl\ncould not find him.\nHe stayed far away for a long time.\nAfter a while, he disguised himself\nand went back to Owl's place.\nThe children recognised him and\nsaid:\n\"There is the man who stole our\nsun!\"\nThe adults did not agree with the\nchildren and said,\n\"No, this is not the man who stole\nour sun.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "They saw that this man was an old\ndancer. He wore a lot of beads\naround his body. They were magic\ndancing beads and they made\npeople dance.\nIt was not long before everyone was\ndancing. They danced the whole\nafternoon, until the sun began to\nset. It became too dark to see the\nmagic dancer."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Owl said to his wife, \"Go and look in\nmy bag and fetch the moon.\"\nOwl held the moon high above his\nshoulders and it lit up the darkness\nfor all to see the dance. While they\nwere dancing, Dima moved closer\nand closer to the moon, for he had\na plan."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "He took his fighting stick and hit the\nmoon high up into the air. Once\nagain, he ran away from Owl. This\ntime he stayed away for a very long\ntime, until Owl's family forgot all\nabout him."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Dima disguised himself again and\nreturned to Owl's place.\nThis time he wanted Owl's fire. Owl\nhad the firesticks hanging around\nhis neck.\nDima joined Owl under a tree and\nthe two men started playing an old\nclapping game called gi."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "They clapped and clapped and as\nthey clapped some more, Owl's\nfiresticks started jumping around\nhis chest to the rhythm of the\nclapping. Clap-clap, clap-clap.\nDima tried to grab the firesticks, but\nOwl threw them over his neck so\nthat they hung across his back.\n\nThey clapped the whole day long. The rhythm of the clapping\nmade Owl forget all about the firesticks.\nWhen they swung around onto his chest once more, Dima grabbed\nthe firesticks and ran away.\nOwl and his family ran after Dima, but he made a clever plan. He\nhad a bag full of thorns and threw them onto the ground behind\nhim. This stopped Owl and his family from chasing him. They could\nnot cross the thorns on the path."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Dima could not wait to make fire.\nHe rubbed and rubbed the sticks.\nHe blew and blew the ember in a\nlittle dry grass until a tiny flame\nappeared. The fire grew and lit the\nwhole veld and each time the\nflames reached a tree, Dima said,\n\"From now on people will be able to\nmake a fire with each tree on\nearth.\""
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "A long time passed. When Dima\nfinally returned to Owl's place, he\nfound no one but a little boy playing\nwith wooden animals.\nDima asked the boy to show him\nwhere they kept their water. The\nboy led him to the place of water.\nDima saw the big djaba, the huge\nclay pot in which the family stored\nwater.\n\nDima pretended to leave for his home, but he secretly turned\nround to the place of water. He turned the huge pot over so that\nthe water started flowing on the ground.\nDima quickly jumped over the flowing water to the other side.\nThen he was safely across the river of water where Owl could not\nfind him."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "This is why the whole earth has\nrivers full of water today.\nThis is why we have the sun, moon\nand fire, because of the magician\nDima."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Story notes\nIn 2003, Katunga Carimbwe told this version of the Dima and Owl\norigin story to Titu Mangumbu and Marlene Winberg in the\nNorthern Cape Province of South Africa while he was busy painting\non a canvas. Mangumbu, Mahongo and Winberg translated it and\nretold the story in this written version with as few alterations as\npossible. His elders told the story to him during his childhood in\nMavinga, Angola, where he was born in 1958.\nMost of the episodes in the Dima and Owl myth have a wide\ndistribution in the extensive area of southern Africa and the\nKalahari whose original inhabitants speak !Xun and other closely\nrelated languages, although the names and identities of the\ntrickster, Dima, and his adversary change from area to area.\nThe \"clapping game\" mentioned in our version, Dima and Owl, is\nstill current among the !xun, the Nharo, and possibly other\ncommunities of Kalahari San. This story depicts Dima as a culture\nhero and transformer of the primeval world into the present world.\nHe achieves this with words, \"From now on people will be able to\nmake a fire with each tree on earth.\"\nThe Manyeka Arts Trust holds a !Xun audio telling of this story by\nMeneputo Mnaunga Maneka in archive."
+    }
+  ]
+}

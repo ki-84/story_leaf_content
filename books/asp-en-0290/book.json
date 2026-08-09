@@ -1,0 +1,94 @@
+{
+  "bookId": "asp-en-0290",
+  "title": "The hours and minutes in Ismail's day",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 422,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The hours and minutes in Ismail's day",
+    "author": "Espen Stranger-Johannessen",
+    "illustrator": "Sue Kramer, Cathy Feek, Angie & Upesh, Jesse Pietersen, Wiehan de Jager, Eden Daniels, Magriet Brink, Bronwen Heath, Mango Tree, Rob Owen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Ismail wakes up at a quarter to seven in the\nmorning, just after the first cockcrow. Fifteen\nminutes later he eats breakfast.\nWhat time does Ismail eat breakfast?"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "After breakfast at seven in the\nmorning he packs his bag and\ngets ready for school. Half an\nhour later he is ready.\nWhat time is it now?"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "At seven thirty he goes to\nschool. Ismail has a long way to\nwalk, since his school is in\nanother village. At 8:10 he\nreaches his school.\nHow long was the walk?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Ismail likes the forty-minute walk to school\nevery morning since it is cool outside. In the\nafternoon it is too hot to walk that far, he\nthinks. Ismail reaches school 20 minutes before\nthe first lesson.\nWhat time is the first lesson?"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The first lesson of the day starts\nat 8:30. The teacher always\ncomes five minutes late.\nWhat time does the teacher\ncome?"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "At 8:35 the teacher comes and\nstarts the lesson. The teacher\ncontinues up to break at 10:30.\nHow long has the teacher been\nteaching?"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Almost two hours – one hour\nand fifty-five minutes – to be\nexact, the teacher has been\nteaching. The break lasts for 30\nminutes. Halfway through the\nbreak Ismail has finished his\nporridge.\nWhat time is it now?"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "After finishing his porridge at 10:45, Ismail plays football, and then goes back to\nclass. His next meal is lunch at one o'clock.\nHow much time is there between Ismail's porridge and his lunch?"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Two hours and forty-five\nminutes after eating porridge,\nIsmail has his one-hour lunch\nbreak. It ends at 2 o'clock.\nIsmail has two lessons left, and\neach is half an hour long.\nWhat time does Ismail finish\nschool?"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "At 3 o'clock school is over and Ismail goes home. He reaches 45 minutes later.\nWhen does he reach home?"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "When Ismail reaches home at\n3:45 in the afternoon he plays\nwith his little brother and his\nfriends. Sometimes he does\nchores that his parents ask him\nto do. At 7 in the evening he\neats his supper.\nHow long has it been ?since he\nreached home?"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "After playing for three hours\nand fifteen minutes, Ismail eats\nhis supper quickly. He is always\nhungry. But he also gets tired\nfrom eating. By nine thirty he is\nusually in bed. But his\ngrandmother always tells him a\nstory before he sleeps. Five\nminutes to ten his grandmother\nhas told her story and Ismail is\nready to sleep.\nHow long was the story?"
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Ismail's grandmother spent 25\nminutes telling her story?\nHow much time did you spend\nreading this one?"
+    }
+  ]
+}

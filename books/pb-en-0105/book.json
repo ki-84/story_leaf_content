@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0105",
+  "title": "Mouse in the House",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 260,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Mouse in the House",
+    "author": "Sowmya Rajendran",
+    "illustrator": "Tanaya Vyas",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/876-mouse-in-the-house",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was a mouse in the house. Grandma saw it first.\n\"Mouse!\" she screamed, jumping up the sofa. The cushions fell on the floor."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "“Where?” asked Pa, climbing up the window. He pulled the curtains down. “There!” shouted Ma, leaping up the table. The plates fell with a crash."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "“Catch him!” said Mithun to the cat. The cat looked at the mouse and fled under the bed!\n“Mouse!” screamed Mithun, running behind the cat."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "“I will chase it out!” said Ma bravely. She took out the broom and poked here and there. “Mouse!” shouted Pa. “Behind you!”\nMa looked at the mouse, and fled under the bed!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "\"I know what to do!\" shouted Grandma jumping down from the sofa. She rolled up a newspaper and poked here and there."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "“Mouse!” yelled Pa, climbing the window even higher.\n“To your left!” Grandma looked at the mouse, and fled under the bed."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "“Oh no!” said Pa softly. He couldn't go any higher. He climbed down carefully, and fled under the bed before the mouse could see him!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "\"Mouse in the House!\" shouted everyone together. That woke Baby up. She sat up on her mat, rubbing her eyes sleepily. What was that on her pillow?"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "It had two eyes, four feet, and a long tail.\n\"Mouse!\" said Baby, clapping happily. Baby looked at the mouse, and the mouse fled, with Baby right behind him!"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Leaping up the sofa, climbing the window, jumping up the table, tumbling over the cushions..."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "... running in between the curtains, scurrying over the plates, and out of the door!"
+    }
+  ]
+}

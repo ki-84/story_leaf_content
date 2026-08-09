@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0256",
+  "title": "My Juggling Grandma",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 94,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "My Juggling Grandma",
+    "author": "Rachita Uday Kumar",
+    "illustrator": "Niloufer Wadia",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2945-my-juggling-grandma",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Grandma likes juggling.\n\nShe juggles wherever she goes."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "She juggles from day to night.\n\nShe juggles till the stars are bright."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "She juggled in the office where she was praised.\n\nShe juggled in the shop and got hundred rupees."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "She tried juggling with mangoes, but they fell down with a!!SPLAT!!\n\nGrandma was very sad. She wanted a set of juggling balls."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Grandma told grandpa she needed a set of juggling balls.\n\nSo she got one. She was very happy."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Grandma soon became a professional juggler.\n\nShe was the best juggler in the world."
+    }
+  ]
+}

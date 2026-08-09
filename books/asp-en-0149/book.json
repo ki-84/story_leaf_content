@@ -1,0 +1,84 @@
+{
+  "bookId": "asp-en-0149",
+  "title": "The Moon and the Cap",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 143,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The Moon and the Cap",
+    "author": "Noni",
+    "illustrator": "Angie & Upesh",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "All of us went to the fun\nfair."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Father bought brother\nfancy glasses.\nMother bought me a\nbright blue cap.\nThe baby got sugar\ncandy."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "On the way home, a\nvery strong wind came.\nIt blew my cap away."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "My cap got stuck on a\nbranch of a big old tree."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I cried a lot.\nAnd I did not eat my\ndinner."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Later that night, the\nmoon came up. It\nlooked at my cap in the\nbig old tree."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The moon tried on my\ncap. It smiled happily.\nI had to smile too."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "After school the next\nday, my mother gave\nme a shiny new red\ncap.\n\"The moon sent it,\" she\nsaid."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "That night, both the\nmoon and I wore our\ncaps and smiled.\nWe were happy."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Do you think the sun\nneeds a hat?"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Guess which cap I am\nwearing today!"
+    }
+  ]
+}

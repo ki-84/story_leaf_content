@@ -1,0 +1,70 @@
+{
+  "bookId": "asp-en-0248",
+  "title": "My trip to the Zoo",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 50,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "My trip to the Zoo",
+    "author": "Mmapule Nkuna",
+    "illustrator": "Melany Pietersen, Rob Owen, Catherine Groenewald",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Today I went to the Zoo"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I saw a lot.\n\nI saw a Lion"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I saw an Elephant."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I saw a crocodile."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I saw a Giraffe."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I saw a lot of zebras."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "And I even saw a cow."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "It was a lot of fun.\n\nBut then daddy drove\nus home."
+    }
+  ]
+}

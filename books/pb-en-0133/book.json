@@ -1,0 +1,86 @@
+{
+  "bookId": "pb-en-0133",
+  "title": "The Boy and the Drum (A Shorter Version)",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 1817,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Boy and the Drum (A Shorter Version)",
+    "author": "Umesh P N",
+    "illustrator": "Rajiv Eipe",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1121-the-boy-and-the-drum-a-shorter-version",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "表紙をページ 1 と共用"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/01.jpg",
+      "text": "A poor woman had a son. She worked hard as a gardener in wealthy houses in their town. They gave her some grain in return.\n\nBut she felt bad because she could never afford to buy nice clothes or lovely toys for her son.\n\nThe little lad was bright and cheerful. Not having any toys or nice clothes did not bother him. After a hard day's work, the mother was going to the market to sell the grain she had received.\n\nShe asked her son:\n\nMother: What can I get for you from the market, little one?\n\nNow the boy was fascinated with the sound of a drum. So he said:\n\nBoy: A drum, mother, I would love to have a drum to play with."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/02.jpg",
+      "text": "The mother knew she would never have enough money to buy a drum for her son. She went to the market, sold her grain and bought some gram flour and some salt.\n\nWhile returning home, she felt sad that she would have to face him empty-handed. So when she saw a nice piece of wood on the road, she picked it up and brought it home.\n\nThe son did not know what to do with the piece of wood. Yet he happily carried it with him when he went out to play.\n\nA happy song sprang to his lips and he went along singing it:\n\nBoy: Tum-ti-tee Tum-ti-tee-Tum-ti-tee-Tum-ti-tee- Tum-ti-tee- Tum-ti-tee Tot Tum-ti-tee Tum-ti-tee-Tum-ti-tee-Tum-ti-tee- Tum-ti-tee- Tum-ti-tee Tot!\n\nI asked for a drum and look what I got,\n\nA lovely piece of wood!\n\nI asked for a drum and look what I got,\n\nI think my luck is good!\n\nTum-ti-tee Tum-ti-tee-Tum-ti-tee-Tum-ti-tee- Tum-ti-tee- Tum-ti-tee Tot\n\nTum-ti-tee Tum-ti-tee-Tum-ti-tee-Tum-ti-tee- Tum-ti-tee- Tum-ti-tee Tot!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/03.jpg",
+      "text": "And as he went skipping along on his way, he came across an old man. The old man was trying to light his stove using some cow-dung cakes. The fire was not catching and there was smoke all around. The smoke made the man's eyes water and he was coughing. The little boy ran up to him and said:\n\nBoy: What is the matter Grandpa? Can I help you in any way?\n\nOld Man: Ah! Little one, I am trying to cook some food, but I am unable to start a fire. For you see,\n\nMy fire will just not start\n\nI need to cook. Oh! Take a look\n\nMy fire will never start!\n\nCan somebody start this fire?\n\nMy eyes are red, my arms are tired.\n\nI need to eat, I need some food.\n\nOh! For a dry piece of wood!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/04.jpg",
+      "text": "Boy: Here, Grandpa, you can use my piece of wood to start your fire.\n\nNarrator: The old man was very pleased. He lit his fire, made some bread and gave a piece to the boy.\n\nThe boy skipped along singing his song:\n\nBoy: La-la-la-la- La-la-la-la- La-la-la-la- La\n\nLa-la-la-la- La-la-la-la- La-la-la-la- La!\n\nMy piece of wood got me some food.\n\nA lovely piece of bread.\n\nMy piece of wood is not a drum, but it\n\nGot me bread. A lovely piece of bread.\n\nLa-la-la-la- La-la-la-la- La-la-la-la- La\n\nLa-la-la-la- La-la-la-la- La-la-la-la- La!\n\nThe boy walked on till he came upon a potter's wife. She had her baby in her arms. The baby was wailing and flailing her arms.\n\nThe boy said:\n\nBoy: Dear lady, why is your daughter crying?\n\nPotter's Wife: My little one is hungry. She has not had anything to eat since morning. I cannot give her anything as there is nothing in the house. I wish I had some bread to give her.\n\nThe kind hearted boy gave the lady his bread. She gave the bread to her child who ate it eagerly and stopped crying. She was so pleased with the boy that she gave him a large pot."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/05.jpg",
+      "text": "The boy went along humming his funny song:\n\nBoy: Tum-ti-tee Tum-ti-tee-Tum-ti-tee-Tum-ti-tee- Tum-ti-tee- Tum-ti-tee Tot\n\nTum-ti-tee Tum-ti-tee-Tum-ti-tee-Tum-ti-tee- Tum-ti-tee- Tum-ti-tee Tot!\n\nI gave my bread away and\n\nLook what I got!\n\nI gave my bread away and\n\nGot a lovely pot!\n\nTum-ti-tee Tum-ti-tee-Tum-ti-tee-Tum-ti-tee- Tum-ti-tee- Tum-ti-tee Tot\n\nTum-ti-tee Tum-ti-tee-Tum-ti-tee-Tum-ti-tee- Tum-ti-tee- Tum-ti-tee Tot!\n\nThe little boy skipped along until he came upon a strange scene at the river bank.\n\nA washerman was quarreling loudly with his wife.\n\nThe boy stopped and asked:\n\nBoy: Dear Sir, what is the matter? Why are you quarreling with your wife?\n\nNarrator: The washerman said:\n\nWasherman: You see, son, it was like this,\n\nI gave her a pot, I gave her a pot.\n\nAnd what did she do?\n\nI gave her a pot, it cost a lot.\n\nShe went and broke it too!\n\nI gave her the pot that cost a lot.\n\nIt'll cost me all the more.\n\nShe broke the pot, the last of my lot,\n\nAnd now I feel so sore!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/06.jpg",
+      "text": "I gave her the pot, the pot she broke.\n\nThe pot I need to boil my clothes.\n\nWithout the pot, my clothes will rot.\n\nOh, they will remain soiled!\n\nSo you see, I have nothing to boil my clothes in before I wash them. And because of her, my trade will suffer.\n\nBoy: Dear Sir, don't quarrel with your wife. Please take this pot of mine and use it.\n\nThe washerman was very happy with the pot. He was so pleased with the boy's good nature that he gave him a nice coat in return.\n\nThe boy ran along singing his funny song.\n\nBoy: As I walked along,\n\nWith my pot in hand,\n\nI met a washerman.\n\nWho gave me this coat so grand!\n\nOh so funny indeed!\n\nPeople looking for things,\n\nAnd I have what they need!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/07.jpg",
+      "text": "The boy walked on, all the while admiring his grand coat. He soon came to a bridge, and there he was alarmed by what he saw.\n\nA man was shivering in the cold and he was not even wearing a shirt. He seemed to be hurt and was moaning in pain. The boy was very concerned and ran up to the man and said:\n\nBoy: You seem to be bleeding,\n\nYou seem to be hurt!\n\nI'll try and get you some help.\n\nYou also need a coat.\n\nThe boy asked the man how he came to be in such a sorry state."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/08.jpg",
+      "text": "The man said:\n\nMan: I was riding my horse in a hurry.\n\nI was riding my horse to the city.\n\nA crowd of thieves, they came and GOT me!\n\nThey got me down, they got me out.\n\nThey took my purse, got all my money.\n\nI tried to put up a good fight.\n\nBut they beat me up, they beat me bad.\n\nThey left me in pain, they left me hurt.\n\nThey took it all, even my shirt!\n\nThe boy said:\n\nBoy: Your need is greater than mine. Please take this coat. It will help you keep warm.\n\nThe man was touched by the little lad's kindness. He thanked the boy profusely and presented him with the big fine horse he was riding."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/09.jpg",
+      "text": "The boy was very happy and led the horse along, singing his song.\n\nBoy: Oh so funny indeed!\n\nPeople looking for things,\n\nAnd I have what they need!\n\nA man needs a shirt,\n\nBut all he has is a big fine horse!\n\nI gave him my coat, what did I get?\n\nHis big fine horse, of course!\n\nAs he was walking along with his horse, he came upon a large party of gaily dressed people. They were part of a big wedding party with the bridegroom, and musicians. They seemed ready to go in a wedding procession, but all of them were sitting under a tree with long faces.\n\nThe boy stopped and asked them what made them look so depressed."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/10.jpg",
+      "text": "The groom's father said:\nGroom's father: You see, son, it's like this. We are all set to go in the wedding procession. But we need a horse for the groom. The man who was supposed to bring it hasn't turned up, the auspicious hour is almost gone.\n\nAnd the groom himself stepped up to the boy and said:\n\nGroom: I am the groom.\n\nWaiting to see my bride,\n\nBut I'm stuck in here Just hoping for a ride!\n\nI just can't go there on my feet.\n\nMy horse is late and so is the hour.\n\nMy guests are all waiting to eat.\n\nI'll miss my wedding for sure!\n\nSo you see, what I need right now is a horse! I need a horse! A really quick horse!\n\nChorus: He needs a horse, he needs a horse!He needs a really fast horse!\n\nAnd so the boy, being helpful as ever, offered his horse to the groom. The groom was very happy and he asked the boy what he could give him in exchange for his horse.\n\nThe boy looked around among the musicians and quickly spotted the drummer.\n\nHe said:\n\nBoy: A stitch in time they say saves nine.\n\nAnd what indeed did save the day,\n\nWas this splendid horse of mine!\n\nAll I want from you is\n\nThat fine little drum that you play!\n\nOh, make my dreams come true!\n\nPlease make my dream come true!\n\nThe groom requested the drummer to hand over the drum to the boy. The drummer knew he would easily get enough money to buy himself a brand new drum. He willingly gave his drum away."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/11.jpg",
+      "text": "The boy rushed home singing his song and playing his new drum. He could not wait to tell his mother how she had helped him to get his drum.\n\nBoy: My piece of wood did a lot of good!\n\nIt got me bread as food.\n\nMy piece of bread lasted not,\n\nBut gave me a lovely pot.\n\nMy pot got me a lovely coat.\n\nThe coat did help a needy man.\n\nI got me a big fine horse to ride.\n\nWith that horse,\n\nI got a groom his bride!\n\nSo you see it is simple indeed\n\nA little bit of give and take,\n\nWill a lot of people happy make!\n\nSo when you meet your friends today,\n\nTry and make their day!"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "bookId": "pb-en-0052",
+  "title": "Little Painters",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 199,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Little Painters",
+    "author": "Cheryl Rao",
+    "illustrator": "Tanvi Choudhury",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/218-little-painters",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "It was holiday time. Veena and Vinay were in the garden. There were tins of paint everywhere."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "There was white paint and red paint and green paint and blue paint and yellow paint."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The painters were busy. One painter was on a ladder. Another was hanging from the roof on a swing. “Can we help?” asked Veena and Vinay."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The painter gave each of them a brush. “Paint the inside of the gate,” he said to Veena.\n\n“Paint the outside of the gate,” he said to Vinay."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "They picked up two tins of paint and set to work. Veena painted one side of the gate. Vinay painted the other side of the gate."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The paint fell on the ground.\n\nThe paint fell on the wall.\n\nThe paint fell on them."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "At last they finished. They wiped off the paint that had splashed on the ground. They wiped off the paint that had splashed on the wall."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "They wiped off the paint that had splashed on them."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "\"I love my red gate!\" said Veena."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "\"I love my green gate!\" said Vinay."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "“Oh, you have made a two-coloured gate!” cried the painter.\n\n“Let us keep it that way!” said Mother."
+    }
+  ]
+}

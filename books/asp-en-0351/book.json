@@ -1,0 +1,79 @@
+{
+  "bookId": "asp-en-0351",
+  "title": "Friends become enemies",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 264,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Friends become enemies",
+    "author": "Kennedy Amandu",
+    "illustrator": "Rob Owen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time there lived\ntwo friends, Hyena and Hare.\nHyena was a hardworking\nfarmer. He woke up early every\nmorning and went to work in his\nfield."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Hare woke up when it was\nalready broad daylight. He\nwould yawn and stretch. Then\nhe would go looking for food."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Most mornings, Hare would take\nsome seeds from Hyena's\ngranary. Then he went to his\nfield and pretended to work. He\nwould light a fire and roast the\nseeds. He did nothing, except\neat roasted seeds."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "At harvest time, Hare went and\nstole his friend's ripe maize. He\ncarried it to his own granary."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Hyena complained about the\nstolen crops. Hare answered,\n\"Maybe the neighbours stole\nyour maize. They are suffering\nfrom famine because they are\nlazy.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Hyena thought about this\nproblem for a long time. He\ncame up with an idea.\nHe collected gum from the\ntrees. He put that sticky gum\naround the whole field. The\nthief would get stuck in the\ngum."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "During the night, Hare went to\nHyena's field to steal more\nmaize. Before entering the field\nhe looked around to see if it\nwas safe."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Hare did not see the gum that\nHyena had put around the field.\nHare stood in the gum and was\nstuck. He started shouting for\nhelp."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Hyena heard the shouts and ran\nout to catch the thief.\nHe could not believe his eyes. It\nwas his friend Hare who was\nstuck in the gum!"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "From that time, Hyena went his way and Hare went the\nother way.\nThat marked the end of their friendship."
+    }
+  ]
+}

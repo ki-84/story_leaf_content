@@ -1,0 +1,109 @@
+{
+  "bookId": "pb-en-0071",
+  "title": "Colours of Nature",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 168,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Colours of Nature",
+    "author": "Bulbul Sharma",
+    "illustrator": "Bulbul Sharma",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/409-colours-of-nature",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I see a blue butterfly waving goodbye"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I see a yellow bee drinking a cup of tea"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I see a red fish in a dish"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I see a green frog playing with a puppy dog"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I see an orange duck\n\nwishing me good luck"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I see a violet flower\n\ndancing with a caterpillar"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "I see a grey and black cat\n\nwearing an orange hat"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "I see a grey and brown mouse\n\nhiding in a pink house"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "I see a red and black fox\n\nwearing purple socks"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "I see a green grasshopper reading a\n\nblack and white newspaper"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "I see a black and purple goat\n\nsailing in a red boat"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "I see a green and brown crocodile\n\ngiving me a big smile"
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "I see a black and blue snake\n\neating a slice of cake"
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "I see a red and yellow hen\n\nwriting with a pen"
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "I see a black and orange tiger\n\nstanding in the water"
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "I see with my two black eyes\n\nall the colours as they fly"
+    }
+  ]
+}

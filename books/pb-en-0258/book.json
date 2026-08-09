@@ -1,0 +1,79 @@
+{
+  "bookId": "pb-en-0258",
+  "title": "Gargi and Soapy",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "ファンタジー"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 356,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Gargi and Soapy",
+    "author": "Preethi Unnithan",
+    "illustrator": "Sorit Gupto",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2962-gargi-and-soapy",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Gargi liked to go to the beach and sail paper boats. She liked to sing\" Row row row your boat , gently by the stream. Merrily merrily merrily merrily life is like a dream.\""
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "She also loved to build magnificient sand castles. She liked to play in sand and always wanted to remain dirty."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"Gargi, come here wash your hands thoroughly,\" said Mother with a soap-box in her hand.\n\n\"noooooo\".....screamed and cried Gargi as if she saw a monster in the soap-box."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "She kicked Soapy so hard that he flew up and hit the ceiling of the bathroom.\n\nSoapy was scared of Gargi and fed up of her tantrums."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Her unhygienic habits put her into trouble and Gargi was down with fever. She had to take medicines given by her doctor and that night she saw a dream..."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The germy brothers Ravu, Takshu, Shaku, Dronu and their evil friends had surrounded her house. They wanted to capture her house and began to kick and punch her .\n\nShe cried desperately, \"Help! Help!\"\n\nBut as she had a sore throat, her voice could not be heard by anyone."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Suddenly she heard a stern voice,\" Better leave Gargi alone or suffer the consequences.\"\n\n\"Ha-ha-ha........ We are the most powerful germs on earth known to human beings. How can soap bubbles harm us?\" said the evil Duryo with pride. Then it was Soapy versus the germy brothers.\n\nThe war lasted long. Finally it was the victory of clean over dirty. Gargi was rescued by Soapy."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Ta...ra...la...la..la..rum...pum...pum... danced Soapy with joy.\n\nGargi realised that Soapy was her true friend. Her fever had also subsided by now."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Next day morning, Mother was surprised but pleased to see Gargi brushing her teeth happily. Neither did she scream or yell at the sight of Soapy. She had learnt a lesson."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Soapy helped Gargi to be clean and germ-free.\n\nWith Soapy around she was not afraid of the germy brothers anymore. She felt safe with Soapy. Birds, butterflies and flowers were smiling with Gargi and Soapy. They all wanted to celebrate their friendship."
+    }
+  ]
+}

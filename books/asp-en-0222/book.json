@@ -1,0 +1,79 @@
+{
+  "bookId": "asp-en-0222",
+  "title": "Devil's scarf",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "むかしばなし",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 362,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Devil's scarf",
+    "author": "Azeb Worku Sibane",
+    "illustrator": "Jacob Kono",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was a rich man who looked for a wife for a long time.\n\nWhen he married, he had a big ceremony that was blessed by the elders."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "After years of marriage, the man and woman began to worry because they did not have a child.\n\nThe woman prayed for a child again and again. But she still did not become pregnant."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day, tired of waiting, she said, \"Devil, if you give me a child, I will make a beautiful scarf for you.\"\n\nThe following month, she became pregnant. She was happy and made the scarf which she had promised."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The woman gave birth to a baby boy. Everybody rejoiced with her.\n\nShe wanted to give the scarf to the devil but realised that she did not know how to find him. So she visited an elder and asked him for advice."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The elder said, \"To find the devil, go near the church. You will find two men standing before a wise man. These two have been fighting. The one who refuses to reconcile and leaves in anger is the devil! Follow him and give him this scarf.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The woman went near the church. She saw two men standing before a wise man.\n\nThe wise man said, \"Enough! It's time to forgive each other from the heart.\"\n\nOne of the men bent forward to ask for forgiveness. The other one refused and walked away."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The woman called after him, \"Wait! I have something for you.\" She offered him the scarf.\n\nThe angry man asked, \"What is this?\"\n\nThe woman answered, \"It is your present.\" He replied, \"I do not understand why you are giving me this present.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The woman told him the story. She said, \"You are the man who refused to apologise. That means you are the devil.\"\n\nShe stretched out her hand to give him the scarf."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "This man ran back to the church. He knelt down in front of the other man and said to him, \"I forgive you. Forgive me too.\"\n\nThe other man also knelt. They hugged each other."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The woman continues to search for the devil.\n\nMake sure the scarf does not belong to you!"
+    }
+  ]
+}

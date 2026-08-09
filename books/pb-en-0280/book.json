@@ -1,0 +1,74 @@
+{
+  "bookId": "pb-en-0280",
+  "title": "The day of an owl",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 63,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The day of an owl",
+    "author": "Vvs Prakash Bommisetti",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3329-the-day-of-an-owl",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I am an owl\n\nI see in the night...."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": ".....and I sleep all the day"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day all the birds woke me up from the sleep"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Cause their friend is falling on the ground....."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": ".....and vulture moving around"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "All of us helped the bird to get on the branch"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The peacock danced for me"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "All the birds are happy"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "I am again sleepy...."
+    }
+  ]
+}

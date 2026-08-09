@@ -1,0 +1,89 @@
+{
+  "bookId": "asp-en-0245",
+  "title": "Our day at the zoo",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "ファンタジー"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 70,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Our day at the zoo",
+    "author": "Zimbili Dlamini, Hlengiwe Zondi",
+    "illustrator": "Melany Pietersen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Today we are going to the zoo."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "We are going in dad's car."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "We are going to see animals."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Look!\n\nAn elephant.\n\nLook!\n\nA lion."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "We walk through the whole zoo!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Look!\n\nIce cream.\n\nLook!\n\nSweets."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "And there is a clown with balloons."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Dad buys us nice things."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Soon we must go home."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "We saw many animals today!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "We are happy and tired."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "I wish every day was like today!"
+    }
+  ]
+}

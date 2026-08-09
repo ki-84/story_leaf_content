@@ -1,0 +1,88 @@
+{
+  "bookId": "asp-en-0121",
+  "title": "Porridge",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 85,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Porridge",
+    "author": "Zimbili Dlamini, Hlengiwe Zondi",
+    "illustrator": "Catherine Groenewald",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Zama is getting ready for school."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Dad is cooking porridge for breakfast."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"Mom makes the best porridge!\" says Zama."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Porridge gives Zama energy for school."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The porridge is ready."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Dad pours the milk, with love."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"Dad, I think this porridge needs more sugar,\" says Zama."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "\"Mom's porridge tastes much better than Dad's porridge,\" thinks Zama."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "\"Dad, please can I have more sugar?\" asks Zama."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Dad gives Zama more sugar."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "\"Wu! Dad! You put salt on my porridge!\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "\"Dad, when will Mom be home?\" asks Zama."
+    }
+  ]
+}

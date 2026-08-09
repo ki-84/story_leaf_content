@@ -1,0 +1,70 @@
+{
+  "bookId": "asp-en-0198",
+  "title": "Soccer game Chiefs and Aces",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 172,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Soccer game Chiefs and Aces",
+    "author": "Letta Machoga",
+    "illustrator": "Vusi Malindi",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "The day that we've been talking\nabout has come. We are going\nto play soccer. Chiefs versus\nAces.\nCome and watch!\nCome with your vuvuzela!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Wonderful Chiefs, the cup must\ncome to sleep at home.\nI want us to work together as a\nteam in order to defeat Aces.\nWe must attack wisely, be\ncareful, and pass to each other."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Pass the ball, pass it, Portia,\nModise!\nDefend, defend, Jomo!\nThere it is, there it is, let it go to\nthe goals!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "You played wonderfully, my\nbeautiful Chiefs!\nYou attacked wisely, you were\ncareful, and you shared the ball.\nYou played as a real team!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "'High Five! Give yourselves a\nhand!' says the coach."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Oh! We are tired, but it was\ngood to prepare ourselves.\nWhen is the match, Coach?"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The day came that we were\nwaiting for. The coach brought\nus the kit.\nHalala Chiefs, halala!\nIt's going to be a good game.\nThe cup is ours!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Our kit is so beautiful! Thank\nyou, coach! You are a wonderful\ncoach!"
+    }
+  ]
+}

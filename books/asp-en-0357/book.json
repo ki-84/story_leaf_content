@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0357",
+  "title": "Mwari and the ogre",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 179,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Mwari and the ogre",
+    "author": "Alice Kapolondo",
+    "illustrator": "Catherine Groenewald, Jeremiah Dube, Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time there lived a young girl\ncalled Mwari."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Her parents used to send her to collect\nfirewood near the forest,but with caution not to\ngo inside the forest for the forest was full of\ndangerous animals and ogres."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "As she looked inside the forest she saw a big\ndry log lying on the ground. One day Mwari\nwent to collect firewood as usual."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "She took the axe and entered into the forest.\nAs she started cutting the fallen tree into\npieces she heard a big sound asking,\" who is\ntouching my firewood?\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Mwari was so scared, she tried\nto run but the ogre grabbed her\nby hand."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "It told her she will make it's lunch meal by\nboiling in a big pot."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Her screams alerted other villagers who had\ncome to collect firewood too"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "They ran back to the village and\ninformed the village warriors\nwho went to the forest to fight\nthe ogre."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Although many of them were\ninjured they managed to rescue\nher."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "She learnt her lesson to obey\nwhat she was told."
+    }
+  ]
+}

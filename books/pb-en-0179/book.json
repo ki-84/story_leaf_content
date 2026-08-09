@@ -1,0 +1,49 @@
+{
+  "bookId": "pb-en-0179",
+  "title": "Stripey the Bee",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "ファンタジー"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 271,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Stripey the Bee",
+    "author": "Aahan Sarin",
+    "illustrator": "Aahan Sarin, Greystroke",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2052-stripey-the-bee",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once there was a bee whose name was Stripey. Stripey did not know how to make honey. He thought that bees get readymade honey from somewhere or find it inside something but didn't know where. So Stripey started looking for it inside a twig, he broke it but found sap inside, that didn't taste wee bit like honey. Then he tore a paper, popped a balloon, peeled open an orange but no honey came out."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Stripey thought that maybe bees only give out honey. So he did all kind of bee dance, all kind of movements he had never done before. But that didn't work either. So he went to the Bee bookstore and searched for books which tell how to make honey. He searched and searched and luckily found a magic book that tells you how to make honey. He bought that book, took it home and started reading it. He read the ingredients first."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "This is how you make honey. So Stripey read.\n\nThings you'll need:\n\nNectar from flowers\n\nBee saliva and most important of all\n\nHard work\n\nGo to a flower which has nectar, suck the nectar with your long tongue, put it in the honey stomach ( a stomach where you store honey), out of bee saliva make the cells of the bee hive, then throw up the honey into the cells and seal it with the wax."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Finally , Stripey could make honey on his own. He no more had to go to Bee restaurant to have his honey breakfast, lunch and supper. Stripey was overjoyed that he could make his own food, his own honey.\n\nTHE END"
+    }
+  ]
+}

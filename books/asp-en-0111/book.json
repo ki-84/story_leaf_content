@@ -1,0 +1,69 @@
+{
+  "bookId": "asp-en-0111",
+  "title": "Why hippos have no hair",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 206,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Why hippos have no hair",
+    "author": "Basilio Gimo, David Ker",
+    "illustrator": "Carol Liddiment",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day, Rabbit was walking by the riverside."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Hippo was there too, going for a stroll and eating some nice green grass."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Hippo didn't see that Rabbit was there and she accidentally stepped on Rabbit's foot.\n\nRabbit started screaming at Hippo, \"You Hippo! Can't you see that you're stepping on my foot?\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Hippo apologised to Rabbit, \"I'm so sorry. I didn't see you. Please forgive me!\"\n\nBut Rabbit wouldn't listen and he shouted at Hippo, \"You did that on purpose! Someday, you'll see! You're going to pay!\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Rabbit went to find Fire and said, \"Go, burn Hippo when she comes out of the water to eat grass. She stepped on me!\"\n\nFire answered, \"No problem, Rabbit, my friend. I'll do just what you ask.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Later, Hippo was eating grass far from the river when, \"Whoosh!\" Fire burst into flame. The flames began to burn Hippo's hair."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Hippo started to cry and ran for the water. All her hair was burned off by the fire.\n\nHippo kept crying, \"My hair has burned in the fire! My hair is all gone! My beautiful hair!\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Rabbit was happy that Hippo's hair was burned.\n\nAnd to this day, for fear of fire, the hippo never goes far from the water."
+    }
+  ]
+}

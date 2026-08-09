@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0240",
+  "title": "The Day It Rained Fish",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 255,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Day It Rained Fish",
+    "author": "Ramendra Kumar",
+    "illustrator": "Delwyn Remedios",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2711-the-day-it-rained-fish",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Avanti was the zookeeper of Pitara zoo.\n\nThere were many, many animals in Pitara, but Avanti's best friend was Ballu, the bear. Ballu was big, brown and strong.\n\nOn his fourth birthday, Avanti organised a little party for Ballu."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "“Ballu, can you blow out all the candles at once?” Avanti asked.\n\n“Of course!” said Ballu. He filled his chest with air. He huffed and puffed and puffed and huffed and went “WHOOSH!”"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The blast of air blew the candles out. Then rising up, it crashed into the clouds in the sky. And all of a sudden, there was was a roar of thunder and it started to rain."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "“Hey, it's raining fish,” Avanti shouted.\n\nBallu looked around with wonder. Then he picked up a huge basket and ran around collecting fish as they fell from the sky.\n\nEvery time the basket filled, he dropped the fish in a little pond and ran back for more."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Then, as he was rushing for the tenth time to the pond, he turned back. The water level had risen and he could see that Avanti was scared."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Ballu came back quickly, picked Avanti up and placed her on his shoulders.\n\nAvanti put her arms around Ballu's neck and thanked him.\n\nSoon, the clouds disappeared and the sun came out. It was bright and cheerful once again."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "“I will never again ask you to blow the candles out,” said Avanti.\n\n“Why?”asked Ballu.\n\n“Who knows? Next time it might start raining frogs,” Avanti said and the two friends started laughing."
+    }
+  ]
+}

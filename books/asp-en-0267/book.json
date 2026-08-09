@@ -1,0 +1,89 @@
+{
+  "bookId": "asp-en-0267",
+  "title": "A Dancer's Tale: The Story of Phyllis Spira",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 483,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "A Dancer's Tale: The Story of Phyllis Spira",
+    "author": "Samantha Cutler",
+    "illustrator": "Thea Nicole de Klerk, Book Dash",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, in Joburg's\nOrange Grove, a little girl called\nPhyllis\nwas born into the world.\nTwo people in love, hugged\ntheir sweet little babe. No-one\nknew then,\nwhat a dancer they'd made."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "By the time she was four,\nshe had learned very quick.\nShe impressed all her teachers,\nwith her ducky feet flicks!\nBefore school and after,\nshe danced everyday.\nNothing pleased Phyllis,\nmore than ballet."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "When the world was ready\nfor Phyllis at fifteen,\nShe arrived in big, old London,\nready to live her dream.\nShe said goodbye to all her\nfriends.\nShe was ready to start fresh.\nWatch out Royal Ballet School!\nPhyllis is here to impress."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "When Phyllis danced Swan\nLake,\nit was fit to show the Queen!\nAfter years of pirouetting,\nshe was ready to be seen.\nDancing for the audience,\nshe turned and twirled about.\nLook! Everyone is smiling!\nSee how they clap and shout!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "From Mexico to Canada.\nFrom the USA to France.\nPhyllis travelled far and wide,\nso the world could see her\ndance.\nWith the Royal Ballet Company,\nand her ballerina friends,\nshe spread her love for ballet.\nShe never wanted it to end."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Phyllis always knew,\nthat dance was in her heart.\nBut she longed to return home\nagain,\nand make a fresh new start.\nSo she leaped and bounded,\nback to her beautiful land.\nHer ballerina roots were\nregrown.\nShe was once more South\nAfrican."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Dancing wasn't just for fun,\nas Phyllis always knew.\nShe'd work at dancing day and\nnight,\nand with hard work she grew.\nAlways smiling, always trying,\nthrough good times and\nthrough tough,\nPhyllis always did her best.\nShe couldn't get enough."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Romeo and Juliet,\nSwan Lake and Giselle.\nPhyllis danced these for the\npeople:\ngraceful, tireless, well.\nWith partners Gary Burne\nand Eduard Greyling too,\nher magnificence inspired the\naudience.\nTo her, flowers they threw."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Reward comes easily,\nwhen you put yourself to the\ntest.\nPhyllis came to realise this,\nonce she was called 'The Best.'\nShe was awarded 'Prima\nBallerina Assoluta.'\nThe greatest dancer of them all!\nPhyllis would be forever known.\nShe wanted nothing more."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Goodness! What a catch!\nPhyllis met her loving partner.\nHis name was Phillip Boyd.\nHe was another dancer.\nTogether they were married.\nand together they would dance.\nNo-one could be better\nmatched,\ngiven half the chance!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Though they had no children,\nPhyllis and Phillip were never\nsad.\nThey two of them found another\nway\nto help other Mums and Dads.\nThey started Dance For All,\na special school for dance.\nSo that children with no money,\ncould also learn to prance!"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "She left a legacy of dance,\nand incredible success.\nHer magic was passed on to\nothers\nto help them become their best.\nHer students spread across the\nworld,\ninspired by her ducky feet.\nThey dance on while we watch,\ndreaming from our seats."
+    }
+  ]
+}

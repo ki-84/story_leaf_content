@@ -1,0 +1,91 @@
+{
+  "bookId": "asp-en-0074",
+  "title": "The Clever Little Bird",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 320,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The Clever Little Bird",
+    "author": "South African Folktale",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 14 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once long ago, the birds had a\nmeeting. They wanted a king."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The Eagle wanted to be king.\nThe other birds said, \"Your call\nis too sad to be king\".\nThe Ostrich wanted to be king.\nThe other birds said, \"You can't\nfly\"."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Peacock wanted to be king. The\nother birds said, \"You are too\nproud. You cannot be king\".\nOwl wanted to be king. The\nother birds said, \"You sleep\nduring the day.You cannot be\nking\"."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "And so they did not get too far.\nThen one bird said, \"Who can\nfly the highest? That bird should\nbe king\".\nAll the birds flew up up up into\nthe sky."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Goose flew over the highest\nmountains in the world.\nEagle flew into the blue above\nthe mountains.\nBut Vulture flew without\nstopping, up towards the sun."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "High above them, the birds\nheard Vulture cry, \"I am the\nhighest, I am king!\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Vulture heard a tiny voice,\n\"Tink, tink, tink! I am the\nhighest, I am king.\" It was\nNcede, the Neddicky, the\nsmallest bird of all!\nHe had held onto the feathers\nof Vulture as he flew up into the\nsky!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "So Vulture flew down with the\nlittle bird still under his wing.\nThe other birds were cross with\nNcede. They waited for him,\nready to pluck out all his\nfeathers"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "But the quick little bird saw how\nangry they were, and flew into\nan empty snake hole."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The birds told Owl to wait near\nthe hole and catch him when he\ncomes out.\nSo Owl sat in front of the hole."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "But the sun was warm and soon\nOwl was fast asleep.\nThe little bird peeped out, saw\nthat Owl was asleep, and z-zip,\naway he went."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Owl was very ashamed that he\nhad let the little bird escape.\nNow he only hunts at night.\nIn the day, he sleeps, away\nfrom the sight of the other\nbirds."
+    }
+  ]
+}

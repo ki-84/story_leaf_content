@@ -1,0 +1,79 @@
+{
+  "bookId": "pb-en-0195",
+  "title": "The party",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 179,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The party",
+    "author": "Rachita Uday Kumar",
+    "illustrator": "Greystroke",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2245-the-party",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Toku was a jungle boy. He had animal friends."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Etal the elephant was his close and best friend."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Tofu the turtle was his pet and cook."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Blizz the bee was his *sidekick. *sidekick-a person who accompanies you."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "One such day, Toku got an invitation to Nela's the horse's birthday party."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "On the way, they met Bowwow the dog. He said he was going to the party too. So they went together."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "On the way. they saw Clawey the dino carrying a basket. He told them he was taking eggs to make the cake. So Clawey went along with them"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The next person they saw was Nomella the leopard. She said she was taking the prises for the games in the party. So she joined the group."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Soon they reached the party. Nela was waiting for them. Etal, Blizz, Quackella the duck, Wishy the whale, Foorusha the frog, Tofu and Tulula the bird were there."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "There was a funny choir, games, a resturant, a movie and much more. It was the best party the animals and Toku had witnessed."
+    }
+  ]
+}

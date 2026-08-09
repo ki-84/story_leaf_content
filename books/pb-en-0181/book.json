@@ -1,0 +1,99 @@
+{
+  "bookId": "pb-en-0181",
+  "title": "Prakruti",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 163,
+  "pageCount": 14,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Prakruti",
+    "author": "Prakruti & Shruti Bhat",
+    "illustrator": "Priya Kuriyan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2064-prakruti",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Prakruti loved reading stories with Ajji, while Golu, their cat, slept at their feet. \"Ajji, tell me a story about me!\" she squealed."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "So Ajji began, \"Prakruti or Prakriti means Nature\".\n\n\"Nature? What does that mean?\", asked Prakruti.\n\n\"Look outside\", said Ajji."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Prakruti is the leaves on the ground,\n\nthe birds on the trees."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Prakruti is the rolling hills\n\nand the breeze.."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Prakruti is the rain, the thunder\n\nand cold.."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Prakruti is the summer, yellow\n\nand gold.."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Prakruti is the mango tree in our\n\ncourtyard.."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Prakruti is the flower in our\n\nfrontyard.."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Prakruti is the snow on the\n\nmountain tops .."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Prakruti is the desert where\n\nsand is lots.."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Prakruti is a sapling basking in the\n\nsunlight.."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Prakruti is the silver lining in the\n\nmoonlight.."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Prakruti is the nature within us\n\nhelpful, loving and full of joy.."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "\"And this is the story about Prakruti, I hope you enjoy\",\n\nended Ajji.\n\n\"Oh! I love this story Ajji. I love this story about me very much!\""
+    }
+  ]
+}

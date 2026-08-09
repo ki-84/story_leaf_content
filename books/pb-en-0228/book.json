@@ -1,0 +1,36 @@
+{
+  "bookId": "pb-en-0228",
+  "title": "Granny and her Bird Friend",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 192,
+  "pageCount": 1,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Granny and her Bird Friend",
+    "author": "Geeta Yadav",
+    "illustrator": "Muniza Shariq",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2597-granny-and-her-bird-friend",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "表紙をページ 1 と共用"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/01.jpg",
+      "text": "Granny sits out in the verandah for long. She wants her bird friend to sing a song. Her old fist is closed with gaps. I can see that she holds some grains in a wrap.\n\n\"Who is your bird friend?\" I ask.\n\n\"Oh! It is the sparrow but finding one is such a task.\"\n\nWith this Granny goes into the past when the sparrows would come in so fast.\n\nShe mutters to herself, \"Yes! They would eat from my little palm and chirped till I played and slept in the calm. Those times when the birds and humans enjoyed a bond. Those little brown birds would often flutter in our pond. They would also make their homes in our roshandans, sing in the fields and fly across the maidan.\"\n\nChirp! Chirp! came the sound of Granny's long lost friend. Granny sprang up as her joy knew no end.\n\n\"Oh! Come! come to see what I have in my hand. You were in my wish list that I scribbled on the sand.\"\n\nGod is so kind and a great messenger too. He sent the little bird to make my Granny's wish come true."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0344",
+  "title": "How Tembe spends her day in life",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 154,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "How Tembe spends her day in life",
+    "author": "Espen Stranger-Johannessen",
+    "illustrator": "Sue Kramer, Cathy Feek, Angie & Upesh, Jesse Pietersen, Wiehan de Jager, Eden Daniels, Magriet Brink, Bronwen Heath, Mango Tree, Rob Owen, Jesse Breytenbach, Vusi Malindi, Marion Drew",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Tembe wakes up at seven o'clock in\nthe morning, just after the first\ncockcrow.\nshe washes her face,brushes her\nteeth, puts on her school uniform\nand leaves for school."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Her elder brother\nescorts her, they talk\nwhile moving until\nTembe reaches school."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "At 8:10 she is already in\nclass, ready for lessons."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "At break time she plays with her\nfriends in order to refresh their\nminds and also in preparation for\nthe next lesson."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "while in class, she\nparticipates fully and\nteacher Nabune likes\nthat."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The teacher gives them\ntime to rest after a long\nlesson and Tembe lies\nnext to the teacher"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "when they wake up, the\nhelps them cross the\nrailway and get back\nhome"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "when Tembe gets home, she spends some time with her\nfamily members."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "after supper, she\nbathes, puts her night\nwear goes to bed prays\nand finally sleeps till\nthe next day."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "How do you spend your day?"
+    }
+  ]
+}

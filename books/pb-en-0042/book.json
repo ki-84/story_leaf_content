@@ -1,0 +1,119 @@
+{
+  "bookId": "pb-en-0042",
+  "title": "Sister, Sister Why is the Sky So Blue?",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 1059,
+  "pageCount": 18,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Sister, Sister Why is the Sky So Blue?",
+    "author": "Roopa Pai",
+    "illustrator": "Greystroke",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/187-sister-sister-why-is-the-sky-so-blue",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Sister, sister, I wonder...\n\nWhat do you wonder, little brother,\n\nWhat do you wonder?\n\nI wonder, I wonder, why the sky is so blue.\n\nWhat do you think, little brother,\n\nWhat do you think?\n\nI think, I think...\n\nTell me, little brother,\n\nwhat do you think?"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I think\n\nThat maybe the sky\n\nIs really an upside-down sea\n\nWith cloud-boats bobbing gently along.\n\nThat an E-NOR-MOUS sheet\n\nOf clear plastic skin\n\nIs stretched across that upside-down sea\n\nTo keep it in."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "And sometimes the plastic tears a little\n\nHere or there\n\nLike plastic will\n\nAnd then it rains.\n\nI think that is why the sky is blue\n\nBecause it is a sea\n\nAnd seas are blue.\n\nI'm clever, aren't I, sister?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Oh yes you are, little brother, oh yes you are\n\nAnd maybe you are right, too...\n\nBut in the books I have read\n\nThat is not what they said.\n\nThen what did they say, sister,\n\nwhat did they say?\n\nWhat do you think, little brother,\n\nwhat do you think?\n\nI think, I think,\n\nTell me, little brother, what do you think?"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I think\n\nThat maybe the old woman\n\nWho lives in the sky\n\nWashes her ENORMOUS blue saree each night\n\nAnd spreads it out to dry in the sun\n\nEach morning."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "She is careful, the old woman\n\nShe pins the saree down with cloud-stones\n\nSo that the naughty wind\n\nCannot carry it away.\n\nI think that is why the sky is blue\n\nBecause the old woman in the sky\n\nSpreads her saree out to dry.\n\nI'm clever, aren't I, sister?"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Of course you are, little brother,\n\nAnd maybe you are right, too...\n\nBut in the books that I have read\n\nThat is not what they said.\n\nThen what did they say, sister,\n\nWhat did they say?\n\nWhat do you think, little brother,\n\nwhat do you think?\n\nI think, I think... Tell me, little brother,\n\nWhat do you think?"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "I think\n\nThat maybe, one long-ago Holi\n\nThe shops ran out of every colour BUT blue.\n\nAnd I think, that day,\n\nSuch an ENORMOUS cloud of blue dust rose\n\nFrom laughing blue people everywhere,\n\nThat it reached up, up, up all the way\n\nTo the sky."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "And the old woman, the one that lives up there,\n\nShe scrubs the sky each day\n\nWith cloud-cottonwool,\n\nTo get the stain out of the way.\n\nI think that's why the sky is blue\n\nBecause of a stubborn stain\n\nThat drives the old woman insane.\n\nI'm clever, aren't I, sister?"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Oh yes, you are, little brother, oh yes you are\n\nAnd maybe you are right, too...\n\nBut in the books I have read\n\nThat is not what they said.\n\nThen what did they say, sister,\n\nWhat did they say?\n\nWhat do you think, little brother,\n\nWhat do you think?\n\nThey said, they said...\n\nTell me, sister, what did they say?"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "They said\n\nThat there is a thick blanket of air\n\nAround our blue and green earth\n\nAnd that blanket is woven\n\nOf millions of little things they call\n\nMo-le-cules."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "They said\n\nThe air blanket is called\n\nAt-mos-phere.\n\nBut why is the sky so blue, sister,\n\nWhy is the sky so blue?\n\nBe patient, little brother, be patient now."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "They said\n\nThe golden light from the glorious sun\n\nIs not golden at all\n\nBut white!\n\nAnd what a white!\n\nA rainbow-coloured white!"
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "A violet-indigo-blue-green-yellow-orange-red white.\n\nThey said\n\nIt is the RAINBOW light\n\nThat comes to us\n\nThrough the At-mos-phere."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "But the sky is blue, sister, not violet or yellow or green!\n\nListen, little brother, you'll see what I mean.\n\nNow the Mo-le-cules in the At-mos-phere\n\nWell, they are not very fair."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "They let the red and the yellow and the orange light pass through\n\nMostly\n\nAnd the green too\n\nBut the blue!\n\nOh, they give the blue a hard time!\n\nWhat do they do to the blue, sister,\n\nWhat do they do?\n\nTell me, sister, what do they do?"
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "Well, when the sunlight strikes those\n\nMillions and millions of MO-le-cules\n\nThey BOUNCE all that blue light\n\nThe blue, blue light's\n\nBack where it came from;\n\nAnd the poor blue light\n\nShatters, scatters\n\nAll over, ALL OVER, the sky\n\nAnd turns it blue."
+    },
+    {
+      "index": 17,
+      "imagePath": "images/19.jpg",
+      "text": "Can it be true, sister, can it be true?\n\nI can't say, little brother, I can't say.\n\nBut in all the books that I have read\n\nThat is what they said.\n\nFIND OUT MORE!\n\nWhy is the sky blue?\n\nSunlight is made up of all the colors of the rainbow: red, orange, yellow, green, blue, indigo and violet. The gas molecules in the atmosphere interact with the sunlight before it reaches our eyes.\n\nEach ‘colour' of light is actually a different wavelength of electromagnetic radiation. Different wavelengths not only make up different colours, they also behave differently. Each of the different wavelengths in sunlight (or, in other words, each of the colours that sunlight is made up of) interacts differently with the molecules in the atmosphere.\n\nWhen sunlight strikes the molecules, they scatter the blue light (which has a shorter wavelength) more than they do the red, orange, yellow and green lights (which have longer wavelengths). Since the blue portion is scattered more, the sky appears blue.\n\nTry this experiment!\n\nWhy does the sky appear orange and red at dawn and dusk?\n\nLet's try this exercise to find out.\n\nYou need:\n\nA clear glass full of water\n\nA little milk\n\nA torch\n\nWhat to do:\n\nShine the torch on the glass of water. Can you see the light in the water? Hardly. Now add a few drops of milk into the water. Then shine the torch again on the glass. This time, you will notice that the light is more visible. Add a few more drops of milk. Now you will notice that the light in the glass is distinctly blue.\n\nWhy does this happen?\n\nWhen you add the first few drops of milk to\n\nthe water, the number of molecules in the\n\nwater increases. The fat and protein molecules in the milk scatter the light so that we can see it. When you increase the number of molecules by adding more milk, the light is scattered more, especially the blue light, which has a shorter wavelength."
+    }
+  ]
+}

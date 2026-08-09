@@ -1,0 +1,70 @@
+{
+  "bookId": "asp-en-0172",
+  "title": "Fruits",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 46,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Fruits",
+    "author": "Ritah Katetemera",
+    "illustrator": "Wiehan de Jager, Catherine Groenewald",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Fruits, fruits, fruits."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Fruit is sweet to eat."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "People eat different\ntypes of fruits."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "One may eat mangoes, another may eat pineapples."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "We also enjoy oranges."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Children enjoy apples."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Birds enjoy corn."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Oh fruits are good for\nhealth.\nPeople, animals and\nbirds like fruits so\nmuch."
+    }
+  ]
+}

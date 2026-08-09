@@ -1,0 +1,96 @@
+{
+  "bookId": "asp-en-0085",
+  "title": "An egg for bride wealth",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 565,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "An egg for bride wealth",
+    "author": "Nambi Sseppuuya Community Resource Centre",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 15 とページ数 13 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, there was an old\nwoman who loved her grandson\nvery much.\nShe gave him an egg as a gift.\nShe said, \"From this egg you will get\nbride wealth for your marriage\nwhen you are of age.\"\nAnd the boy went on his way."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "First he met some blackberry\ngatherers who asked him for the\negg.\nThey used it to shoot at the berries\nand it broke."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The boy cried,\n\"Ei...Ei...Ei! You have caused trouble\nfor me!\nThe egg was not mine.\nIt belonged to my grandmother.\nAnd grandmother didn't give it to\nme for nothing.\nShe gave it to me to get bride\nwealth.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "So the berry gatherers gave him the\nstick they used to bring down the\nberries.\nAnd the boy walked on."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Next the boy met some builders\nwho asked him for his stick.\nThey used it to build a house and it\nbroke into pieces."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The boy cried,\n\"Hee...Hee...Hee! You have caused\ntrouble for me! The stick was not\nmine, it belonged to the berry\ngatherers.\nAnd they didn't give it to me for\nnothing.\nThey gave it to me in place of my\negg.\nThe egg was not mine.\nIt belonged to my grandmother.\nAnd grandmother didn't give it to\nme for nothing,\nShe gave it to me to get bride\nwealth.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "So the builders gave him a bundle\nof grass for thatching.\nAnd the boy walked on."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Next the boy found a herdsman who\nasked for the boy's bundle of grass.\nThe herdsman gave it to the cow\nand the cow ate it all up."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The boy cried, \"E...E...E! You have\ncaused trouble for me! The grass\nwas not mine. It belonged to the\nbuilders.\nThe builders did not give it to me\nfor nothing. They broke my stick.\nThe stick was not mine. It belonged\nto the berry gatherers.\nAnd they didn't give it to me for\nnothing.\nThey gave it to me in place of my\negg.\nThe egg was not mine. It belonged\nto my grandmother.\nAnd grandmother did not give it to\nme for nothing.\nShe gave it to me to get bride\nwealth.\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "So the herdsman gave the boy his\ncow.\nAnd the boy walked on."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "While on his way home, the boy\ncame across a marriage\ncelebration.\nThe bride's family asked him for his\ncow.\nHe gave it to them.\nAnd they slaughtered it and ate it\nall."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The boy cried, \"Ei...Ei...Ei! You have\ncaused trouble for me! The cow was\nnot mine. It belonged to the\nherdsman.\nThe herdsman didn't give it to me\nfor nothing.\nHe gave it to me in place of my\nbundle of grass.\nThe grass was not mine. It belonged\nto the builders.\nThe builders didn't give it to me for\nnothing. They broke my stick.\nThe stick was not mine. It belonged\nto the berry gatherers.\nThey didn't give it to me for\nnothing. They gave it to me in place\nof my egg.\nThe egg was not mine. It belonged\nto my grandmother.\nAnd grandmother didn't give it to\nme for nothing,\nShe gave it to me to get bride\nwealth.\""
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Then the bride's family said, \"We\nhave nothing left to pay you. But let\nus give you the bride.\"\nAnd so, the saying came to pass\nthat, \"What goes round comes\naround!\""
+    }
+  ]
+}

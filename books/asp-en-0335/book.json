@@ -1,0 +1,84 @@
+{
+  "bookId": "asp-en-0335",
+  "title": "The friend I miss",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 166,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The friend I miss",
+    "author": "Ursula Nafula",
+    "illustrator": "Rijuta Ghate, Catherine Groenewald, Benjamin Mitchley, Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Every morning when I\nwoke up I hurried to eat\nmy breakfast."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Then I would take my blue blouse and run out of the house\nto find my friend Muthoni."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Once I found Muthoni,\nwe would forget\neverything else."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Muthoni and I would play hide and seek.\nI hid in big trees, while Muthoni went behind huts."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Muthoni and I went to the village well\ntogether.\nWe went to fetch firewood together.\nWe went to school together."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "We promised each other that we would work hard in school\nand graduate."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "But one day, Muthoni\ndid not come to school.\nI stood at the door to\nour class and waited for\nher to arrive.\nBut she did not come."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "When I returned home that day, I told my mother about my\nfriend Muthoni."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "I continued with school,\nbut I missed Muthoni\nvery much."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "But every day I went to\nschool, I looked for\nMuthoni everywhere."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Now I am a lady, but I still miss my friend Muthoni."
+    }
+  ]
+}

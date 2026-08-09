@@ -1,0 +1,96 @@
+{
+  "bookId": "asp-en-0343",
+  "title": "Musau saves his father",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 333,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Musau saves his father",
+    "author": "Kanyiva Sandi",
+    "illustrator": "Benjamin Mitchley",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 15 とページ数 13 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, there was a\nsmall boy named Musau who lived\nwith his father Syonzola."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Syonzola stayed out drinking until\nvery late every night and Musau\nhardly ever saw him."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "When Musau's father came\nhome, he would scream,\n\"Villagers, villagers! Come\nand rescue me! I am being attacked\nby a hyena.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "On hearing Syonzola's\nscreams, the villagers would come\nwith their arrows and spears and\npangas, to rescue him.\nBut they would find that he was\ndrunk and just teasing them."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Musau's father continued\ndrinking and shouting for help late\nat night. The villagers continued\ngoing with arrows and spears and\npangas to rescue him. But each\ntime it was the same story. He\nwould only be teasing them."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Every time Musau's father\nreturned home late, Musau would\nbe woken by the screams for help.\nMusau knew his father's\nvoice very well.\nHe would listen as Syonzola moved\nin the dark until he reached the\ndoor of their house."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "One night, Syonzola came home\ndrunk as usual. But this time, a\nhyena hid near the house.\nWhen Syonzola screamed, the\nhyena fiercely attacked him."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Syonzola screamed so loudly.\nBut the villagers said, \"We are\ntired of Syonzola's\ntricks.\"\nThey turned over in their beds and\nwent back to sleep."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "As usual, Syonzola's screams\nwoke up his son Musau.\nMusau listened for his\nfather's steps as he always\ndid.\nBut his father did not seem to move\ncloser to the house. Musau sat up\nand listened more keenly."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "\"My father is really in\ndanger,\" Musau said.\n\"This time he is not\nteasing.\""
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Musau jumped up from his bed.\nHe grabbed a smoldering log from\nthe fire and rushed out of the hut."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "\"Father, father,\" he\ncalled.\nIn the moonlight, Musau saw\nSyonzola struggling with an animal.\nHe raised the burning log.\nWhen the hyena saw the fiery log,\nhe ran away."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "After that, Syonzola never went out\nagain to drink.\nInstead, he spent his days telling\ninteresting stories to the school\nchildren."
+    }
+  ]
+}

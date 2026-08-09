@@ -1,0 +1,111 @@
+{
+  "bookId": "asp-en-0048",
+  "title": "Rabbit under the tree",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 484,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Rabbit under the tree",
+    "author": "Phumy Zikode",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 18 とページ数 16 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Rabbit was sleeping under an\napple tree.\nAn apple fell down from a\nbranch."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "A voice said, \"Run rabbit run!\"\nShe woke up quickly and ran\naway with great speed."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "She met a chicken. \"Why are\nyou running?\" asked the\nchicken.\nRabbit replied, \"I don't know. I\njust heard something falling and\na voice said, 'Run rabbit run!'\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The chicken was frightened.\nShe started running when she\nheard what the rabbit said."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "They met a dog. Dog asked,\n\"Why are you running?\"\nChicken said, \"I don't know. I\njust heard what the rabbit said,\nand she doesn't know. She\nheard something falling and a\nvoice said, 'Run rabbit run!'\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The dog was surprised about\nwhat she heard. She started\nrunning with Rabbit and\nChicken."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "They met a horse. The horse\nasked the dog, \"Why are you\nrunning?\"\nDog said, \"I don't know. I just\nheard what the chicken said,\nand she doesn't know. She\nheard what the rabbit said and\nshe doesn't know. She heard\nsomething falling and a voice\nsaid, 'Run rabbit run!'\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The horse starts to run with the\nothers."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "They met a donkey. The donkey\nasked, \"Why are you running?\"\nHorse replied, \"I don't know. I\njust heard what the dog said,\nand he doesn't know. He heard\nwhat the chicken said and she\ndoesn't know. She heard what\nthe rabbit said and she doesn't\nknow. She heard something\nfalling and a voice said, 'Run\nrabbit run!'\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "So Donkey starts running too."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "They met a cow. The cow asked,\n\"Why are you running?\"\nDonkey replied, \"I don't know. I\njust heard what the horse said,\nand she doesn't know. She\nheard what the dog said and he\ndoesn't know. He heard what\nthe chicken said and she\ndoesn't know. She heard what\nthe rabbit said and she doesn't\nknow. She heard something\nfalling and a voice said, 'Run\nrabbit run!'\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The cow is worried and starts to\nrun as well."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "They met a cat. The cat asked,\n\"Why are you running?\"\nCow replied, \"I don't know. I just\nheard what the donkey said,\nand he doesn't know. He heard\nwhat the horse said and she\ndoesn't know. She heard what\nthe dog said and he doesn't\nknow. He heard what the\nchicken said and she doesn't\nknow. She heard what the\nrabbit said and she doesn't\nknow. She heard something\nfalling and a voice said, 'Run\nrabbit run!'\""
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "The cat started running with the\nother animals."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Then they met the boy riding\nthe bicycle and he asked, \"Why\nare you running?''\nAnd the animals replied, \"We\ndon't know. We heard what the\nrabbit said and she doesn't\nknow. She heard something\nfalling and a voice said, 'Run\nrabbit run!'\""
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "The boy laughed and said, \"An\napple feel off the tree because\nof the wind. I'm the one who\nsaid, 'Run rabbit run!'\""
+    }
+  ]
+}

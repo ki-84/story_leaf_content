@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0093",
+  "title": "Marching to Freedom",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 1386,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Marching to Freedom",
+    "author": "Subhadra Sen Gupta",
+    "illustrator": "Tapas Guha",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/754-marching-to-freedom",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Dhani knew something exciting was being planned at the ashram, but no one would tell him anything. “Just because I'm nine years old,” thought Dhani glumly. “I'm sure they think I'm stupid. I am not!”\n\nDhani and his parents lived in a very special place. It was Mahatma Gandhi's Sabarmati Ashram near Ahmedabad where people from all over India came to stay. Like Gandhiji, they were all fighting for India's freedom. During their stay at the ashram, they spent their time spinning khadi thread on charkhas, singing bhajans and listening to Gandhiji's lectures.\n\nAt Sabarmati, everyone had to work – cook and clean, wash clothes, fetch water from the well, milk the cows and goats, and grow vegetables. Even Dhani had a job – he had to take care of Binni, one of the ashram's goats. He quite enjoyed that because Binni was his best friend and he liked talking to her."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "That morning, as Dhani fed Binni with fresh grass and changed the water in her bowl, he said, “Something's up, Binni! They all sit and talk in Gandhiji's room. They are planning something. I know it!”\n\nBinni chewed and nodded as if she understood.\n\nDhani felt hungry. He headed towards the kitchen, with Binni skipping along beside him. His mother was fanning the chulha, filling up the room with smoke.\n\n“Amma, is Gandhiji going somewhere?” he asked. His mother coughed in the smoke and said, “They are going on a march.”\n\n“March? Where are they going?” Dhani queried.\n\n“Somewhere near the sea. Now stop asking questions and go away Dhani!” his mother said impatiently. “Let me finish the cooking first.”\n\nDhani wandered off to the vegetable garden where old Binda was digging up potatoes."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "“Binda chacha,” Dhani sat beside him, “are you going on the march too?”\n\nBinda shook his head. Before he could say anything, Dhani eagerly asked, “Who is marching? Where are they going? What is happening?”\n\nBinda stopped digging and said, “I'll answer all your questions, but first tie up that troublesome goat. She's chewing up my spinach.”\n\nDhani dragged Binni away and tied her to the lemon tree nearby. Then Binda told him about the march. Gandhiji and some of the men from the ashram were going to walk through Gujarat to reach the sea at a place called Dandi. They would walk through villages and towns for a whole month. Once they reached Dandi, they would make salt.\n\n“Salt?” Dhani sat up and frowned. “Why will they make salt? You can buy it in every shop!”\n\n“I know,” Binda laughed. “But Mahatmaji has a plan. You know he always marches to protest against something, right?”\n\n“Of course I know. He leads the Satyagraha marches to fight the British government and win freedom for India. But why is he protesting about salt? It's silly!”\n\n“It's not silly at all, Dhani! Do you know we all have to pay a tax on salt?”\n\n“So what?”\n\n“Everyone needs salt... that means, every Indian, even the poorest, has to pay this tax,” explained Binda chacha.\n\n“That is really unfair!” Dhani's eyes were hot with anger.\n\n“Of course it's unfair. Not only that, Indians are not allowed to make any salt either. Mahatmaji has asked the British to stop the tax, but they have refused. So he has decided to walk to Dandi and make salt from seawater.”\n\n“Walking for a month!” Dhani brooded worriedly. “Gandhiji will get really tired. Why don't they take a bus or train to Dandi instead?”\n\n“Because, if he goes on this long march and walks all the way to Dandi, the news will spread. There will be pictures in the papers and reports on the radio, and people all over the world will know that we are fighting for our freedom. And that will really embarrass the British.”\n\n“Gandhiji is clever, isn't he?” Dhani's eyes were shining.\n\n“Ah, that he is!” Binda's eyes crinkled with laughter. “He's even written to the Viceroy and told him what he plans to do! The British have no idea what they are in for!”\n\nLater in the morning, Dhani wandered up to the hut where Gandhiji was staying and peered in through a window. Inside, many of the ashram people were talking to Gandhiji. Dhani heard them planning the route along which they would walk to Dandi. He was thrilled to see his father sitting among the people.\n\nIn the afternoon, when the ashram was quiet,\nDhani went looking for his father. He found\nhim under a tree, spinning on his charkha.\n\n“Pitaji, are you and Amma going on the march to Dandi?” Dhani got straight to the point.\n\n“I am going. You and Amma will stay here.”\n\n“I am coming with you.”\n\n“Don't be silly, Dhani. You can't walk so much.\nOnly the ashram's young men will go.”"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "“I'm nine and I can run faster than you can!”\nDhani replied stubbornly. “You can't stop me\nfrom coming with you.”\n\nHis father stopped spinning and explained\npatiently, “Only the people who have been\nchosen by Mahatmaji will go.”\n\n“Fine! I'll talk to him then! I'm sure he'll say yes,” said Dhani and marched off.\n\nGandhiji was a very busy man and it was not easy to catch him alone. But Dhani knew exactly when he would have the time to listen – early every morning when he went for a walk around the ashram.\n\nThe next morning, as the sun came up, Dhani slipped out of bed and went looking for Gandhiji. He found him in the cowshed checking on all the cows. Then he strolled into the vegetable garden to inspect the peas and cabbage and have a chat with Binda."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "All the while, Dhani and Binni followed him.\n\nFinally, Gandhiji headed back to his hut. He sat down beside his charkha in the verandah and called out to Dhani, “Come here, child!” Dhani ran up, with Binni skipping along.\n\n“What's your name beta?”\n\n“Dhani, Gandhiji.”\n\n“And this is your goat?”\n\n“Yes, Gandhiji! This is my friend Binni, who gives the milk you drink every morning.” Dhani smiled proudly and said, “I take care of her.”\n\n“Good!” Gandhiji leaned forward. “Now Dhani, tell me why you and Binni have been following\nme everywhere this morning?”\n\n“I wanted to ask you something,” Dhani began\nnervously. “Can I come with you to Dandi?”\n\nGandhiji smiled, “You are too small, beta. Dandi\nis 385 kilometres away and only young men like your father will be able to walk with me.”\n\n“But you are not young!” Dhani said. “Won't you feel tired?”\n\n“I am a very good walker,” Gandhiji replied.\n\n“I am a good walker too.” Dhani was adamant.\n\n“Ah yes,” Gandhiji looked thoughtful. “But there is a problem. If you go with me, who will take care of Binni? After walking for so long, I will become weak. When I come back, I'll need to drink lots of milk to become strong again.”"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "“Hmm, you're right, Gandhiji. Binni eats only when I feed her.” Dhani lovingly stroked Binni's head, “And only I know what she likes to eat.”\n\n“Exactly! So will you stay in the ashram and take care of Binni for me?”\n\n“Yes, Gandhiji, I will,” said Dhani. “And Binni and I will be waiting for you.”\n\n“Hmm, you're right, Gandhiji. Binni eats only when I feed her.” Dhani lovingly stroked Binni's head, “And only I know what she likes to eat.”\n\n“Exactly! So will you stay in the ashram and take care of Binni for me?”\n\n\"Yes, Gandhiji, I will,” said Dhani. “And Binni and I will be waiting for you.”\n\nFun facts of History\n\n1. In March 1930, Mahatma Gandhi led the march to Dandi to protest against the tax on salt imposed by the British. Gandhi and his followers walked through Gujarat for 24 days. All along the way, they were welcomed with flowers and songs. Newspapers across the world carried reports about the march.\n\n2. At Dandi, Gandhi and his followers collected salt from the seashore and were arrested. The arrest sparked off the Non-cooperation Movement, and people all over India boycotted schools, colleges and offices.\n\n3. There were 78 volunteers who accompanied Gandhi on the march. They covered a distance of 385 kilometres.\n\n4. The march began on 12 March and ended on 5 April 1930. The youngest marcher was 16 years old.\n\n5. The year 2005 marks the 75th anniversary of the Dandi March."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "bookId": "asp-en-0228",
+  "title": "Our wonderful world",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 688,
+  "pageCount": 15,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Our wonderful world",
+    "author": "Herminder Ohri",
+    "illustrator": "Herminder Ohri, Baaraan Ijal",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "表紙をページ 1 と共用"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/01.jpg",
+      "text": "Once upon a time long ago, when\nthere were no people, God looked\ndown at the beautiful world he had\nmade.\nHe thought I must have someone to\nlook after my creation."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/02.jpg",
+      "text": "The lion roared, \"I am the king of\nthe jungle, I can look after the\nworld.\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/03.jpg",
+      "text": "The elephant trumpeted loudly, \"My\nLord, you have made me so big and\nmajestic. Surely I am right for the\njob.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/04.jpg",
+      "text": "The whale looked up at the sky and spouted a\nfountain of water, \"Do they know how to swim and\nlook after the fish, the reefs, the coral and millions of\ntiny sea animals?\"\n\"I can look after the oceans. I can also keep my head\nabove water and see what is going on on the land. I\nam so LARGE, no one will dare to do anything\nagainst your will.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/05.jpg",
+      "text": "The shark thought his sharp teeth\nwere all that were needed to do the\njob."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/06.jpg",
+      "text": "The eagle laughed, \"These animals\ncan only look after those on land,\nwhile the whale and the shark can\nonly see the water animals. But I\nfly, I see the sky, land and water. I\nam the only one fit to be the keeper\nof the world.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/07.jpg",
+      "text": "God listened carefully to the animals, to the fish and\nthe birds.\n\"I will create man,\" he said. The animals all\nwondered, what was this thing called \"man\".\nWhat colour, with feathers or fur, or scales?\nWill he run like the lion? Swim like a fish?\nFly high like the eagle?"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/08.jpg",
+      "text": "The sun had set and it was night. He wrapped\nhimself in the night sky, put the twinkle of stars into\nthe eyes and used the black clouds for hair. He also\nput pieces of the moon in the nails and the shine of\nfar away stars in the teeth.\nSo the first man and woman were created with shiny\nblack skins like the night."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/09.jpg",
+      "text": "Soon the night faded and it was\nmorning.\nGod covered himself in the white\nmorning light, took the blue sky for\nthe eyes, the gold of the sun he\nspun into hair, and before him stood\na man and woman with white skins,\nblue eyes and golden hair."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/10.jpg",
+      "text": "Now the morning had turned into\nafternoon. The sun was very bright,\nso he pulled the yellow light, and\nthe deep black shadow of the\nafternoon and made a man and\nwoman with yellow skins, black hair\nand eyes that slanted to look into\nthe sun."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/11.jpg",
+      "text": "It was now evening, the sky had become dusky and a\nfew stars had also appeared in the sky.\nGod looked down and saw the beautiful rich brown of\nthe earth and the dusk of the sky for the skin. The\nblack colour of the night was for the hair and he used\nthe sparkle of stars for the eyes.\nBefore him stood a man and woman with brown\nskins, black hair and eyes."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/12.jpg",
+      "text": "The animals all looked in wonder at\nthe strange creature who stood on\ntwo legs, with naked skin, with no\nfur or feathers or even scales.\nThe lion looked down his kingly\nnose and roared, \"I can outrun them\nand with a swipe of my paw I can\nkill them, sorry for saying so.\""
+    },
+    {
+      "index": 12,
+      "imagePath": "images/13.jpg",
+      "text": "The zebra suggested, \"Some stripes\nwould have improved their look.\"\nThe leopard said, \"A few spots.\"\nThe elephant trumpeted, \"Surely\ngrey would have been a better\ncolour?\""
+    },
+    {
+      "index": 13,
+      "imagePath": "images/14.jpg",
+      "text": "The shark looked at their teeth and smiled showing\nhis sharp teeth. \"Ah! No fins, how will they swim?\nAnd they are going to be the keeper. Ha! Ha! Ha!\"\nThe fish, big and small, laughed as they dived into\nthe deep water leaving a trail of bubbles of laughter."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/15.jpg",
+      "text": "God smiled kindly, \"You see, to survive, man will\nhave to look after the animals, the oceans with all\ntheir life, the plants, from the tiniest to the largest\ntrees.\"\n\"The day he starts destroying the world with his\ngreed, he will be destroyed.\"\nThe animals, the fish and the birds bowed their\nheads and hoped they would be safe.\nSo let us, YOU and I, look after this wonderful world."
+    }
+  ]
+}

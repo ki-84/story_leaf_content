@@ -1,0 +1,79 @@
+{
+  "bookId": "pb-en-0180",
+  "title": "The Rainbow Story",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ぼうけん",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 735,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Rainbow Story",
+    "author": "Prakruti & Shruti Bhat",
+    "illustrator": "Ajit Narayan, Bulbul Sharma, Deepa Balsavar, Greystroke, Lavanya Karthik, Niloufer Wadia, Nimret Handa, Priya Kuriyan, Sanjay Sarkar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2057-the-rainbow-story",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "In a village not far away, Prakruti stayed with her Ajji. They loved the forest, the birds and the animals."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Everyday after lunch, they would put the leftover food out for the birds to eat.\n\nKalia the crow would come down to eat it everyday. Then he would happily fly away.\n\nScavenger that he was, he told Ajji & Prakruti “You make me very happy. I will get you 7 items. Tell me what do you want? “"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "On Monday, Ajji said she would like some Red color for her Kumkum. Then Prakruti & Ajji could do Puja. So Kalia flew high in search of something Red. He asked the hibiscus flowers to share some of their Red color.\nThey all asked, ” Dear Kalia why do u need Red? You are black in color”\nSo Kalia said ” It's not for me, it's for my Ajji. She wants to make some Kumkum”\nSo they gave some Red color and Ajji made Kumkum."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "On Tuesday, Ajji asked for some Orange color to make some yummy Sambar (curry). Prakruti loved to eat Sambar & rice. So Kalia flew high in search of something Orange. He asked the Orange fruits to share some of their Orange color.\nThey all asked “Dear Kalia why do you need Orange? You are black in color.”\nSo Kalia said, “It's not for me, It's for my Ajji. She wants to make some yummy Sambar” and so they gave some Orange colour and Ajji made Sambar."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "On Wednesday, Ajji asked for some Yellow color to make Haldi. Haldi with milk applied to Prakruti would make her glow. So Kalia flew high in search of something Yellow . He asked the mangoes to share some of their Yellow color.\n\nThey all asked, ” Dear Kalia why do u need Yellow? You are black in color”\nSo Kalia said ” It's not for me, it's for my Ajji. She wants to make some Haldi” So they gave some Yellow color and Ajji made Haldi."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "On Thursday Ajji asked for some Green color to make a Green Zari Sari to wear to a wedding . So Kalia flew high in search of something Green. He asked the hills & the parrots to share some of their Green color.\n\nThey all asked, ” Dear Kalia why do u need Green? You are black in color”\nSo Kalia said ” It's not for me, it's for my Ajji. She wants to make a Green Zari Sari” So they gave some Green color and Ajji weaved a beautiful Green sari."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "On Friday, Ajji asked for some Blue color to make a pavadai for Prakruti. So Kalia flew high in search of something Blue. He asked the Blue skies to share some of their blue color.\n\nThey all asked, ” Dear Kalia why do u need Blue? You are black in color”\nSo Kalia said ” It's not for me, it's for my Ajji. She wants to make a Blue pavadai” So they gave some Blue color and Ajji stitched a Blue Pavadai for Prakruti to wear."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "On Saturday, Ajji asked for some Indigo color to make some ink. Prakruti could then write lovely poems about her Ajji. So Kalia flew high in search of something Indigo. He asked the Indigo butterfly to share some of her Indigo color.\n\nShe asked, ” Dear Kalia why do u need Indigo? You are black in color”\nSo Kalia said ” It's not for me, it's for my Ajji. She wants to make some ink” So she gave some Indigo color and Ajji made ink for Prakruti to write with."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "On Sunday, Ajji asked for some Voilet color. Diwali was coming soon and voilet walls would look amazing. So Kalia flew high in search of something Voilet . He asked the Brinjals to share some of their Voilet color.\n\nThey asked, ” Dear Kalia why do u need Voilet? You are black in color”\nSo Kalia said ” It's not for me, it's for my Ajji. She wants to paint walls with it” So they gave some Voilet color and Ajji and Prakruti painted their walls Voilet."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "By now Ajji and Prakruti were very happy with the colorful array around them. But Kaalia was very sad. He said ”I am black in color. I would also love to have so many colors in my life. Can u make something for me too?”\nSo Ajji took all the seven colors and painted a beautiful rainbow high up in the sky for Kalia to admire."
+    }
+  ]
+}

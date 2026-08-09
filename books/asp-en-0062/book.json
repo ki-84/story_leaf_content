@@ -1,0 +1,89 @@
+{
+  "bookId": "asp-en-0062",
+  "title": "Nangila's courage",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 428,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Nangila's courage",
+    "author": "Violet Otieno",
+    "illustrator": "Vusi Malindi",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Long ago, there was a man who had a very serious wound on his leg.\n\nHe could not stand or walk.\n\nThis man lived in a village with his wife and their children."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The couple had three sons and one daughter.\n\nThe daughter's name was Nangila. Her duty was to take care of her father.\n\nThe sons worked on the land and grazed animals."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Nangila was a beautiful girl. All the villagers liked and respected her.\n\nHer parents wanted a good husband for Nangila.\n\nThey set a difficult task in order to find the right man."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Anyone who wanted to marry Nangila would have to get a herb from a lake near the village.\n\nThis herb would heal her father's wound.\n\nBut the lake was filled with dangerous spirits."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Some men tried to get the herb but returned without it.\n\nSome men did not return from the lake at all."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Nangila felt worried. Not even her brothers would go to the lake. She decided to fetch the herb herself.\n\nHer mother said, \"My daughter, if strong men have failed, will you succeed?\" But Nangila had made up her mind."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "On the way to the lake, Nangila met an old woman carrying wood. She helped the woman to carry her firewood.\n\nThe old woman was grateful. She said to Nangila, \"I will tell you how to reach the spirit lake and what to do when you get there.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "When she reached the shore of the lake, Nangila saw the spirit family drinking and dancing.\n\nShe waited and watched. One by one, the spirits fell asleep."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Once the spirits were all sleeping Nangila dived into the lake.\n\nShe found the herb and put it in her bag.\n\nAs she swam back to land, the waves were high around her."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "When Nangila reached the shore the spirits were awake. She was afraid, but she sang the song the old woman taught her:\n\nI, daughter of Wekesa,\n\nAm from the lake.\n\nI came because men are too scared to come.\n\nMy father needs this herb to heal his wound.\n\nThat is why am here,\n\nIn the land where many are scared to reach,\n\nFor you are the rulers."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Nangila's voice was so sweet that the spirits asked her to sing for them again and again.\n\nHer singing sent the spirits back to sleep.\n\nThen Nangila ran very fast until she got to her village."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Everyone was waiting for Nangila to return.\n\nAfter treating his wound with the herb her father was able to stand again.\n\nThe entire village danced and praised Nangila."
+    }
+  ]
+}

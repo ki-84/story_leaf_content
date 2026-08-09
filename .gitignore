@@ -1,0 +1,6 @@
+# アプリ同梱物 (配信不要)
+/tts/
+/ejdict.sqlite3
+# パイプラインの作業ファイル
+/poc_result.json
+/library_report.json

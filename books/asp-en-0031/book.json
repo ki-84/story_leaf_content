@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0031",
+  "title": "Kisirusiru, the foolish one",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 507,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Kisirusiru, the foolish one",
+    "author": "Cissy Kiwanuka Luyiga",
+    "illustrator": "Catherine Groenewald",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, there was a\nfarmer and his wife who had only\none child, a boy called Kisirusiru."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day as Kisirusiru was taking the\ngoats out, a goat's horn tore his\nshirt.\nHis mother sent him to the shop to\nbuy a needle so that he could mend\nhis shirt. Kisirusiru bought the\nneedle and put it in the pocket of\nhis shirt."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "As he was going home, he found\nboys playing football and joined\nthem. The needle fell out of his\npocket and got lost.\nWhen he reached home he told his\nmother what had happened.\n\"My child,\" said his mother, \"next\ntime put the needle on a piece of\npaper.\"\n\"Yes mother, I understand,\" replied\nKisirusiru."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The next day, the boy picked up a pot to go and fetch water. He\nremembered what his mother said, and wrapped the pot in a piece\nof paper to carry it back home.\nBut on the way the paper got torn and the pot fell down and broke\ninto pieces, spilling the water on the ground.\nWhen he got home, his mother patiently explained, \"My child, next\ntime put the pot on your head. Then you'll be able to carry it\nwithout spilling.\"\n\"Yes mother, I understand,\" said Kisirusiru."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The following day, Kisirusiru's father\ntold him to take the goats out to\ngraze.\nHe remembered what his mother\nhad said, and put the goat on his\nhead.\nThe goat kicked and scratched\nKisirusiru's head. Soon blood was\npouring down his face.\n\"When will you stop your stupidity?\"\nsaid his father, exasperated.\n\"Goats are tied and pulled with\nropes! If you can't behave properly,\nyou'll have to leave this house.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The next day, the man sent his son\nto go buy some meat at the market.\nRemembering what his father said,\nKisirusiru tied a rope around the\nmeat and started pulling it home.\nHe ran very fast so as not to keep\nhis father waiting.\nImagine how the meat looked when\nit reached home?"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "His father was so angry he told him\nto pack his things and go away.\nWhen his mother heard this, she\ndecided to leave with her son.\nWhen they left, they took the\nkitchen door with them - to have\nsomething to start building a new\nhouse."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "They had walked for quite a while\nbut could not find anywhere to build\ntheir new house.\nWhen it became dark, they decided\nto climb up a tree and sleep."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "They had just climbed the tree,\npulling the door up after them,\nwhen they heard noises down\nbelow.\nThey saw three dangerous looking\nmen with huge sacks.\nThey were so scared that they let\ngo of the door. It crashed to the\nground, terrifying the men so much\nthat they ran away leaving\neverything behind."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Kisirusiru and his mother climbed\ndown the tree.\nWhen they opened the sacks, they\nfound money, clothes, blankets,\neverything they needed to set up\nhouse.\nThey soon found a place to build\nthemselves a new house, and lived\nhappily ever after."
+    }
+  ]
+}

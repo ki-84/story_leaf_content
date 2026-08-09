@@ -1,0 +1,74 @@
+{
+  "bookId": "pb-en-0034",
+  "title": "Veeru Goes to the Circus",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 294,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Veeru Goes to the Circus",
+    "author": "Richa Ingle Deo",
+    "illustrator": "Reshma Barve",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/163-veeru-goes-to-the-circus",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Grandma and Grandpa take Veeru to see Jumbo-Bumbo Circus.\n\n“This is going to be fun!” he tells them. Veeru is happy to see the tightrope walkers, the acrobats, the jugglers, and the funny red-nosed clown.\n\n“Wow!” says Veeru, again and again."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "That night Veeru dreams of having his own circus. Next morning he invites Mummy, Daddy, Grandma and Grandpa to ‘Veeru Circus'. Veeru the tightrope walker, plans to walk on a high rope.\n\n“This might be unsafe Veeru. You may fall down,” warns Mummy."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "So Veeru the tightrope walker, keeps the rope on the ground and walks on the rope. Everyone claps.\n\n\"Thank you, thank you,\" he says."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Veeru the acrobat, plans to jump through a fire-lit ring.\n\n“This might be unsafe Veeru. You may burn yourself,” warns Daddy.\n\nSo Veeru the acrobat takes a hula hoop and jumps through it. Everyone claps.\n\n“Thanks, thanks,” he says."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Veeru the juggler, plans to juggle six balls. “This might be unsafe Veeru. The balls may fall on your head,” warns Grandpa.\n\nSo Veeru the juggler, juggles one big laddoo. The laddoo lands inside his mouth. Everyone claps.\n\n“Thmmm you very mmmm!” he mumbles, munching the laddoo."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Veeru the ring master, plans to have a caged lion for the trick. He has seen pictures of a circus lion in a book. “It is wrong to make a wild animal do tricks for us. The lion might get angry,” warns Grandma.\n\nSo Veeru the ring master shakes hands with his pet dog Bozo.\n\n“Thanks Bozo,” says Veeru."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Veeru the red-nosed clown, shakes his bottom."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "But 'PLOP' his pants fall down. Everyone laughs."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "“You were so funny,” Grandma tells Veeru.\n\n“What a wonderful circus we have seen!” say Mummy, Daddy, Grandpa and Grandma in chorus."
+    }
+  ]
+}

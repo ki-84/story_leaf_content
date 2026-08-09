@@ -1,0 +1,49 @@
+{
+  "bookId": "pb-en-0174",
+  "title": "My Friend Trace Roger the robot!",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 286,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "My Friend Trace Roger the robot!",
+    "author": "Baani Pahwa",
+    "illustrator": "Greystroke, Nirvaan Pahwa, Ruchi Shah, Vibhash Pandey",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1974-my-friend-trace-roger-the-robot",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "It was a rainy Sunday evening. My mom did not let me go outside. I was told to do my homework. I sat sadly and wondered about my boring life. Get up in the morning, do your homework, go to your classes, eat food and sleep! Nothing was exciting or new. Then abruptly the bell rang. I went to see who it was. It was dad as expected. I went to the store room to find something fun. And you know what!!! I found a broken robot! with my dad's help, I fixed the robot. at first this robot was no use. But then I named it as Tracey Roger. Roger played with me all day."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Sometimes Roger even did my homework. He did all my work. But once Roger was going to the market to buy my brother a gift for his birthday and he slipped on the stairs. My hard work was again wasted! I saw how all pieces again fell apart. I ran to my parents' room but they were not inside. My brother was hosting his birthday party and my grandma was free. Wait a minute! My grandma was free!!!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I took a long breadth and approached her. I asked her to help me. She just sat and gave me a dead stare. She then abruptly agreed and then we started off! After 15 attempts, finally we did it! I thanked her for helping me. And then Roger again became my best friend."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Trrrr trrrr!!!!!!! My alarm rang. I woke up and realised this was a dream! Oh! What was I thinking! Whatever it was I wish it was reality and from now on I will always do my homework on my own!"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "bookId": "asp-en-0076",
+  "title": "The Hornbill",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 143,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The Hornbill",
+    "author": "Bukheye Mulongo Christopher",
+    "illustrator": "Joshua Waswa",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 11 とページ数 9 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "As I was moving in\nBuŋaanga village I\nfound a fat hornbill."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "When I struck it with a\ncatapult, it shouted\n\"ŋaa, ŋaa, ŋa!\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The hornbill flew into\nthe air.\nBut I ran after it\nthrough the grass..."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "...until it perched on a\ndead tree.\nThen I shot it again.\nThis time it fell to the\nground."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I picked up the hornbill."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "And I gave it to\nHiryagaana: one who\neats whatever he finds.\n(One time, I gave him\nNamupongera.)\nHe happily received the\nhornbill."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The head of the hornbill\nwas very big and as\nhard as a panga or\nmachete."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The bird had fat like\nthat of a sheep.\nIt was so appetising!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "It's not easy to find a\nhornbill without\nplanning.\nAt night, hornbills roost\non dry branches.\nA person eats what he\nlikes.\nThat is why Hiryagaana\neats hornbills."
+    }
+  ]
+}

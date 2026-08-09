@@ -1,0 +1,89 @@
+{
+  "bookId": "asp-en-0214",
+  "title": "The rat",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 240,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The rat",
+    "author": "Nambi Sseppuuya Community Resource Centre",
+    "illustrator": "Zablon Alex Nguku",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time,\nthere lived two rats.\nOne rat lived in the\nbush."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The other rat lived in a\nhouse."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day, the rat that\nlived in the house said\nto the rat that lived in\nthe bush, \"You eat\nbadly, sleep badly, and\nit rains on you.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "\"But us, we sleep in\nchief's houses. We eat\nmany different kinds of\nfood. One day come\nand visit me and see,\"\nsaid the house rat.\n\"I will come this very\nnight,\" said the bush\nrat. \"I'm ready like a\nstraw for taking soda.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Meanwhile the owner of\nthe house was furious.\nHe cursed, \"These rats\nthat eat my food, they\nwill see!\" This time, he\nset a trap with sugar."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The rats came in to eat the\ngoodies in the house. They came\nlaughing,\n\"Chu...chu...chi...chi...che...che!\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "When they reached the\ntrap the house rat said,\n\"Let me taste this\nsugar. You see the\ngoodies we eat here.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "But before the rat could\ntake the sugar, the trap\nsnapped, PA! The trap\ncaught the rat's head,\nand his eyes bulged like\neggplants."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The bush rat just\nlooked, amazed. He\nsaid, \"E...heee! My\nfriend, which goodies\ndid you eat that made\nyour eyes bulge?\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "But the house rat could not reply."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The bush rat left the\nhouse saying,\n\"Haa! I will not manage\nthese goodies you\npraise.\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Your worst home is\nbetter than your\nneighbour's best home."
+    }
+  ]
+}

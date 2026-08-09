@@ -1,0 +1,80 @@
+{
+  "bookId": "asp-en-0268",
+  "title": "A man who built a house",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 77,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "A man who built a house",
+    "author": "Remedial class (Kabubbu community Library)",
+    "illustrator": "Rob Owen, Marleen Visser, Wiehan de Jager, Alex Zablon, Jano Strydom, Kathy Arbuckle, Magriet Brink",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was a great\nbuilder in Kabubbu\nvillage."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He built many houses in\nthe village."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "But he was sleeping in a bad hut."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The village people talked about him every day."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "One day he got some\nmoney."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "He bought cement, sand, iron sheets, bricks and nails."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "He built a beautiful flat house with\na fence."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "His friends rejoiced with\nhim."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "He prepared for a party,invited his friends, they ate ,drank\nand danced."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "He got many presents."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "bookId": "pb-en-0362",
+  "title": "Shriya and her Piyali",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 405,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Shriya and her Piyali",
+    "author": "Anusha Parthasarathy",
+    "illustrator": "Soumya Menon",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4634-shriya-and-her-piyali",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Shriya was the only child to her parents.\n\nHer neighborhood had no kids. Shriya felt bored."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Her dad felt sorry for Shriya.\n\nHe decided to cheer her up by bringing her a pet parrot.\n\nShriya was very happy."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Shriya would spend as much time with her parrot.\n\nShe named her 'Piyali'.\n\nShe would wave Piyali 'Bye' and then only leave for school.\n\nShe would greet Piyali with a 'Hi' when she got back from school."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Days passed.\n\nShriya noticed that Piyali was very dull. She did not respond to Shriya's 'Hi's and 'Bye's.\n\nShriya wanted to help Piyali but did not know how."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "She asked Piyali\n\n\"O Piyali. Why do you look sad these days?\"\n\n\"Don't you not like our home?\"\n\nTo her surprise Piyali replied\n\n\"No. I do like it here but I miss my family. I miss my friends/\"\n\nShriya asked Piyali \"But are we not your family?\"\n\nPiyali replied \"Yes. But I like to be with my mother and father. Tell me Shriya, will you be able to live away from your amma and appa?\"\n\nShriya replied \"Definitely No\".\n\nPiyali replied \"See. I can't too. I want to go and live with my family.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Shriya could not sleep that night.\n\nNext morning, when she woke up, she went straight to the balcony where Piyali's cage was hung.\n\nShe opened the cage and set Piyali free, saying \"Go home Piyali. Go back to your amma and appa. Go back to your friends. But do not forget me. Do visit me.\"\n\nPiyali was very happy. She turned towards Shriya, waved her a Bye and said \"Thank you Shriya. We will be friends forever. I will visit you often.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "As Shriya watched from her balcony, Piyali flew up and up high in the air.\n\nShe joined her amma, her appa and her friends who were waiting for her all these days."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "And they all soared up and up high inthe sky with Piyali leading them.\n\nPiyali squealed in glee."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Shriya felt so happy that she set Piyali free and now Piyali was happily living, flying, squealing with her parents, and her friends.\n\nShriya realised that she needed to be go to the park and make new friends and not feel bored anymore.\n\nSo from then on, Shriya and her friends went to the park regularly to play, sing and dance and also hoping that Piyali and her friends would visit them some day.\n\n- The End -"
+    }
+  ]
+}

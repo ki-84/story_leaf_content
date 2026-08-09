@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0004",
+  "title": "Goat, Dog, and Cow",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "ぼうけん"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 148,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Goat, Dog, and Cow",
+    "author": "Fabian Wakholi",
+    "illustrator": "Marleen Visser, Ingrid Schechter",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Goat, Dog, and Cow\nwere great friends. One\nday they went on a\njourney in a taxi."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "When they reached the\nend of their journey, the\ndriver asked them to\npay their fares. Cow\npaid her fare."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Dog paid a bit extra,\nbecause he did not\nhave the correct money."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The driver was about to\ngive Dog his change\nwhen Goat ran away\nwithout paying\nanything."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The driver was very\nannoyed. He drove\naway without giving\nDog his change."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "That is why, even\ntoday, Dog runs\ntowards a car to peep\ninside and find the\ndriver who owes him his\nchange."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Goat runs away from\nthe sound of a car. She\nis afraid she will be\narrested for not paying\nher fare."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "And Cow is not\nbothered when a car is\ncoming. Cow takes her\ntime crossing the road\nbecause she knows she\npaid her fare in full."
+    }
+  ]
+}

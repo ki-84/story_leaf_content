@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0308",
+  "title": "Starry and the land of the unknown",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "むかしばなし",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 180,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Starry and the land of the unknown",
+    "author": "Rachita Uday Kumar",
+    "illustrator": "Ajanta Guhathakurta, Nidhi Jha",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3724-starry-and-the-land-of-the-unknown",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Starry cloudfire, the dragon, lived in cloud haeven. He was'nt a normal dragon who could breathe fire, he could breathe clouds. Every day, he sat by his window and watched the fire breathing dragons play with their fire. Starry wished he was one of them."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, Zeus, the Greek god, invited all the dragons of cloud haeven to a party at his palace. Starry was very excited."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "On his way to the palace, he came across an unfamiliar land. Then, Starry noticed that this land was on a drought. He wanted to bring back life into the land."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "So after 2 days, the land rejoiced for Starry had brought life back to the land. They made Starry their new heir."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "So after all the rejoicing, Starry went to king Zeus's party. King Zeus heard the story of the land and gave him a boon that he could breathe fire, ice, clouds, water and grass. Starry refused to accept the boon. Can you guess what he wanted?"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "He just wanted to live a happy life in the land of the unknown."
+    }
+  ]
+}

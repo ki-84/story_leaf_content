@@ -1,0 +1,50 @@
+{
+  "bookId": "asp-en-0244",
+  "title": "The girl with one breast",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 206,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The girl with one breast",
+    "author": "Cornelius Wekunya",
+    "illustrator": "Rachael Napagi",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 6 とページ数 4 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A long time ago, there was a\nman who lived with his wife\nwhom he loved very much.\nOne day he took a walk to the\nforest. Along the way, he met a\ntall, slender, and very beautiful\ngirl.\nHe fell in love with her at first\nsight. The girl too readily\naccepted him.\nBut she told him that she had\nonly one breast."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "So she told him to go home, cut\noff one of his wife's breasts and\nbring it to her. Then she would\nhave two breasts, and they\ncould marry.\nThe man ran very fast back\nhome, picked a knife, pounced\non his dear wife, and the breast\nwas off instantly."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He hurried back to the forest to\nwhere he had left his newfound\ndarling.\nBut she was nowhere to be\nseen. He called her name very\nloudly, but there was complete\nsilence.\nThen he heard a voice saying,\n\"Why are you calling? Don't you\nknow that you are in the forest\narea of Musambwa kwa\nLibeeletwela?\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "When the man heard that, he\nran home as fast as a bullet ...\nOnly to find his wife had just\ndied.\nHe was so grief stricken\nbecause of what he had done\nthat he too died."
+    }
+  ]
+}

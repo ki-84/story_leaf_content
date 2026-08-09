@@ -1,0 +1,54 @@
+{
+  "bookId": "pb-en-0412",
+  "title": "The Magic Pond",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 484,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Magic Pond",
+    "author": "Sudesna Ghosh",
+    "illustrator": "Maitreyi Jugran, Preeti Krishnamurthy, Saurabh Pandey, Suvidha Mistry, Tessa Welch, reddi sai",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/5209-the-magic-pond",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Shreya was not a happy girl. She had a nose that was as big as a mango and eyes that were smaller than watermelon seeds. Everybody at school said that she looked strange. \"You look like a circus clown!\" They would tell her and laugh.\n\nAt home, Shreya's mother and father were nice to her. Father would come home and pat her head when he got home in the evening. He always asked, \"What has my little Shreyu been up to today?\"\n\nMother was a painter. Every day, she taught Shreya how to draw something or the other. Today she said, \"Shreyu, come learn how to draw an elephant.\"\n\nShreya did not come to her. She was sad. Roshni had made her cry today. \"Mother, may I take a walk outside?\" Shreya asked and ran outside as soon as she said yes."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Shreya walked fast. She had long, thin legs. She wanted to forget today. So she started running. Rina Aunty was standing nearby. She called out, \"What is wrong, child?\" Shreya did not stop.\n\nShreya finally stopped running when she reached the pond. She threw off her shoes. She sat down. A bird was watching her. \"Hello, bird,\" she said. It flew away.\n\nPoor Shreya looked into the clear water of the pond. “Even the bird does not like me,” she thought. She was tired from crying. Her head was hurting. So she took off her sweater and put it under her head. A few minutes later, Shreya was sound asleep.\n\nThe bird woke her up when it was almost dinner time. Shreya put on her sweater. She got up."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Suddenly, she heard someone. “You are beautiful. Do you know that?” Shreya looked around.\n\n“Here, in the water,” said the voice. Shreya looked. Her eyes became huge. It was a little fairy. She looked friendly. Shreya felt her mouth turn into a smile. Nobody had called her beautiful before. She said thank you.\n\nThe angel disappeared. Bubbles danced around the water. Shreya stood there, wondering what was going to happen next. Then she saw her own reflection in the water.\n\n\"My eyes are not so small! Oh, my nose is quite nice.\" Shreya went home with a smile."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The next day, Shreya smiled all day. \"I looked so beautiful in the pond yesterday,\" she thought. Her classmates did not say anything mean either.\n\nThe teacher said, \"Glad to see you smiling, Shreya.\"\n\nOn her way home, Shreya stopped at the pond. She kept her bag down and smiled at the water.\n\nA happy face looked back at her. The eyes and nose were not ugly. The smile made the face more beautiful. Shreya's own smile became wider.\n\nShe could not stop smiling!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Shreya visited the pond every day. She smiled every day. Nobody called her ugly again.\n\nHer classmates wished that they could be so happy.\n\nBut the magic pond was Shreya's secret."
+    }
+  ]
+}

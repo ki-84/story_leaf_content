@@ -1,0 +1,44 @@
+{
+  "bookId": "pb-en-0349",
+  "title": "Chulli and the cows",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 32,
+  "pageCount": 3,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Chulli and the cows",
+    "author": "Arvind Eyunni",
+    "illustrator": "Preeti Krishnamurthy",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4383-chulli-and-the-cows",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, there was a very shy train named Chulli."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Chulli was fascinated with cows."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "But one day, Chulli got scared when he saw a cow right on his tracks."
+    }
+  ]
+}

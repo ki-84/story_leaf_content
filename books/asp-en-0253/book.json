@@ -1,0 +1,48 @@
+{
+  "bookId": "asp-en-0253",
+  "title": "My Picture Book",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 8,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "My Picture Book",
+    "author": "Oku Modesto",
+    "illustrator": "Rob Owen, Marleen Visser, Katrien Coetzer, Wiehan de Jager, Karen Lilje, Catherine Groenewald, Alice Toich",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A girl"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "A bird"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "A lion"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "A cat"
+    }
+  ]
+}

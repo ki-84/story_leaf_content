@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0347",
+  "title": "The Monkey and the Crocodile",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 334,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The Monkey and the Crocodile",
+    "author": "Mozambican folktale",
+    "illustrator": "Amir Bachir António Necas",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A monkey lived in a big\ntree on the bank of a\nriver. In the middle of\nthe river there was a\nsmall island. Lots of\nfruit trees grew on that\nisland."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The monkey wanted to\ngo and eat the fruit. He\nsaw a big rock half way\nacross the river and he\nthought he could jump\nonto the rock, and then\nonto the island."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He jumped into the air\nand landed on the rock.\nHe jumped again and\nreached the island. He\nenjoyed eating the fruit\nand then went back\nhome. He did this\nseveral times."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "But a crocodile lived in\nthe river with his wife!\nThe wife said, \"Dear\nhusband, you should go\nand lie on the rock. The\ncolour of your skin\nmatches the colour of\nthe rock.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "A few days later, the\ncrocodile saw the\nmonkey coming onto\nthe island. He quietly\nclimbed over the rock\nand carefully lay down\non it and kept his face\nunderwater."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The monkey finished\neating and was ready to\ngo back. But the rock\nlooked higher than\nusual, so he spoke to\nthe rock, \"Dear rock,\nyou seem to have\ngrown. Are you all\nright?\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The crocodile was a fool\nand thought the rock\nmust be a talking rock.\nSo he answered the\nmonkey and said, \"I\nlook bigger because a\nbig crocodile is lying on\nme\"."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The monkey said, \"Dear\ncrocodile, I know you\nwant to eat me. I am\nvery old and you can\nhave my body. But I\nmust say goodbye to\nmy children in that big\ntree.\" So the crocodile\ngave him a ride on his\nback!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "As soon as they were\nthere, the monkey\nclimbed the tree and\nsaid, \"Thank you for the\nride, my dear friend.\nGoodbye, now you can\ngo home!\" But the\ncrocodile said, \"But you\npromised....\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The monkey laughed\nand said, \"What a fool\nyou were to believe\nme!\" and disappeared\nbehind the branches of\nthe tree. The crocodile\nnever did catch that\nclever monkey!"
+    }
+  ]
+}

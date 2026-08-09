@@ -1,0 +1,63 @@
+{
+  "bookId": "pb-en-0084",
+  "title": "Who is a good dog?",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 57,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Who is a good dog?",
+    "author": "Purvi Shah",
+    "illustrator": "Parismita",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/677-who-is-a-good-dog",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "The dog wants to catch the bird."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Dog goes to man for help.\n\nPlease help me catch the bird."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Man swells up in anger. Why do you want to catch the poor bird?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I am going to teach you a lesson."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I am going to teach you a lesson."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "GOTCHA!!!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Understood? No more chasing birds.\n\nGood Dog."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0043",
+  "title": "Fire's story",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 62,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Fire's story",
+    "author": "Deborah Namugosa, Beatrice Nabune, Alison Tukei, Rose Sabano",
+    "illustrator": "Rob Owen, Wiehan de Jager, Amir Bachir António Necas",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Let me tell you my\nstory.\nI start as a small spark."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I run wild when the\nwind carries me."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "We are good friends,\nyou and I."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I cook your food."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I light your night."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I have many tricks."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "I am part of your family."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "But be careful when\nyou invite me to your\nhome.\nI don't like to be left\nalone."
+    }
+  ]
+}

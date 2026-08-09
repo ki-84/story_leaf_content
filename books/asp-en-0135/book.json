@@ -1,0 +1,96 @@
+{
+  "bookId": "asp-en-0135",
+  "title": "Monkey Eats his Own Tail",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 247,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Monkey Eats his Own Tail",
+    "author": "Mozambican folktale",
+    "illustrator": "Horácio José Cossa",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 15 とページ数 13 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time the\nrabbit was a great\nfriend of the monkey."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day the rabbit\nsaid:\nLet's go for a walk\nand look for\nsomething to eat.\nThe monkey agreed,\nbut it was a trap for\nhim!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "They went to a field of\nmaize and started to\neat it."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "But the clever rabbit\nhad spoken to the\nowners of the farm, to\ncatch the monkey and\nshow him he was\nfoolish."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The clever rabbit\nstarted shouting:\nRobbers! Robbers!\nYour maize is all gone!\nAnd he jumped up and\nran away."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Suddenly the owners\nappeared and found\nthe monkey trying to\nrun away. But he has a\nlong tail and it was\nstopping him."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The owners followed\nhim, shouting:\nStop! Stop!\nWe saw you, you are\nthe monkey."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "But they caught him\nand started beating\nhim."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "He couldn't stand the\npain so he said:\nI was with my friend\nrabbit. He is the one\nwho invited me."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "But the owners cut his\ntail off and told him:\nGo and tell your friend\nthat we cut off your tail!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Then they went to the\nrabbit's house and\ncooked the monkey's\ntail to eat.\nThe rabbit invited the\nmonkey for lunch."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "At the end of the meal\nthe rabbit asked the\nmonkey if he knew\nwhat he had eaten.\nThe foolish monkey\nanswered: No, I don't!"
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "The rabbit told him that\nhe had eaten his own\ntail and then ran away.\nAnd from then on they\nbecame enemies!"
+    }
+  ]
+}

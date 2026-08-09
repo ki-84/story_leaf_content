@@ -1,0 +1,99 @@
+{
+  "bookId": "asp-en-0204",
+  "title": "Akatope",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 281,
+  "pageCount": 14,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Akatope",
+    "author": "Alice Kapolondo",
+    "illustrator": "Catherine Groenewald, Microsoft Clip Art, Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time there lived an\nelderly woman who always\nwanted a child."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The woman took the best clay soil she could find and\nstarted to make a girl."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The girl who was made of mud\nthen turned into a real human\ngirl."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The elderly woman was very\nhappy.\nShe named the girl Akatope.\nShe loved Akatope very much."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Akatope was warned by her\nelderly mother not to come out\nof the hut but she would not\nlisten.\nWhenever her mother was not\naware, Akatope would sneak\nout to play with the other\nchildren."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "One day as Akatope was out\nplaying with the other children,\nit began to rain hard."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The other children ran to their\nhuts but as Akatope ran to hers,\nher legs started to dissolve.\nShe hunched over and sat down\nbetween bushes."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The other children told their\nparents what had happened to\nAkatope.\nThey were very sad and\nshocked."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "When the elderly woman heard\nwhat had happened to her only\nchild, she cried for many days.\nThe villagers who visited her,\ndecided to bring another little\ngirl who had been orphaned to\ntake the place of Akatope."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "But that was not necessary.\nA big surprise awaited the elderly woman!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Few days after the orphan girl\nhad been welcomed to the\nelderly woman's home, there\nwas a gentle knock on the door."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "\"Who could that be,\" the elderly\nwoman wondered.\nWhen she opened the door, she\ncould not contain her joy."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Akatope had come home.\nBut she was tired and sick."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Akatope's elderly mother sold\neverything she owned.\nShe used the money to treat\nAkatope.\nAkatope grew up to be the most\nbeautiful girl in the village."
+    }
+  ]
+}

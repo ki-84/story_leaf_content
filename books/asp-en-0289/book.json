@@ -1,0 +1,91 @@
+{
+  "bookId": "asp-en-0289",
+  "title": "Anansi and Vulture",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "むかしばなし",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 509,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Anansi and Vulture",
+    "author": "Ghanaian folktale",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 14 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Anansi the Spider and Rabbit were\nfriends. They lived in a peaceful\nvillage in the mountains.\nRabbit owned a big farm with lots of\nvegetables and fruit.\nEven though Rabbit shared\ngenerously with his friend, Anansi\nwas unhappy and jealous."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "So Anansi thought of a clever plan\nto take over Rabbit's farm.\nSoon Rabbit was left poor and\nhomeless. Anansi was the proud\nowner of all Rabbit's land,\nvegetables, and fruit."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Anansi went to the market to sell\nhis fruit and vegetables.\nHe made so much money that he\nfilled a big basket with it!\nWith some of the money, he bought\nmaize for his family, and put it on\ntop of the money in the basket."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Anansi happily headed home with\nhis basket on his head, singing.\nHe was thinking about all the things\nhe was going to buy with his money."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "On the way it started to drizzle.\nSoon the drizzle turned into a heavy\ndownpour.\nAnansi the Spider left his basket on\nthe side of the road to shelter under\na tree. But from there he kept a\nclose watch on his precious basket."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "It started to rain even more heavily,\nand Anansi was getting cold and\nwet. So he ran into a hole.\n\"I will stay in this hole until the rain\nstops,\" said Anansi to himself. \"At\nleast my money is protected by the\nmaize I put on top of it.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "A little while later, Vulture was\nflying around and spotted the\nbasket on the side of the road.\nHe saw that there was money and\nmaize in the basket.\nSo he covered the basket with his\nwings and waited for the rain to\nstop."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Anansi saw Vulture sitting on his\nbasket.\n\"Oh thank you, my friend, for\nprotecting my basket,\" he said to\nthe Vulture.\n\"Excuse me, Anansi, did I hear you\nright?\" asked Vulture. \"Your basket?\nThis basket is mine! I found it here\non the road side!\"\nAnansi could not believe his ears!\n\"It's mine, I tell you!\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Furious, Anansi went and reported\nthe theft to the chief. But Vulture\nsaid to the chief and his elders,\n\"How could anyone leave a basket\nfull of money and maize unguarded\non the road?\"\n\"But I was watching my basket,\"\nsaid Anansi. \"It's my money and my\nmaize!\"\n\"I was looking after the basket\nwhen you came and said it was\nyours!\" replied Vulture."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "When the chief and his elders had\nlistened carefully to both sides, they\nsent Anansi and Vulture away.\nThey discussed the story for a long\ntime.\nEventually they reached a decision."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "They summoned Anansi and the\nVulture again.\n\"We believe Vulture's story,\" they\nsaid. \"He is not the thief. You were\ntrying to claim something that was\nnot yours.\"\nAnansi could not believe his ears!\nHe burst into tears."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The news soon spread that the\njudgement had gone against\nAnansi.\nAs he walked away, he heard Rabbit\nlaughing and laughing.\nRabbit went back to his farm and\ngrew fruit and vegetables.\nBut Anansi was poor again, with no\nfriends."
+    }
+  ]
+}

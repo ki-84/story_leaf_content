@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0101",
+  "title": "The Cooking Game",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 170,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The Cooking Game",
+    "author": "Mozambican folktale",
+    "illustrator": "Reginaldo Vicente Manhice",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, the\nrabbit and the monkey\nwere friends.\nOne day, in a time of\nfamine, the rabbit\ninvited his friend over\nto play."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The rabbit said:Let's\nplay cooking each\nother!\nThe monkey asked:\nHow can we do that?"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "And the rabbit\nanswered: We have to\nmake a fire,"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "and fill a pot with\nwater,and then put it on\nthe fire."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I will get in first.\nWhen I beat on the lid\nof the pot, you open it.\nThen I will get out.\nAnd the monkey\nagreed."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "So the rabbit got in\nthe pot first, and the\nwater started to warm\nup."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The rabbit knocked, and\nthe monkey opened the\nlid."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "But when it was the\nmonkey's turn, the\nrabbit took a big stone\nand put it on the lid of\nthe pot and sat on top\nof it!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "When the water started\nto boil, the monkey\nknocked, but the rabbit\ndidn't open the lid."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "So the monkey died,\nand the rabbit ate his\nbest friend!"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "bookId": "pb-en-0188",
+  "title": "Where Is My Mother?",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 360,
+  "pageCount": 3,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Where Is My Mother?",
+    "author": "Aadya Das",
+    "illustrator": "Greystroke, Rijuta Ghate, Srikrishna Kedilaya",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2142-where-is-my-mother",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Hello everybody my name is Tammy the turtle, in this story I go through many trials to find my mother. It all began on one sunny afternoon, I was resting on marina beach . Mama said she would be away only for a few minutes but 5 hours have passed by since she left, just at that moment i felt a chill run run down my spine as i saw my sister being carried away by a large bird. After an hour or so I decided to search for mama. I had to go deep in the sea to look for mama. I crawled to the shallow part and began my journey. I was afraid at first but then slowly began to think that it was really fun."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "On the way i met an angelfish. hello, what is your name? have you seen my mother?\n\nhello my name is misty and I'm sorry but I haven't seen your mother , but I'm sure you will find her.\n\nIf you don't mind , could you please accompany me to my school of fish. My name is marina and I would love to accompany you. THANK YOU!!!!!!!!! marina. That's no problem , now come along. We soon reached the school of fish and I dropped of misty. I stopped to rest for some time and soon continued my journey."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "on the way I fell back on a light coral which pushed me towards a sharp one , in the process i wounded my leg and I started to bleed. then a mermaid papered out of nowhere , without me saying a word she took out one of her pearly fins and covered my wound with, and without me noticing soon disappeared. The magic fin had stopped the bleeding and had healed the wound . I decided to take a cat nap . after about 10 minutes I thought I heard my mothers voice, at first I thought I was dreaming but when i opened my eyes i was surprised to see my mother right in front of me. She then said , \" My dear daughter you have gone through so many trials to find me , now i know how much you love me\""
+    }
+  ]
+}

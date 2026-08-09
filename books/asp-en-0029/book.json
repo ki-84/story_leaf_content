@@ -1,0 +1,64 @@
+{
+  "bookId": "asp-en-0029",
+  "title": "Sniffles the crocodile and Punch the butterfly",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 541,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Sniffles the crocodile and Punch the butterfly",
+    "author": "Herminder Ohri",
+    "illustrator": "Herminder Ohri",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "In the swamp on the far side of the Far Forest, lived Sniffles, the\ncrocodile. Sniffles was always crying big crocodile tears or going\nsniff...sniff... Even his mom was quite tired of him and would say,\n\"Stop sniveling and crying, start behaving like a crocodile. Go hunt\nfor your food.\" But Sniffles would burst into tears at the thought of\neating another animal. So mom and dad had to feed Sniffles every\nday."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Sniffles did not want to be a crocodile. \"I am so ugly,\" he thought,\nbursting into tears. He did not even want to live like crocodiles do.\nHis best friend was Punch, a golden yellow butterfly. And Punch\nwanted to be big and strong. So Punch always had her feeler\ncurled into a fist saying, \"Look out! I will punch you in the mouth.\"\nThey made a very funny pair. Sniffles swimming with Punch\nperched on his head. The other crocodiles would laugh and make\nfun of them. That did not bother Sniffles. He continued crying,\nsniffling and being friends with Punch."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One sunny afternoon, Punch settled herself near Sniffles' ear and\ntold him, \"I have seen two men come this way with guns, they\nwant to kill crocodiles for their skins.\"\n\n\"Don't these men have skins of their own?\" asked a puzzled\nSniffles.\n\n\"I don't know Sniffles.\" replied Punch. \"Tell the other crocodiles and\nhide.\"\n\n\"But Punch, they might shoot you. Oh! What will I do?\" cried\nSniffles sobbing loudly.\n\n\"People catch butterflies with nets and pin them on a board, my\ngrandaunt told me,\" said Punch and flew away."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The other crocodiles heard Sniffles crying and shouting, \"Men\ncoming to kill us. Hide...Hurry...Hide.\" At first the crocodiles did not\nbelieve Sniffles, but then they heard the men's footsteps.\nThe crocodiles went deep into the river and left some rotten logs\nfloating on the water. The men shot at the logs which looked like\ncrocodiles from afar. The men could not see any crocodiles, only\nhundreds of butterflies that flew into their faces and hair."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Shaking their heads and trying to brush off the\nbutterflies they said, \"There are no crocodiles here,\nwe will bring nets and catch the butterflies.\" And off\nthey went. All the crocodiles got together and said,\n\n\"Thank you, Punch.\"\n\n\"Thank you, butterflies.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The next day Sniffles saw men with nets. He\nremembered Punch telling him about nets.\n\n\"Punch, the nets! Come here quick! The men with\nthe nets have come.\"\n\nAll the crocodiles came on the river bank. The\nbutterflies settled on the backs and heads of the\ncrocodiles."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "A few of the crocodiles made a circle around the men as they\ncame close. The crocodiles snapped their jaws. Sniffles was in\nfront, gnashing his teeth and whipping his tail around most\nmenacingly. The men were so frightened that they took to their\nheels and ran right out of the swamp.\n\nThe other crocodiles were very proud of Sniffles, as he had acted\nlike a real crocodile. Now Sniffles was also proud to be one.\n\nAll the butterflies flew around the crocodiles, fluttering their wings.\n\n\"Thank you, Sniffles, thank you, crocodiles.\"\n\n\"It is alright,\" said Sniffles shyly.\n\n\"That is what friends are for, to take care of each other.\""
+    }
+  ]
+}

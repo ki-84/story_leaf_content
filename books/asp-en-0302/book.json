@@ -1,0 +1,70 @@
+{
+  "bookId": "asp-en-0302",
+  "title": "Fire",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 21,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Fire",
+    "author": "Deborah Namugosa, Beatrice Nabune, Alison Tukei, Rose Sabano",
+    "illustrator": "Rob Owen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Look, fire!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Fire burns."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Fire cooks."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Fire gives warmth."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Fire gives light."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Look, fire!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Fire is wonderful."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "And it is powerful."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "bookId": "asp-en-0090",
+  "title": "Huts in our village",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 76,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Huts in our village",
+    "author": "Yusuf, Yvonne, Desire, Arafat, Judith, Susan",
+    "illustrator": "Magriet Brink, Rob Owen, Danica Strydom, Wiehan de Jager, Kathy Arbuckle",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 9 とページ数 7 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A hut is made using poles, grass\nand mud."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "A hut has got one door and two\nwindows."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Huts are very good to stay in\nduring dry seasons because they\nare cool."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Huts are also good to stay in When\nit is raining because you do not\nhear noise like on iron sheets."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Huts are very easy to make ."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Every village in Uganda has got\nhuts."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "BUT our village Nandahabi has got\nthe most beautiful huts."
+    }
+  ]
+}

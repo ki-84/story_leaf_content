@@ -1,0 +1,56 @@
+{
+  "bookId": "asp-en-0130",
+  "title": "My grandma.",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 24,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "My grandma.",
+    "author": "Augustine Napagi",
+    "illustrator": "Ingrid Schechter",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 7 とページ数 5 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Grandma greets me"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "We ran to look at grandma's cow."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I caught up with her."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I ran away from her."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Grandma got very tired."
+    }
+  ]
+}

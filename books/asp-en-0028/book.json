@@ -1,0 +1,80 @@
+{
+  "bookId": "asp-en-0028",
+  "title": "The Race",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 194,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The Race",
+    "author": "Mozambican folktale",
+    "illustrator": "Amir Bachir António Necas",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day the rabbit\nfound a snail. He said to\nthe snail, \"You can't\nrun! All you know is\nhow to crawl on the\nground.\""
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The snail said, \"Come\non Sunday and you will\nsee.\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The snail prepared a\nhundred bits of paper\nand wrote the same\nmessage on them."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The snail handed out\nthe papers to his\nfriends and said, \"When\nthe rabbit comes here\ncalling me, one of you\nmust say: I am the\nsnail.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Then the snail told his\nfriends to hide behind\nthe bushes where the\nrabbit and the snail\nwere to pass."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "On Sunday, the rabbit\narrived and found the\nsnail.\nThe rabbit said, \"Let´s\nhave a race.\nBut I will win.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Snails were lined up on\nthe racing track so that\neach time the rabbit\npassed, a snail would\nshout, 'I am a snail...'\nDuring the race, the\nrabbit called out,\n\"Snail! Snail!\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "One of the snails hidden\nbehind the bushes\nanswered, \"I am the\nsnail, I am the snail.\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Finally, the rabbit was\nvery tired.\nHe lay down, saying,\n\"Snail, I am so tired;\nyou have won.\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "So the snail won\nbecause of his\ncleverness!"
+    }
+  ]
+}

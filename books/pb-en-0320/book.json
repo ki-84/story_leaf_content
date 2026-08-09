@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0320",
+  "title": "The Rabbit's Kite Tales",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 281,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Rabbit's Kite Tales",
+    "author": "Arvind Eyunni",
+    "illustrator": "Ajit Narayan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3884-the-rabbit-s-kite-tales",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "On a usual sunny day, Balloo the Rabbit came to meet his friend, Appu the elephant. As always, the two friends were quite excited to meet one another."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Appu and Ballu discussed their days, but Ballu had an interesting experience the day before that he wanted to share!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "It was this beautiful kite that he saw, stuck on a tree but then all there for the taking. It would only require Ballu to climb the tree and untangle the kite."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "But then a bird had untangled the kite and off it went with the wind..."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Ballu noticed that all the other animals were excited to see the kite too and wanted to get hold of it too, which brought about an awful lot of panic! All the animals wanted this beautiful kite to play with."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "But after much struggle, Ballu managed to correctly guess where the kite would fall - within arms reach, and then..."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Ballu fell down with the kite, damaging it and almost injuring himself! Ballu looked at his beautiful kite that now lay damaged and probably would never fly again. He felt terrible about it!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "But Ballu's mother came out rushing - telling Ballu not to worry! She would fix Ballus kite for him so that he can play with it."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Appu listened keenly! He was very happy that his friend was not hurt and that Ballu's mother came to help him."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Then Ballu told Appu that he wanted to gift the beautiful kite to him as he knew that Appu had never seen a kite."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Appu, though, could not contain his excitement and suddenly felt the need to run around. It was the last time Ballu had seen Appu..."
+    }
+  ]
+}

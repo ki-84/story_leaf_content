@@ -1,0 +1,63 @@
+{
+  "bookId": "pb-en-0172",
+  "title": "Tree on a plate",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 146,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Tree on a plate",
+    "author": "Madhuri Pai",
+    "illustrator": "Ajit Narayan, Angie & Upesh, Henu, Padmanabh, Rijuta Ghate, Suvidha Mistry",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1960-tree-on-a-plate",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Dinner time is fun for Roma. She does many things on her plate"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Ma gives her rice. Roma makes a hill from it. White hill with steam coming from the top."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Roma pours dal on her rice. She thinks it makes a small yellow lake. She laughs when she dips a spoon in her yellow lake"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "There is a green forest on her plate. There are leaves. Some are big and some are small. She likes some. But she does not like some."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "She likes a vegetable that looks like a tree. It has a round top like a mango tree."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The 'tree vegetable' also has a stock. It is almost white in colour Roma thinks it looks like a happy tree."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Do you know what is Roma's happy tree? We call it cauliflower. Roma likes it very much. I love it too. What about you?"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "bookId": "pb-en-0337",
+  "title": "Jack and Anny go to space",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 224,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Jack and Anny go to space",
+    "author": "Kalyani Radhakrishnan",
+    "illustrator": "Greystroke, Kavita Singh Kale, Somesh Kumar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4069-jack-and-anny-go-to-space",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Bounce.. Bounce!\n\nAnny and Jack went on the trampoline. Suddenly, Jack got an idea! He said to Anny that why don't we go to space!\n\nThey both went to their house and asked their mother if they can go to space. But their mother said you are too young to go to space. They thought that was not fair.\n\nSo they made their own toy rocket and played."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "As they grew up, they became smarter and smarter.\n\nThen they again asked their mother if we could go to space. But still their mother said no. Grades passed and they went to college.\n\nAnd at last, they went to office and they got a job.... which made them go to space!!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "When they were going in space, they saw the full earth and took pictures.\n\nWhen they reached Mars, they saw a satellite vehicle and drove it, They went all around Mars and took one full week to go around Mars fully. They took many pictures.\n\nAnd then they came on news and everybody was surprised to see that.. even their parents.\n\nWhen they returned back to earth everybody praised them and they got 2 crore for doing all this!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "All the pictures they took was attached in the museum. And everybody liked it.\n\nAnd of course they would quarrel about being a scientist back again!"
+    }
+  ]
+}

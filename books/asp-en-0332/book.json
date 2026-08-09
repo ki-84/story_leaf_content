@@ -1,0 +1,111 @@
+{
+  "bookId": "asp-en-0332",
+  "title": "Lion and Warthog",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 751,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Lion and Warthog",
+    "author": "South African traditional",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 18 とページ数 16 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, Lion was the strongest and most\nfeared of all the animals.\nHe would catch other animals and eat them.\nBut one morning while he was looking for his\nbreakfast, he got caught in a hunter's trap."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Lion gave his loudest roar from the pain.\nHe pulled and pulled to free himself from the trap.\nThe trap got tighter and tighter around his leg every\ntime he pulled.\nLion grew tired and he felt more pain in his leg.\nFinally, he gave up."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Days went past as Lion sat baking in the sun.\nHe was hungry and thirsty and there was nobody to\nsave him.\nHe became weaker and weaker.\n\"I am going to die of hunger and thirst in this trap,\"\nhe thought to himself."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "One morning, Lion heard a sound coming from the\nnearby bushes.\nHe listened and looked closer.\nHe saw Warthog walking with his wife and children,\ntalking and laughing.\nThe Warthog family were going to the river to drink\nwater and play in the mud before the sun got too\nhot."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "\"Warthog! Please help me! Warthog!\" cried Lion.\n\"Please set me free from this trap,\" pleaded Lion.\n\"Never,\" said Warthog.\n\"You are a cruel animal. You will eat me and my\nfamily for breakfast if I set you free.\"\n\"I promise I will never do such a bad thing. We will be\nfriends if you can set me free,\" said Lion."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Warthog felt sorry for the lion.\n\"I do not like seeing you in such\npain, thirsty and dying from\nhunger.\"\nSo he pulled at the trap with his\nlong strong tusks and released Lion.\nWarthog saved his new friend."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"Thank you very much my friend for\nsaving my life,\" said Lion. \"I must\ngo to my family now, good bye.\"\n\"Go well my friend,\" said Warthog.\nHe was happy that Lion was his\nfriend. \"My family will never have to\nrun from the lion again,\" he\nthought."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Lion walked away limping and\nweak.\nHe was also very hungry.\nThen he saw Warthog's children\nplaying in the mud.\n\"Today is my lucky day,\" said Lion\nwith his mouth watering."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "\"Hey Warthog, my new friend,\"\ncalled Lion.\n\"I have been caught in the trap for\ndays without food. But I am too\nweak to hunt.\nPlease would you give one of your\nchildren to me for breakfast?\"\nWarthog was shocked.\n\"I saved you from the trap and now\nyou want to eat my children?\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "\"I am very sorry my friend,\" said\nLion, \"but I am starving.\nI might be weak for now but I am\nstronger than you.\"\nThe lion opened his mouth and\nshowed his strong yellow teeth.\n\"If you do not give me one of your\nchildren, I will take one for myself,\"\nhe roared."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Warthog knew that he did not have the speed or the\nstrength of Lion.\nHe would never be able to protect his children in a\nfight.\n\"Al right,\" said Warthog.\n\"I will give you one of my children.\nBut first I want you to show me how you were caught\nin the trap.\nIn case I have to save another lion from this trap.\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Lion imagined the wonderful taste\nof young warthog in his mouth.\nHe could hardly wait.\nLion went back to the trap and put\nhis foot inside to show his friend\nhow he was trapped."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "\"Ouch!\" Lion roared.\nWarthog had closed the trap on\nLion's foot.\n\"Aha! I got you,\" said Warthog.\n\"You will stay in that trap hungry\nand thirsty again.\nSee if your strong teeth and sharp\nclaws can help you now.\""
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "\"Run! Run! Run away!\" Warthog's\nwife shouted to the children at the\ntop of her voice.\n\"Raise your tails when you are\nrunning so that your father can see\nyou,\" she called.\nThe babies ran as fast as they could\nthrough the bushes."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "\"Warthog please help me!\" begged Lion again.\nHe was in pain from the sharp jaws of the hunter's\ntrap.\n\"I will do anything for you if you save me.\"\n\"No way, liar! I will never believe you again,\" said\nWarthog.\n\"I will also warn other animals not to save you\nbecause you are very sly.\""
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Warthog saw his children running in a row with their\nmother.\nTheir tails were lifted up for him to see them.\nHe rushed to his family and they all escaped to\nsafety.\nTo this day, Warthogs and their children always run\nwith their tails lifted up to see that everyone is safe."
+    }
+  ]
+}

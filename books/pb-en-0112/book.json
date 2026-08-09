@@ -1,0 +1,89 @@
+{
+  "bookId": "pb-en-0112",
+  "title": "Phani's Funny Chappals",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 260,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Phani's Funny Chappals",
+    "author": "Sridala Swami",
+    "illustrator": "Sanjay Sarkar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/952-phani-s-funny-chappals",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Phani is always late. Or not where he is supposed to be.\n\n“Why does your teacher say you're always late for school, Phani?” asks his father. “You leave home quite early.”\n\n“I can't help it, Baba,” Phani says."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "His mother wants to know why he is sitting in front of the TV every evening instead of playing with the other children.\n\n“I can't help it, Ma,” says Phani."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Why not, his parents want to know. So do his teachers, friends and his sister, who had once asked him to post a letter."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "“Why can't you help it, Phani?” they ask.\n\n“It's because of my chappals,” Phani mumbles."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "“Speak up, child! Stand up straight, shoulders back!”\n\nThat was his class teacher."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "So Phani explains. Every time he is on his way to school, his chappals know a better way to get there. Sometimes, they lead by the mango tree where there are lovely green mangoes."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Sometimes, when his feet are sweating all over the chappals, they take him to school by a road that just happens to be near a clear, cool pond."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "And the chappals prefer to watch TV than be hurled at a pile of seven stones. Anybody should know that!\n\n“Next time your chappals don't feel like posting a letter, at least let me know!” says Phani's sister angrily."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Nobody believes Phani.\n\nToday, Phani's mother has something for him. Phani is very happy."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "He opens the box and takes out a new pair of chappals!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "His mother is smiling..."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "But Phani doesn't look very happy. I wonder why!"
+    }
+  ]
+}

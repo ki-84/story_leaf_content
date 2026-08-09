@@ -1,0 +1,74 @@
+{
+  "bookId": "pb-en-0426",
+  "title": "Zara and the butterfly",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 685,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Zara and the butterfly",
+    "author": "Reshma Jannath",
+    "illustrator": "Angie & Upesh, Archana Sreenivasan, Bulbul Sharma, Greystroke, Herminder Ohri, Madhuri Purandare, Rajeev Verma 'Banjara', Rajiv Eipe, Suvidha Mistry..",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/5446-zara-and-the-butterfly",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Zara sulked. It was a Sunday and all she wanted to do was stay home and watch videos. Her mom just wouldn't listen.\n\n“You can't watch videos all day. Go out and play” her mom yelled.\n\n“But it's boring outside and I have no one to play with” Zara whined.\n\nHer Mom took away her tab."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Zara stomped out. She felt as lonely as a lonely little girl left in a huge jungle all by herself. It was just too hot outside and Zara sat on a bench drawing her knees close to her.\n\n“I hate my life, I hate going out, and mom never understands” her head pounded loud.\n\nSomething blue moved close to her, she glanced up. A brilliant blue butterfly flew in gentle circles around her and landed so softly on her knee! Zara saw its tiny little head and the two antennae sticking out, and did she imagine or did it really smile at her?!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The butterfly then flapped its wings and floated away. Zara's heart lurched up too, and soared high and wide with a whole kaleidoscope of pretty butterflies.\n\nPurples and blues,\n\npinks and yellows ,\n\nwings flapping,\n\nrainbows dancing, Zara saw it all and let the colors paint her heart."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Zara just had to share this joy with someone. She looked around; there was no one in sight. It was just her and Nitu Aunty's quirky little vegetable garden wilting under the sun. What would she do now, would she turn back to sulking?\n\nWhat do you think?\n\nNitu came outside to water her plants and tada! Someone had already watered them! Who would that be? who would sneak up and water the thirsty little plants and leave without being seen?\n\nThis made Nitu so glad she decided she had to surprise someone else. Ravi, the building's watchman was so relieved to have a tall glass of cold delicious lassi that someone left on his table. Now who would that be? A cold glass of lassi on a hot day!\n\n“Slurp slurp” he drank it all up, the delicious coolness easing his hard day and leaving a smile on his face for the rest of the day. On his way back home, Ravi bought a drum from the peddler."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "When the children living under the bridge saw someone had left a new drum for them they just couldn't believe their eyes! But they had to believe their ears when the drum beats filled the place with a spirited music.\n\n“Tampada tampada dampa dadata”\n\nwent their hearts rising up in a beautiful music. Their little hearts grew so big with happiness that they wanted to share their music with someone else."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Fatima got back from work and saw someone had taken all her pots and buckets, filled them with water from the common tap and put them back on her doorstep. Now who would that be?\n\nWhat a wonderful thing to do! Now she could rest for a while after all her day's work. Fatima felt so loved and slept with a song in her heart. Next day she took a bunch of marigolds from her garden and put them in a vase on the table in her workplace."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Annie was so stressed with work all day. Her head ached and she felt tired. That's when the sight and smell of golden marigolds shining like little suns cheered her and filled her with sweet memories. She messaged her friend.\n\nZeena, Remember how we used to go around the neighborhood plucking marigolds till our skirts couldn't hold them anymore? How are you? I miss you. Love, Annie."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Zeena's face lit up with a huge smile when she got a message from her childhood friend. Oh how they had played together, laughing and singing all day!\n\nWhen Zeena got home she said \"I worked all day, I need to play now.\n\nZara darling, would you like to play with me at the park?”\n\nZara jumped with joy!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "And at the park a yellow butterfly had just broken free of its cocoon ready to fly.\n\nDo you see the butterfly smile at you?"
+    }
+  ]
+}

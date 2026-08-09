@@ -1,0 +1,86 @@
+{
+  "bookId": "pb-en-0008",
+  "title": "\"My fish!\" \"No, my fish!\"",
+  "slug": "my-fish-no-my-fish",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 185,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "storyweaver (global-asp/pb-source mirror)",
+  "attribution": {
+    "title": "\"My fish!\" \"No, my fish!\"",
+    "author": "Suraj J Menon",
+    "illustrator": "Soumya Menon",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/49-my-fish-no-my-fish",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "bundled": true,
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Kicchu woke up early one morning.“It is time to catch some fish,” he said yawning."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He met Choru on the way to the pond. They were best friends who played all day long."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Munia saw them marching with their fishing rods.\n\n“We are going to the pond to catch fish. Come along Munia, if you wish.”"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Little Munia thought for sometime. “Please don't do that,” she said, “without water, the fish will die.”"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "They did not listen to what Munia had to say. They headed to the pond straight away."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Kicchu and Choru sat waiting by the pond. Two fish swam across, one thin and another round."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Then came the third fish, the biggest one they had seen. Munia said laughing, “It is bigger than Appa's feet!”"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Kicchu and Choru held on tight to their rods.\n\nKicchu screamed, “MY FISH!”\n\nChoru also screamed, “NO... MY FISH!”"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Kicchu pulled hard...\n\nChoru pulled harder..."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "PHAAATTT! Both the rods broke.\n\nTHUDDD! Kicchu fell to the ground.\n\nSSSPPLAASH! Choru fell into the water."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "What had happened?\n\nWhat do you think?\n\nThe fish had tied up both the strings!"
+    }
+  ]
+}

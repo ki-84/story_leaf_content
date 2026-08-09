@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0045",
+  "title": "The clever jackal and the foolish crow",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 247,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The clever jackal and the foolish crow",
+    "author": "Kholeka Mabeta",
+    "illustrator": "Benjamin Mitchley",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time Jackal was\nwalking around the bush. He was\nvery hungry. He saw the crow flying\nabove the trees. Crow had a huge\npiece of cheese in his mouth."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "\"Hmmm...that cheese looks\ndelicious! I must find a way to get\nit,\" thought the jackal.\n\"Oh, I have a plan!\" said Jackal to\nhimself while wiping his mouth\nquickly. He did not want Crow to\nnotice that he was hungry."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Crow had been flying the whole\nmorning. He was tired. He decided\nto sit on a branch of a tree. The\njackal sat down under the tree\nwhere Crow was sitting."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Jackal called with a huge smile,\n\"Hello Crow! You're looking very\ngood today. Your feathers look\nglossy and healthy. You must be\ntaking very good care of yourself.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Crow was very flattered to hear this.\nCrow always thought he was the\nstrongest and most beautiful of all\nthe other birds."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"I hear you also have the most\nbeautiful singing voice of all the\nother birds. Won't you sing a song\nfor me this morning?\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Crow was so flattered that he\nstretched his wings and prepared to\nsing for the jackal. He pushed his\nchest out and let out a loud pitched\nsound."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "As Crow started singing the cheese\nfell to the ground, right in front of\nJackal. Crow stopped and looked\ndown. Jackal grabbed the piece of\ncheese and ate it. He ran into the\nbush and crow was left angry and\nhungry."
+    }
+  ]
+}

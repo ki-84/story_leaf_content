@@ -1,0 +1,91 @@
+{
+  "bookId": "asp-en-0220",
+  "title": "Keeper and His Special Nursery",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "ぼうけん"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 184,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Keeper and His Special Nursery",
+    "author": "Ursula Nafula, Nina Orange",
+    "illustrator": "Magriet Brink",
+    "translator": "African Storybook",
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 21 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "This is the story of Keeper and his nursery for orphaned animals."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Last month was a busy month at the nursery. The first one to arrive at the nursery was one-year old Nomsa. She was thin and sad."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "But soon, Nomsa got stronger. She began to play with the other animals."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "On another day that month, a helicopter landed at the nursery."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "In the helicopter was a small elephant under a big blanket. Her name was Ndiwa."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Ndiwa was five days old. Keeper fed Ndiwa with a bottle."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "One night, everybody was woken up by the arrival of Ambia, a giraffe."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Ambia was five months' old. She was weak after her long journey."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Because of her long neck, Keeper held the bottle high to feed Ambia."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The last orphans to arrive that month were three hungry cubs. Their names were Kopi, Kepi and Keji."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Keeper and his helpers love all of the animals, even the naughty ones."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The people at the nursery work hard. They hope that one day the orphans can look after themselves. Then these animals can return to the wild."
+    }
+  ]
+}

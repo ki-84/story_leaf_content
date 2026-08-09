@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0149",
+  "title": "Where is Gogo?",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 200,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Where is Gogo?",
+    "author": "Mala Kumar, Manisha Chaudhry",
+    "illustrator": "Soumya Menon",
+    "translator": "Mala Kumar, Manisha Chaudhry",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1589-kahan-gaya-gogo",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Toto loved animals. He worked in a zoo.\n\nOne day he saw that Gogo, the gorilla's cage was empty.\n\nToto was shocked. He set off to find him."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Gogo must have run towards the jungle, thought Toto.\n\nHe looked behind every bush and tree.\n\nThe animals in the forest watched Toto.\n\nBut Toto could not find Gogo anywhere."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Toto whipped out his field glasses.\n\nHe scanned the area across the river.\n\nWas Gogo on the other side?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Gogo was not to be found.\n\nToto took a deep breath and dived into the river.\n\nWhat if Gogo was holding his breath and hiding underwater?"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Moti, the dog took pity on him.\n\nHe barked and looked towards the store nearby.\n\nAh! Toto finally had a lead."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Toto flung open the door of the store.\n\nThere was Gogo, happily munching on bananas. What a big mess Gogo had made!\n\nToto just stared at him, not able to say a word!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Dear Reader,\n\nWould you like to work in a zoo?\n\nWhat would be the most fun to do, if you worked in a zoo?\n\nHow many bananas do you think a gorilla can eat in one sitting?\n\nHow many bananas do you eat?"
+    }
+  ]
+}

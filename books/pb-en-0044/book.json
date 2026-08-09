@@ -1,0 +1,74 @@
+{
+  "bookId": "pb-en-0044",
+  "title": "Ramya's Stars",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 242,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Ramya's Stars",
+    "author": "Mala Ashok",
+    "illustrator": "Helga Parekh",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/189-ramya-s-stars",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time there was a little girl called Ramya. Ramya loved earrings. Everybody who gave her gifts, gave her earrings. She had red earrings, blue earrings, green earrings, and earrings of all the colours in the rainbow.\n\nThen, for Ramya's birthday, do you know what her Grandma got her?"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Grandma got Ramya really pretty diamond earrings that looked like stars! Ramya loved them. \"Oh! Grandma, from where did you get such pretty diamond stars?\" she asked."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "It was a starless night, and Grandma pointed to the sky. \"See, there are no stars in the sky any longer. I plucked all the stars from the sky and chose the best ones for your earrings,\" Grandma replied."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "This made Ramya very sad.\n\n\"Twinkle, twinkle little star,\n\nHow I wonder where you are?\n\nUp above the world so high,\n\nPlease come back like diamonds in the sky!\"\n\nRamya sang unhappily."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "That night, Ramya took off her earrings and placed them carefully under her pillow. She hoped a fairy would return the stars to the sky.\n\nIn the middle of the night, Ramya had a beautiful dream."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "In the dream, a pretty fairy came and told Ramya, “Don't worry Ramya, I have thousands of new stars for the sky!”\n\nRamya woke up, and do you know what she saw?"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The night sky was filled with stars!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Ramya's eyes sparkled as she put on her precious diamond star earrings again!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Now, Ramya is so happy!"
+    }
+  ]
+}

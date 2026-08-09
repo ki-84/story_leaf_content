@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0036",
+  "title": "What Does Anu See?",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 181,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "What Does Anu See?",
+    "author": "Lavanya Karthik",
+    "illustrator": "Lavanya Karthik",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/169-what-does-anu-see",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Anu loves to look at things,\n\nbig things and small.\n\nHouses on hills,\n\nants on a wall."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Things in the kitchen,\n\nthings on the shelf.\n\nThings in the garden,\n\nthings on herself."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Anu sees patterns\n\nand shapes everywhere,\n\nnothing at all can escape her stare!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Spots on a ladybird,\n\ncircles in trees,\n\nshapes made by people,\n\nshapes made by bees."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Lines on a leaf, just\n\nlike lines on her hand.\n\nThe marks of her feet\n\nin wet seaside sand."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Waves in the water,\n\nwaves in her hair.\n\nMushrooms on tree\n\ntrunks, birds in the air."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Words in a book that\n\ncan take her to places,\n\nfull of new colours,\n\nnew stories, new faces."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Things of the colour that\n\nshe loves best - RED!\n\nThe three wiggly hairs on\n\nher brother Boo's head."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Sprinkles on the cake\n\nDaddy baked today,\n\nlike the stars that twinkle\n\nat her from far away."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Rabbits in clouds\n\nfloating up in the sky.\n\nElephants in shadows -\n\ncome, give it a try!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Anu is happy with the\n\nthings that she sees.\n\nDo you also see what\n\nlittle Anu sees?"
+    }
+  ]
+}

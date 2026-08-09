@@ -1,0 +1,65 @@
+{
+  "bookId": "pb-en-0005",
+  "title": "Not Now, Not Now!",
+  "slug": "not-now-not-now",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 177,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "storyweaver (global-asp/pb-source mirror)",
+  "attribution": {
+    "title": "Not Now, Not Now!",
+    "author": "Rohini Nilekani",
+    "illustrator": "Ruchi Shah",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/33-not-now-not-now",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "bundled": true,
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I asked Ajji, “May I please have some laddoos?”\n\n“Not now, beta, maybe tomorrow.”\n\nBut I did not want to wait till tomorrow."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I asked Ajja, “May I go out to play with my friends?”\n\n“Not now, beta. Maybe after your nap?”But I did not want to wait till after my nap."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I asked Ma, “May I wear these new clothes?”\n\n“Not now, beta, you can wear them when we go out.” But I did not want to wait till we went out."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I asked Papa, “May I open that nice\n\nlooking box?”\n\n“Not now, not now. You must wait.”\n\nBut I did not want to wait any more."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Why do big people always say,\n\n‘Not now, not now'?\n\nThat night, I went to sleep feeling angry."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The next day, I woke up early and went into the kitchen. Ajji said, “You can eat these laddoos now.”"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Ajja said, “We can play cricket now.”\n\nMa said, “You can wear these clothes now.”\n\nPapa said, “You can open this box now.” And they all said, “Happy birthday!”"
+    }
+  ]
+}

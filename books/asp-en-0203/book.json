@@ -1,0 +1,89 @@
+{
+  "bookId": "asp-en-0203",
+  "title": "Searching for the spirit of Spring",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "ぼうけん"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 669,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Searching for the spirit of Spring",
+    "author": "Mosa Mahlaba",
+    "illustrator": "Selina Masego Morulane",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "The Winter cold had passed.\n\nSpring was coming to Nkanyezi's village.\n\nSoon the villagers would gather to celebrate the new season. Nkanyezi looked forward to the Spring festival more than any other day in the year."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One warm morning, Nkanyezi overheard two village elders talking about the festival.\"The people of Ndlovu have lost their spirit of celebration,\" one sighed.\"How can we have a Spring festival in a village that has forgotten how to celebrate?\" asked another."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Nkanyezi was worried.\"How will the sun shine again unless we sing to wake it from its winter slumber?\" she asked herself.\n\nNkanyezi thought for a long time.\"I must find what we have lost,\" she decided.\"I must go in search of things that will bring back the spirit of celebration to my village.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The elders gave Nkanyezi their blessing for the journey. They gave her a bag to carry the things she would find.\n\nNkanyezi was afraid, but she believed she would succeed."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Nkanyezi walked all day. She hiked up a hill, and down into a valley. She sailed across the great river, and climbed between sharp rocks. She marched across the plains until she reached the shadow of the red mountains."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "As night was closing in, Nkanyezi arrived at a village of patterns and colours as she had never seen before. She told the village elders about her journey to bring back the spirit of celebration to her people.\n\nThe mother of this tribe gave Nkanyezi a gift. She told the girl, \"With love we give to you this paint to restore colour to a village that has gone dull.\"\n\nNkanyezi thanked the elders and put the paint in her bag.\n\nEarly the next morning she went on her way, excited with this gift of colour."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Nkanyezi walked all day, through a vast forest of giant trees. As the sky became too dark for her to see, she heard the sound of beating drums. She hurried towards the drumming, feeling the spirit of dance coming to her tired feet."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Nkanyezi found herself in the village of the Bhubezi. People were sitting around a fire, drumming and singing. She had never before heard such wonderful music.\n\nShe told the village elders about her journey to bring back the spirit of celebration to her people. The Bhubezi invited her to rest and stay the night."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "In the morning the chief called on Nkanyezi.\"My child,\" he said, \"here is a special drum. It plays a new song every time you beat it.\"\n\nNkanyezi thanked the elders and put the drum in her bag. She went on her way again, delighted with this gift of music and dance."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "On the third day of her journey, as she a passed a field of fat cows, her nose started to tingle. An aroma tickled her taste buds and her mouth started to water. She followed the scent, and arrived in a village to find people standing over steaming pots of stew.\n\nThis tribe was famous for its feasts and Nkanyezi had never before tasted such flavours. After she had eaten her fill, she told the village elders about her journey to bring back the spirit of celebration to her people."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The next day, the council of cooks gave her a secret spice blend.\"Our daughter,\" they said, \"with these spices, happy tummies are guaranteed! We give you the gift of good food.\"\n\nNkanyezi thanked the elders and put the spices in her bag.\n\nShe knew she had everything she needed. With new energy she started the long journey back to the village of Ndlovu."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "When she arrived home the villagersgathered around her to hear of heradventures. She told them the talesof what she had seen, heard, andeaten.\n\nThen she opened her bag toshare the gifts given. The villagersrejoiced to receive these treasures.\n\nThe generosity of others and the courage of Nkanyezi brought back colour,song and dance to the people.\n\nAnd so the spirit of celebration was restored to the village of Ndlovu."
+    }
+  ]
+}

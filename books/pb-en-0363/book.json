@@ -1,0 +1,79 @@
+{
+  "bookId": "pb-en-0363",
+  "title": "Pet Respect",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 299,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Pet Respect",
+    "author": "Simoni Kothari",
+    "illustrator": "Soumya Menon",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4635-pet-respect",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was once a girl named Lilly. She was 7 years old. Her father's name was Tirth. He bought a new parrot for Lilly because it was her birthday."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day when Lilly was feeding Yuri. Yuri suddenly spat the food out of his mouth and started chirping harshly at Lilly. Lilly was astonished that Yuri could also behave in such a bad manner being such an honorable parrot."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "So Lilly asked Yuri, \"what is the matter, Yuri?\". The reply in return was \"since you are not taking me outside in the fresh air , I feel bored sitting in one place.\" \"I am so sorry. I cannot take you out right now\" says, Lilly as she leaves for school."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "In school, at the time of recess, Lilly is playing with her friends in the playground. And Yuri was getting bored at home. At this point Lilly realizes that \"I am playing here with my friends and having so much, Yuri is lonely without any friends. I am so mean.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "When she gets back home, she is embarassed that she did not take Yuri out to play with his friends."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Seeing Yuri upset, Lilly tried to talk to him. But Yuri was not willing to talk to her."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Now Yuri was getting angrier moment by moment. The next step taken by Yuri was to flap his feathers vigorously and try to fly away with the cage."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Lilly's neighbour saw Yuri falling down from the window, he picked him up and brought him back to Lilly."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "And Lilly decided to set him free because she realized that friends and family were important to everyone and so Yuri must be with his friends and family."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Yuri was ecstatic and overjoyed to be with his family and friends in the fresh and open air."
+    }
+  ]
+}

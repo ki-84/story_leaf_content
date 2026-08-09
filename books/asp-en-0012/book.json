@@ -1,0 +1,66 @@
+{
+  "bookId": "asp-en-0012",
+  "title": "My Village",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 77,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "My Village",
+    "author": "Wendy Parry",
+    "illustrator": "Vusi Malindi, Mario Kart, Laura Libertore, Wiehan de Jager, Catherine Groenewald",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 9 とページ数 7 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I live in a village in\nUganda called\nKiwangala.\nIt is a very nice village."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The children in the village like to go\nto school.\nWe like our teachers."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "We like to to read at school.\nWe like to count numbers.\n1,2,3,4,5!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "We like to play with our friends. We\nplay like to kick the ball."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "We like to eat bananas in our\nvillage."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "We like to run after the pigs."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "We like to play with our friends."
+    }
+  ]
+}

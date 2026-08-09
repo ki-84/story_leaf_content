@@ -1,0 +1,113 @@
+{
+  "bookId": "pb-en-0282",
+  "title": "The Avengers and the age of powerful mach Green Goblin",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 134,
+  "pageCount": 17,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Avengers and the age of powerful mach Green Goblin",
+    "author": "Kalaiarasi Ramanan",
+    "illustrator": "Kalaiarasi Ramanan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3369-the-avengers-and-the-age-of-powerful-mach-green-goblin",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, there were 5 Avengers in Avengers headquarters"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One name was vision, another name was captain America, another name was War machine, another name was scarlet, another name was romanof"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day, Captain went alone in the woods inside the Avengers Quinjet"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "then the other Avengers woke up"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "then they had their breakfast..."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "and started watching TV."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "But they forgot about Captain."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "then War Machine reminded them about him."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "All the avengers had coms"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "but... Captain had a detector in his com"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "They located Captain in the woods."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The Avengers walked through the woods."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Just then they heard a sound...."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "It was the Green Goblin"
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Green Goblin reached Captain and started attacking him"
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "and all the Avengers started fighting with him and the Goblin was defeated."
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "The Avengers happily lived ever after."
+    }
+  ]
+}

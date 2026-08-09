@@ -1,0 +1,61 @@
+{
+  "bookId": "asp-en-0006",
+  "title": "Anansi and Wisdom",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 285,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Anansi and Wisdom",
+    "author": "Ghanaian folktale",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 8 とページ数 6 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Long long ago people didn't\nknow anything. They didn't\nknow how to plant crops, or\nhow to weave cloth, or how to\nmake iron tools.\nThe god Nyame up in the sky\nhad all the wisdom of the world.\nHe kept it safe in a clay pot."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, Nyame decided that\nhe would give the pot of\nwisdom to Anansi.\nEvery time Anansi looked in the\nclay pot, he learned something\nnew. It was so exciting!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Greedy Anansi thought, \"I'll\nkeep the pot safe at the top of a\ntall tree. Then I can have it all\nto myself!\"\nHe spun a long thread, wound it\nround the clay pot, and tied it to\nhis stomach.\nHe began to climb the tree. But\nit was hard climbing the tree\nwith the pot bumping him in the\nknees all the time."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "All the time Anansi's young son\nhad been standing at the\nbottom of the tree watching. He\nsaid, \"Wouldn't it be easier to\nclimb if you tied the pot to your\nback instead?\"\nAnansi tried tying the clay pot\nfull of wisdom to his back, and it\nreally was a lot easier."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "In no time he reached the top of\nthe tree.\nBut then he stopped and\nthought, \"I'm supposed to be\nthe one with all the wisdom,\nand here my son was cleverer\nthan me!\"\nAnansi was so angry about this\nthat he threw the clay pot down\nout of the tree."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "It smashed into pieces on the\nground. The wisdom was free\nfor everyone to share.\n\nAnd that is how people learned\nto farm, to weave cloth, to\nmake iron tools, and all the\nother things that people know\nhow to do."
+    }
+  ]
+}

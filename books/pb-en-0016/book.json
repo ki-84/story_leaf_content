@@ -1,0 +1,66 @@
+{
+  "bookId": "pb-en-0016",
+  "title": "Kheer on a Full Moon Night",
+  "slug": "kheer-on-a-full-moon-night",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 402,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "storyweaver (global-asp/pb-source mirror)",
+  "attribution": {
+    "title": "Kheer on a Full Moon Night",
+    "author": "Mala Kumar, Manisha Chaudhry",
+    "illustrator": "Priya Kuriyan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/88-kheer-on-a-full-moon-night",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "bundled": true,
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "The rains have stopped. But winter is not here yet. This season is called Autumn. It is called Sharat Ritu in Sanskrit. Aksheeee! I have a cold. The change in the weather seems to make so many people ill. Granny says all children will be well before Dasara."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "There are so many festivals during this season. Manu has plucked leaves from my mango tree to make a 'Toranam' to put on our front door. I think our toranam is the best in the whole world!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The sky is so blue now. And there are bright, white clouds that look like cotton balls. Everything seems so calm. Tonight, we are going to celebrate Sharat Poornima. The festival is also called Khojagiri.\n\nThe full moon will make everything around us look like silver. We will stay awake all night. We will drink hot kheer made of white things like coconut, rice and milk."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Meera is celebrating Onam today. It is a festival of joy. Her family has made a beautiful Pookalam, a rangoli using flowers. She says this is the time of the year when the crops have been cut and there is enough grain for everyone. It is a happy time.\n\nIt is the time when the famous boat races of Kerala are held. What a fun! I feel like celebrating too."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Dasara holidays are here. In Tamil Nadu, people love to set up a Navaratri Golu, which is a display of dolls on three to nine steps. During this festive season, Manu and I are going to start learning Indian classical music. I want to play the Mrudangam.\n\nMru-dan-gam! Dham! Dham! Dham!\n\nManu wants to learn to play the flute. And Amma wants to learn to ride the scooter!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Deepavali will also come soon. In the dark, moonless night, all the houses will look so pretty when they are lit up with diyas and candles. Some people put electric lights that go on and off! I like to burst crackers too. But our teacher says that crackers are bad for the air."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "He says if we don't take care of the water, air and land, then the seasons will all change after some years. I wonder how that will happen! It is getting colder. This season just after Sharat Ritu is called Hemant Ritu in Sanskrit, says granny. It is a short season in India. Winter will be here soon."
+    }
+  ]
+}

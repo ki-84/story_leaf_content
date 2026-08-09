@@ -1,0 +1,33 @@
+{
+  "bookId": "pb-en-0209",
+  "title": "The Man likes to Sing",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 63,
+  "pageCount": 1,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Man likes to Sing",
+    "author": "Ajay Puttam",
+    "illustrator": "Prashant Miranda",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2455-the-man-likes-to-sing",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One Day man went to forest and to see the forest, Practice the music over there. He found the some good decent place over there and found one interesting Big Mushroom over there. He started sitting over the Mushroom and practicing over there for a while. After a few days of Practicing the Birds and Animals are started listening to music of him."
+    }
+  ]
+}

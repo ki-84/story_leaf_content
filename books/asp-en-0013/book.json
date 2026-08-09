@@ -1,0 +1,119 @@
+{
+  "bookId": "asp-en-0013",
+  "title": "Letter to mum",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 285,
+  "pageCount": 18,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Letter to mum",
+    "author": "Ursula Nafula",
+    "illustrator": "Catherine Groenewald",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Mother was finishing packing\nher clothes in a small bag."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "As she went out the door, she\nhugged me and said, \"Bye for\nnow.\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"Where are you going, mum?\" I\nlooked up at her as I asked."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I started to cry wanting to\nfollow her but dad lifted me up\non his shoulder."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Dad said, \"Your mother is going\nto the hospital to have a baby.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "When I heard \"baby\" I stopped\ncrying and looked at him.\n\"Why is she going to get the\nbaby from the hospital?\" I\nasked him."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Dad sat me on a small chair and\nsaid, \"I will tell you why she is\ngoing to get the baby from the\nhospital.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "I listened keenly to him as he explained although I didn't\nquite understand why she wasn't having the baby at home.\nWhen dad finished explaining, I asked, \"Will she still love\nme when she comes back with the other baby?\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "My dad held me close and said,\n\"We will always love you.\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "\"Can I write a letter to her while\nshe is there?\" I asked dad."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "That evening, I began to write a\nletter to mum."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "I tore a paper from my exercise\nbook and began to write..."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "\"Mummy, mummy, dad said\nthat you have gone to bring\nanother baby..."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "...Please hurry up and return\nhome..."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "...I want you to bring a baby\ngirl, so I can play with her when\nshe grows up..."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "...You can bring two so one can\nbe mine..."
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "...I am waiting for you here\noutside our house.\""
+    },
+    {
+      "index": 17,
+      "imagePath": "images/19.jpg",
+      "text": "I folded my letter so I could give\nit to my father to bring it to\nmum.\nWhen I woke up the following\nmorning, the letter was gone."
+    }
+  ]
+}

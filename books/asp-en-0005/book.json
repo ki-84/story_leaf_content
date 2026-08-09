@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0005",
+  "title": "Anansi and Turtle",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "むかしばなし",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 605,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Anansi and Turtle",
+    "author": "Ghanaian folktale",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day, Anansi the spider picked\nsome yams from his garden.\nThey were extra beautiful delicious\nyams, so he baked them carefully in\nthe fire.\nThen he sat down to eat them up."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Just as Anansi was about to put the\nfirst bite in his mouth, he heard a\nknock on his door. \"Oh, no!\"\nthought Anansi. \"Who can that be?\"\nBut he opened the door.\nThere was Turtle, who looked very\ntired. Turtle said, \"Anansi, please let\nme in. I've walked so far today, and\nI'm so tired and hungry.\"\nSo what could Anansi do but let him\nin?"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Anansi was too selfish to share his\nbeautiful delicious yams with\nanybody else. So he came up with a\nnasty plan.\nJust as Turtle sat down at the table\nand began to reach for some yams,\nAnansi yelled at him, \"Turtle, your\nhands are all dirty! You can't eat\nwith your hands all dirty! Go wash\nthem.\"\nTurtle's hands really were dirty. So\nhe slowly crawled to the river,\nwashed his hands, and then crawled\nback."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "But meanwhile Anansi had started\ngobbling up the yams. By the time\nTurtle got back, he saw that the\nyams were all gone.\nTurtle looked at Anansi. \"Thank you\nfor inviting me to dinner. If you're\never near my house, please come\nby and let me return the favour,\"\nsaid Turtle.\nAnd Turtle began crawling slowly\naway to his house."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "As time went by, Anansi began to\nthink more and more about how\nTurtle had promised to feed him a\nfree dinner. So one day he walked\nover to Turtle's house.\nAnansi got to Turtle's house just\nabout dinnertime, as the sun was\ngoing down over the river. Turtle\nwas lying on a rock in the sun,\nwarming himself up, as turtles do.\nWhen Turtle saw Anansi, he said,\n\"Hello there, Anansi, have you\ncome to have dinner with me?\"\nAnd Anansi said, \"Yes, that would\nbe very nice, thank you.\" He was\ngetting hungrier and hungrier."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "So Turtle dived down to the bottom\nof the river to set the table for\ndinner and get everything ready.\nAnansi waited on the rocks by the\nshore.\nSoon Turtle swam back up and said,\n\"Oh Anansi, it is all ready now,\nplease join me for dinner.\" And\nTurtle dived down again and began\nto eat the green leaves he had for\ndinner."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Anansi tried to dive down to the\nbottom of the river, but he was a\nspider, not a turtle, and he couldn't\ndive that deep. He kept floating\nback up to the surface again.\nHe tried jumping in, he tried diving\nin, but nothing helped. He just\ncouldn't get down to that dinner."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Finally Anansi had an idea. He put\nlots of stones in the pockets of his\ncoat, and finally he was heavy\nenough to sink down to the bottom\nof the river.\nHow clever he was!\nHe saw Turtle's table, full of juicy\ngreen leaves and lots of other\ndelicious food. Anansi's mouth was\nwatering."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "But just as Anansi was reaching for\nsome of that delicious food, Turtle\nstopped him. \"Anansi, surely you're\nnot going to eat dinner with your\ncoat on? That's not how we do\nthings at my house.\"\nAnansi, without thinking, said, \"Oh,\nof course you're right, Turtle, what\nwas I thinking?\" He took off his\ncoat."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "But without the rocks in his pockets\nto hold him down, Anansi floated\nright back to the surface of the river\nagain, and popped out of the water.\nAnansi sadly put his head down into\nthe water and watched Turtle eat up\nall of the delicious food!"
+    }
+  ]
+}

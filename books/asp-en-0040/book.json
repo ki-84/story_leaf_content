@@ -1,0 +1,79 @@
+{
+  "bookId": "asp-en-0040",
+  "title": "Kato Clever and the big trouble",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 484,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Kato Clever and the big trouble",
+    "author": "Herminder Ohri",
+    "illustrator": "Herminder Ohri",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "In a small garden in the city, there\nwas a big tree. Many small animals\nlived together on the big tree.\nThere also lived a family of\nsquirrels.\nVikki was one little squirrel among\nthem who liked to talk big. His\ncousin, Kato from Far Forest had\ncome to visit him."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One evening, as all the animals who\nlived in the little garden were just\ngoing to sleep, they heard loud\nsounds from the park, next to the\nlittle garden."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Kato and the other squirrels saw big\nyellow machines, and men in hard\nyellow hats, pointing to the little\ngarden and other houses on the\nstreet.\nThey were going to pull them all\ndown and build a parking lot."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The people who lived there would\nmove to other houses. No one gave\na thought to the animals, birds and\ninsects who lived in the little\ngarden."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The machines were first spotted by\nthe mole family. To be more exact,\nby Mister Popples, the eldest who\ntold Master Mopples, who in turn\ntold the youngest, Little Popples."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "When they were young they were\ncalled Pop, Mop and Pip."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Mister Popples told the squirrels, the squirrels told the birds,\ncaterpillars, butterflies, tiny spiders and all those who lived in the\nlittle garden.\nThere was total panic, a lot of running, flying, scurrying and\nhopping, with no one knowing what to do? Where to go?\nThe caterpillars said, \"Let us look for leaves.\" The butterflies said,\n\"We want flowers.\" The mice wanted holes. The squirrels, birds,\ninsects wanted trees, bushes and grass.\nAll the animals wanted the soft earth, not cement or concrete.\n\"Where will we find all this?\" they cried. \"We will surely die,\" they\nsaid and wept."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Kato's uncle and aunt were very quiet and all the\nlittle squirrels crept close to their mom.\nKato cleared his throat and spoke shyly, \"I live in the\nFar Forest, may be we can all go there?\"\nThere was a buzz of excitement and someone said,\n\"How?\"\nKato scratched his head and thought hard, \"Well, the\nSquirrel Express can take the squirrels and the\nbutterflies, spiders caterpillars and all the insects.\nThe birds can either fly or come with us. The moles,\nmice and the grass snake family can go by the\nunderground Mole Express.\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Everyone thought it was a splendid idea.\nMister Popples rushed to ask Mister Grumbles, the\ndriver of the underground express train if he could\ntake them all to the Far Forest. Mister Grumbles\nfumbled, stumbled, bumbled before he finally\nmumbled, \"Alright.\"\nNow it was Mister Popples' turn to be grand. \"Friends,\nyou need not wory, my grandfather's\ngrandson's...third nephew's second niece's family\nlive in the Far Forest."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "So, in the early hours of the\nmorning the Squirrel Express and\nthe Mole underground train with all\nits passengers, chugged their way\nto the Far Forest with its trees,\nflowers, ponds and soft earth."
+    }
+  ]
+}

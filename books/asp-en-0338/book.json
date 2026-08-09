@@ -1,0 +1,94 @@
+{
+  "bookId": "asp-en-0338",
+  "title": "'M'e Maneo's pumpkin",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 414,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "'M'e Maneo's pumpkin",
+    "author": "Marion Drew",
+    "illustrator": "Marion Drew",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day, 'M'e Maneo planted a\npumpkin seed. It grew into a very\nbig pumpkin. It blocked her garden\npath."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "'M'e Maneo wanted to move the\npumpkin. She went to her\nneighbour. \"'M'e Mapalesa,' she\nsaid, \"please help me to move my\npumpkin. It is blocking my path.\"\nThe two ladies pushed and pushed,\nbut that pumpkin did not move."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "They went to 'M'e Masello. \"Please\nhelp us move 'M'e Maneo's\npumpkin!\" they asked. 'M'e Masello\ncame to help them. The three ladies\npushed and pushed that pumpkin,\nbut still it did not move. \"I don't\nknow what to do,\" said 'M'e Maneo."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Just then a little worm came into\n'M'e Maneo's garden. It was hungry.\nIt nibbled the big pumpkin. \"Stop,\"\nsaid the pumpkin. But the little\nworm nibbled again."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "\"Stop! You are tickling me,\" said the\npumpkin. \"I don't like it.\" And the\npumpkin rolled away down the hill."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The pumpkin stopped in a field at\nthe bottom of the hill. Two\nshepherds found it. \"What shall we\ndo with this pumpkin?\" they asked.\n\"Let's eat it,\" they said, \"it looks\ndelicious.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "They took a big stone and tried to\nbreak open the pumpkin."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "\"No!\" cried the pumpkin. The\nshepherds jumped back. The\npumpkin began to open."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Out of the pumpkin came a moloi.\nShe had one arm, one eye and one\nleg. She looked terrible. \"Don't\ndisturb me,\" said the moloi in a big\nvoice, \"I am the pumpkin chief.\"\nThe pumpkin closed again."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The shepherds were very\nfrightened. They ran home to tell\ntheir parents. \"Oh! We are so\nlucky!\" said their parents. \"Don't\nyou know about the pumpkin\nmoloi?\" \"It is a very special\npumpkin,\" said the shepherds'\nparents. \"You must leave it alone.\"\n\n\"Next summer the pumpkin will open again and the moloi will\nscatter pumpkin seeds all over our villages. We will have many,\nmany pumpkins to eat,\" said the shepherd's parents."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "And so it happened that the next\nsummer, 'M'e Maneo's pumpkin\nburst open. It was full of many,\nmany seeds."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Out came the pumpkin moloi. With\nher one leg she climbed out of the\npumpkin. With her one eye she\nlooked across all the villages. With\nher one arm she threw all those\nseeds across the valley."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "The seeds grew into beautiful big\npumpkins in all the gardens in the\nvalley. That winter everyone in the\nvillages had lots of pumpkins to eat.\nThey went to 'M'e Maneo. \"Thank\nyou, 'M'e Maneo!\" they cried."
+    }
+  ]
+}

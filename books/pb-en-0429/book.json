@@ -1,0 +1,44 @@
+{
+  "bookId": "pb-en-0429",
+  "title": "The Nose-less King",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "むかしばなし",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 277,
+  "pageCount": 3,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Nose-less King",
+    "author": "Joysree Das",
+    "illustrator": "Joysree Das, Parismita, Reshma Barve, Tessa Welch",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/5463-the-nose-less-king",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A small bulbuli bird once built its nest on a tree in the king's garden. One day it stole a gold coin from the king's counting house when the king was counting his money. The next morning it was chirping \"I am as rich as the king!\" The king sent his men to find out what was in bulbuli's nest. They found the coin and brought it to the king. Bulbuli was very angry. It was dancing and saying \"The king is a beggar! He has stolen my money!\" The king told his men to return the coin in the bulbuli's nest. When they did so bulbuli started shouting \"The king is afraid of me. He has returned my money\""
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Now the king was very very angry. He ordered his men to catch the naughty bird and bring it to him. When they brought the bird the king swallowed it with a glass of water. But the moment he opened his mouth wide to yawn the bird came out and flew away and whistled sitting on a tree. The king again sent his soldiers to catch the bird. When the bird was brought the king swallowed it for the second time but instructed his soldiers to be prepared with their swords."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The moment the bird flew out of his mouth they should chop off its head with their sword. The soldiers were standing with their uplifted swords. The king yawned. Bulbuli came out. Slash came\n\ndown the sword. But instead of bulbuli's head they missed their aim and chopped off the king's nose! The bird was singing now \"The king has lost his nose!Serves him right.\""
+    }
+  ]
+}

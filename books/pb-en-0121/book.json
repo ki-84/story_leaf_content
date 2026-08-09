@@ -1,0 +1,69 @@
+{
+  "bookId": "pb-en-0121",
+  "title": "Saboo and Jojo",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 285,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Saboo and Jojo",
+    "author": "Herminder Ohri",
+    "illustrator": "Herminder Ohri",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1017-saboo-and-jojo",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One afternoon, Saboo was playing alone in the garden “Mother can I have a small puppy?”\n\n“No,” said mother.\n\n“A very small puppy?”\n\nasked Saboo.\n\n“No,” said mother."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Saboo kicked a stone, which rolled near a tree. The tree trunk had fur. He touched it and looked up, up, and right up. He saw two eyes looking down at him."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "“Hello! Who are you?” asked a surprised Saboo.\n\n“Hello yourself, I am a giraffe. My name is Jojo. I can play with you. If you climb up on to my back, I will take you for a ride.”"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Saboo climbed up and away they went down the road, up the hill, and into town.\n\nSaboo shouted happily,\n\n“Jojo turn right, now left, and again right,” till they came to his friend Munni's house."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "It was Munni's birthday. The children clapped when they saw Saboo on Jojo's back. Jojo helped Aunty put up the balloons. He was soooo...o tall, it was easy for him."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Jojo gave the children rides, he even played kick ball with them. It was a fun party.\n\nEveryone sang, “Happy birthday to you.” Aunty put samosas, gulab jamuns, and ice-creams on the table."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Jojo loved the ice-cream, so uncle got him a bucketful of ice-cream. Jojo finished it all. It was time to go home.\n\nThey said, “Bye Jojo, bye Saboo.”\n\nSaboo and Jojo made their way back home. Mother was standing at the gate."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "When she saw Saboo riding a giraffe, she was so... so... shocked.\n\n“Saboo... I... said,”\n\n“Mother you said, no small puppy, you did not say, no big tall giraffe.” Before mother could answer, the zookeeper came and took Jojo back to the zoo."
+    }
+  ]
+}

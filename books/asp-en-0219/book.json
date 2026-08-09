@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0219",
+  "title": "Rain for Nomvula",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 191,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Rain for Nomvula",
+    "author": "Letta Machoga",
+    "illustrator": "Marleen Visser",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "\"No Nomvula, don't play with\nwater. It is so scarce!\"\n\"But it's hot, Mama! I feel like\ngetting into this water. I want to\nbe cool.\""
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "\"No, Nomvula. Don't play with\nwater. Water is scarce.\"\n\"But it's hot, Mama, I'm thirsty.\nI'd like to drink cold water.\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "It is raining. There is going to be\na lot of water. Now I can't play –\nI wish it could be hot."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Look at the vegetables. They\nare growing and becoming\ngreen.\nLook! The bowls and buckets\nare overflowing with water."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "It has stopped raining. Now we\ncan play!\nLook how beautiful everything\nis after the rain. The sky is clear\nand blue. Trees and grass are\ngreen, and the plants are\nflowering."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Oh no! There the rain is again!\nWhen are we going to play?"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Oh no, me! I'm going to play,\neven if it's raining! Oh it's so\nlovely to play in the rain.\nChapha chapha chapha!\nImanz'ilokhwe yam!\nImanz'ilokhwe yam!\nChapha chapha chapha!\nZimanz'iinwele zam!\nZimanz'iinwele zam!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Nomvula, you don't want to\nlisten, my child. Come closer,\nlet me dry and comb your hair.\nChapha chapha chapha!\nZimanz'iinwele zakho!\nZimanz'iinwele zakho!"
+    }
+  ]
+}

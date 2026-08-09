@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0213",
+  "title": "Rooster and Hare",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 160,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Rooster and Hare",
+    "author": "Geoffrey Thiiru",
+    "illustrator": "Duane Arthur",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, there was a\nrooster and a hare.\nThey were very good friends."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One night, Hare visited Rooster\nand his family at home.\nThey enjoyed supper together."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Then came the time to go to\nbed.\nHare saw that as Rooster and\nhis family slept, their heads\nwere hidden."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Hare saw that Rooster and his\nfamily slept very well.\nHe was not able to sleep the\nwhole night."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "In the morning, Hare wanted to\nknow Rooster's secret.\n\"Where do you put your heads\nat night?\" he asked."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Rooster decided to play a joke\non Hare.\nHe said, \"My friend, we birds\nhave a secret for going to sleep.\nAt bedtime, we chop off our\nheads. Without heads, we sleep\nvery well.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"Then in the morning, we put\nour heads back on,\" explained\nRooster."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Hare went home and told his\nfamily the secret of the\nchickens.\nThe Hare family decided to try it\nthemselves!\n\nWhat do you think happened?"
+    }
+  ]
+}

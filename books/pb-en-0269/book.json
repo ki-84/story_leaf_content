@@ -1,0 +1,44 @@
+{
+  "bookId": "pb-en-0269",
+  "title": "Hooray!!! It's Sunday- Time for Leisure Shower and Fun time",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 126,
+  "pageCount": 3,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Hooray!!! It's Sunday- Time for Leisure Shower and Fun time",
+    "author": "Reshma Krishnamurthy Sharma",
+    "illustrator": "Sonal Goyal, Sumit Sakhuja",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3143-hooray-it-s-sunday-time-for-leisure-shower-and-fun-time",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Mama wakes Chinnu and Puttu in the morning. \" It's Sunday children. Time to have fun\" she says.\n\nInitially the kids are still in their sleep mood but soon all that changes when they find themselves in the cute baby water tubs."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "After a quick brushing session of teeth and a glass of milk with a fruit gulped down, the kids who were reluctant to take a bath soon jump into the tubs seeing water toys and lots of water. Mama is soon left wondering if these kids intend to come out of the tubs at all after some time."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Soon Mama joins them in the fun and lets Chinnu and Puttu to run around, play hide and seek and have a fun filled bathing playing activity."
+    }
+  ]
+}

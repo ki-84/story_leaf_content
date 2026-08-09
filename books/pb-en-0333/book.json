@@ -1,0 +1,49 @@
+{
+  "bookId": "pb-en-0333",
+  "title": "The Indigo Fairy and the Lizard",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "ファンタジー"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 232,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Indigo Fairy and the Lizard",
+    "author": "Dinaz Irani",
+    "illustrator": "Dinaz Irani",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4008-the-indigo-fairy-and-the-lizard",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "As Kian by dandelion flew, the dark clouds in the sky grew. Sheltering under a mushroom top, Kian watched the rain go plop! plop! plop!\n\nPlopity plop appeared a puddle, from past experience, Kian found himself wanting a cuddle...\nSo he joined the glow worms in a warm loving huddle.\n\n“To stay warm and dry, if into that house you go, you will meet my friend, the lizard!” said the worms that glow."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "As Kian jumped onto the window sill, he saw the lizard sitting very still.\n\nA little girl entered the room, saw the lizard, screaming “AAArrgghh!!”, arms waving went zoom!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "“What, dear lizard, was that?!” asked Kian.\n\n“Aw! That's just her way of saying hello! She is a sweet little dope!\n\nI eat the flies, mosquitoes and other insects that bite, just so she can sleep well at night!!” replied the lizard.\n\nWatching the lizard hunt and gobble down prey was interesting; however Kian really could not stay."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "“Aaargh!!” shouted Kian, arms waving. “What was that?!” asked the puzzled glow worms.\n\n“Well It would seem wherever I go, I learn a new way of saying hello!!”\n\n“Dear Fairy, while I am sure saying hello like that is fun, I must warn you that it might make some people run!”\nAfter some thought, Kian replied, “Oh, of course you are right, it is just not polite to give others a fright!”"
+    }
+  ]
+}

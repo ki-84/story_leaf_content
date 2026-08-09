@@ -1,0 +1,96 @@
+{
+  "bookId": "pb-en-0407",
+  "title": "Jamun Has Her Wish",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 531,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Jamun Has Her Wish",
+    "author": "Vibhy Batra",
+    "illustrator": "Madhuvanti Anantharajan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/5155-jamun-has-her-wish",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 11 とページ数 13 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Jamun lived in a pretty little house perched on top of a cliff."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One fine morning, she looked out of the window and felt unbearably sad. The day had dawned nice and bright, and here she was, stuck at home. You see, Jamun was recovering from a recent illness, a particularly nasty bout of fever.\n\nHer doctor, a stern man with an unruly mop of curly hair had given her strict instructions: no mischief, plenty of rest."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "So what if she couldn't go outside. Her thoughts certainly could. She closed her eyes and imagined herself out in the open, surrounded by lovely pink flowers, birds chirping away merrily. Just thinking about them made her smile.\n\nOh, how she wished she could be out, too!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Well, one thing Jamun didn't miss was school.\n\nWhat use did she have for books and lessons when she had grandpa? Her patient, loving, knowledgeable grandpa. He knew all that there was to know and Jamun simply loved listening to him."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "When she couldn't make head or tail of something at school, she turned to Grandpa.\n\nWhen her teacher scolded her for not paying attention, she ran to Grandpa.\n\nWith his kind words and encouraging smile, Grandpa always made her tears disappear in a flash.\n\nSo, when she expressed a desire to go outside, he had an idea!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "He got her a sturdy little wheelchair. Firmly secured in it, she could go out without so much as straining herself."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Jamun wasn't too sure about it.\n\nWhat would her friends say, she wondered.\n\nWould they find it strange? Or worse, make fun of her?"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Grandpa being Grandpa had idea ready.\n\nHe wheeled Jamun out and headed straight to school.\n\nOn the way, they met Chinkoo.\n\nHe was rather taken aback at the sight.\n\nWhat was Jamun doing in that strange looking thing."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Reading his thoughts, Grandpa sounded the prayer wheel. Clinggggggg!\n\nChinkoo looked at it with great interest.\n\n\"Lucky me, I got this prayer wheel for one whole day. And all I had to do was ferry Jamun around, said Grandpa with glee.\n\nA gleam came into Chinkoo's eyes. The prayer wheel could be his. All he had to do was wheel Jamun around. That wouldn't be so hard, he thought excitedly."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "He happily took over the prayer wheel and the wheelchair and away they went.\n\nDown the glistening meadows, up the narrow trails.\n\nJamun had never had so much fun."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/11.jpg",
+      "text": "Everyone wanted to take Jamun out!\n\nafter much discussion, it was finally decided: they would draw lots every day and one lucky boy or girl would wheel Jamun around.\n\nThanks to Grandpa and his prayer wheel, Jamun had her wish."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/11.jpg",
+      "text": "Soon, word spread of the prayer wheel that came free with the wheelchair.\n\nHer friends could barely conceal their excitement.\n\nThe moment school was over, they flocked to her house. There was Bhola and Monkoo and Pia and Gehnaa and many more friends from school."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/11.jpg",
+      "text": "Everyone wanted to wheel Jamun around.\n\nAfter much discussion, it was finally decided:\n\nthere would be a lucky draw every day and one lucky boy or girl would wheel Jamun around!\n\nThanks to Grandpa and his prayer wheel, Jamun had her wish!"
+    }
+  ]
+}

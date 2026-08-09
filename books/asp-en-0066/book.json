@@ -1,0 +1,96 @@
+{
+  "bookId": "asp-en-0066",
+  "title": "Nozibele and the three hairs",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 390,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Nozibele and the three hairs",
+    "author": "Tessa Welch",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 15 とページ数 13 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A long time ago, three girls went\nout to collect wood."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "It was a hot day so they went down\nto the river to swim.\nThey played and splashed and\nswam in the water."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Suddenly, they realised that it was\nlate.\nThey hurried back to the village."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "When they were nearly home,\nNozibele put her hand to her neck.\nShe had forgotten her necklace!\n\"Please come back with me!\" she\nbegged her friends.\nBut her friends said it was too late."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "So Nozibele went back to the river\nalone.\nShe found her necklace and hurried\nhome.\nBut she got lost in the dark."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "In the distance she saw light\ncoming from a hut.\nShe hurried towards it and knocked\nat the door."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "To her surprise, a dog opened the\ndoor and said, \"What do you want?\"\n\"I'm lost and I need a place to\nsleep,\" said Nozibele.\n\"Come in, or I'll bite you!\" said the\ndog.\nSo Nozibele went in."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Then the dog said, \"Cook for me!\"\n\"But I've never cooked for a dog\nbefore,\" she answered.\n\"Cook, or I'll bite you!\" said the dog.\nSo Nozibele cooked some food for\nthe dog."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Then the dog said, \"Make the bed\nfor me!\"\nNozibele answered, \"I've never\nmade a bed for a dog.\"\n\"Make the bed, or I'll bite you!\" the\ndog said.\nSo Nozibele made the bed."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Every day she had to cook and\nsweep and wash for the dog.\nThen one day the dog said,\n\"Nozibele, today I have to visit\nsome friends. Sweep the house,\ncook the food and wash my things\nbefore I come back.\""
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "As soon as the dog had gone,\nNozibele took three hairs from her\nhead.\nShe put one hair under the bed, one\nbehind the door, and one in the\nkraal.\nThen she ran home as fast as she\ncould."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "When the dog came back, he looked\nfor Nozibele.\n\"Nozibele, where are you?\" he\nshouted.\n\"I'm here, under the bed,\" said the\nfirst hair.\n\"I'm here, behind the door,\" said the\nsecond hair.\n\"I'm here, in the kraal,\" said the\nthird hair."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Then the dog knew that Nozibele\nhad tricked him.\nSo he ran and ran all the way to the\nvillage.\nBut Nozibele's brothers were\nwaiting there with big sticks.\nThe dog turned and ran away and\nhas never been seen since."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "bookId": "pb-en-0144",
+  "title": "The cat and the monkey",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 31,
+  "pageCount": 1,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The cat and the monkey",
+    "author": "Vivaan M",
+    "illustrator": "Priya Kuriyan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1444-the-cat-and-the-monkey",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once there lived a granny, mamma, a kid. Then a monkey sneaked through the window and ate up the fruits. The cat ate up the fruits in the garden. That's all."
+    }
+  ]
+}

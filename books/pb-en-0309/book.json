@@ -1,0 +1,69 @@
+{
+  "bookId": "pb-en-0309",
+  "title": "A Kind Boy.",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 440,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "A Kind Boy.",
+    "author": "Arushi Raj",
+    "illustrator": "Kaveri Gopalakrishnan, Madhuvanti Anantharajan, Rajiv Eipe, Rijuta Ghate, Soumya Menon, Suvidha Mistry",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3740-a-kind-boy",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was once a boy called Raj.\nHe lived with his mother in a small house.\n\nHe had no father,\n\nand was very poor.\nHis mother was very kind and taught Raj everything about helping other people."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day at Raj's school, his teacher said that they would go and visit the Museum.\nRaj's mother gave him a small backpack\n\nwith a water bottle\n\nand his lunch.\n\nShe gave Raj 20 Rupees\n\nand told him,:\n\n\"Use this Money only\n\nfor an emergency, not to buy sweets. Ok?\" \"Ok\", replied Raj."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "As he left in his school bus, he remembered what his mother said.\n\nAt the Museum, he had a lot of fun with the other Kids.\n\n3 hours later, as Raj and his class were going to leave the Museum, Raj had to tie his shoelace. He bent down quickly and tied it. Just as he stood up, he suddenly saw a man fall down."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "\"HELP, HELP!\", the\n\nman called.\n\nRaj ran and asked if he was okay, and bought a bottle of water from a shop nearby. He went back and gave it to the old man, who drank\n\nit down slowly. The man thanked Raj, and Raj ran back to his school bus."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Luckily the bus was still there. But his teacher was very mad.\n\"Where were you?\", she shouted,\" We were waiting for you!\"\n\nAs Raj went back home, henarrated what happened to his mother and she was very happy that he had helped someone in need."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "A few months later, Raj's school had a big event. Raj asked his mother if she could come too. \"Ok\", she said.\nThe next day, Raj and his mother got ready to go to the school event.\nRaj had a lot of fun playing with all of his friends, and soon it was time for the prize distribution."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Raj's mother asked him to come in quickly and said thatRaj's name was called 5 times.\n\nAs he walked to the stage to get his prize, he thought he knew the man on stage. But he could not remember. As he went to get the prize, the man said \"Do you remember me?\" Raj shook his head."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "\"You helped me.\", he said.\n\nNow Raj remembered.\n\n\" How are you?\" he asked.\n\n\" I am fine\", said Raj.\n\"You are a very nice and kind little boy\", the man said. And he gave him a huge trophy which said \"The Most Kindest Person\".\n\nI would also like to help you with anything you need. Please come and meet me later with your mother. Raj was very happy and his mother was very proud of her son.\n\nTHE END"
+    }
+  ]
+}

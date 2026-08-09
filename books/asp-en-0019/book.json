@@ -1,0 +1,101 @@
+{
+  "bookId": "asp-en-0019",
+  "title": "My first day at the market",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 633,
+  "pageCount": 14,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "My first day at the market",
+    "author": "Timothy Kabare, Ursula Nafula",
+    "illustrator": "Catherine Groenewald",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 16 とページ数 14 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I live in Kakuma village, a very hot\ndry place, full of thorny trees, and\nmore goats than people.\nEven the market place is quiet, with\nonly a few small shops. Most people\nuse bicycles for transport."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One morning my mother called me and said, \"Etabo,\ntoday you turn six years old. We have a present for\nyou.\"\n\"What is it? What is it?\" I asked eagerly.\n\"Tomorrow we're going by bus to the market in\nEldoret,\" she replied, \"And we're taking you with us!\"\nMy first visit to the city! I was so excited that I could\nhardly sleep that night."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The next day at the Kakuma bus\nstop, I stood between my mother\nand my aunt in my new pair of blue\njeans and red T-shirt.\nI felt very small between my tall\nslender mother and my big round\naunt."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The bus was very full, so I had to sit\non my mother's lap.\nTired from the heat and excitement,\nI slept the whole way and saw\nnothing."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The sun was just rising when we reached Eldoret\nmarket.\nAt the entrance was a woman selling grains. Over in\none corner there were two men getting ready to lay\nout their sweet potatoes.\nOver in another corner was a short woman holding a\nshiny blue helicopter.\n\"Mother, mother, look at that helicopter!\" But\nmother pulled me away."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "In the middle of the market, there was a large stall\nthat sold different types of fruit.\nSome of them I had never seen before.\n\"What are the names of these fruits?\" I asked my\nmother. She pointed at some: \"These are oranges,\nand these are guavas.\"\nI turned around and said, \"And these?\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Of all the fruits at the stall, I liked\nthe apples most. I liked their shape\nand colour. I wondered how they\ntasted.\nI turned to mother and said, \"Could\nyou buy one for me?\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "As soon as she gave me the apple, I\nlet go of my mother's hand, took\nthe fruit with both hands, and bit\ninto the juicy flesh.\nI had never enjoyed a fruit the way I\nenjoyed that apple.\nAll I cared about was my apple."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "When I finished the apple, I looked up to talk to my\nmother. But she was not there! I looked where we\nhad come from, but my mother and aunt were not\nthere.\nI looked to the right, then to the left. But they were\nnowhere to be seen. \"Have you seen my mother?\" I\nasked the women selling potatoes nearby. They took\nno notice. I started to cry."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "A while later, a woman took me by\nthe hand and led me to a place\nwhere there were other children.\nA big man with a thick beard asked,\n\"What's your name, boy?\"\n\"E-ta-bo,\" I replied through my\ntears."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "I wondered if children were also\nsold at the market. I stopped crying\nand looked around to see if anyone\nwould buy the children in the room.\nSoon a woman came in and picked\nup one of the children.\n\"I will be the next one to be taken\naway,\" I thought. \"And then I'll\nnever go home again!\"\nI started crying once more."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "When I heard the big man with the\nthick beard saying, \"Where is\nEtabo?\" I cried even harder.\n\"But I do not want to go with you!\" I\nsobbed.\nI ran away from him."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "When my mother and aunt heard\nmy name, they rushed to the room.\n\"Etabo, Etabo!\" a familiar voice\ncalled.\nIt was my mother."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "As I got up to hug my mother, my\naunt said, \"Etabo, we were looking\nfor you to give you your birthday\npresent.\"\nAnd from a big bag, she pulled out a\nshiny blue helicopter.\n\"It's yours!\" she said."
+    }
+  ]
+}

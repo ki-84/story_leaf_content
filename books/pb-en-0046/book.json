@@ -1,0 +1,63 @@
+{
+  "bookId": "pb-en-0046",
+  "title": "Aaloo-Maaloo-Kaaloo",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 141,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Aaloo-Maaloo-Kaaloo",
+    "author": "Vinita Krishna",
+    "illustrator": "Suvidha Mistry",
+    "translator": "Ritu Singh",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/195-aaloo-maaloo-kaaloo",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "For the very first time, Maaloo is collecting vegetables from the garden. He has collected red tomatoes, fresh brinjals and green lady's fingers."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Dadi says, “Well done, Maaloo! Go and get some potatoes too.”"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Maaloo looked at all the trees, creepers and plants. Not a single potato could he see."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "“Dadi, the potatoes aren't ready yet,” said Maaloo, putting the empty basket down.\n\n“No Maaloo, there are plenty of potatoes. Look carefully,” said Dadi."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Maaloo went into the garden once more. Kaaloo followed him.\n\nMaaloo was looking for potatoes when he heard, “Woof! Woof!”"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "“Kaaloo! Stop, Kaaloo!” yelled Maaloo, running behind him. “Don't spoil the garden.” Maaloo saw that Kaaloo was digging away and what do you think was coming out of the mud?\n\nBig fat potatoes!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "“Well done, Kaaloo. You found the potatoes!” laughed Maaloo, filling his basket with potatoes."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "bookId": "pb-en-0134",
+  "title": "Pishi Caught in a Storm",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 355,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Pishi Caught in a Storm",
+    "author": "Mala Kumar, Manisha Chaudhry",
+    "illustrator": "Sangeeta Das",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1205-pishi-caught-in-a-storm",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Pishi was feeling sad and lonely. Just a day ago, he was one of a group of manta rays. They were feasting on tonnes of fish, far from the coast of the Andaman and Nicobar Islands."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "How they had splashed and jumped out of the waters of the beautiful Indian Ocean! When he saw a ship ahead, Pishi had taken a huge dive in the water. His friends scattered. Pishi flapped his huge cloak-like fins and tried to swim to safety."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "There was a huge streak of lightning and a sound of thunder next. Pishi lost his bearings. The ocean had gone dark for him. A big wave rolled up, pushing him directly under the ship. Aaah, a cut on his belly!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "He knew what he had to do. He had to find his friends. But first he needed his wound to be treated. He swam and glided as fast as he could towards the coast."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Pishi's heart beat fast. He wished he was not so big – 10 metres long, and weighing over 900 kilograms! He had to get to a hospital. Fast! His life depended on it."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Then he saw the lighthouse on the coast. He leapt with joy! Pishi had reached the hospital, nature's hospital."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "A huge school of fish swam around him immediately. The same fish that he ate at other times were now his nurses. They cleaned the deep gash in his tummy."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The ‘cleaner fish' nibbled on the torn pieces of skin. Soon Pishi felt so much better. He loved the Indian Ocean with its 5,000 species of marine life!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Dear Reader,\n\nThe Indian Ocean is known as ‘Ratnakara' in ancient Sanskrit literature. Ratnakara means the mine of jewels.\n\nManta rays often visit cleaning stations. A cleaning station can be called nature's hospital in the ocean. Here, small fish such as angelfish swim in the manta ray's gills and over its skin. They are called cleaner fish because, they clean the manta ray by eating up parasites and dead tissue. Even though manta rays are huge, they are quite gentle.\n\nThey are hunted by many animals like big sharks, whales and humans."
+    }
+  ]
+}

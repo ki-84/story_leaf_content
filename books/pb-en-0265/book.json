@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0265",
+  "title": "Mittai Lals' Sweet Dream",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 155,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Mittai Lals' Sweet Dream",
+    "author": "Nanditha Rajendrakumar",
+    "illustrator": "Nanditha Rajendrakumar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3015-mittai-lals-sweet-dream",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Mittai Lal was very fond of sweets. He was fat and round like a laddu.\n\nHe would stop by the halwayi every day, to eat ladoos, Jalebis and Jamuns."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One night while resting after dinner, he craved for Gulab jamuns.\n\nHe soon ran to the halwayi, hoping to eat yummy Jamuns."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "But alas! The shop was closed.\n\nSo Mittai Lal returned home sad, his tummy growling."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "He went to bed and soon fell asleep.\n\nHe was dreaming of sweets even in his sleep."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "He dreamt that he was standing atop a mountain of laddus, surrounded by jalebis.\n\nA little far away, he could see a pool full of Jamuns."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The sight of syrupy jamuns mesmerized him.\n\nSo, he greedily jumped from the mountain of laddus to the pool of Jamuns."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Thud!! He fell off from his cot.\n\n“Ouch! “ He screamed in pain from the fall.\n\nMittai Lal's sweet dream was broken, so was his arm!"
+    }
+  ]
+}

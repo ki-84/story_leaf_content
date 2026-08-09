@@ -1,0 +1,79 @@
+{
+  "bookId": "pb-en-0025",
+  "title": "The Missing Bat",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 556,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Missing Bat",
+    "author": "Vaishali Shroff",
+    "illustrator": "Tapas Guha",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/127-the-missing-bat",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "The state of Jammu and Kashmir is one of the largest manufacturers of cricket bats in India. Sangam, where this story is set, is a town about 35 kilometres from the state capital Srinagar.\n\nThe abundance of willow trees in the region makes it home to nearly two hundred cricket bat workshops."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Rehman Chacha had a cricket bat factory in Sangam. One could see cricket bats neatly stacked in rows all around his factory.\n\nThe bats were made from willow trees that make the best quality bats in the world. The trees grew neatly in rows on both sides of the road that ran through Sangam. In fact, you can see them all over Kashmir."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Rehman Chacha was an old man with a hunchback who would always be on his feet to get his work done.\n\nHe often frowned and used a walking stick wherever he went."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Aamir worked at Rehman Chacha's factory. His son, Ahmed, stayed with him at the factory every day after school. He would stare at the tall stacks of cricket bats in awe.\n\nOn several evenings, after the sun had set, he would see the moon partly hidden behind the stack of bats and wonder if he could touch the moon if he ever climbed up to the top of a stack."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "He would hold the bat after Aamir had chiseled it with his lathe machine and run his fingers across the length of the bat. Gripping it by its handle, he would swing it in the air with a flick of his wrist. He was only seven, but he dreamt of being Sachin Tendulkar someday."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Before the workers left for home each evening, Rehman Chacha would count the number of bats in his warehouse. He was very particular about his stock. If he found a bat missing, he would start playing detective.\n\nAnd it happened! One morning when Rehman Chacha opened his warehouse to take the stock out and load it onto his truck, he found that there was one bat less. That too, the one that was the biggest and the lightest!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "He was furious and ordered all his men to stand in a row. “One bat is missing. Where do you think it could have gone?”\n\nEveryone looked down and shook their heads. They found it difficult to look at Chacha when he was angry.\n\n“How can a bat disappear overnight? No one else enters the warehouse other than you all and me,” screamed Rehman Chacha as everyone continued looking down."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Just then Rehman Chacha laid his eyes on Aamir. “Aha! Where is Ahmed, Aamir? He is not to be seen today.”\n\n“Ahmed is not keeping too well, Rehman Chacha. He is down with a cold and cough,” Aamir answered, still looking down.\n\nSuddenly, one by one everyone started giggling and then laughing, including Aamir."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "“Why are all you shameless people laughing?” Rehman Chacha could not get any angrier now.\n\n“We found the missing cricket bat, Chacha!” exclaimed a delighted Aamir.\n\nRehman Chacha was astonished. “But...but...but you have all been standing in front of me. How did you find it? Where is it?” asked Rehman Chacha.\n\nEveryone looked down at Rehman Chacha's ‘walking stick'. So did Rehman Chacha."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "No one knew Rehman Chacha could laugh so loudly. And no one knew till then that he wore dentures!"
+    }
+  ]
+}

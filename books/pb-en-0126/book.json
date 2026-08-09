@@ -1,0 +1,83 @@
+{
+  "bookId": "pb-en-0126",
+  "title": "Busy Ants",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 192,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Busy Ants",
+    "author": "Kanchan Bannerjee",
+    "illustrator": "Deepa Balsavar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1052-busy-ants",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Hello, I am the fourth one in the line. Can you see me?"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Left, right, left, right. We walk silently in a line."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I just got an idea. I am going to get a set of WHEELS to move faster!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "We are not noisy like other animals. Ours is a language of smells."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "One kind of smell says, “Follow me this way for a feast.”"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Another smell says, “Danger! Do not go there.”"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "I love cakes and all kinds of sweets, just like you."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Want to see my muscles at work? I may look very tiny to you, but I am very strong."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Never mind if the door is shut. I can slip through the smallest crack."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Believe it or not, hundreds of us live happily in a colony."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "LET US LEARN SOME NEW WORDS.\n\nSmall - Big\n\nSlow - Fast\n\nShort - Tall\n\nThin - Fat\n\nHard - Soft\n\nNoisy - Quiet\n\nHere are some words with their opposites. Can you make a sentence for each pair of opposite words?\n\nFor example, ‘An ant is small; an elephant is big'.\n\n“As busy as an ant” is a nice way to describe someone who is very hard working."
+    }
+  ]
+}

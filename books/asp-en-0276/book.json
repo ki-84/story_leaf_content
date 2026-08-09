@@ -1,0 +1,111 @@
+{
+  "bookId": "asp-en-0276",
+  "title": "Big blue bus",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 321,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Big blue bus",
+    "author": "Mecelin Kakoro",
+    "illustrator": "Mango Tree",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 18 とページ数 16 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was only\none bus in\nEbei's village.\nIt was big and blue.\nIt was very noisy."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, Ebei's\nmother said,\n\"Tomorrow we will\ngo to town to buy\nyour school uniform.\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Ebei was very excited.\nThey would travel\nin the big blue\nbus.\nHe could not sleep\nthat night."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Ebei was already\ndressed when his\nmother came to\nwake him."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Ebei and his mother\nwalked to the\nbus stop.\nThey waited for\nthe big blue bus.\nBut the bus\ndid not come."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Other people arrived\nat the bus stop.\nThey complained\nbecause the bus\nwas late.\n\"Has the bus\nleft us?\"\nthey asked."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Ebei was worried.\n\"We will not be able\nto go to town.\nI will not be able\nto get my uniform,\"\nhe thought."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Some people gave up\nand went home.\nBut Ebei cried and\ndid not want to go.\nHis mother\ncomforted him.\n\"We will wait\na bit longer,\" she said."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Suddenly, they heard\na noise.\nThey saw dust\nin the air.\nThe bus was coming!"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "But this bus was not\nblue. It was not big.\nThis bus was red\nand small.\nThe waiting people\nlooked at this bus.\nThey did not get in."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "\"Get in! Get in!\"\nshouted the driver.\n\"We are very late\ntoday,\" he said."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Ebei and his mother\ngot in first.\nSoon everyone else\ngot in the small\nred bus."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Ebei looked out the\nwindow. He saw\nmore people at\nthe bus stop."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Even more people\nwere running to\ncatch the bus.\nBut they were too late.\nThe bus was full.\nThe red bus left\nfor town."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "\"Where is the big\nblue bus?\" asked\nEbei's mother.\n\"It broke down,\"\nreplied the driver.\n\"We are fixing it.\nIt will come tomorrow,\"\nhe added."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Ebei did not care\nabout the colour of\nthe bus.\nHe did not care\nabout the size of\nthe bus.\nHe was happy\nbecause this bus\nwas going to town."
+    }
+  ]
+}

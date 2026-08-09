@@ -1,0 +1,51 @@
+{
+  "bookId": "asp-en-0025",
+  "title": "Stealing",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 64,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Stealing",
+    "author": "Deborah",
+    "illustrator": "Jemma Kahn, Wiehan de Jager, Catherine Groenewald, Kathy Arbuckle",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 6 とページ数 4 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A man called Kato lived in\nBunghumu village. He used to steal\npeoples' animals."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day he went and stole a goat\nfrom the neighbouring village. He\nslaughtered and kept the meat in\nhis house."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The following morning the people\nfound out that Kato had stolen the\ngoat.They started looking for him."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "When they reached Kato's home,\nthey found him roasting the meat."
+    }
+  ]
+}

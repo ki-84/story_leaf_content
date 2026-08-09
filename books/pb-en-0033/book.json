@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0033",
+  "title": "Suraj and Sher Singh",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 125,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Suraj and Sher Singh",
+    "author": "Anupa Lal",
+    "illustrator": "Suvidha Mistry",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/160-suraj-and-sher-singh",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Suraj has a very special ball. He calls it Sher Singh. One day, Suraj was playing in the park with Sher Singh, the tiger-ball."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "A dog picked up Sher Singh by his ear and shook him.\n\nSher Singh opened the dog's mouth and flew out."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "A dog picked up Sher Singh by his ear and shook him.\n\nSher Singh opened the dog's mouth and flew out."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "He landed on a slide and rolled down, down, down. A fat boy came sliding behind him."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Ouch!\n\nSher Singh pinched the fat boy."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The boy jumped up, and Sher Singh rolled on. He landed in a play tunnel and rolled round and round and round."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "When Sher Singh jumped out, guess who was waiting for him?\n\nSuraj!"
+    }
+  ]
+}

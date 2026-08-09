@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0113",
+  "title": "Topsy Turvy",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 201,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Topsy Turvy",
+    "author": "Rohini Nilekani",
+    "illustrator": "Angie & Upesh",
+    "translator": "Rohini Nilekani",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/956-ulat-paalat",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I do not know why I woke up very early today\n\nSoon I saw that it was a strange new day!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Nothing at all was as it really should be\n\nAnd I could hear someone shouting loudly at me!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Our cot had climbed right up the wall\n\nAnd my little clock had grown very tall!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Our umbrella was twirling madly round and round\n\nMy red and blue cap was making a clicking sound!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "What on earth has happened to our little room?\n\nI fear I am going to faint very soon!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The fan has turned into a big octopus\n\nMy sister's doll is eating dal and rice without a fuss."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Our cat is sitting up in Papa's chair\n\nAnd look! A mouse is reading the news on the air!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "In the mirror - Aah! See! I am seven feet high!\n\nI know I am going to loudly cry!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "But now look! Here comes a magic man\n\n“Sorry! Sorry!” he says, “I will do what I can!”"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "“Yes, yes! It was I who made this little mess\n\nIt was not so nice of me, I do confess!”"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "So Abra-ca-da-dabra chin chin choo!\n\nRoom! Get back in order - one - three - two!"
+    }
+  ]
+}

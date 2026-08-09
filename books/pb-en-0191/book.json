@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0191",
+  "title": "Richard's unlucky day",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 207,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Richard's unlucky day",
+    "author": "Lotte Van Oijen",
+    "illustrator": "Angie & Upesh, Deepa Balsavar, Greystroke, Lavanya Karthik, Rijuta Ghate",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2198-richard-s-unlucky-day",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once there was a boy named Richard and he always had good luck but this day he was not going to have good luck and he knew it."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He had woken up very early so he was very tired and dizzy so to wake him up he had a shower but the water was cold so he came out of the shower straight away"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He got dressed and had some breakfast but the breakfast was old and yuck so he decided to go outside and play with his friend Josh. But when he got outside he realised it was raining so he went back inside."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Richard wanted to play with his toys but his sister Amy was taking all the toys and not sharing them so he told his mum that Amy was not sharing, but all she said was ''HUH''"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "He decided he would eat a snack so he went to the cupboard to grab some cookies but when he opened the door of the cupboard he saw that the ants had eaten all the cookies so now he had nothing to eat."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Then at that moment he smelled something good and he saw his mum had made a very yummy cake. They really enjoyed it!"
+    }
+  ]
+}

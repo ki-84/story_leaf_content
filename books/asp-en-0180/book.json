@@ -1,0 +1,76 @@
+{
+  "bookId": "asp-en-0180",
+  "title": "Vayu, the wind",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 189,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Vayu, the wind",
+    "author": "Madhuri Pai, Rohini Nilekani",
+    "illustrator": "Rijuta Ghate",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 11 とページ数 9 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Everytime I finish my hot, hot\nbath.\nMy wet body feels so cool, cool\ncool.\nWhat makes that happen?\nVayu, the wind!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The milk in my cup - too hot,\ntoo hot.\nBut soon it is ready for me to\ngulp.\nWho makes that happen?\nVayu, the wind!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The window curtains flutter and\ngently brush my face.\nWho makes it happen?\nVayu, the wind!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "A bolt of lightning far away.\nBlack clouds moving my way.\nWho makes that happen?\nVayu, the wind!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Branches sway and leaves\ntremble.\nFlowers gently fall.\nWho did it all?\nVayu, the wind!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Far from the house, we are\nplaying, yet, I can smell the\nsweets mother is preparing.\nWho makes it happen?\nVayu, the wind!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "A glass tumbler on a windowsill,\ncrashes on the ground.\nI am glad I was not around.\nWho played this mischief?\nOf course, it was Vayu, the\nwind!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "A whistle blows. A train rolls in.\nI cannot see, but hear its din.\nWho makes that happen?\nVayu, the wind!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Cannot be seen.\nCannot be heard.\nDoes all the work without a\nword.\nWho can it be?\nOf course!\nThe wind!"
+    }
+  ]
+}

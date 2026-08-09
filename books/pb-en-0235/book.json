@@ -1,0 +1,54 @@
+{
+  "bookId": "pb-en-0235",
+  "title": "Shambu and the little man",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "ぼうけん"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 134,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Shambu and the little man",
+    "author": "Rachita Uday Kumar",
+    "illustrator": "Megha Vishwanath",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2637-shambu-and-the-little-man",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Shambu the junior explorer was walking in a forest.\n\nHe was going to a neighbouring village to meet his friend."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He suddenly hears a tiny cry of pain.\n\nShambu was confused. He thought\" Oh no!I think someone small is hurt\".\n\nHe takes out his magnifying glass to find out."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Shambu was correct. There sitting under a mushroom was a tiny man.\n\nThe tiny man looked as if he was lost."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Shambu asked the man what was the matter.\n\nThe little man said that he had lost his way and it had rained heavily.\n\nShambu said he would give the man shelter until the rain dried out."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Shambu played and played with the man all day unti it was dark.\n\nThen the man and Shambu said their goodbyes and they were on their way."
+    }
+  ]
+}

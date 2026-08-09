@@ -1,0 +1,79 @@
+{
+  "bookId": "pb-en-0230",
+  "title": "Didi's knowledge",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 139,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Didi's knowledge",
+    "author": "Rachita Uday Kumar",
+    "illustrator": "Kaveri Gopalakrishnan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2610-didi-s-knowledge",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Didi walks past a deserted area where she sees some poor children."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "While sleeping, she thinks about educating the children and raising them as her own."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "She brings the children home and raises them. The next day, she teaches the children how to read."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "After the day was over, she tucked them into bed."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Didi also taught them how to draw and write."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "After a few years, Didi got a job. So after the children came back from school, they had to study on their own."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "There was an earthquack and the children had to move!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The children had to set up their own house in the mountain."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "After a few years, the children went back to the village. It was rebuilt and Didi had come back!"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Didi went back to teaching the kids. She will always be remembered."
+    }
+  ]
+}

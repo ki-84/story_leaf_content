@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0165",
+  "title": "The Story-Pooping Cat",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 283,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Story-Pooping Cat",
+    "author": "Greystroke",
+    "illustrator": "Priya Kuriyan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1890-the-story-pooping-cat",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was once a cat that pooped stories.\nShe would sit up on a tree without any worries,\nSettle down after slurping on curry,\nAnd poop stories, without any hurry.\nNo, it wasn't the work of elves or fairies;\nJust a cat that could poop stories!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "\"My cat doesn't always eat just fish!\"\n\nExplained Aaron to his surprised Miss.\n\n\"Margaret Mallikarjun Chulli-cat?\n\nShe's not one to just laze on a mat...\n\nShe finds storybooks, treats them as a dish;\n\nThen? EAT, SLEEP, and PUBLISH!\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"I tried it once with a Jack Russell Terrier;\n\nMade him eat some William Shakespeare...\n\nOh, what a complete and utter disaster,\n\nIt just came out a lot smellier!\n\nMargaret Mallikarjun Chulli-cat, there's no one to beat her\n\nWhen it comes to stories right out of her derriere.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "\"I even tried it with a monkey next door...\n\n(Or was it that annoying boy in Grade Four?)\n\nWell, none of it worked, I can tell you that much,\n\nAnd not a single story was pooped as such!\n\nIt just went nuts, ate everything in the kitchen,\n\nMargaret? Could poop stories even as a kitten!\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "\"So you see Miss, it is a very important matter,\n\nThat I have to carry this very long ladder.\n\nMy beloved Margaret Mallikarjun Chulli-cat,\n\nI've to bring her down from where she's sat...\n\nWhen she has published after a long session,\n\nI have to use the ladder, in the interest of our nation!\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"What does that have to do with this sum?\"\n\nDevidutta-Miss went pale like a dimsum.\n\nShe wasn't angry, just petrified...\n\nQuite simply, she was TERRIFIED!\n\n\"Thank you for being such a hero,\n\nBut in maths you'll score a zero!\""
+    }
+  ]
+}

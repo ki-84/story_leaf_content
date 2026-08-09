@@ -1,0 +1,66 @@
+{
+  "bookId": "pb-en-0139",
+  "title": "My Juggling Granny",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "ゆかい・ユーモア"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 188,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "My Juggling Granny",
+    "author": "Mala Kumar, Manisha Chaudhry",
+    "illustrator": "Niloufer Wadia",
+    "translator": "Mala Kumar, Manisha Chaudhry",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1277-nirali-dadi",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "09.jpg: 実ファイルなし (スキップ)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Grannies come in many sizes,\n\nAnd they give us funny surprises!\n\nDid you know my granny juggles?\n\nWith her, I like to snuggle!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "A great spotter of things is she,\n\nShe's not one to let things be!\n\nAn expert at tossing everything in sight,\n\nPeople around get quite a fright!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Kitchens, office, the street or the market,\n\nShe juggles everywhere and cannot stop it!\n\nIt's hard for her to check herself,\n\nNo one dares to offer her help!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Umbrellas and glasses go flying in the air,\n\nSpoiltsports now begin to stare!\n\nJuicy mangoes land with a splash,\n\nGrandfather's teeth begin to gnash!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Coloured balls he brings as a gift,\n\nSays, “Toss them all without a twist!”\n\nGranny blushes and feels quite shy,\n\nThat she has this lovely gift to try!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Grandfather now sleeps through the night,\n\nGranny juggles till the morning light!\n\nHer shadow dances on the curtain,\n\nShe's the best, I am certain!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Dear Reader,\n\nHave you ever seen jugglers in a circus?\n\nWhat do they throw in the air?\n\nDo you think it is possible to juggle with items like the ones used by this granny?"
+    }
+  ]
+}

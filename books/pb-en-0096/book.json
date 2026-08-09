@@ -1,0 +1,94 @@
+{
+  "bookId": "pb-en-0096",
+  "title": "Samira Goes Shopping",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 630,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Samira Goes Shopping",
+    "author": "Bharati Jagannathan",
+    "illustrator": "Preeti Krishnamurthy",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/776-samira-goes-shopping",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Amma had just begun to make some halwa for Samira's birthday when she found that there was no sooji.\n\n“Will you please run down to that shop and buy some sooji, dear?” said Amma pointing to the shop at the corner of the street, and gave her some money."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "“Here are twelve rupees. Ask for half a kilo of sooji. Take Mouchak with you, and don't talk to any strangers on the way,” she said.\n\n“And don't go climbing trees,” she added as Samira set out with Mouchak to buy half a kilo of sooji.\n\nIt was a pleasant February day. Samira sang, “Tra la la la la,” as she skipped along.\n\n“Woof! Woof!” said Mouchak friskily."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "They had just reached the corner when Samira saw a butterfly.\n\n“Oh! How lovely! Let us try and catch it,” she said, and both of them ran after the butterfly."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "It went and sat on a baramasi flower, but away it flew exactly when Samira reached out to it. “Oh, oh!” she said sadly, then remembered that it wasn't right to catch butterflies anyway. They should be free."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "A brown cat with grey stripes ran across and Mouchak began to chase it, saying, “Bow wow, bow wow wow!” And behind Mouchak ran Samira, breathless. The brown-and-grey cat leapt over a wall and disappeared. Mouchak and Samira stopped, looked at each other and laughed."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Then Samira saw a chandni bush. ‘Aren't the flowers like stars in the night sky? How happy Amma will be to have them,' she thought, and plucked a lot of chandni flowers."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Mouchak sniffed at them and turned away. He had found something more exciting ahead!\n\n“Hey, where are you off to?” asked Samira, but all she got was, “Woof, woof, woof,” as Mouchak bounded off joyfully. He had found a bone and he held it out proudly to Samira. Wasn't that nice?"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "They had reached a great simal tree a-twitter with parrots and bulbuls. The ground below was carpeted with hundreds of rich scarlet flowers. Delighted, Samira filled her pinafore with the waxy blossoms. Her arms full of flowers, she looked up and realized that she didn't know where she was."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "She looked right and she looked left, she looked ahead and she turned on her heel, but everything was new. Samira was lost. She sat down on the pavement and began to cry, “I want to go home. I want Amma.”\n\nMouchak ran up and down and said, “Woof! Woof,” which meant, “Don't worry,” but Samira didn't understand and kept crying."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Then Mouchak pulled at her dress saying, “Bow bow,” (which meant “Come, come,”) till at last she looked up and dabbed her eyes. Off they both went then, Samira sniffing a little and dropping half her flowers."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "She ran behind Mouchak, turning left and turning right, up one street and down another, and soon they were home. Amma was standing at the gate, looking up and down anxiously. “Where have you been?” she asked, looking at Samira's tear-stained face."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "And Samira told Amma how she had got lost and how Mouchak had brought her home. “Good dog,” said Amma, and gave him a nice big biscuit as Mouchak buried his bone in the garden."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Just then, Samira remembered that she was clutching a bunch of flowers in her hand. “Oh, Amma, these are for you,” she held out the chandni flowers. One simal blossom was sticking out of her pocket too.\n\n“These are lovely!” said Amma. “Thank you so much. But where is the sooji?”\n\nAmma is going to make kheer now as there is no sooji for the halwa. Samira loves kheer too. And isn't Mouchak lucky? He'll have a huge bowl of kheer in the evening with his juicy bone."
+    }
+  ]
+}

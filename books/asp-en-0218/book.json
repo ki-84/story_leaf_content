@@ -1,0 +1,111 @@
+{
+  "bookId": "asp-en-0218",
+  "title": "Grandmother and the Smelly Girl",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 495,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Grandmother and the Smelly Girl",
+    "author": "Southern African Folktale",
+    "illustrator": "Catherine Groenewald",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 18 とページ数 16 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Tasneem was a very beautiful girl\nand her grandmother was very\nkind."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Her grandmother spent many hours\nmaking a handsome makgabe for\nTasneem. Tasneem loved to wear\nthat apron."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The other girls in that place were\njealous of Tasneem's makgabe.\nThey thought that it would be better\nto get rid of it.\nBut it is a difficult thing to take a\nperson's clothes when that person\nis wearing them."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "One morning the girls invited\nTasneem to go swimming with them\nin a river nearby. At the river bank,\nthey all took off their makgabes so\nthat the cloth would not be\ndamaged.\nThen they jumped into the water\nand splashed around for some time."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "They finished swimming. The leader\nof the jealous girls threw Tasneem's\nmakgabe into the river, near the\nplace of a very large snake. Then all\nthe other girls left Tasneem crying\nby the river."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The large snake heard someone\nweeping. He slithered out and saw\nthe beautiful Tasneem. He\nswallowed the makgabe and\nTasneem whole."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Fortunately for her, the snake did\nnot like the taste of the makgabe.\nHe spat it and Tasneem out. They\nlay on the river bank, covered with\nslime from the snake's stomach.\nThis slime smelled very bad."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The smelly Tasneem put on her\nsmelly makgabe and ran home to\nher parents.\nShe sang ...\n\nMother, open the door for me, I am smelling;\nMother, open the door for me, I am smelling,\nI am smelling very bad.\nThe mother heard Tasneem's song and ran out of the house.\nShe sang back to the girl:\nGo away, you are smelling,\nGo away, you are smelling,\nGo away, you are smelling very bad."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Tasneem was very upset.\nShe ran off to the house of her aunt\nand uncle.\nThey heard her singing ...\n\nOpen the door for me, I am smelling;\nOpen the door for me, I am smelling,\nI am smelling very bad.\nThey ran out of their house. They sang back:\nGo away, you are smelling,\nGo away, you are smelling,\nGo away, you are smelling very bad."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Tasneem had only her\ngrandmother's house to go to. Her\nheart was heavy. She thought\nnobody wanted to look after a bad\nsmelling girl."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "But she was wrong. Her\ngrandmother did not send her away.\nShe washed Tasneem, and her\nmakgabe, making everything smell\nsweetly."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Tasneem stayed with her\ngrandmother for many years.\nOne day the son of a very rich chief\nasked Tasneem to marry him."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Tasneem's parents heard about the\nmarriage and asked her to come\nback to live in their house."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Tasneem remembered how she had\nsmelled so bad.\nShe told them that she would never\ngo back to their house.\n\"Parents must love their children,\"\nshe said, \"even if their children\nsmell very bad.\""
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Instead Tasneem invited her\ngrandmother to come and live with\nher in the house of this rich chief\nand his son."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "The grandmother was very happy, and very comfortable, and very important."
+    }
+  ]
+}

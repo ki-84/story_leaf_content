@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0178",
+  "title": "Long Water",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 200,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Long Water",
+    "author": "Madhuri Pai",
+    "illustrator": "Herminder Ohri, Sanjay Sarkar, Santosh Pujari, Sonal Goyal, Sumit Sakhuja",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2011-long-water",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I am a body of water. I am long. I go from here to there.\n\nThere is a riddle about me.\n\nRead what I can do.\n\nCan you guess who I am?"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I am big. I am bigger than a stream. I have lot of water. My water is used for drinking.\n\nThey say I always run. I never walk.\n\nMy water moves from here to there. They say I flow."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I have a mouth. But I never eat. I can't even talk. You hear the sound when I flow.\n\nI move soil and small rocks. I help move logs of wood.\n\nI do so much work but I don't have hands."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I have a bed. But I don't sleep. I am always awake.\n\nI am always moving.\n\nI make soil. I make valleys.\n\nMy water is sweet."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Let me tell you again. I have no legs but I can run.\n\nI can't eat or talk but I have a mouth.\n\nI have a long bed but I never sleep.\n\nI have a bank but there is no money in it. Did you guess who am I?"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "A river! I am a river.\n\nDo you know some names I have?"
+    }
+  ]
+}

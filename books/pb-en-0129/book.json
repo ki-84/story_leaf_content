@@ -1,0 +1,89 @@
+{
+  "bookId": "pb-en-0129",
+  "title": "Naughty Dog",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 167,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Naughty Dog",
+    "author": "Kanchan Bannerjee",
+    "illustrator": "Deepa Balsavar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1067-naughty-dog",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "We are a family of four. I follow Chinku everywhere."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I have to look after Chinku. You see, I am older than him."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Sometimes Chinku is careless. It is my duty to guard the house."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "We do everything together. We work together."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "We play together."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "We even share Ma's scolding."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "When Chinku is at school I help Ma. I keep the crows away from the papads."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Today Chinku will be my teacher. At last, I will learn something new."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "I am a good doggy. I do not scare away cats."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Are you Chinku's friend? Then you are my friend too."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Read the following action sentences. Which of these activities do you like to do?\n\nI like dancing.\n\nI like swimming.\n\nI like skipping.\n\nI like drawing."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "I like cycling.\n\nI like climbing.\n\nSometimes we say, “As faithful as a dog”. This is because a dog always stays close to its master. If it goes far away or is lost, a dog always finds its way back home."
+    }
+  ]
+}

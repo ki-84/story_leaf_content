@@ -1,0 +1,70 @@
+{
+  "bookId": "asp-en-0285",
+  "title": "Serious accident",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 75,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Serious accident",
+    "author": "Zanele Buthelezi, Thembani Dladla, Clare Verbeek",
+    "illustrator": "Rob Owen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day my sister and I\nwere walking near the\nroad."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "A big truck was driving\ndown the hill."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "A car was speeding up\nthe hill."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The truck driver was\ntalking on his cell\nphone.\nHe was not looking at\nthe road."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The truck smashed into\nthe car!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "An ambulance and the\npolice came to help."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Two tow trucks came.\nOne towed the truck.\nThe other towed the\ncar."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "We saw everything.\nWe were shocked."
+    }
+  ]
+}

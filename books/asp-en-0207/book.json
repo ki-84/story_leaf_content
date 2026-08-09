@@ -1,0 +1,56 @@
+{
+  "bookId": "asp-en-0207",
+  "title": "The wise man",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 222,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The wise man",
+    "author": "Cornelius Wekunya",
+    "illustrator": "Joshua Waswa",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 7 とページ数 5 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, there was a\nman who thought that the\nyouth were wiser than their\nelders. He even bragged about\nit before his wife.\nHe said to her, \"I am wiser than\nyour father.\"\nHis wife disagreed with him, but\nhe would not listen to her."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day when the wife went to\nsee her parents, she told her\nfather about how his son-in-law\nclaims to be wiser than him\nbecause he is younger.\nThe old man sent his daughter\nback to ask her husband if he\nstill held the same view."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Her husband sent her back. \"Go\nand tell your father to prepare\nfor me a drink brewed from\nmist.\"\n\"Now I will prove to my fatherin-law that I am indeed very\nwise,\" he chuckled.\nNo one can make a drink from\nmist."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The father-in-law just laughed it\noff as no alcohol could be made\nout of mist. However, the old\nman sent the daughter back\nwith a message accepting the\nchallenge of preparing a brew\nfrom mist. But on condition that\nwhen it was ready, the one to\ncollect it should neither be a\nman nor a woman."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The son-in-law found himself\ntrapped.\nFrom that time, he believed in\nthe old saying that \"Shoulders\nwill never grow taller than the\nhead.\""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "bookId": "pb-en-0400",
+  "title": "Nanni and the Oil Spill",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 219,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Nanni and the Oil Spill",
+    "author": "Paroma Sengupta",
+    "illustrator": "Lavanya Karthik, Siraj Saxena, Tessa Welch",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/5095-nanni-and-the-oil-spill",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Nanni was a young bird who lived near the sea. A young and very naughty bird. She hardly every listened to her parents Ma and Pa bird.\n\nOne day, early in the morning, when the sun could just about be seen in the horizon, Nanni decided to go an adventure. She didn't tell anyone where she was going."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "What better adventure than to go and explore that big ship anchored close by!\n\nNanni loved ships. She loved everything about them. So when she saw this one, she turned two somersaults in the air and dived straight in!\n\nShe ignored the greasy slimy oily layer on the water."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "When she wanted to soar up into the sky, she found that she couldn't!\n\nPoor Nanni, her wings had been coated with ugly, ugly oil! UGH!\n\nNanni cried out for help! MA! PA! Luckily, her parents were close by and flew to her immediately. They gave her a bath, and also a bit of a scolding."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Nanni's parents told her, that had she paid attention, she would have seen drums of oil floating on the water near the ship. There must have been a small oil spill!\n\nNanni decided that from then on, she would look before she dived.\n\nGetting one's feathers coated in ugly, ugly oil is never a good thing!"
+    }
+  ]
+}

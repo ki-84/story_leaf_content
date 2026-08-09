@@ -1,0 +1,74 @@
+{
+  "bookId": "pb-en-0247",
+  "title": "It's bath time!",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 239,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "It's bath time!",
+    "author": "Akshara Rajesh",
+    "illustrator": "Rijuta Ghate, Sonal Goyal, Sumit Sakhuja",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2811-it-s-bath-time",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "\"Nandu , Chinku , come here . It's time for your bath \", mummy called.\n\nNandu and Chinku came running to the bathroom with their toy elephant .\n\nMummy turned on the tap . Whooosh!!! whoosh!!! gushed water from the tap!!!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "They jumped into their bath tubs. Splish splash , splish splash , they played in the water .\n\nNandu poured water all over his head . \"Ooh , Ooh \" squealed Chinku, playing in his tub."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Rub , Rub , Rub Mummy rubbed soap all over Chinku .\n\nElephant blew soap bubbles and sent them flying all over the bathroom."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Now Nandu and Chinku were clean clean clean.\n\nThey ran out of the bath. “Stop stop ,“ cried mummy, “ you are wet .”"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Mummy wrapped big white towels around Nandu and Chinku .\n\nWipe Wipe Wipe , she wiped and made them dry dry dry ."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Nandu put on his green pajamas .\n\nMummy put on blue pajamas for Chinku .\n\nHe laughed because it went tickle tickle tickle ."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Nandu and Chinku 's tummy went rumble rumble rumble.\n\n\"Oh, You are hungry \" said mummy. \"Let's have dinner .\" She gave them food and veggies."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "After dinner, Nandu and Chinku ran to grandpa's room.\n\nNandu gave a hug and kiss to grandma . \"Good night grandma,\" he said.\n\nChinku climbed onto grandpa' s lap and wiggled his big moustache.\n\n\"Time for bed,\" called mummy."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "\"Good night mummy,\" said Nandu and held mummy's hand.\n\n\"Good night Nandu,\" said mummy.\n\nChinku fell fast asleep on mummy's arm.\n\n\"Good night children,\" said the moon peeping in!!"
+    }
+  ]
+}

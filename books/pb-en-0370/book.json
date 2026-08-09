@@ -1,0 +1,54 @@
+{
+  "bookId": "pb-en-0370",
+  "title": "Terrific Trio",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 230,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Terrific Trio",
+    "author": "Vinuta Shirgopikar",
+    "illustrator": "Deepa Balsavar, Priya Kuriyan, Santosh Pujari",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4698-terrific-trio",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Aditya, Vidya and Vedant are siblings living in the heart of Kashmir. They are the apple of their parents eyes. Thou they fight like bulls with each other, the love between them is palbable."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "They have a pet dog named ILU. It is from their pet that they have learnt what it is to love without expectation. Aditya and Vedant are very close to ILU, thou Vidya differs in this aspect. She is not as fond of ILU as the other two. Vidya feels that ILU has divided the love between the siblings. She feels left out."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day Vidya was alone in the house as his sibling had gone to the market with mother. ILU went to Vidya and started licking her cheek out of love. Vidya got angry and pushed ILU away. She shouted at ILU and asked him to stay far. ILU went away immediately"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "After some time Vidya heard some noise from a corner of the house. When she went to the corner she saw that ILU was whimpering. Vidya just patted ILU and ILU jumped with joy and cuddled into Vidya's lap."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Vidya realised her mistake and also how much ILU loved her. From that day onwards Vidya along with Adtiya and Vedant treated ILU like a family member. Seeing this change in Vidya Mummy and daddy are also very happy that Vidya accepted ILU."
+    }
+  ]
+}

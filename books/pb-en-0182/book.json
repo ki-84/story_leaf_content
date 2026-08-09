@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0182",
+  "title": "Animals Are Kind",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 176,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Animals Are Kind",
+    "author": "Preksha Pc",
+    "illustrator": "Ajit Narayan, Padmanabh, Rijuta Ghate, Sanjay Sarkar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2083-animals-are-kind",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, there lived a farmer. He never liked birds as he believed that they will ruin his crop. The farmer always used to stone the birds at sight"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "But the farmer's only son, Sanju was quite opposite to him. He loved birds and would feed them. Farmer used to scold Sanju for this but Sanju never stopped feeding the birds."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day, while going to school, Sanju slipped and fell off. He was injured and could not walk for long. No one was around him to help."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "A bird saw Sanju and understood that Sanju was having trouble. The bird remembered Sanju helping him. So he also decided to help Sanju."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The bird went back to farmer's house and started making a big noise."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "This irritated the farmer. So the farmer started chasing the bird until he found Sanju lying on the ground helpless."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Farmer at once took Sanju to hospital. Sanju then explained everything to his father. Father felt ashamed for his rude behavior. Thereafter he too started liking animals and birds."
+    }
+  ]
+}

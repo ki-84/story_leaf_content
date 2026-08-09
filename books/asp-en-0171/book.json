@@ -1,0 +1,91 @@
+{
+  "bookId": "asp-en-0171",
+  "title": "The boy who played",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 159,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The boy who played",
+    "author": "Annet Ssebaggala",
+    "illustrator": "Kathy Arbuckle, Mlungisi Dlamini, Catherine Groenewald, Benjamin Mitchley",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 14 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Aunt Merane gave some money to\nJoe. Go to the shop. Buy sugar\nand bread."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Joe picked an old car\nTyre.\nHe ran fast with to the\nshop."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Before reaching the\nshop,he saw the ball.\nHe forgot the tyre.\nHe picked the ball and\nkicked it."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "He saw a flying bird.\nHe wanted to catch it."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "He saw the cows.\nHe stopped and started\nsinging to them."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"Where is Joe? Asked\nJessica\"\n\"He is just late but he is\ncoming.\" Aunt Merane\nsaid."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Uncle Don sat with\nbaby Tara.\nHe wanted to have\nbreakfast before going\nfor work."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Joe saw a puppy. He ran\nwith it around the\nfields."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "He got tired.\nHe sat down and\nchecked his pocket.\nThe money was not\nthere."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "He ran home without\nsugar and bread."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "\"Joe, Where is sugar and bread?\nWhere is the money?''\nAsked Aunt Merane."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Am very sorry Aunt Merane.\nI played too much and lost the money."
+    }
+  ]
+}

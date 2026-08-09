@@ -1,0 +1,70 @@
+{
+  "bookId": "asp-en-0217",
+  "title": "My teacher",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 73,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "My teacher",
+    "author": "Zimbili Dlamini, Hlengiwe Zondi",
+    "illustrator": "Jesse Pietersen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I love my teacher."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "She is beautiful. She is\na good teacher. She is\nkind and patient."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "She has braided her\nhair very nicely today."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "She has decorated her\nhair with colourful\nbeads."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Her beads are green,\nwhite, red, and yellow."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Mom, please would you\nbraid my hair like my\nteacher's?"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "When I am older I will\nalso put beads in my\nhair."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "I will grow up to be just\nlike my teacher!"
+    }
+  ]
+}

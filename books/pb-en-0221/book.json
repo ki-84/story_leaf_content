@@ -1,0 +1,33 @@
+{
+  "bookId": "pb-en-0221",
+  "title": "Monkey at home",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 33,
+  "pageCount": 1,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Monkey at home",
+    "author": "Diwakar S",
+    "illustrator": "Prashant Miranda, Priya Kuriyan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2530-money-at-home",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day monkey came to my home, disturbed the things and ate all the eatables, I am not there in home at that time, once I reached I sent out the monkey back."
+    }
+  ]
+}

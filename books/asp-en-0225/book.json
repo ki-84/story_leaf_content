@@ -1,0 +1,56 @@
+{
+  "bookId": "asp-en-0225",
+  "title": "Clever goats",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 226,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Clever goats",
+    "author": "Bukheye Mulongo Christopher, Alungho Rose",
+    "illustrator": "Rob Owen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 7 とページ数 5 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once up on a time, a man had two\ngoats, he used to keep them in a\ngoats house and shut the door\nevery evening.\nIn the morning he opened them\nand took them to graze.\nHe used to tether them where\nthere was no enough grass."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "As such they never got satisfied.\nOne night, the goats discussed how\nto open the and get out to go and\nfind what to eat.\nOne goat found a way of opening\nthe door. They went out and ate\npotato vines belonging to that\nhome. After eating they went back\nto the house and shut the door."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "In the morning the man, discovered\nthat his vines had been eaten by\nsome animals, he could not\nsuspect his neighbors goats.\nIn the night, the goats opened and\nate the vines."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The following morning the man\nfound the vines eaten, he\nquarreled and quarreled, he\nplanned to be checking on his\nvines at night.\nIn the middle of the night, he\ncame out with a spear, he tip toed\ntowards the goats, aimed and\nthrew the spear."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "One goat was speared and they all\nran away, the man entered the\nhouse.\nIn the morning he went to check\nfor what he had speared, only to\nfind out that he had speared his\nown goat.\nHe was very sorry about the\nincident."
+    }
+  ]
+}

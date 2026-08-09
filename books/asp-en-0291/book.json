@@ -1,0 +1,96 @@
+{
+  "bookId": "asp-en-0291",
+  "title": "What Vusi's sister said",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 503,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "What Vusi's sister said",
+    "author": "Nina Orange",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 15 とページ数 13 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Early one morning Vusi's granny\ncalled him, \"Vusi, please take this\negg to your parents. They want to\nmake a large cake for your sister's\nwedding.\""
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "On his way to his parents, Vusi met\ntwo boys picking fruit. One boy\ngrabbed the egg from Vusi and shot\nit at a tree. The egg broke."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"What have you done?\" cried Vusi.\n\"That egg was for a cake. The cake\nwas for my sister's wedding. What\nwill my sister say if there is no\nwedding cake?\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The boys were sorry for teasing\nVusi.\n\"We can't help with the cake, but\nhere is a walking stick for your\nsister,\" said one.\nVusi continued on his journey."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Along the way he met two men\nbuilding a house. \"Can we use that\nstrong stick?\" asked one.\nBut the stick was not strong enough\nfor building, and it broke."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"What have you done?\" cried Vusi.\n\"That stick was a gift for my sister.\nThe fruit pickers gave me the stick\nbecause they broke the egg for the\ncake. The cake was for my sister's\nwedding. Now there is no egg, no\ncake, and no gift. What will my\nsister say?\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The builders were sorry for breaking\nthe stick.\n\"We can't help with the cake, but\nhere is some thatch for your sister,\"\nsaid one.\nAnd so Vusi continued on his\njourney."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Along the way, Vusi met a farmer\nand a cow. \"What delicious thatch,\ncan I have a nibble?\" asked the cow.\nBut the thatch was so tasty that the\ncow ate it all!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "\"What have you done?\" cried Vusi.\n\"That thatch was a gift for my\nsister. The builders gave me the\nthatch because they broke the stick\nfrom the fruit pickers. The fruit\npickers gave me the stick because\nthey broke the egg for my sister's\ncake. The cake was for my sister's\nwedding. Now there is no egg, no\ncake, and no gift. What will my\nsister say?\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The cow was sorry she was greedy.\nThe farmer agreed that the cow\ncould go with Vusi as a gift for his\nsister. And so Vusi carried on."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "But the cow ran back to the farmer\nat supper time.\nAnd Vusi got lost on his journey.\nHe arrived very late for his sister's\nwedding. The guests were already\neating."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "\"What shall I do?\" cried Vusi.\n\"The cow that ran away was a gift,\nin return for the thatch the builders\ngave me. The builders gave me the\nthatch because they broke the stick\nfrom the fruit pickers. The fruit\npickers gave me the stick because\nthey broke the egg for the cake.\nThe cake was for the wedding. Now\nthere is no egg, no cake, and no\ngift.\""
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Vusi's sister thought for a while,\nthen she said,\n\"Vusi my brother, I don't really care\nabout gifts. I don't even care about\nthe cake! We are all here together, I\nam happy. Now put on your smart\nclothes and let's celebrate this\nday!\"\nAnd so that's what Vusi did."
+    }
+  ]
+}

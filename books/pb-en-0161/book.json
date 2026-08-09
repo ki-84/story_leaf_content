@@ -1,0 +1,49 @@
+{
+  "bookId": "pb-en-0161",
+  "title": "The Cave Party",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 203,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Cave Party",
+    "author": "Shrey Dave",
+    "illustrator": "Angie & Upesh, Muniza Shariq, Padmanabh, Santosh Pujari",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1828-the-cave-party",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time there was a tiger who live in a cave. He was the scariest tiger, when anybody will come, he will be so silent then when they come near him he will ROAR!!!!!!!! so loudly so the rocks of the cave fall down that the prey can't go anywhere."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "There were deers who came inside the tiger cave so the deers got scared and said HELP!!!!!!.\n\nThen after some time tiger got up and said WHY DID YOU COME HERE!!?. Then the deer said I've come here because my dad said to bring some water from the cave."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The second animal of coming inside the cave is a lion he was handsome and friendly.\n\nWhen he saw the tiger he was happy because the lion and tiger were best friend.\n\nThe lion said lets wait for one more animal. then the tiger said why?. Then the lion said we can play with them , oh ya said tiger."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The third animal of coming inside the cave was a elephant , the elephant was happy because he saw the deers, tiger and lion then after sometime he said LETS DO PARTY!!!!\n\nthen the deers , tiger, elephant and lion said OKAY!!!!!! They enjoyed party."
+    }
+  ]
+}

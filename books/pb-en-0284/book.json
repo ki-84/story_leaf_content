@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0284",
+  "title": "Our earth is precious",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ファンタジー",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 63,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Our earth is precious",
+    "author": "Rachita Uday Kumar",
+    "illustrator": "Greystroke",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3376-our-earth-is-precious",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "\"Oh! What a wonderful world out there,\" thought Rosella."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The breathtaking sunset!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The jumpy dolphins!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Ladies when they pray!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "And our dear earth!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"Oh! Who knows what horrible people would spoil our earth!\" thought Rangan."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The sea monster\n\nTUM TUK"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The bike monster\n\nNANANABOO"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The monster of anger\n\nDHUMO"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "And The monster of rain\n\nKOTLAMAL"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "We should keep the earth safe and sound."
+    }
+  ]
+}

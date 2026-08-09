@@ -1,0 +1,34 @@
+{
+  "bookId": "pb-en-0287",
+  "title": "My family",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 124,
+  "pageCount": 1,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "My family",
+    "author": "Jyothi Tanu",
+    "illustrator": "Sonal Goyal, Sumit Sakhuja, ayyagari anju",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3419-my-family",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There lived a small and happy family. Mother, father and two children. Ram, Ramya , Rahul, Rohan. Ram is a bank accountant in HDFC. Ramya is a house wife who looks after her children and take care of them. They love each other and the father give all the things they wanted. Rahul is studing in 1st class and Rohan is a baby. When Ram comes back to home after his duty, he brings so many toys for his children. Every sunday they go to see a film and at night they go to a restaurent. Their family is full of joy and happiness. After 16 years, Rahul and Rohan became big and Rahul got a job of software engineer and Rohan wants to do adventures."
+    }
+  ]
+}

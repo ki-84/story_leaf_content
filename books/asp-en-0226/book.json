@@ -1,0 +1,106 @@
+{
+  "bookId": "asp-en-0226",
+  "title": "The blacksmith's dilemma",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 499,
+  "pageCount": 15,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The blacksmith's dilemma",
+    "author": "Ugandan folktale",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 17 とページ数 15 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time in a mountainous\nAfrican village there lived a famous\nblacksmith.\nThe villagers called him Ratshipi the man of iron and steel."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Ratshipi was known by everyone in\nthe village.\nThey went to his shop every\nmorning to watch him work.\nHe seemed to be able to make\nanything with his iron and steel."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Kgosi Mogale, the village chief,\nheard about Ratshipi's work.\nHe sent his servants to bring\nRatshipi to the palace."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Ratshipi was happy to hear that\nKgosi Mogale wanted to see him.\n\"I will be very happy to work for the\nchief,\" he said."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "So Ratshipi went to the palace.\n\"Ratshipi, I have heard about your\ngood work,\" said Kgosi Mogale.\n\"I want you to do a very special\ntask.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"With your iron and steel, I want\nyou to build a man who can walk,\ncry real tears and bleed real human\nblood.\"\n\"Impossible!\" thought Ratshipi. But\nno one could say no to the king in\nthis village."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Ratshipi could not sleep that night.\nHow was he going to do this\nimpossible task?\nHe was very scared and very\nworried."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Suddenly Ratshipi remembered a\nwise old man Rapule. Perhaps he\ncould help.\nBut where was Rapule? He had\ndisappeared from the village.\nPeople said that it was because he\nhad displeased the chief."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The next morning Ratshipi did not\ngo to his shop.\nHe went up the mountains to think.\nWhile walking there, he saw an old\nman sitting under a tree."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "It was old Rapule!\n\"I am so pleased to see you,\" said\nRatshipi.\n\"I have a big problem.\"\nHe told Old Rapule the whole story.\nOld Rapule thought carefully, and\nthen he said..."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "\"Tell the chief that you will need a\nthousand buckets full of tears and a\nthousand African pots full of hair.\nWith the water, you will make\nblood. With the hair, you will make\na fire to strengthen the steel man.\"\n\"Thank you, thank you!\" Ratshipi\nsaid, running back to the palace."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Ratshipi said, \"Kgosi Mogale, to do\nwhat you ask, I will need two things.\nA thousand buckets full of tears;\nand a thousand African pots filled\nwith hair from the heads of the\nvillagers.\"\nKgosi Mogale agreed. He asked his\nheadmen to tell the villagers."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Cries were heard from every corner\nof the village. Young and old people\ncried day and night to fill a\nthousand buckets with tears.\nEvery villager's head was shaved\noff and thrown into the pots.\nBut the tears and hair of all the\nvillagers were not enough to fill the\nbuckets and pots."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Eventually Kgosi Mogale gave up\nand called Ratshipi back to the\npalace.\n\"Ratshipi, you are a wise man, the\nwisest in the village,\" said Kgosi\nMogale. \"Will you do me the honour\nof being my chief headman?\"\nRatshipi smiled."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "\"Only if you let old Rapule come\nback to the village,\" he replied.\nSo Ratshipi became chief headman.\nAnd he and old Rapule were the\nadvisors of Kgosi Mogale."
+    }
+  ]
+}

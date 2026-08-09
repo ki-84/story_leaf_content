@@ -1,0 +1,79 @@
+{
+  "bookId": "pb-en-0154",
+  "title": "The Princess and the Veggy Lion",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 245,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Princess and the Veggy Lion",
+    "author": "Uma Balamurali",
+    "illustrator": "Ajit Narayan, Ketan Raut, Padmanabh, Preeti Krishnamurthy, Rayika Sen, Sanjay Sarkar, Tapas Guha..",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1722-the-princess-and-the-veggy-lion",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time there was a Princess who lived in a palace near the forest ."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "She loved to walk in the forest and gather the beautiful flowers growing in the forest."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day when she was walking in the forest she lost her way. It was dark and thick bushes and creepers grew all around. She was afraid and looked\n\naround for help."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Suddenly she saw a lion looking at her from behind the bushes."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "She was frightened and screamed \"Help Help \" and started to run away."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The Lion called out to her :\n\n\"Princess, don't be afraid . I'm a veggy lion. I eat only grass and herbs. I will not hurt you. Please don't run away \"."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The Princess was surprised and walked up to the lion . \"Oh gentle lion, I have lost my way in the forest . Will you help me return to the palace? \" she asked ."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The Lion said, \" Surely , dear Princess , I will bring my friend, the elephant, here.\n\nHe will help us find the way . Please stay here \". He then brought the elephant ."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The elephant carried the princess on his back, through the woods and reached the palace.\n\n\"Thank you dear elephant \", said the Princess. Will you be my royal elephant from now on? \"\n\nThe elephant joyfully agreed."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The Princess then asked the lion to stay in the palace with her . The lion also agreed .\n\nThe lion and the elephant lived in a beautiful garden, near the palace , happily ever after."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "bookId": "asp-en-0150",
+  "title": "Disagreement among occupations",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 175,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Disagreement among occupations",
+    "author": "Beatrice Inzikuru",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "In a village there was a\ndisagreement among people\nof different occupations.\nEveryone thought their work\nwas the most important!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The teacher said that he had\nthe most important occupation.\n\"Without teachers you could\nnot go to school and learn.\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The builder said that he had\nthe most important occupation.\n\"Without builders you would\nnot have schools to learn in\nor houses to sleep in.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The carpenter said that he had\nthe most important occupation.\n\"Without carpenters you would\nhave no furniture for your\nhouses and schools.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The doctor claimed that he had\nthe most important occupation.\n\"Without doctors and nurses\nyou could get sick and die.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The farmer said that she had\nthe most important occupation.\n\"Without farmers you would\nyou would not have food\nto eat.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The student argued that\nstudents had the most\nimportant work.\n\"Without students, there\nwould be no teachers,\nbuilders, doctors, farmers,\nor carpenters.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Eventually everyone agreed\nthat all the occupations are\nimportant.\nWe need teachers, builders,\ndoctors, farmers, and\ncarpenters.\nBut everyone has to be a\nstudent first!"
+    }
+  ]
+}

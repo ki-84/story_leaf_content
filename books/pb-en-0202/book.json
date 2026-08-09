@@ -1,0 +1,74 @@
+{
+  "bookId": "pb-en-0202",
+  "title": "Sheela Learns to make friends",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 671,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Sheela Learns to make friends",
+    "author": "Srividya Suryanarayanan",
+    "illustrator": "Sanjay Sarkar, Suvidha Mistry",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2352-sheela-learns-to-make-friends",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Illustrators: Sanjay Sarkar, Suvidha Mistry\n\nOnce upon a time, there was a girl who always feared making friends. Sheela was very shy and made no new friends.\n\nHer teacher informed Sheela's mother Vishali about her lack of friends. Her mother became worried that she would be friendless when she grew up.\n\nOne day, Sheela's mother Vishali decided to visit her sister's house in the forest.\n\nSheela's Aunt Rupali was a medicine woman and had a cure for all kinds of health and relationship troubles.\n\nVishali and Sheela reached the medicine woman Rupali's hut. But the hut was empty. Vishali told Sheela that she would go search for her sister.\n\nSheela was very tired from walking and begged to stay in the hut to rest awhile.\n\nVishali sliently left her sleeping as per her sister's instructions. Sheela fell asleep on a divan near the huge mirror.\n\nIn her foggy mind, Sheela heard someone sobbing softly. A little worried and anxious, Sheela got up and looked around to find the person who was crying."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "All of a sudden, Sheela sensed someone was staring at her. She looked around to find out who it was but found nothing.\n\nAs she was intending to give up, she saw her image wink at her from the huge mirror.\n\nThe image in the mirror did not imitate her actions as mirror should. But it behaved rather in a weird fashion. She tried to hide and peep but it continued to stare at her.\n\nSheela meekly asked, “Wwwho are you?”\n\n“I'm your shadow, Leela,” said Sheela's image.\n\n“Leela, I never heard of you and I don't speak to strangers,” retorted Sheela and started to run away from the hut.\n\nSheela began to cry hard and her shadow cried harder than her."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Out of fear Sheela started shouting her mother's name and her shadow Leela too followed her calling out Sheela's mother's name.\n\nSheela got really vexed with her Shadow Leela. But she also found out that she has wandered into the forest and has lost her way."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Sheela turned back to her Shadow Leela and asked her if she knew the way back. Shadow Leela jumped with joy and said that she knew of game which can take them back her Aunt Rupali's hut.\n\nSo Sheela and Leela started in slow progress to play. Soon Sheela totally forgot her shyness and became engrossed in the game."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "After a while, Sheela realized that, they had still not reached the hut. Shadow Leela suggested that they dance their way back to the hut.\n\nBoth started to dance their best traditional moves hoping to get back to Aunt Rupali's hut as early as possible."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "By now Sheela was totally frightened and unable to remain brave. She expressed her fear to her new Shadow Friend Leela.\n\nLeela suggest that they climb up the tree to find out where her aunt's hut was situated.\n\nOnce they climbed up the tree, both forgot about searching for their aunt's hut began enjoying the view."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "When it became dark, both climbed down and began thinking of how they would reach Rupali's hut.\n\nSheela spotted a parrot and asked for her help. The Parrot agreed to help her if she gave her little nose stone.\n\nSheela immediately agreed the parrot showed her the way to her Rupali's hut."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Once they reached the hut the parrot left with his reward for showing the way. Sheela and her Shadow Leela were overjoyed to reach safely the hut.\n\nIn a short time, Sheela realized that she could make friends, if she let herself enjoy the moments of friendship building. In great joy Sheela hugged her Shadow Leela and said, \"Leela you are my best friend in the world.\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Shadow Leela said smilingly, “It is not difficult to make friends after all.” Sheela agreed.\n\nThen suddenly, Shadow Leela turned into Aunt Rupali. Surprised Sheela understood the value of making friends that her aunt taught her. Meanwhile, Sheela found her mother waiting in the herb sorting room. Then both went home happily."
+    }
+  ]
+}

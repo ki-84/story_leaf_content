@@ -1,0 +1,89 @@
+{
+  "bookId": "asp-en-0178",
+  "title": "Why Ajao was not buried",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 184,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Why Ajao was not buried",
+    "author": "Taiwo Ẹhinẹni",
+    "illustrator": "Jesse Breytenbach",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Ajao, a bat, lay in his house very ill.\n\nThere was no one to attend to him."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Then, Ajao died."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The neighbours said, \"Ajao is dead. We must call his relations to come and bury him.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The neighbours went and called the birds saying, \"A relative of yours is dead.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The birds came and saw that it was Ajao.\n\nThey said, \"This animal is not part of our family.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"All our family have feathers but Ajao has none. So, he is not one of us.\"\n\nThe birds went away."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The neighbours reasoned together. They agreed, \"The birds are right. Ajao has no feathers. So, he is not their relative.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "One of them said, \"He must be part of the family of rats. He looks like them.\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The neighbours went and called the rats saying, \"One of your family is dead.\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The rats came and saw that it was Ajao.\n\nThey said, \"This animal is not part of our family.\""
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "\"Everyone in our family has a tail. Ajao has no tail.\"\n\nThe rats went away."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "No relations were found for Ajao and he remained unburied."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "bookId": "asp-en-0114",
+  "title": "The Cat and the Rats",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 127,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The Cat and the Rats",
+    "author": "Bwambale Peter",
+    "illustrator": "Bwambale Peter",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 8 とページ数 6 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time there lived a cat in our home. The rats were very terrible. The\nwould play in the food."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The cat ran after the rats and they hid in their holes. They also ate people's toes."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "They also ate our food. They ate our fish,\nsweet potatoes, and other things. One day, the\ncat ate some rats. All the rats hid in their caves\nfor some short days."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Then the rats came back. So we tried to spread poison, but the rats didn't stop.\nWe also trapped the rats and we killed some rats."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "But they did not stop. We could not stop the rats. The rats were winners and we\nwere losers."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "This is the end of the story. Bye, cat and rats!"
+    }
+  ]
+}

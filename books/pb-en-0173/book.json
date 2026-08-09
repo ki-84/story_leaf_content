@@ -1,0 +1,53 @@
+{
+  "bookId": "pb-en-0173",
+  "title": "Fun with Balloon",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 92,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Fun with Balloon",
+    "author": "Madhuri Pai",
+    "illustrator": "Ajit Narayan, Greystroke, Shailja Jain Chougule",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1961-fun-with-balloon",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Bittu and Kittu are friends. Bittu called Kittu to play. Kittu ran. Bittu also ran with her."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Kittu stopped. She took something from her pocket. Bittu saw her holding it near her mouth."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "She started blowing it. It was a small ball. The ball was pink. It was becoming big. Bittu started laughing."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Kittu's cheeks puffed up. She was blowing. The ball was becoming bigger. It looked like a balloon. It looked like a big balloon."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Balloon grew very big. Then it popped. Kittu laughed. Bittu also laughed. Blowing balloons was fun."
+    }
+  ]
+}

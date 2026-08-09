@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0273",
+  "title": "App-ily ever after",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "むかしばなし",
+    "ぼうけん"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 463,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "App-ily ever after",
+    "author": "Debleena Roy",
+    "illustrator": "Delwyn Remedios, ayyagari anju, pradnya ns",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3219-app-ily-ever-after",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Hello, I am Sujata.\n\nI lead a very busy life. I find new kingdoms, solve new mysteries, make new friends, and save them when in trouble too.\n\nAll in day's job. Meet the new friend I met today. King Bholu. King Bholu is the king of a lost kingdom, Bholuland where everyone gets lost. And King Bholu is scared that he will lose his job.\n\nYou see, Bholu is getting blamed as the King who has lost direction. He is in a fine mess indeed. And guess who he comes to... for help?\n\nOf course! You know it."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "King Bholu hates getting lost. There are strange creatures just outside their kingdom. Grey coloured fishes that drop as rain and make him smell, well, quite \"fishy.\" And whenever he gets lost, they \"rain\" on him. Pelt him, liberally.\n\nPoor Bholu doesn't know what he hates more - the rain, the ghastly fishes, the smell they leave on him or simply just getting lost, every day.\n\nWhy can't he just find his way like normal kings do?"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Bholu is the King of a beautiful Kingdom. There are magical trees and a clear blue lake that plays hide and seek with the orange Sun.\n\nI want to help Bholu find his way and keep his kingdom safe from the raining fishes. I need to think of a spectacular, fantastic, super-duper, creative idea.\n\nCan you help me?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Yes. That's it. An idea!\n\nApp my way! Of course.\n\nI got the perfect way to help Bholu. MOOGLE MAPS!\n\nGuess what, just 15 minutes of Moogle Maps training, and King Bholu is all set now to find a new way to manage his kingdom. Moogle maps makes sure you can never lose your way. With Moogle Maps at his service, he will never get lost again.\n\nAnd the app now comes with a new animal friendly language that each animal can customize and set for themselves."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Shall I tell you a little secret?\n\nIt's King Bholu's birthday tomorrow. I am so happy he won't lose the direction to his own birthday party anymore.\n\nYou want to attend? I have heard it's going to be a grand affair with lots of cakes and no grey fishes. (He still has nightmares, you see).\n\nJust follow the Moogle Map. And you can join his yummy birthday party, just in time for blowing the candles!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "So, another long and happy day.\n\nSo happy Bholu found the way.\n\nWell, that rhymed! As for me, well I told you what a busy life I lead right? I READ. I READ. I READ. That's how I solve new mysteries everyday. Well, that was my story for today. Tomorrow, I will read a new book to you. A new adventure. A new story. Will you come and listen?"
+    }
+  ]
+}

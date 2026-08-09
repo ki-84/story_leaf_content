@@ -1,0 +1,86 @@
+{
+  "bookId": "pb-en-0386",
+  "title": "Danny The Dragon",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ファンタジー",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 353,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Danny The Dragon",
+    "author": "Rasana Atreya",
+    "illustrator": "Priya Kuriyan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4893-danny-the-dragon",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "表紙をページ 1 と共用"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/01.jpg",
+      "text": "Danny the Dragon blew fire everywhere,\n\nWhich hissed through the other dragons, right through their hair.\n\nBut Danny the Dragon – oh, he didn't care!\n\nAnd the other dragons thought it wasn't fair.\n\nIf Danny could blow fire, why couldn't they?\nBut try as they might, they couldn't find a way."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/02.jpg",
+      "text": "No fire whooshed out of their nostrils or their mouths,\n\nSo they'd have to figure another way out.\n\nInstead of blowing fire, why couldn't Danny just burp?\n\nThose other dragons – they had a plan that just might work."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/03.jpg",
+      "text": "When Danny came along, burning things away,\n\nThose other dragons, they plotted to lead him astray.\n\nTo a forest they took him, a surprise promised.\n\nWhere Danny had a meal he very much relished."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/04.jpg",
+      "text": "A meal of mangoes, a most delicious fruit,\n\nTasty to humans, but to dragons – a brute!\n\nAll of it gone, not a single bit left,\n\nThe mango juice had done what it did best."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/05.jpg",
+      "text": "Danny could no longer blow fire and burn things.\n\nHis fire was gone, his best things were now wings."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/06.jpg",
+      "text": "Danny the Dragon cried sadly,\n\n“Why did they do this to me?”\n\nNow all he could do was burp all day,\n\nWith everyone else laughing away."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/07.jpg",
+      "text": "He flew over and sat in a field of red grass.\n\n“Why are you so sad?” a voice asked.\n\nA head popped up, it was the Chilly Monster.\n\nAnd Danny realized he had been sitting on Chilly's fur."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/08.jpg",
+      "text": "“Those other dragons stole my fire,” Danny said.\n\n“Oh no,” said Chilly Monster shaking his head.\n\n“That's not nice of them, why did they do that?”\n\nDanny replied, “I burnt their fur and hats.”"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/09.jpg",
+      "text": "“I really want my fire back,” Danny said.\n\n“Eat some chillies, ones that are red.”\n\nThe monster smiled, picking out some.\n\nAnd Danny ate them, still quite glum."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/10.jpg",
+      "text": "Suddenly, his throat fired up to red-hot.\n\nThe fire was back! Danny felt better. A lot!\n\nDanny blew the Chilly Monster a fiery thanks and flew off.\n\nFor, no longer did he burp or cough."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/11.jpg",
+      "text": "So the other dragons couldn't tease him,\n\nHe had the fire. Once again, he was King!"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "bookId": "pb-en-0214",
+  "title": "Chameleon Life",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 139,
+  "pageCount": 3,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Chameleon Life",
+    "author": "Prateek Chandrawal",
+    "illustrator": "Herminder Ohri, Muniza Shariq, Nirvaan Pahwa, Rajeev Verma 'Banjara'",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2482-chameleon-life",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A Chameleon is color changing animal and it is small in size.\n\nOn day, Chameleon sleeping on a tree and from the other side a snake came on the same tree.\n\nChameleon got scared on started changing its color, It has changed color to brown and started running away from snake."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The snake started following the chameleon & Chameleon started moving from tree to sand and in between stones to escape from snake by changing color.\n\nNow after escaping from snake, Chameleon was very tired and he wants to drink water and take rest in some safe place."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "On the way to Pond, Chameleon saw crocodiles and was scared to go near. Then he changed color and went slowly near pond to drink water. After drinking water chameleon went to bushes and changed color of bushes and finally relaxed there."
+    }
+  ]
+}

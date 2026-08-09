@@ -1,0 +1,84 @@
+{
+  "bookId": "asp-en-0016",
+  "title": "My friend Coco",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 340,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "My friend Coco",
+    "author": "Ursula Nafula",
+    "illustrator": "Ursula Nafula",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "When I was five years old, my\nuncle gave me a wonderful\npresent.\nIt was a three-week-old puppy!\nThe day my uncle brought the\npuppy home, I was very happy.\nI knew I had a friend."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "After putting him down, my\nuncle turned to me and asked,\n\"What name will you give him?\"\nI looked at my puppy, and said,\n\"Coco.\"\nMy uncle was surprised.\nHe asked, \"Why do you call him\nCoco?\"\nI said, \"Because he looks like\ncocoa.\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I asked my uncle if Coco was born alone.\nMy uncle said that there was another puppy,\nexactly like Coco.\nI went to see Coco's brother."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "When Coco saw his brother, he\nwas very excited.\nThe two of them put their heads\ntogether as if they were talking."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I asked my uncle if I could keep\nboth Coco and his brother.\n\"All right,\" he said. \"But you\nmust look after them.\"\nSo every evening, I played with\nthem and took them for\nexercise."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "A few months later, Coco and\nhis brother were big, strong and\nhealthy.\nThey were too big for me to\nlook after on my own."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "So I asked my uncle to take\nback Coco's brother.\nBut when Coco was left alone,\nhe looked very sad.\nIt felt as if he was asking me,\n\"Why did you do that?\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "He stopped playing.\nSometimes he refused to go for\na walk with me.\nThere were times when Coco\nate very little.\nI was worried.\nI asked myself, \"What can I do\nto help Coco?\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Then one day my uncle came to visit.\nWhen I heard his voice, I rushed out of the house.\nBefore I could see him, I heard the barking of dogs."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Behind the kitchen, dancing\nhappily before me were Coco\nand his brother!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "I was so happy that I did not\nknow who to hug first, Coco or\nmy uncle.\nI knew Coco would go back to\nhis old self now that his brother\nwas back.\nWe would go running in the\nfields again!"
+    }
+  ]
+}

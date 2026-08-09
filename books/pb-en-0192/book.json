@@ -1,0 +1,54 @@
+{
+  "bookId": "pb-en-0192",
+  "title": "The Disaster",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 256,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Disaster",
+    "author": "Kushagra Agarwal",
+    "illustrator": "Megha Vishwanath, kushagra agarwal",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2208-the-disaster",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One rainy day near a mushroom (fungi) . A seven year old boy who was explorer came to explore the area of this fungi of mushrooms.\n\nThe boy was looking with his new magnifying glass when he spotted the fungi of mushrooms. He then spotted a brown patch moving. He went more close and saw a very"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "small girl and did not panic like others do.\n\nHe remained calm and patient. He then started talking to the girl. See the conversation:\n\nBoy:My name is Anurd. What is your name?\n\nGirl:My name is Thriya. I am fine. How are you?"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Boy:Even I am fine. How come you are so small and I am so big?\n\nGirl:I am under a magic spell. That's why I appear so small to you.\n\nBoy:Who put you under the spell?Maybe I can help you.\n\nGirl:Mrs. Grunty put me under the spell.\n\nBoy:Mrs. Grunty is my mother."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "We both go to my house.\n\nBoy:Mom why did you make Thriya so small?\n\nMom:I made her so small because she was going to spoil my lab by:-\n\n1. Hitting the acid test tube.\n\n2. The acid test tube was going to fall on our cat Mew.\n\n3. It would shout so loud because of getting burnt.\n\n4. Then it would hit me.\n\n5. I would hit every test tube in our lab and it"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "would be a disaster.\n\nThat's why.\n\nBoy: Thriya apologise from mom.\n\nGirl: Sorry, aunty.\n\nMom: Ok.\n\nBoy: Make Thriya her normal size.\n\nMom: OK abrararararachooooo\n\nTHE END"
+    }
+  ]
+}

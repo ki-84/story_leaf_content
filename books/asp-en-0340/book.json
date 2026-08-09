@@ -1,0 +1,66 @@
+{
+  "bookId": "asp-en-0340",
+  "title": "The happy revival",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 346,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The happy revival",
+    "author": "Rebecca Njuguna",
+    "illustrator": "Catherine Groenewald",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 9 とページ数 7 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "For ages, Olokwango hill stood smiling at the middle\nof Kwere plains. From the two dimples on its side\ncame springs which converged downhill to form a\nriver. River Temu meandered silently across the\nKwere plains. Its waters were a gift to the sheep and\ngoats of the area as well as the deer that dwelt in the\nplains."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Things were all well until Matata became headman.\nHe ordered a path to be cleared from the top of the\nhill to the foot so that he could climb uphill easily\nand roll gently down to the foot. Olokwango hill was\nangry with the damage to his beard, but he was\npatient."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "During the weekend, Matata's children and their\nfriends would climb uphill to play.\nThey would run all over the place, breaking twigs\nand branches, lighting fires for their games, which\nthey would later leave burning."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Over time, Olokwango lost patience. The dimples\nbecame smaller and smaller as his face turned into\nugly wrinkles.\nAt last the springs were no more. The deer in the\nplains migrated because there was no more the tall\ngreen grass to play in. The sheep and goats grew\nthinner and thinner.\nEveryone felt the sadness of Olokwango hill."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The people of Kwere realized that something needed\nto be done.\nThey joined hands and overthrew Matata the\nheadman.\nIn his place they appointed Baraka who immediately\nordered everyone to plant a flower to honour\nOlokwango. Baraka and his people held ceremonies\nand brought gifts of pine, cedar, and cypress for\nOlokwango."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "No one walked on the hill any longer, and the grass\nhad a chance to grow tall once again.\nGradually the smile on the face of Olokwango hill\ngrew broader and the dimples deeper. Out of the\ndimples the springs ran again. River Temu was\nrejuvenated. The plains became greener than ever\nbefore. The deer galloped happily once more across\nthe grass."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"Long live Baraka, long live Baraka,\" the people of\nKwere sang.\n\"Long live, Olokwango,\" said Baraka and his people.\n\"May our children and children's children forever\nrespect you.\""
+    }
+  ]
+}

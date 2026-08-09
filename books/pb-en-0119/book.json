@@ -1,0 +1,104 @@
+{
+  "bookId": "pb-en-0119",
+  "title": "Pehelwaan ji Plays Cricket",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "ぼうけん"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 276,
+  "pageCount": 15,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Pehelwaan ji Plays Cricket",
+    "author": "Sanjiv Jaiswal 'Sanjay'",
+    "illustrator": "Ajit Narayan",
+    "translator": "Manisha Chaudhry",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/996-pehalwan-ji-ka-khel",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Pehelwaan ji exercised every day."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, he wanted to be a player. He went to the field and said to the children, “I want to play with you.”\n\nThe children were scared of him. So they could not say no to him!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "When Pehelwaan kicked the ball it almost burst. When he kicked it again, the goalkeeper went flying!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The children did not know what to do."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Gappu said, “Pehelwaan ji, let us play cricket.”\n\nPehelwaan ji said, “Yes, but I will bat first.”"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Gappu ran, and jumped high as he threw the ball."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Pehelwaan ji lifted the bat. He lost his balance. The ball hit his head. Ouch!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Pehelwaan said, “Now, I will bowl.”\n\nGappu said, “Fine Pehelwaan ji, but please do not jump high when you bowl. That will scare me.”"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Pehelwaan did not listen to Gappu. He jumped high."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "He lost his balance and fell down. THUD!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "He got up and said, \"I will field now.\"\n\nGappu nodded his head."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Gappu turned his bat this way and that. The ball went all over the field. Zipp, zapp, zipp, zoom. Pehelwaan ji huffed and puffed as he ran after it. OHH, AAAH, HMMPH."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Pehelwaan ji was very tired.\n\nHe pulled a face and said, “This is not for me! I will be the wicket-keeper.” Gappu agreed."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Gappu threw the ball up high. The batsman ducked. Pehelwaan ji could do nothing as the ball went straight into his mouth... GUPP!"
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "“Forget it. I don't want to play!” said Pehelwaan ji.\n\nHe was in bad shape as he ran away. Gappu pulled out a new ball and everybody went back to the game peacefully."
+    }
+  ]
+}

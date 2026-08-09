@@ -1,0 +1,35 @@
+{
+  "bookId": "pb-en-0330",
+  "title": "Eldorado",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ぼうけん"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 72,
+  "pageCount": 1,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Eldorado",
+    "author": "Divyesh Jha",
+    "illustrator": "Manisha Ahuja",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3963-eldorado",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "表紙をページ 1 と共用"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/01.jpg",
+      "text": "Eldorado\n\nGaily bedlight,\n\nA gallent knight,\n\nIn sunshine and in shadow,\n\nHad journeyed long,\n\nsinging a song,\n\nIn search of Eldorado.\n\nBut he grew old\n\nThis knight so bold\n\nAnd over his heart a shadow\n\nFell as he found\n\nNo spot of ground\n\nThat looked like Eldorado\n\nAnd, as he strength\n\nFailed him at length,\n\nHe met a pilgrim shadow\n\n'Shadow', said he\n\nWhere can it be\n\n'The land of Eldorado?'"
+    }
+  ]
+}

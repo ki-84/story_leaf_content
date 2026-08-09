@@ -1,0 +1,106 @@
+{
+  "bookId": "asp-en-0184",
+  "title": "Mulongo and the hyenas",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 566,
+  "pageCount": 15,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Mulongo and the hyenas",
+    "author": "Sarah Nangobi",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 17 とページ数 15 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was once a girl called\nMulongo who lived with her\nparents near the village of\nBudongo.\nOne day Mulongo's mother sent\nher to fetch water at the well."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "On the way, she met her\nfriends. They were going to the\nforest to get firewood. Mulongo\nwanted to go with them.\n\"Please wait for me under this\nmuvule tree!\" she said, \"I have\nto fetch water for my mother.\"\nBut her friends didn't want to\nwait."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"All right, I'll catch up with you\nin the forest!\" said Mulongo.\nShe ran off to fetch water and\ntake it to her mother.\nThen she went to the forest to\nlook for her friends."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "She followed a path that led to\na stream.\nOn the other side of the stream\nwere many tiny paths each one,\nleading in a different direction.\n\"Which path had her friends\ntaken?\" she wondered."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "She chose the biggest path, and\nwalked and walked, but she\ncould not find her friends.\nShe was so tired that when she\nsat under a tree to rest, she fell\nfast asleep."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "When Mulongo woke up, it was\ndark. In the darkness, yellow\neyes were gleaming. She was\nsurrounded by hyenas!\nShe was too terrified even to\ncry out. She tried running, but\nthe hyenas circled her hungrily."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"Don't move,\" said the gruff\nvoice of the biggest hyena.\n\"If you run, we'll eat you!\"\n\"Please let me go home!\"\nMulongo pleaded."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "But instead the hyenas took\nMulongo to their house in the\nforest. It was a dirty hut full of\nbones and buzzing flies.\nShe lay down and pretended to\ngo to sleep."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "In the darkness, she heard the\nhyenas talking to each other.\n\"How is the fire doing?\" one\nhyena asked. \"Is the water\nboiling?\"\n\"Everything is ready,\" was the\nreply. \"Should I bring her?\"\n\"Yes, yes!\" growled the other\nhyenas. \"We're hungry!\"\nThey were ready to drag\nMulongo out of the hut."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "But the big hyena spoke,\n\"Hyenas, wait. Remember the\nrule of the village. No hyena\nmay eat alone. We have to\ninvite the whole family to share\na meal.\"\n\"I'll go and call the in-laws,\"\nsaid his wife.\n\"I'll go and fetch my cousins,\"\nsaid the small hyena.\n\"I'll fetch our brothers and\nsisters,\" said another.\n\"And I will remain here with our\nfood,\" said the big hyena."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The big hyena sat in the\ndoorway of the hut and the\nothers went off in different\ndirections.\nThey took a long time, and the\nbig hyena began to doze in\nfront of the warm fire. Soon he\nwas snoring.\nThis was Mulongo's chance! But\nhow was she going to get past\nthe hyena? He was so big he\nfilled the whole doorway."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "There was only one way.\nShe took a flying leap right over\nthe hyena's back, and ran as\nfast as her legs could carry her."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Just then the other hyenas\nreturned, and saw what had\nhappened. They ran after her,\nhowling with anger and\ndisappointment.\nBut it was too late."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "As she came to her village, one\nof the villagers recognised her\nand shouted, \"Mulongo,\nMulongo is coming, Mulongo is\ncoming.\"\nHer father and mother ran out\nto meet her. They hugged her,\nwhile thanking God for saving\ntheir child, \"Mulongo, Mulongo,\nwe thought you had died!\""
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "From that day, Mulongo and the other children never again went back to the\nforest alone."
+    }
+  ]
+}

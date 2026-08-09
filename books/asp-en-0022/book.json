@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0022",
+  "title": "My baby boy.",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 74,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "My baby boy.",
+    "author": "Cissy Namugerwa, Nanyonga Allen",
+    "illustrator": "Genevieve Terblanche, Melany Pietersen, Catherine Groenewald, Marion Drew, Mlungisi Dlamini, Rob Owen, Natalie Propa, Franz Phooko, Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "My baby boy is John Francis."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He likes yellow bananas\nand apples."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "After taking his breakfast, he goes to play with a friend."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "He likes swimming\nduring afternoon hours."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "He does his homework\nand draws different\npictures."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "John Francis has a big cock."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "He plays hide and seek\nwith friends."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "His favorite color is yellow."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "He likes pet animals very much."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "John Francis encourages\nhis friends to read hard,\nto have a bright future."
+    }
+  ]
+}

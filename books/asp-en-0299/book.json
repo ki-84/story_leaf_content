@@ -1,0 +1,106 @@
+{
+  "bookId": "asp-en-0299",
+  "title": "Tortoise finds his house",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 468,
+  "pageCount": 15,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Tortoise finds his house",
+    "author": "Maya Fowler",
+    "illustrator": "Katrien Coetzer",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "表紙をページ 1 と共用"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/01.jpg",
+      "text": "One day Tortoise was walking through the veld. He was looking and looking. He\ngazed into the distance and squinted at the grass.\nThen he went past Snail."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/02.jpg",
+      "text": "\"Are you looking for something?\" Snail asked.\n\"Yes, Snail, I'm looking for my house. Have you\nseen it, by any chance?\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/03.jpg",
+      "text": "Snail said: \"No, I haven't, but I'll help you look!\"\nShe climbed onto Tortoise's shell. Tortoise walked on with Snail on his back. They\nlooked and looked, but there was no sign of a house. The sun was high in the sky."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/04.jpg",
+      "text": "A little later they passed Sparrow.\n\"Are you looking for something?\" asked Sparrow.\n\"Yes, Sparrow, I'm looking for my house. Have you seen it, by any chance?\"\nSparrow said: \"No, I haven't, but I'll help you look!\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/05.jpg",
+      "text": "He flapped his wings and he\nwhizzed away.\n\"But you're going too fast for\nme,\" complained\nTortoise.\nSparrow came back. \"Alright,\nthen I'll hop on too.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/06.jpg",
+      "text": "Tortoise carried on, with Snail\nand Sparrow perched\non his shell. They looked and\nlooked, but there was\nno sign of a house. The sun had\ninched lower in the\nsky."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/07.jpg",
+      "text": "A little later they passed Ladybird.\n\"Are you looking for something?\" asked Ladybird.\n\"Yes, Ladybird, I'm looking for my house. Have you seen it, by any chance?\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/08.jpg",
+      "text": "Ladybird said: \"No, I haven't,\nbut I'll help you look!\"\nShe hopped onto Tortoise's\nback and on he went,\nwith Snail and Sparrow and\nLadybird sitting on his\nback.\nThey looked and looked, but\nthere was no sign of a\nhouse. A breeze started to blow."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/09.jpg",
+      "text": "A little later they passed Mouse. He was making a garland of daisies.\n\"Are you looking for something?\" asked Mouse.\n\"Yes, Mouse, I'm looking for my house. Have you seen it, by any chance?\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/10.jpg",
+      "text": "Mouse said: \"No, I haven't, but\nI'll help you look!\"\nHe hopped onto Tortoise's back.\n\"Wait, I can't leave my flowers\nbehind.\" Tortoise waited. Mouse\nstretched and stretched and\nscooped up his daisies."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/11.jpg",
+      "text": "Tortoise walked on, with Snail\nand Sparrow and\nLadybird and Mouse on his\nback. They looked and looked,\nbut there was no sign of a\nhouse. The wind swept leaves\noff the ground and swirled them\naround Tortoise's feet.\nTortoise got tired. \"You lot are\nheavy,\" he sighed."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/12.jpg",
+      "text": "The wind got stronger. The sky\nturned dark.\n\"Oh, where is my house?\" asked\nTortoise.\nThunder roared in the hills.\nLightning flashed in the\ndistance. Drip-drip came the\nrain.\n\"Oh, where is Tortoise's house?\"\nasked Snail and Sparrow and\nLadybird and Mouse."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/13.jpg",
+      "text": "The wind whirled and whipped. It\nblew Snail and Sparrow and Ladybird and Mouse right off Tortoise's back."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/14.jpg",
+      "text": "And then came the hail, tip-tip-tip.\nTortoise got such a fright he shrank into his shell. It was warm and cosy there.\n\"Oh, here is my house!\""
+    },
+    {
+      "index": 14,
+      "imagePath": "images/15.jpg",
+      "text": "\"Oh, here is Tortoise's house!\""
+    }
+  ]
+}

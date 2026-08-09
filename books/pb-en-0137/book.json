@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0137",
+  "title": "Spot and Spike",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 122,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Spot and Spike",
+    "author": "Natasha Sharma",
+    "illustrator": "Archana Sreenivasan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1233-spot-and-spike",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "\"You are such a boring, ordinary circle,\" said Spike to Spot, as he bit into the cake. \"Look at me. I'm strong, sharp and poky. I can make you cry!\""
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "\"Eeeeeee! Spikes!\" shrieked Spot.\n\n\"Yes, aren't I scary?\" said Spike.\n\n\"Not you! Look there. S... S... Spikier... stronger... sharper... pokier... teeth... shark swimming this way!\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"Shark?\" yelped Spike, looking out into the sea.\n\nSpot quickly pulled out her red gel tube. \"Hee hee. Boring spots coming up,\" sniggered Spot."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "\"Huh? Where's the shark?\" said Spike."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Spike picked up his cake to take another bite. \"Eeeeeee! Spots!\" he shrieked.\n\n\"Yes, aren't they boring? Probably just harmless chicken pox spots,\" said Spot."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"Boring! Harmless! What's harmless about spots? Blech!\" screamed Spike. \"Spots are scary!\""
+    }
+  ]
+}

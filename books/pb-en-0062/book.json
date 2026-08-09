@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0062",
+  "title": "Bheema, the Sleepyhead",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 281,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Bheema, the Sleepyhead",
+    "author": "Kiran Kasturia",
+    "illustrator": "Shweta Mohapatra",
+    "translator": "Rajesh Khar",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/331-bheema-gadha",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Bheema loves to sleep and just cannot get up early.\n\nRamu, the washerman, scolds Bheema often."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, Gauri, the cow, asked him, “Bheema, why are you so sad?”\n\nBheema said, “I cannot get up early and Ramu shouts at me every day. Will you wake me up every morning, please?”\n\n“Yes, I will,” said Gauri. Early next morning, Gauri mooed loudly, but Bheema did not wake up."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Coming back from the river in the evening, Bheema met Moti, the dog.\n\n“I can never get up in the morning on time. Will you wake me up?” Bheema asked Moti.\n\n“Yes, I will,” said Moti and the next morning he barked and barked but did Bheema wake up? No Sir!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "That evening Bheema met Cheenu, the rooster.\n\nHe said to Cheenu, “You crow in the morning and everybody wakes up. Will you wake me up too?”\n\nCheenu agreed. The next morning, Cheenu crowed long and loud, but Bheema did not wake up."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The next evening, Bheema saw Kalu, the crow, cawing away happily.\n\n“Kalu, will you wake me up in the morning, please?” he asked.\n\nKalu said, “Why not? I will caw and wake you up.”\n\nThe next morning Kalu cawed all he could but Bheema did not wake up."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Bheema was sad.\n\nThe next morning, a fly came and sat on his nose.\n\n“Aaah...chhoooo... ahchhoo!” Bheema got up with a big sneeze."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "“Wow! I woke up. How did I wake up?” he asked in wonder.\n\n“I woke you up,” said the fly.“Will you wake me up like this early every morning?”\n\n“Sure,” said the fly. Bheema was happy. Now he would have no problem getting up early every morning!"
+    }
+  ]
+}

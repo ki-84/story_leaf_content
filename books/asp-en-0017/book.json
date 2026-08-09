@@ -1,0 +1,94 @@
+{
+  "bookId": "asp-en-0017",
+  "title": "Zanele Situ: My Story",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "ファンタジー"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 484,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Zanele Situ: My Story",
+    "author": "Liz Sparg",
+    "illustrator": "Jesse Breytenbach, Graham Paterson",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I was born in summer, in a town\ncalled Matatiele in the Eastern\nCape. Matatiele is near Lesotho\nwhere there are many mountains. In\nthe winter they are covered with\nsnow."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "My father was a builder and he\nmoved from place to place to find\nwork. We moved to Lesotho and\nthat's where I started school. I was\nvery happy. But when I was eleven\nyears old, I grew tired and weak,\nand then I couldn't walk. My parents\ntook me to the hospital."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I had to stay in hospital for three\nyears. I was very tired and I slept\nmany hours every day. After three\nyears the doctors told me I would\nnot be able to walk again.\nI was very sad because I love\nsports."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I went to a special school in Umtata,\nand my teachers encouraged me. It\nwas a very busy school, with lots of\nactivities like sport and sewing. On\nweekends we had tasks to do. We\nhad to clean our rooms, polish our\nshoes and clean our wheelchairs."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I decided to keep trying, and never\ngive up. If you have a disability, you\ncan still do something you love. I\nlove to see how far I can go, so I\nentered a competition. I won a\nbronze medal for shot putt, a silver\nmedal for discus and a gold medal\nfor javelin."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I wanted to get better and better at\nmy sports, so I trained very hard."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "When I rested, I loved to sew and\nlisten to gospel music."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "I entered more competitions and I\ngot many medals and prizes. I\nstarted to dream about maybe\ncompeting in the Paralympics one\nday."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The Paralympics are just like the\nOlympics, where the best athletes\nin the world compete for gold, silver\nand bronze medals.\nBut in the Paralympics, the athletes\nare disabled in different ways, so\nthey have to try even harder to\ntrain and win!"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Then I heard that I was going to\nSydney in Australia, to take part in\nthe 2000 Paralympics. At last we\nwere in the plane, flying over the\nIndian Ocean!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "But when I got there, I suddenly felt\nvery scared of all the people\nwatching me. I just wanted to go\nhome again."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Then, when I threw my javelin it\nlanded far in front of everyone's. I\nbroke the world record and I got a\ngold medal! I was the first African\nwoman to win a gold medal in the\nParalympics. I was so happy and\nvery proud."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "My motto is: Keep going, follow your\ndreams and never give up. Even if\nsomething happens to make you\nsad or scared.\nThat is what I teach my little girl,\nAzamazi. She is eight years old and\nshe also loves to do athletics and\ngymnastics.\nI am still training and going to\ncompetitions, and in 2016 I hope to\ngo to the Paralympics in Rio de\nJaneiro."
+    }
+  ]
+}

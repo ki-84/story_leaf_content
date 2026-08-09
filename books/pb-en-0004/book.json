@@ -1,0 +1,138 @@
+{
+  "bookId": "pb-en-0004",
+  "title": "Chuskit Goes to School!",
+  "slug": "chuskit-goes-to-school",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 1600,
+  "pageCount": 21,
+  "coverImagePath": "images/01.jpg",
+  "source": "storyweaver (global-asp/pb-source mirror)",
+  "attribution": {
+    "title": "Chuskit Goes to School!",
+    "author": "Sujatha Padmanabhan",
+    "illustrator": "Madhuvanti Anantharajan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/21-chuskit-goes-to-school",
+    "license": "Public Domain",
+    "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "bundled": true,
+  "warnings": [
+    "画像数 23 とページ数 21 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Chuskit woke up early that morning. It was a very special day and she was too excited to sleep. She eagerly looked out of the room through the window next to her bed.\n\nIt was spring time in Ladakh\nand the apricot trees were in full bloom. Two magpies had already begun their day and were busy looking for insects to eat. Her Ama-ley was awake too. She could hear her in the kitchen making gur-gur tea."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Chuskit had been awake for the last hour. This was a day she was going to remember for a long time. Can you guess why?\n\nNo, it was not Losar, the New Year festival. That was many months away. Nor was it any special day in her village, like the gonpa festival, or a wedding day.\n\nToday was going to be\nChuskit's first day at school. At nine years, she had waited a long, long time for this."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The school was not very far away from her home. To get\n\nthere, you had to walk up to\n\nthe main road. Just before\n\nthe prayer wheel, you took\n\nthe path to the left of the\n\nroad that ran along a narrow stream. Near the poplar trees you crossed the stream by jumping over the big rocks.\n\nOnce you got to the other\nside, a short walk up a slope\ntook you to the school. All\nthe children of Skitpo Yul,\nChuskit's village, walked to\nschool everyday and with\nease. But not little Chuskit. She had a disability and could not walk."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Chuskit was born with legs that did not work like everyone else's. Her father had taken her to the village amchi and then to the doctors in Leh. But no amount of medicine had helped her walk.\n\nAt first, Chuskit did not realise that she was in any way different from the Stobdan her younger brother, or her cousins. But soon there were many things she could not do as easily as them.\n\n“That does not matter,” her Aba-ley would tell her whenever she felt sad. “You can stitch better than any of them. And you draw very well.” Aba-ley often brought her some colour pencils from Leh."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Chuskit would sit at the kitchen window everyday and draw what she saw while her Ama-ley cooked. She could see her family's animals being taken to graze every morning.\n\nShe could see the blue waters of the stream that flowed near by. And she would be the first one to announce the arrival of\na visitor to their house!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Chuskit used a chair fitted with wheels to move around. Elders called it a wheelchair. You could move it in any direction- forward, left, right and even backward - by moving the wheels with your hands. You only needed to have really strong arms to push the weight of your body and the chair.\n\nWhen Aba-ley first brought the wheelchair home, everyone in her family was very excited."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "“Now I won't have to carry\n\nChuskit everywhere. I can wheel her around,” said Ama-ley, with tears of happiness in her eyes.\n\n“And I will be able to go\n\nwherever I want!” cried Chuskit excitedly.\n\n“Please, please, could I ride on your wheelchair once in a way?” begged Stobdan.\n\nHe wanted to wheel it around too. It looked like fun. Billa, the big black cat, jumped on to the wheel-chair and stretched\nacross the seat.\n\n“Yes this is far more comfortable than the sack cloth I sleep on,” she purred."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Slowly, Chuskit learnt to use\n\nher wheelchair. She would ask her mother to seat her in the wheelchair outside her home every evening.\n\nFrom here she would watch children returning from school, chattering and laughing merrily in groups. In a while, the evening bus would return from Leh, bringing back people from work and the market place. How much more exciting the world was from here than from the kitchen window!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "One evening when Chuskit was sitting outside the house with her grandfather, a young boy came up to her. He carried a letter which he handed over to her grandfather. “Julley! The bus driver asked me to give this to you,” he said.\n“My name is Abdul,” he said turning to Chuskit. “I study Class 6 at the Government School. I have often wondered why you don't come to school.”\n\n“Julley, Abdul,” said Chuskit. “I have never been to school. The path to the school is too uneven and pebbly and my wheelchair will get stuck. Besides, I cannot cross the little stream in front of the school. It would be very difficult for my parents to carry me to school and back everyday.”\n\n“But would you like to come to school?” asked Abdul."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "“Of course!” replied Chuskit. “I hear my younger brother talk of all that he does at school. I want to study like all of you, make friends, play games, wear a uniform and even write exams. Sometimes my brother\nteaches me songs that he has learnt at school and I love it. You may not believe this, but I sometimes dream of carrying a school bag, even eating packed lunch...”\n\n“Enough! Enough!” interrupted her grandfather.\n“Stop dreaming, Chuskit. You know you cannot go to school. I have told you this many times. Learn as much as you can at home.”"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "“Meme-ley, please,” pleaded\n\nChuskit softly with tears in her eyes as her grandfather walked away angrily. “Meme-ley does not understand how I feel,” said Chuskit. “I remember the day my brother recited his tables with such pride, even the time he learned to read! My parents were very happy as they have never been to school. I too want to learn to read and do math. Do you understand?”\n\n“I do,” said Abdul.\n\n“Chuskit, I will see you again. I must go now. My mother will be waiting for me. Julley!”"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The next day, Abdul went\n\nstraight to the Headmaster's\n\nroom after assembly.\n\n“Julley, Azhang-ley!” he said. “I want to talk to you about a girl from our village who does not go to school. Her name is Chuskit. She is Stobdan's sister.”\n\n“Oh yes,” replied the\n\nHeadmaster. “I know her. She is disabled, isn't she?”"
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "“Yes, Azhang-ley. She uses a wheelchair to move around but cannot reach school, as the path from her home is too rough and uneven. I was wondering if we could do anything to help her, Azhang-ley. We could all get together and level the path and also build a small bridge across the stream.”\n\n“That's very thoughtful of you, Abdul,” said the Headmaster as he patted him on the back. “What made you think of Chuskit and her problems?”\n\n“Azhang-ley, last week we read about the\n\nfundamental rights of citizens in our civics class. All children have a right to education. That includes Chuskit as well, does it not?”\n\n“Yes, you are right, Abdul. Let me discuss this with the other teachers,” replied the Headmaster."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "The next day the Headmaster called all the teachers to a meeting. He shared Abdul's ideas with the group and asked the teachers what they felt. “Impossible!” said one of them. “How can we have a disabled child in our school? How will she be able to write, play and go to the toilet like the other children do?”"
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "“That's exactly what we have to workout,” said the Headmaster. “I hear that in the village of Mentok Yul, the Village Education Committee has helped build a special toilet for one of their disabled children. We could ask them what they have done. But first we will have to get Chuskit to school. Then we could think of ways of helping her do things in school.”"
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Two weeks later there was great excitement at the Government School. All the children had gathered outside in the playground. They had come to school without their school bags:\n\nthere were going to be no classes today!"
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "The teachers divided the children into groups. One group worked in front of Chuskit's house and another on the path along the stream. A third group with some of the older children worked hard to help some of their teachers build a strong wooden bridge across the stream."
+    },
+    {
+      "index": 17,
+      "imagePath": "images/19.jpg",
+      "text": "The children laughed and sang as they removed stones and rocks, levelled paths and carried wooden planks to the stream. The Headmaster went from one group to another, making sure that all went according to plan."
+    },
+    {
+      "index": 18,
+      "imagePath": "images/20.jpg",
+      "text": "Chuskit's parents provided everyone with hot tea and biscuits.\n\nChuskit's grandfather sat under a willow tree by the stream watching the busy school children. “I never dreamt I'd see a day like this!” he thought to himself as he wiped a tear that rolled down his cheek.\n\nAt the end of the day it was a tired but happy group of children that returned to their homes. The path from Chuskit's home to the school was now ready!"
+    },
+    {
+      "index": 19,
+      "imagePath": "images/21.jpg",
+      "text": "Chuskit was going to school for the first time in her life. And that's why she was so excited!"
+    },
+    {
+      "index": 20,
+      "imagePath": "images/22.jpg",
+      "text": "Words used in the story that may be new to you:\n\nAba-ley: Father\n\nAma-ley: Mother\n\nMeme-ley: Grandfather\n\nAmchi: A local doctor who has been trained in Tibetan medicine.\nAzhang-ley: Term used with respect for an\nelderly man.\nGonpa: Buddhist monastery\nGur-gur tea: Butter tea that is made in a long\ncylindrical wooden vessel. The tea is churned with butter, salt and milk in this vessel. A low gur-gur noise is produced during churning.\nJulley: Term used as a greeting: hello, goodbye."
+    }
+  ]
+}

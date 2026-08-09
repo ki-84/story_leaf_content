@@ -1,0 +1,116 @@
+{
+  "bookId": "asp-en-0145",
+  "title": "Inyang and the Bird",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 515,
+  "pageCount": 17,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Inyang and the Bird",
+    "author": "Simon Ipoo",
+    "illustrator": "Catherine Groenewald, Wiehan de Jager, Kathy Arbuckle, Rijuta Ghate, Jemma Kahn",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 19 とページ数 17 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Inyang was an herds-boy. His father trusted him\nwith the duty. He loved his only son for every\nevening the cows would come home with full\nstomachs."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, Inyang requested his\nfather to allow him migrate with\nother young men with cows in\nsearch of green pasture.This\nwas a tradition practiced in\ntheir pastoralist community. like\nother fathers he gave the\npermission."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "For a long time in this new\nplace, Inyang grew thin due to\nlack of enough food.There was\nnobody to cook for him, all he\ndepended on was the little milk\nfrom one of the cows."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "He one day went in the forest and caught a weaver bird. He spared the life of this\nbird and sent it as a messenger back home.He instructed it to deliver the his\nchallenges to his parents.The bird accepted as appreciation for his mercy."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The bird set off.It flew for long but with rests along the way.The bird on its way\nthought of how friendly Inyang was, it promised to do all it can to save him as\nwell.This spirit kept it flying and flying!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The bird flew and flew, with all\nthe air currents and winds\nnothing could stop the mission.\nFrom high up it could spot the\nvillage."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Soon it reached at the village. From Inyangs'\ndescription it easily identified their home.The\nbird was happy for finally identifying this hut!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Form the top of the hut and with a soft and\nunique sound it began singing.At first it\nattracted no attention but as the sweet music\ncontinued people's attention was caught.The\nbird seemed to send some message and\npeople got closer to it."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The bird after the crowd gathered, explained how Inyang was suffering alone in\nthe grassing field.It appealed to his parents to save him.His parents then\nprepared food and planned to go for Inyang."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "They carried food for him among other\nthings.The set off their journey across rivers\nand through forests.Finally they got there."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "They found Inyang under the tree with his herd\nof cows in the field.Although the cows looked\nhealthy, Inyang wasn't.He got thin and had\nempty stomach."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The cows had eaten to their capacity.The green\ngrass was fresh.The cows mooed and enjoyed\nthis wonderful grassland."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Meanwhile, after greetings Inyang was fed with the delicious and appetizing\nfoods his parents carried for him.He enjoyed his meal as the parents admired the\ngrassland in the horizon."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "His father went for the cows...He was pleased of his son and how a realy\nshepherd he was."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Inyang ate enough and drank too. His stomach\nwas no longer empty but full.He was happy of\nhow his parents responded quickly for his help."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "The parents then convinced Inyang to come back home.They told him how the\nrains had started falling at home.Inyang hesitantly accepted to go back.He\nassembled his cows and tarted the journey."
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "In his heart and mind, Inyang was grateful to\nthe bird for saving his life too."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0075",
+  "title": "Sly jackal tricks the silly donkey",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 253,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Sly jackal tricks the silly donkey",
+    "author": "Kholeka Mabeta",
+    "illustrator": "Benjamin Mitchley",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, sly jackal woke\nup early in the morning. He was\nvery hungry. His tummy gave a big\ngrowl. GRRrrrrr! He jumped up and\nwent searching for food."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He wandered around the forest for\nhours without getting any food. The\nsun was very hot. Sly jackal could\nbarely see in front of him. All he\ncould think of was his hunger\npangs."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"Aaauuuu!\" Sly jackal let out a loud\nscream. He fell into a well right in\nfront of him. He was so hungry that\nhe did not spot it."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "\"Oh my hat!\" he thought. \"I have to\nget out of this well. I will die of\nhunger.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Sly jackal screamed and shouted:\n\"Help! Anyone help!\" Donkey was\ngrazing a few metres away from the\nwell. Donkey heard sly jackal's\ndesperate cry. He came rushing."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"What is the matter?\" Donkey was\nvery worried.\n\"The water in this well is cool and\nsweet. I am bored swimming alone.\nI need someone to help me swim.\nPlease will you join me?\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"The sun is very hot,\" said donkey.\n\"I can't swim very well though.\"\n\"Jump in! I will help you come out of\nthe well,\" promised the sly jackal."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Donkey jumped into the well. The\nwater was so cool. He was free from\nthe heat. Before he knew it, the sly\njackal had jumped on his back and\nout of the well. Sly jackal laughed\nand ran away. Donkey was trapped\nin the well. He started screaming\nand shouting: \"Help! Anyone help!\""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "bookId": "pb-en-0260",
+  "title": "Guess this place? Ghost Town!",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ファンタジー",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 206,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Guess this place? Ghost Town!",
+    "author": "Divena & Navika Bharadwaj",
+    "illustrator": "Greystroke, Rijuta Ghate, Sunita Venkatachalam",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2976-guess-this-place-ghost-town",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "At the tip of South India, there lies a beautiful beach\n\nNo one lives there and it's quite hard to reach!\n\n5000 years ago, here Lord Rama had crossed..\n\nLooking for his wife Sita, who was lost\n\nRavana had taken her to Lanka, across the mighty ocean\n\nHow could Rama reach there, for he had no magic potion?"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Ravana had crossed it in his flying machine, for he was rich!\n\nBut Lord Rama was poor, so he had to build a bridge.\n\nLord Rama and his vaanar sena began building a bridge of floating stones\n\nBack in Lanka, when Vibheeshana heard this, he got afraid and moaned!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "But arrogant Ravana refused to listen to his brother\n\nSo Vibheeshana left Lanka to join the camp - other!\n\nFinally, the bridge was ready, but Lord Rama's army was in fear\n\nTo calm them, and for good luck, to Lord Shiva did Rama send a prayer.."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "All this happened at Dhanushkodi, a place that is a ghost town\n\nPeople used to live there, until the place was destroyed by a cyclone\n\nEven now, the temple here has the miraculous floating stones\n\nYou can reach here by jeep\n\nwhich rides in the water deep,\n\nbut the ride may make your bones groan!"
+    }
+  ]
+}

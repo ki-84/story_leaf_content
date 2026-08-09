@@ -1,0 +1,105 @@
+{
+  "bookId": "asp-en-0140",
+  "title": "Bathtub Safari",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 96,
+  "pageCount": 15,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Bathtub Safari",
+    "author": "Tracy Lynn Chemaly, Sarah-Jane Williams",
+    "illustrator": "Robert McEwan",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 18 とページ数 15 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Bathtime is Jack's\nfavourite part of\nthe day.\n'I'll be back in a\nfew moments,'\nsays his mom."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "'Make sure to clean\nbehind your ears.'"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "There's a SWOOSH.\nAnd a swish of a tail."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "And then..."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Jack's bathtub safari begins!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Look at what's coming!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "There's a twist\nand a turn...\nSomething's\ngrowing...\nIt's a..."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Tooot!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "There's a RUMBLE!\nIt's going up\nUP\nUP..."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "And..."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "SPLASH!"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "There's a SPLOSH.\nSomething bubbles.\n\nIt's time to..."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "AAAAAAH.....\nBut something's lurking in the background...."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "ROAR!"
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "'Time to get out. I hope\nyou're clean and\nready for bed.'"
+    }
+  ]
+}

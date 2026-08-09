@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0029",
+  "title": "Going Home",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 292,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Going Home",
+    "author": "Rukmini Banerji",
+    "illustrator": "Ketan Raut, Santosh Pujari",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/144-going-home",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "School is over.\n\nChildren are leaving.\n\nTeachers are leaving.\n\nEveryone is going home."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I come out of the gate.\n\nI am in a hurry.\n\nI do not have time to play.\n\nI do not have time to talk.\n\nI want to get home fast."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I walk down the lane.\n\nIt is a narrow lane.\n\nI can see crowds up ahead.\n\nThere is a big road there."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The big road has lots of traffic.\n\nCars, trucks and cycles, motorcycles, scooters and auto rickshaws.\n\nSome are going this way. Some are going that way.\n\nI know how to find the gap and run to the other side."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I have reached the divider.\n\nThere is traffic in front.\n\nThere is traffic behind.\n\nI must be careful."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I am on the other side.\n\nI almost crash into the chanawallah.\n\nHe growls. I say, “Sorry,” and run along."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "I walk faster and faster.\n\nNow there are fish shops. Big fish, small fish, long fish, flat fish.\n\nShiny fish, dull fish. So many fish in every shop."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "I walk faster and faster.\n\nNow there are fish shops. Big fish, small fish, long fish, flat fish.\n\nShiny fish, dull fish, So many fish in every shop."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Now I must run.\n\nPast the video shops, past the barber shop,\n\npast the cloth shop, past the pan shop.\n\nRunning, running, running down the lane."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Finally I reach home.\n\nOh good! I am not late.\n\nMy father goes to work in the afternoon.\n\nHe has not left as yet. His cycle is still here."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "My father comes outside, my mother is behind him.\n\nI give my father a big hug. My father gives me a big hug.\n\nThen he goes to work. Now there is no hurry. I have lots of time."
+    }
+  ]
+}

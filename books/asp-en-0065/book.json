@@ -1,0 +1,111 @@
+{
+  "bookId": "asp-en-0065",
+  "title": "Ah! Football!",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 253,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Ah! Football!",
+    "author": "Stella Kihweo",
+    "illustrator": "Onesmus Kakungi",
+    "translator": "Ursula Nafula",
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 18 とページ数 16 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I like playing with my\nfriend Chuma."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Chuma and I like each\nother.\nWhen we are sent, we\ngo together."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day I was sent by\nmy grandmother to the\nshop to buy salt and\ncooking oil.\nI went with Chuma."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "On the way, we saw our\nfriends playing football."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I wanted to play the ball\nvery much.\nI said, \"Ah! Football.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I said to Chuma, \"Let's\ngo and ask them to let\nus play with them. I like\nplaying football very\nmuch.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Chuma replied, \"Let us\ngo to the shop first then\nwe can come to play.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "But I told Chuma, \"Let\nus play first! If we go\nhome, grandmother will\nnot allow us.\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Our friends allowed us\nto play the ball with\nthem.\nI was the goal keeper."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "I worked hard to catch\nthe ball.\nMy friends were not\nable to score any goals."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The field was full of\nsand.\nThe goal posts were\nmade of two big stones."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "After the game, we\nwent to the shop but we\nhad lost the money.\nI started to cry.\nChuma said, \"Stop\ncrying. You wanted us\nto play before going to\nthe shop.\""
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "We returned home\nwithout salt or cooking\noil.\nWe were very dirty and\nworried."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Grandmother was very\nannoyed when we\nreached home.\nThe first question she\nasked us was, \"Where\nwere you all this time?\""
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "She forgave us but\nwarned us, \"Never go to\nplay again without\npermission.\""
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "We quickly went to feed\nthe ducks.\nLater on, we cleaned\nourselves."
+    }
+  ]
+}

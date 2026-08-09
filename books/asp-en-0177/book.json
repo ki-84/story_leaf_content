@@ -1,0 +1,76 @@
+{
+  "bookId": "asp-en-0177",
+  "title": "Little Dog",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 191,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Little Dog",
+    "author": "Val Morris",
+    "illustrator": "Heslia Schon",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 11 とページ数 9 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day Little Dog was\nplaying with a ball."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He saw a cat.\nHe said, \"Hello, Little\nCat. Can I play with\nyou?\"\nLittle Cat said,\n\"I will play with you.\nCan I play with your\nball?\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"Yes,\" said Little Dog.\n\"It is a red ball. I will\nkick it to you and you\ncan hit it back to me.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "So the two little friends\nbegan to play.\nLittle Dog said, \"I like to\nplay with you. It is fun.\nYou are a good friend.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The big red ball went\nover the wall. Little Cat\nbegan to cry.\n\"We do not have a ball\nto play with.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"I like to play with the\nbig red ball,\" said Little\nCat.\nLittle Cat began to cry\nand cry."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"I will get the ball,\" said\nLittle Dog and he\njumped over the wall."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Soon he was back with\nthe ball.\nLittle Cat was happy\nthat it was back.\nThe two friends played\nand played."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Little Dog said, \"Come\nto my house and let us\nlook at a picture book.\"\n\nIn the picture book,\nthey saw a little dog\nplay ball with a little\ncat!"
+    }
+  ]
+}

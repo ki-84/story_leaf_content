@@ -1,0 +1,89 @@
+{
+  "bookId": "pb-en-0348",
+  "title": "How Do Aeroplanes Fly?",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "ファンタジー"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 901,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "How Do Aeroplanes Fly?",
+    "author": "Aditi Sarawagi",
+    "illustrator": "Lavanya Karthik",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4314-how-do-aeroplanes-fly",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Sarla liked to watch birds fly.\n\nOne day, during science class, she looked out of the window and saw an eagle gliding in the sky. How happy the bird must be! She also liked to see planes flying.\n\n“Here, what's your name? Should you not be looking at the board?” asked the new teacher in Sarla's class.\n\nSarla got up hastily and said, “Sorry Madam, I was watching an eagle. I wish we could fly like a bird, or like an aeroplane....”\n\n“What is your name?”\n\n“Sarla.”"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "“Oh how nice! Do you know that Sarla was the name of the first Indian women pilot too? My name, Hamsa, means a swan. Swans are one of the largest flying birds, you know,” said the teacher. “You must spend some time in the library, Sarla. I'm sure there are many books about birds and flights, and machines that fly like aeroplanes.”\n\nOver the next few days, Sarla happily learnt a lot about birds, and about aeroplanes."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Sarla learnt that human beings can fly too, but not like birds. We can fly to any city in the world in an aeroplane, one of mankind's greatest inventions.\n\nWith the help of this great machine, we can also experience the joy of being airborne. Birds are aerial creatures that do not need an external machine to fly. Usually, a bird's wings are bigger than the rest of its body. The wings are very light, making it possible for birds to fly."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Aeroplanes are huge and very heavy. Just like birds, aeroplanes have wings on both their sides which help them to fly. The wings of the plane are shaped just like those of birds - curved on the top and flat on the bottom which helps them to fly high up in the sky."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Birds flap their wings to fly, but of course we have never seen an aeroplane flapping its wings! Birds flap their wings as they use the wind to push their body upwards.\n\nAeroplanes also fly with the help of the force of the wind. This machine uses the engine inside its body to create wind that flows below the plane."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "An engine is a very strong machine which acts like the brain of the plane. Just like a bird uses its mind and logic to navigate its flight, engines help planes to push them above the ground and to help them move forward. When the plane's engines burn fuel, they release hot gases at high speeds which push on the air behind the engine, moving the plane forward."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Cars and other vehicles with engines move forward too. But they cannot go up in the sky like planes. The wind flows over and under their wings which are shaped like birds' wings and lifts the plane into the sky and keeps it there.\n\nPlanes also have tails, just like birds, to keep them steady and help them change direction.\n\nٴ"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Planes need big long roads to take off and land. These long roads are called runways and planes need to travel very fast on the runway before they can take off into the air. Planes need to gain a lot of speed to lift off in the air.\n\nMost aeroplanes can take off only if they are moving fast enough. The runway is an important part of the airport as it gives aeroplanes enough time to increase their speed and ultimately take off."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Planes know where they have to go because they are steered by pilots. The pilots control the plane from a place in the front of the aeroplane called the cockpit. They keep in contact with the airport (a place from where the planes take off and land) through very accurate and modern devices. Just like there are signals and police to help us on the roads, there are air traffic controllers who tell pilots when and where to fly; and when it is safe to take off or land.\n\nA plane is actually a giant bird. It is not only shaped like a bird, it also allows us to fly, though not like birds! Sarla wants to be a pilot and fly aeroplanes when she grows up."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Did You Know?\n\nIndia's first aircraft was the Harlow which first flew in July 1941.\n\nThe first pilot license in India was awarded to JRD Tata in February 1929 by the Aero Club of India and Burma."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The fastest jet aircraft in the world is the Lockheed SR-71 Blackbird which flies at a speed faster than the speed of sound.\n\nSarla Thakral was the first Indian woman to fly an aircraft. She was also the first woman pilot to accumulate over 1000 hours of flying."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Let's take off!\n\nHave fun with friends with these activities:\n\n1. Make paper planes and see whose plane goes the farthest. Is it the paper or the way it has been made that makes a paper plane go faster? Observe what happens when each plane is launched. Is there a difference if you blow over, or into or under the plane before you shoot it off?\n\n2. Fly-Don't fly Game: Get a group of friends to 'fly' around the room, without touching each other. The den stands in a corner and calls out the names of flying or non-flying objects. When a non-flying object (like table) is called, the 'planes' must 'land' (sit down). Whoever makes a mistake is the next den."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "bookId": "pb-en-0080",
+  "title": "The Day the Vegetables Came to School",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 478,
+  "pageCount": 15,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Day the Vegetables Came to School",
+    "author": "Venkatramana Gowda",
+    "illustrator": "Padmanabh",
+    "translator": "Divaspathy Hegde",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/650-shaalege-banda-tharakaarigalu",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 17 とページ数 15 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One morning not so long ago, Raju was on his way to school as usual. He loved school and was walking along happily, looking forward to the day. That was when he saw something very strange: ahead of him were some unusual shapes, heading towards school themselves, schoolbags slung over their shoulders."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "As he came closer to the shapes, Raju wondered if they were vegetables, the kind he had seen so often in the market. He rubbed his eyes in disbelief."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The vegetables looked fresh and healthy. They were marching towards school like little soldiers, one behind the other."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Raju walked faster and faster. He was full of curiosity about his new schoolmates, and wanted a closer look at them."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "At long last, Raju caught up with the shapes marching ahead of him. He stared at their faces, mouth open in surprise."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Just as he had guessed, the shapes were really vegetables: potatoes, sweet potatoes, yams, and all the other root vegetables he had seen in the market."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"What? Is it really you?\" The question popped out of his mouth before he realized it. The vegetables did not reply. They just looked at each other and smiled, amused at his amazement."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "“Where are you going?” asked Raju in wonder. “Where else?” replied the vegetables, speaking together as one. “We're on our way to your school!”\n\nRaju nodded. He didn't know what to say. He continued on his way to school."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "A little while later, Raju looked back to see if the vegetables were still around. That was when he had his second surprise of the morning. A parade of green leafy vegetables had now joined the root vegetables. They were also marching towards his school, their schoolbags over their shoulders."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Now that he was part of the parade himself, Raju's joy knew no bounds. No one he knew had ever gone to school as part of a vegetable parade before!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "By and by, the parade reached the school. All the children came to the door to watch the strange procession. Their mouths fell open at the sight. Their eyes were round with astonishment."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Raju's teacher came forward to welcome them.\n\n“Good boy!” she said, patting Raju on the back.\n\nRaju was delighted. “Thank you, teacher,” he said happily.\n\nThe other children clapped and cheered. The teacher left but someone continued to pat him, and quite hard too."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Raju opened his eyes. His mother was shaking him awake, saying, “Wake up, Raju! You're going to be late for school.”\n\nRaju was fully awake now. “I've been dreaming,” he said to himself. “What a strange dream I've had!” Raju got out of bed, smiling to himself. He would have to hurry if he wanted to get to school on time."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Use your imagination and colour this picture anyway you like."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Use your imagination and colour this picture anyway you like."
+    }
+  ]
+}

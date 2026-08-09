@@ -1,0 +1,114 @@
+{
+  "bookId": "pb-en-0117",
+  "title": "Tok Tok",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "むかしばなし",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 903,
+  "pageCount": 17,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Tok Tok",
+    "author": "Vidya Pradhan",
+    "illustrator": "Reshma Barve",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/986-tok-tok",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Tok-tok tok-tok!\n\nRaja Petuchand of Sonapur buried his head under the pillow. The butter chicken he had enjoyed a little too much last night was already giving him trouble. Now this awful noise!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "“Do you have to get the palace work done at this hour?” he grumbled to queen Suruchi. But she was snoring peacefully next to him in the king-sized bed, dreaming of the next palace festival.\n\nTok-tok... tok-tok!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "“What nonsense!” said Petuchand. “I am the king and I forbid this tok, tok sound!”\n\nHe got up and opened the door, adjusting the royal robes around his ample stomach. The sentries were looking around nervously."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "“What is this commotion?” the king asked his bodyguards angrily.\n\n“No idea, sire,” said the guards, shaking a little bit. “We've been searching for the person making the noise. But we have not found anything.”\n\n“Idiots,” the king grumbled under his breath. “If you don't find out what it is in the next five minutes, I'm firing all of you,” he shouted.\n\nTok-tok... tok-tok!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Immediately the guards called Ranveer Singh, the captain of the army. He was six feet tall and three feet wide and his long curling mustache frightened everybody."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "“Sir, please help us find what is making this tok-tok sound or we will all lose our jobs,” they pleaded with him.\n\n“Fools!” Ranveer Singh muttered. He collected a platoon of soldiers.\n\nTok-tok... tok-tok!\n\n“Ready, men? Go find this intruder right now!” he ordered. The men marched all around the palace searching, searching, searching."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "They looked into all the windows, scaring the sleeping children. They opened all the boxes and tapped all the walls, creating so much noise themselves that nobody in the palace got any sleep that night. Tok-tok tok-tok!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The next morning the king overslept and was late to the durbar. His first case was about two men who said they owned the same cow.\n\n“It's mine,” said the first man.\n\n“No, I've been milking her for two years,” said the other."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "“Oh, really? I've been offering sweets made from her milk to the goddess for the last three years,” said the first.\n\n“My head hurts,” said the king to his prime minister, Chintamani."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "“And last night's butter chicken is still squawking in my stomach. Just cut the cow in two and give half to each. I want them to stop complaining.”\n\n“Uh sire, it is a cow,” whispered Chintamani. “Cutting it in two might not be a good idea.”\n\nOne of his jobs was to make sure the king did not issue any crazy orders, which Petuchand was quite capable of doing when he was hungry or tired. The worry had made Chintamani bald before his time."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "“Of course,” said the king, slapping his forehead. “Well, how am I supposed to be a just and wise king when I haven't slept all night?”\n\nRaja Petuchand told Chintamani about the tok-tok sound.\n\n“I have just the person to help,” said the minister with a smile of relief."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "That night he bought Pasupati the zoo-keeper to the palace after everyone had gone to bed.\n\nTok-tok tok-tok!\n\nWhen the zoo-keeper heard the sound he rushed home and brought back a cage and a bowl of worms. Pasupati then had the royal carpenter cut a hole in the wall nearest the sound. He put the bowl of worms near the hole. Everybody stepped back and waited silently."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "A small red and brown bird with a long yellow beak stepped out of the hole and jumped into the bowl.\n\nSwoosh! The bird was in the cage. The king was amazed.\n\n“Such a tiny bird and such a loud noise! Thank you everyone. You have done a great service to the country.”\n\nThe next morning the king reached the durbar bright and early. Pasupati the zoo-keeper was standing in front of him.\n\n“Sire, I cannot keep the bird.”"
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "“What happened?” asked the king.\n\n“The tok-tok noise kept all the animals in the zoo awake. They are all sleeping now and the children visiting the zoo are very disappointed.”\n\n“Hmmm,” said the king. He wondered if the bird would make a good cutlet.\n\n“No sir, we cannot kill the bird,” said Chintamani firmly. He was good at guessing the king's thoughts.\n\n“It is very rare and must be considered a lucky bird.”"
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "“Then what do we do?” asked the king. “If the animals cannot bear the noise then my citizens certainly cannot. And we cannot have a country full of sleepless people.”\n\nAnother minister stepped forward bravely. “Sire, I would be willing to keep the bird. I have a newborn baby boy and his crying keeps us up at night anyway.”\n\n“No, no, we need to find a better place,” said Chintamani."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "“Aha!” he exclaimed suddenly. “We need to find a place for the tok-tok bird where nobody must sleep at night. I have the perfect plan, sire!” he said."
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "And that is how the tok-tok bird ended far away from the palace and the towns of Sonapur, giving company to the border patrol. It kept the soldiers awake every night and did its job so well that it became the official bird of the country. The kingdom's enemies could never get by the alert Sonapur soldiers and grumbled that the country should change its name to Jaagpur instead."
+    }
+  ]
+}

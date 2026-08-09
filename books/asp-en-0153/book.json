@@ -1,0 +1,75 @@
+{
+  "bookId": "asp-en-0153",
+  "title": "Rats!",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 158,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Rats!",
+    "author": "Lourenço Magaia Sabão",
+    "illustrator": "Stephanie Simpson",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 11 とページ数 9 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was a man who sold oil\nthat he made in his house."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "And in that house there\nwere rats. Lots of rats!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Every day the rats looked\nat the oil and said, \"How\ncan we get that oil?\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The rats tried to put their\nmouths into the bottles. But the\nspaces in the bottles were too\nsmall."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The rats tried to tip over the bottles. But the oil would not flow out."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The rats had a meeting to\ndiscuss the problem. After a\nwhile, one rat said, \"Let's put\nour tails into the bottles. Then\nwe can lick the oil off our tails.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "And that's exactly what the rats did. They put their tails into the bottles,\nand then licked the oil off each other's tails. The rats did this until they\nhad licked up all the oil."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The man of the house saw\nthat all his oil was gone!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "And that was the end of it."
+    }
+  ]
+}

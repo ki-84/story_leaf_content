@@ -1,0 +1,60 @@
+{
+  "bookId": "pb-en-0020",
+  "title": "Rani's First Day at School",
+  "slug": "rani-s-first-day-at-school",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 179,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "storyweaver (global-asp/pb-source mirror)",
+  "attribution": {
+    "title": "Rani's First Day at School",
+    "author": "Cheryl Rao",
+    "illustrator": "Mayur Mistry",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/98-rani-s-first-day-at-school",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "bundled": true,
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "It is my first day at school.\n\nMummy is holding my hand and walking with me.\n\n“I am grown up now,” I say. “Let go, let go!”\n\nMummy holds my hand very tight."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "There are many children near the school.\n\nThey come by bus. They come by car.\n\nThey come by rickshaw. They cycle.\n\nThey walk, like me."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "We reach the gate. Mummy lets go of my hand.\n\nShe stays at the gate. I have to go inside alone.\n\nThere are many new faces all around me."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I take one step. I take another step. I look back. Mummy gets smaller as I walk away. Will she disappear?\n\nI run back to her. I don't feel so grown up. I hold her hand.\n\n“Don't go away,” I say."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Everyone is inside now. I am the only one outside. The teacher comes out. She smiles at me. I smile back.\n\nMummy says, \"Rani, I will be here when you come out.\"\n\nI let go of her hand. She waves to me."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I run inside. Mummy will be there after school!"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "bookId": "asp-en-0174",
+  "title": "Who is Big?",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 104,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Who is Big?",
+    "author": "Sara Saunders",
+    "illustrator": "Wiehan de Jager, blackmoondev.com, Karen Lilje",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 9 とページ数 7 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Ant looked at the little\nplants and pebbles\naround him. \"I am big!\"\nhe said."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "\"No, Ant. You are not\nbig,\" said Squirrel. \"I am\nbig!\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"No, Squirrel. You are\nnot big,\" said Cat. \"I am\nbig!\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "\"No, Cat. You are not\nbig,\" said Hyena, \"I am\nbig!\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "\"No, Hyena. You are not\nbig,\" said Rhinoceros, \"I\nam big!\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"No, Rhinoceros. You\nare not big,\" said\nElephant, \"I am big!\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Then Elephant looked\nup at the sky. The sky\nwas full of stars. The\nsky was big and wide\nforever in every\ndirection. \"No, I am not\nbig, either! All of us are\nsmall!\""
+    }
+  ]
+}

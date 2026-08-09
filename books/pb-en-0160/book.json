@@ -1,0 +1,49 @@
+{
+  "bookId": "pb-en-0160",
+  "title": "Preetha Aunty- My teacher",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 108,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Preetha Aunty- My teacher",
+    "author": "Arthi Anand-Navaneeth",
+    "illustrator": "Greystroke, Herminder Ohri, Rijuta Ghate, Sheetal Thapa, Soumya Menon",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1812-preetha-aunty-my-teacher",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "This is Preetha Aunty. She teaches us Hindi.\n\nWe began with the letters, now we have finished up till 'dda'."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Preeta aunty tells us one or two words with the letters.\n\nKa se Kamal, Ka se kalam, Ka se Kutta.\n\nAunty drew the lotus and the pen. But she did not know how to draw the dog.\n\nSo I drew it for her!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "It is my birthday, I am very happy.\n\nI got chocolates for all my friends and teachers."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I gave a chocolate to Preetha Aunty.\n\nShe told me \"Dhanyawaad\"\n\nI also said Dhanyawaad because I did not know how to say\" Welcome\" in Hindi.\n\nDo you?"
+    }
+  ]
+}

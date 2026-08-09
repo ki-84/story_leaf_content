@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0325",
+  "title": "Rat and Frog",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 110,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Rat and Frog",
+    "author": "Bubaali Primary School",
+    "illustrator": "Stephanie Simpson, Hélder de Paz Alexandre, Magriet Brink, Emily Berg",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "In the past, rat and frog\nwere friends."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "They lived on the same\nvillage"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Rat was a farmer of maize , Frog\nwas not interested in that job.\n\nAt rat's home food was always\nthere"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "His children never knew\nwhat famine is His\nchildren never got\nhungry"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "At frogs home, there\nwas always famine This\ncaused frog to always\nbeg maize from Mr. Rat"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "It never pleased Mr. Rat\nto feed frogs family Mr.\nRat got a good wisdom\nthat the agriculture\ndepartment passed a\nlaw."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Only maize grain should\nbe eaten not flour. This\nbecame very hard for\nthe frog"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "From that time to now\nfrog cannot eat maize\ngrain."
+    }
+  ]
+}

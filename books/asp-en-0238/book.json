@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0238",
+  "title": "Who wet the bed?",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "ファンタジー"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 120,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Who wet the bed?",
+    "author": "Ivan higenyi",
+    "illustrator": "Jesse Breytenbach, Rob Owen, Amy Uzzell, Rijuta Ghate, Bronwen Heath, Genevieve Terblanche, Catherine Groenewald, Felicity Bell, Melany Pietersen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "The night has come again and it\nis dark."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "After meals I go to bed with my\nyoung sister Anna."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I am always scared because\nevery night I wet the bed."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Whenever I dream, I suddenly\nwake up wet."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I quickly change position and\nsleep in Anna's which is dry and\nwarm."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "In the morning, I wake up first\nand leave Anna in bed."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "And when mother asks who wet\nthe bed, I loudly say it is Anna."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "So the next day mother decides\nto sleep with Anna in her bed."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Unfortunately, the same thing\nhappens and now there is no\none to else to blame."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Finally mother finds out that\nAnna does not wet the bed but I\ndo."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "bookId": "pb-en-0019",
+  "title": "The Cat in the Ghat!",
+  "slug": "the-cat-in-the-ghat",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 1221,
+  "pageCount": 24,
+  "coverImagePath": "images/01.jpg",
+  "source": "storyweaver (global-asp/pb-source mirror)",
+  "attribution": {
+    "title": "The Cat in the Ghat!",
+    "author": "Ambika Rao",
+    "illustrator": "Ruchi Shah",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/94-the-cat-in-the-ghat",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "bundled": true,
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "This story is about an uncle named Sandy,\n\nWho likes his camera so much,\n\nhe always keeps it handy.\n\nLet's rewind to when Uncle Sandy\n\nwas a little boy,\n\nUnlike his friends,\n\nhe never dreamt of a fancy toy."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Lost in books that spoke of magical creatures,\n\nEven in class, he never listened to his teachers.\n\nAs time passed by,\n\nUncle Sandy became a wildlife photographer,\n\nWhile his friends became doctors, engineers\n\nand dance choreographers."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Uncle Sandy didn't want to work in big offices,\n\nHe wanted to take pictures of snakes,\n\ncrocodiles and tortoises.\n\nSo he decided to leave\n\nhis family and friends behind,\n\nAnd took off to the jungles with freedom in mind.\n\nOn his first expedition to the Western Ghats,\n\nHe had his first encounter with a mysterious cat.\n\nUncle Sandy has been on its trail ever since,\n\nHoping to click a picture of it, for evidence."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "So he decided to revisit the Western Ghats,\n\nThrough its spiraling path in search of the cat.\n\nThe cat in the ghat!\n\nThe plan was to speak to animals along the way,\n\nTo get clues about this cat\n\nwhose colour he knew was grey."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "He began his journey\n\nat the foothills of the Ghats,\n\nWith the summer sun so hot,\n\nUncle Sandy needed a hat.\n\n“Let's look for waterholes,” he said to himself,\n\nHe knew that's where the animals would tread."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "And guess who he got to meet,\n\nThe top cat himself, Mr. Tiger to greet.\n\n“Oh mighty tiger,” he said, “would you have\n\nseen a cat?\n\nIt is tall, swift and the colour of my hat.”\n\nThe tiger didn't have much to say,\n\nHe roared and looked the other way."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Phew! That was close, he thought,\n\nJust as he was drenched by giant rain drops.\n\nAlong with the shower came a\n\nswarm of termites,\n\nWho were sadly eaten by ants, at first sight."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Rains in the Western Ghats\ncome down as waterfalls,\n\nWaterfalls become rivers and\n\nthat's how there's water for all.\n\nSo, if we need water to drink,\n\nProtecting the Western Ghats is the link."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "What Uncle Sandy saw next filled him with glee,\n\nA family of elephants bathing in a pond, yippee!\n\nThey were making the most\n\nof the pre-monsoon showers,\n\nSome were kicking grass,\n\nothers showing off their powers.\n\n“Excuse me you all,” said Uncle Sandy, waving his hat,“Would you have seen a big grey cat?”"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "“No, no, no,” they all went in chorus,\n\n“We haven't seen him around here, we promise.”\n\nUncle Sandy found himself in the rainforest soon,\n\n“The second level of the Western Ghats,”\n\nhe crooned.\n\n“Bark!” came a reply through the forest dense.\n\n“Oh that's a Barking Deer I hear, it means no offence.”"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Up in the trees chomping through a jackfruit,\n\nHe saw a lion-faced monkey, brute.\n\nA Lion-tailed Macaque is what it is, he knew,\n\nHe'd looked through an encyclopedia of animals, woohoo!\n\n“Help me find a grey cat, will you?” said Uncle Sandy.“Okay,” said the feasting monkey."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "“Walk straight through the tall green trees\n\nTill you find one with a giant hive of bees.”\n\n“Under that tree lives a frog so rare\n\nIt lives underground, hiding from the\n\nsun's glare.”\n\n“He's a clever frog I'm told,\n\nKnows the whole jungle inside out and two-fold.”\n\nUncle Sandy was so eager to look for the froggy\n\nHe left without saying thank you to the monkey."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Left, right, left, right, Uncle Sandy marched,\n\nWalking through a row of trees that were arched.\n\nThen he saw a tree very tall\n\nWith a big beehive that was just about to fall."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "“Ribbit ribbit,” said a frog,\n\nBut Uncle Sandy could not see it through the fog.\n\n“Oh you're the man\n\nwho comes in search of a cat,\n\nI heard about you from a clever little bat.”\n\nSaid Uncle Sandy,“Please will you tell me where he is? I'll give you an exotic flower, an Iris.”"
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "The frog was purple in colour,\n\nHe's the only one of his kind in India,\n\nNasika batracus.\n\nThe frog told him that he'd meet a tribesman,\n\nWho'd know where the cat lived, and would guide him.\n\nUncle Sandy nodded, still in shock,\n\nHe had just seen the most extraordinary frog."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "As he went further into the forests so thick,\n\nHe saw that the trees were getting fewer\n\nvery quick.\n\n“People cut trees,” he said, “to make products very cheap, And the poor animals, they have no place to sleep.”\n\n“These jungles are their homes you see,\n\njust like our houses back in the city.”\n\nSad and disheartened by the state of affairs,\n\nUncle Sandy decided to say a silent prayer."
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "“Protect these forests, oh dear God, please,\n\nSave them so the animals can live in peace.”\n\nSaying so he carried on,\n\nthe high altitude grasslands waiting,\n\nAnd that's where he'd find\n\nthe cat from its hiding."
+    },
+    {
+      "index": 17,
+      "imagePath": "images/19.jpg",
+      "text": "The remotest of places in the whole of the Western Ghats,\n\nThe grasslands so green, Uncle Sandy just sat.\n\nStaring at the miracle of creation\n\nand the beauty of this place,\n\nThis, he felt, was really his land of fairy tales.\n\nPat came a tap on his back,\n\nHe turned to see a face painted black."
+    },
+    {
+      "index": 18,
+      "imagePath": "images/20.jpg",
+      "text": "“Who are you, Sir?” Uncle Sandy questioned\n\n“I am a tribesman who lives here unquestioned.”\n\n“Oh but sir, will you be as kind\n\nTo answer one question I have on my mind?\n\n“Where can I find the special cat I'm looking for?\n\nI've seen it only once before.”"
+    },
+    {
+      "index": 19,
+      "imagePath": "images/21.jpg",
+      "text": "“Are you talking about Pogeyan?” he said. Uncle Sandy wasn't sure what he meant.\n\n“The cat that comes and goes as the mist,\n\nAre you referring to that elusive cat that exists?”\n\n“Yes Sir, that's the one,” Uncle Sandy affirmed.\n\nHe was so happy he could've drummed\n\nand hummed.\n\n“Aha!” said the tribesman, pointing to the mountains higher up,“I've seen the cat over there, all of three times in close-up.”"
+    },
+    {
+      "index": 20,
+      "imagePath": "images/22.jpg",
+      "text": "Uncle Sandy was feeling extremely blessed.\n\nHe did a somersault that left the tribesman perplexed.\n\nUncle Sandy was whistling to himself,\n\nand climbing\n\nWhen he saw two male Nilgiri Tahrs head-butting.\n\nLooking at how well they'd adapted to\n\nthe terrain,\n\nUncle Sandy wished he too was born on the mountains."
+    },
+    {
+      "index": 21,
+      "imagePath": "images/23.jpg",
+      "text": "Sure he'd find his cat somewhere around here,\n\nUncle Sandy decided to put camera traps all over.\n\nThen he slept a good night's sleep\n\nUnder an open twinkling sky, on a hillock steep.\n\nWhen he woke up, he ran to his camera traps and checked.\n\nYes, yes, yes, there were images of his cat!!\n\nThe cat in the ghat!"
+    },
+    {
+      "index": 22,
+      "imagePath": "images/24.jpg",
+      "text": "The cat looked the same as it did ten years ago,\n\nUncle Sandy was happy, ho, ho, ho!\n\nThat's when he felt\n\na tiny snake crawling over his feet.\n\nHe was startled, and realised he'd been dreaming in his sleep.\n\nUncle Sandy prayed his dream would come trueHope he finds his grey cat soon, don't you?"
+    },
+    {
+      "index": 23,
+      "imagePath": "images/25.jpg",
+      "text": "The Cat in the Ghat is a whimsical tale of Uncle Sandy going in search of a mysterious cat in the Western Ghats. It has been inspired by the real-life expedition by Sandesh Kadur, a National Geographic Emerging Explorer, wildlife filmmaker and conservation photographer.\n\nHis goal is to inspire people to protect and appreciate what remains of our wilderness. He is still looking for the Pogeyan!"
+    }
+  ]
+}

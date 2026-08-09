@@ -1,0 +1,74 @@
+{
+  "bookId": "pb-en-0372",
+  "title": "Mango Tango",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 321,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Mango Tango",
+    "author": "Reshma Jannath",
+    "illustrator": "Archana Sreenivasan, Greystroke, Jagdish Joshi, Ketan Raut, Nimret Handa, Rijuta Ghate, Sanjay Sarkar, Sonal Gupta",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4728-mango-tango",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Pappa brought home some juicy mangoes.\n\n\"Yummy, yummy\" said Nayana and Zia dancing a tango.\n\n\"Let's plant this seed\" Nayana said holding the mango seed.\n\n\"Yes! It will grow to a big mango tree\" Zia agreed."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "They dug the soil behind their school and planted the seed.\n\n\"Grow little seed, grow as tall as the sky\" they danced with their friends around the seed."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The next morning they came running to see the tree.\n\nAlas! No tree! Nothing!\n\nSo they left the seed and went their way."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Mr. Sniffy came searching for food.\n\n\"sniff sniff\" he sniffed the seed.\n\nOh ho! will it eat our seed?\n\nMr. Sniffy the squirrel gathered dry leaves and laid it over the seed.\n\n\"Winter's coming, sleep well little seed\"\n\nThe seed snuggled under the leaves and dreamed."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Spring sprang up! And with it came dragonflies waving their beautiful wings.\n\n\"Swishyswashyswishyswashy wake up lil seedyswashy\" their wings sang.\n\nOur little seed raised its teeny weeny greeny head and looked around.\n\n\"What a beautiful world!\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Along came a hen pecking and clucking\n\nOh ho! will the hen eat up the tiny little shoot?\n\n\"Cluckety cluck, what a lovely sight!\"\n\nThe hen gave the thirsty little shoot a beak full of water.\n\n\"Gulp gulp\" our shoot drank it all up and smiled."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "SillyOzzy came and sang a silly song.\n\n\"vivellybivelly mangotango bivellyvivellytangomango\n\npippelytippely mango tippelypippely tango\"\n\nOur little plant danced and grew long."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Seasons came one by one,\n\nSpring, Summer, Fall and Winter.\n\nSunshine, rainbow and rolling thunder\n\nHad their fun and said goodbye when they were done.\n\nOur little tree smiled at the sun and the rain,\n\nAnd grew enough leaves to cover a train."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Nayana and Zia came walking by\n\nAnd thud! A ripe mango fell on their heads.\n\nThey looked up, and what a sight it was!\n\nGolden and yellow , a sky full of sweet mangoes!\n\n\"That's the prettiest sky ever\" they sang with joy!"
+    }
+  ]
+}

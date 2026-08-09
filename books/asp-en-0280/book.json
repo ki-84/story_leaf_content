@@ -1,0 +1,74 @@
+{
+  "bookId": "asp-en-0280",
+  "title": "Why Frog is So Ugly",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 137,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Why Frog is So Ugly",
+    "author": "Mozambican folktale",
+    "illustrator": "Hélder de Paz Alexandre",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Many years ago, the\nLizard and the Frog\nwere friends. One day\nthey decided to look\nfor girlfriends in the\ncity."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The Frog was jealous\nof the Lizard's shining\nand brilliant skin."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He said: What did you\ndo to look so beautiful?\nLook at me,I am so ugly.\nWhat can I do about my\nskin?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The Lizard said:\nListen! Put some water\nin a pot and put it on\nthe fire.\nNext you..."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "But the Frog said: I\nknow already, I know.\nShut up, my friend. And\nhe left."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "So he arrived home and\nput some water in\na pot."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "When the water began\nto boil, he threw himself\ninto it."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "and his skin was burnt\nand his tail came off!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "And instead of being\nbrilliant and beautiful\nlike the Lizard, he was\neven more ugly!"
+    }
+  ]
+}

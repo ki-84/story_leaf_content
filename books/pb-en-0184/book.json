@@ -1,0 +1,104 @@
+{
+  "bookId": "pb-en-0184",
+  "title": "The boy who hated vegetables",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 272,
+  "pageCount": 15,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The boy who hated vegetables",
+    "author": "Prakruti & Shruti Bhat",
+    "illustrator": "Angie & Upesh, Deepa Balsavar, Padmanabh, Rijuta Ghate, Suvidha Mistry, Tanvi Choudhury",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2093-the-boy-who-hated-vegetables",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "This is Chinnu. He is 5 years old."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Chinnu loves to eat chocolates. Chocolates for breakfast. Chocolates for lunch. Chocolates for dinner. Yum!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Amma would try to coax him to eat other food. But he only wanted chocolates."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Amma even hid them on the top of the cupboard. But Chinnu found them. He even gave some to the dog."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "When Amma gave him rice & vegetables to eat, he screamed for chocolate."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "This made Amma very angry with Chinnu. \"How can anyone grow without eating vegetables?\", she said. Vegetables are your friends. Friends? How can vegetables be my friends? he thought."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "That night Chinnu dreamt about all the vegetables. Tomato, Carrot, Potato, Cabbage, Radish, Capsicum, Beans & Ladies Finger."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Chinnu dreamt that all his friends had turned into vegetables and followed him to school."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Vaibhav was a potato. Joshua was a carrot . Jeshur was a TOMATO!!!"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "TRRRRRRING!! Rang the alarm clock. It was time for school. Chinnu was very scared of the dream. He asked God not to turn his friends into vegetables. He promised to start eating vegetables again."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "All the way to school, Chinnu was very scared. Did his friends really turn into carrots & beans? Maybe a potato or a tomato. Oh Dear!"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "But Vaibhav was the same. Joshua was the same and thankfully, Jeshur looked like himself too. Phew! Chinnu was very happy."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "That night when Appa called Chinnu for dinner, Chinnu suddenly said, \"Amma, give me vegetables. I now LOVE vegetables\""
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Amma was very happy to hear this. Oh! Come, I will make you lots of yummy food. Carrot Sabji, Potato fries, Beans Sambar."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "From that day, Chinnu loved all vegetables."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "bookId": "pb-en-0106",
+  "title": "What If?",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 210,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "What If?",
+    "author": "Hari Kumar Nair",
+    "illustrator": "Hari Kumar Nair",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/880-what-if",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "My name is Shyam, I am ten years old.\n\nI am a little skinny, but very bold!\n\nWaking up for school is no fun at all\n\nI am so sleepy as I get up, I think I will fall."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "My eyes close as I begin to brush,\n\nI hear Amma making dosas in a rush.\n\nMy mind slowly begins to wander away,\n\nAnd many, many ideas come into play."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "What if my neck was ten times as long?\n\nHalf in school, half at home, where would I belong?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "What if my legs were as tall as trees?\n\nMy school building would only come up to my knees!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "What if my arms were strong enough?\n\nThen, lifting Amma would not be tough!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "What if there was nothing too hard for my teeth?\n\nThink of all the things I could eat!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "What if my belly was as round as could be?\n\nAll my friends could jump and bounce off me!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "What if I had big and floppy ears?\n\nI could hear everything, far and near!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "What if — I begin, but Amma shouts,\n\n“Shyam, you'll be late, what are you thinking about?”"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "I find myself still standing with my brush in my hand,\n\nAnd I smile and think of my secret little land."
+    }
+  ]
+}

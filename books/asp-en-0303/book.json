@@ -1,0 +1,101 @@
+{
+  "bookId": "asp-en-0303",
+  "title": "Namukhaywa",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 426,
+  "pageCount": 14,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Namukhaywa",
+    "author": "Matthews M Wanga",
+    "illustrator": "Wiehan de Jager, Ursula Nafula",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 16 とページ数 14 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Long time ago, in the village of\nElunyiko, there lived a man\ncalled Ndong'a and his wife\ncalled Namukhaywa. They had\nsix children. All of them were\ngirls."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "When Namukhaywa was\npregnant with her seventh\nchild, Ndong'a warned her, \"If\nyou give birth to another girl, I\nwill leave you. But if you give\nme a baby boy, I will hold a big\nparty for you!\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "When it was time to give birth,\nNamukhaywa went to the\ntraditional midwife. Would the\nchild be a girl or a boy?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "It was a boy AND a girl – twins!\nShe called the boy Mukhwana,\nand the girl she called Mulongo.\nAs she looked at Mukhwana,\nshe was very happy. But as she\nlooked at Mulongo, she felt sad.\nShe felt that there was only one\nthing she could do."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Namukhaywa left Mulongo in\nthe care of the midwife and\ntook Mukhwana home to her\nhusband."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "She proudly showed Ndong'a\nthe baby boy. He was very\nhappy and called all the\nvillagers to celebrate the birth\nof his son."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Mukhwana grew up to be a fine\nyoung man. And Mulongo grew\nup to be a fine young woman."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "One day, while minding his\nfather's cattle, Mukhwana saw a\nvery beautiful girl.\n\"This is the girl I want to\nmarry,\" he said to himself."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "But when he asked her to marry\nhim, she sang this song:\n\"Mukhwana wefwe, Mukhwana.\nSo yakhupa omunwa,\nMukhwana.\nNebebula omukhana,\nMukhwana.\nBarulaka khulwanda,\nMukhwana.\nNebebula omusiani, Mukhwana.\nBarera mungo muno,\nMukhwana.\nIyeyi yakwa, Mukhwana.\nIyindi yakwa, Mukhwana.\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "This happened again and again.\nMukhwana did not know what\nto do. So he went to his mother,\nNamukhaywa.\n\"I have found a beautiful girl,\"\nhe said. \"And I want to marry\nher. But every time I ask her,\nshe sings the same song.\""
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "To his surprise, Namukhaywa\nsaid, \"What the girl is singing\nabout is true. That is your sister.\nYou were born twins. Your father\nwanted a son, not a daughter.\nSo I left your baby sister with\nthe midwife, and brought you\nhome to your father.\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "When Mukhwana told his father\nthe story, he saw that he had\nbeen wrong. He called\nNamukhaywa and together they\nwent to the midwife to fetch\nMulongo."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "When Mulongo arrived home,\nher father and the village elders\nslaughtered a goat and\nperformed the traditional\nceremony for\nre-uniting Mulongo and her\nseven siblings."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "A year later, Mulongo was\nmarried to the son of the rich\nking of that village. She brought\na lot of wealth and happiness to\nher family."
+    }
+  ]
+}

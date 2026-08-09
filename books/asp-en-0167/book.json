@@ -1,0 +1,84 @@
+{
+  "bookId": "asp-en-0167",
+  "title": "The seventh sun: A tribal tale from Odisha, India",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 380,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The seventh sun: A tribal tale from Odisha, India",
+    "author": "Indian Folktale",
+    "illustrator": "Pratham Books",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Long, long ago there were seven\nsuns in the sky.\nTheir rays made the earth so hot\nthat human beings could not bear\nit."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "So, the seven brothers belonging to\na tribe called the Munda decided to\nkill the suns.\nThey shot arrows at them and were\nable to kill six of the suns."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The seventh sun hid behind a hill."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Now, with the suns gone, there was\ndarkness everywhere.\nThe deer could not see the tigers,\nthe elephants bumped into trees,\nthe rabbits walked over the lions\nand there was confusion all around."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "To find a way out, the animals\ndecided to have a meeting.\nA rabbit told them about one of the\nseven suns who was still alive and\nhiding behind a hill.\nBut who would be the best one to\ncall out to the sun?"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"I will call out to the sun,\" said the\nlion, for he was the king of the\nforest.\n\"Sun, sun, please do not run away\nfrom us. Come back in and shine on\nus,\" roared the lion.\nBut the sun did not listen to him."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The elephant called out next.\nHe raised his trunk and trumpeted,\n\"Sun, sun, please come back,\" but\nthe sun did not listen to him."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The beautiful peacock danced and\npleaded, \"Sun, sun, please come\nback,\" but the sun refused to come\nout.\nOne after the other, all the animals\ncalled out to the sun, but he did not\nlisten to any of them.\nFinally, a rooster offered to call the\nsun. Everybody laughed. The lion\nwas a fair leader. He said, \"The\nrooster should be allowed to try.\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The rooster stepped forward and\ngently crowed, \"Kookoodokoo koo.\"\nTo everyone's surprise, the sun\npeeped out a little from behind the\nhill."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The rooster crowed again, this time a little boldly,\n\"KookoodoKOO-KOO...\"\nThe sun came up a little higher. The rooster crowed\nfor the third time. This time it was louder and bolder,\n\"KOOKOODOKOO-KOO...\" and the sun rose high and\nbright.\nThere was light everywhere.\nThe animals were delighted and the humans felt\nrelieved."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The animals asked the human\nbeings not to kill the sun and they\nagreed.\nEver since that day, when the\nrooster crows in the morning, the\nsun rises and shines in the sky."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bookId": "asp-en-0151",
+  "title": "Weather",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 39,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Weather",
+    "author": "Clark Ness",
+    "illustrator": "Microsoft Clip Art, Jesse Breytenbach, Wiehan de Jager, Rijuta Ghate, Vusi Malindi",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 8 とページ数 6 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Clouds are a big sign of rain."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "it is very hot today.\nWhy?"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Clouds can hide the sun.\nI like clouds so much ."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "is it raining out side ?\n\"Asked teacher Nabune\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "is it windy ?"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Tell me more about weather........"
+    }
+  ]
+}

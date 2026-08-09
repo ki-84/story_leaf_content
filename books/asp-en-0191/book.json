@@ -1,0 +1,111 @@
+{
+  "bookId": "asp-en-0191",
+  "title": "What will I use to travel?",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ぼうけん",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 122,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "What will I use to travel?",
+    "author": "Ursula Nafula",
+    "illustrator": "Catherine Groenewald, Rob Owen, Louwrisa Blaauw, Jesse Breytenbach, Vusi Malindi, Marion Drew, Mango Tree, Jano Strydom, Sue Kramer, Natalie Propa, Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 18 とページ数 16 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There are many ways to\ntravel. Which will I\nchoose?"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Should I use a plane?"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Planes fly very high. I\nam afraid of flying!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Perhaps I should use a\nhelcopter?"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "But helicopters and\nplanes are the same!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Should I perhaps use a\ntrain?"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "But the train station is\nvery far."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Or, perhaps, I should\nuse a bus?"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Our village has only one\nbus!"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Perhaps I will use a lorry\nto travel."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "But lorries are used for\ncarrying heavy luggage."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Should I use a bicycle to\ntravel?"
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "But will my father give\nme his bicycle?"
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Perhaps I will try to use\na boat?"
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "But I do not trust boats\nvery much!"
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Aah! I know how I will\ntravel! I will use a\ntractor."
+    }
+  ]
+}

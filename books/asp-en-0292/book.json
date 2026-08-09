@@ -1,0 +1,66 @@
+{
+  "bookId": "asp-en-0292",
+  "title": "The Staring Game",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 143,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The Staring Game",
+    "author": "Mozambican folktale",
+    "illustrator": "Zito Jorge Ngovene",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 9 とページ数 7 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A long time ago, the\nrabbit and the snake\nwere good friends."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day they began to\nchat with each other.\nBut the rabbit was\nmuch cleverer than the\nsnake, and the snake\nknew it!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "So, they were\ndiscussing who could\nstare the longest. The\nsnake said:\nLet's try it. I will win by\nstaring at you.\nSo the rabbit agreed to\nthe staring game."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The snake and the\nrabbit began to stare.\nThey kept on doing it\nfor several minutes."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Then the snake got\ntired. So he got out of\nhis body and only his\nskin was left looking at\nthe rabbit."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The rabbit continued\nlooking at the snake's\nskin for several hours."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The rabbit thought he\nwas the cleverest\nanimal, but on that day,\nhis cleverness was\nended. And that's why\nto this day the rabbit\nsleeps with his eyes\nopen!"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "bookId": "asp-en-0058",
+  "title": "Soccer game",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 67,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Soccer game",
+    "author": "Letta Machoga",
+    "illustrator": "Vusi Malindi",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "We love soccer."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Moloko is teaching us\nsoccer."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "We are playing soccer."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Moloko is the best\nteacher!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "After the game,\nMoloko told us that\nshe has a surprise for\nus."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "But she will only let us\nknow tomorrow."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The next day we all\ncame early to the field.\nWe all love surprises."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Moloko has new soccer\nkits and balls for all of\nus!\nWhat a great surprise!"
+    }
+  ]
+}

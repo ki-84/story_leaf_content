@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0346",
+  "title": "Syonzola and his lies",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 378,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Syonzola and his lies",
+    "author": "Phoebe Sibomana",
+    "illustrator": "Benjamin Mitchley",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A story is told of a man who lived in a far away village with\nhis son. His name was Syonzola and he was a very\nmischievous man. People in the village didn't like him very\nmuch because he liked to lie a lot."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "At night, Syonzola would wait until everyone was asleep and\nhe would stand outside and start shouting, \"HELP, HELP, I'M\nBEING ATTACKED. PLEASE SOMEONE HELP ME.\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The people would come running to help him with spears in\ntheir hands.\"Hahahahahaha\" Syonzola would laugh until his\nstomach was sore when he saw them."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "\"Are you ok?\"\n\"Where is the animal that was\nattacking you?\" People would shout\n\"It went that way, please help,\"\nSyonzola would say to them and\npoint at the darkness behind the\ntrees.\nAfter they had searched the whole\nvillage and found no vicious\nanimal, they would tell him to stop\nhis lies and go to sleep."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "One night his son heard him screaming and shouting for help\nagain. His son never understood why his dad liked to prank\npeople. But on this night his son didn't hear people opening\ntheir doors and running to help, he only heard his father"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The other villagers were not in the mood to wake up because\nthey knew Syonzola was up to his old tricks again. So they\ndecided to sleep and wait for him to stop his loud screams."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"Help, Help me please,\" his son waited and waited. But this\ntime he could sense that something was terribly wrong\nbecause now he was hearing something else that sounded\nscary and his father's cries were much louder than normal."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "So the boy ran out and saw that the vicious animal was\nattacking his father. And he was brave and weaved his fire\nstick at the animal and the animal ran away from the fire."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The animal ran very fast into the\ndarkness. Syonzola was so proud to\nsee how brave his son was.\nHe was very grateful to his son for\nsaving him from the vicious animal\nthat night."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "From that day Syonzola never told a lie again and was\nforever grateful to his son for saving his life. Instead of\nscreaming \"Help Help\" he now told everyone in the village\nabout his brave son."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "bookId": "asp-en-0128",
+  "title": "The girl who played",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "ぼうけん"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 356,
+  "pageCount": 14,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The girl who played",
+    "author": "Annet Ssebaggala",
+    "illustrator": "Vusi Malindi, Eden Daniels, Wiehan de Jager, Angie & Upesh, Caroline Lentupuru, Sandy Campbell",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 16 とページ数 14 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Maama Bela gave a letter to\nNekesa.\n\"Take this letter to Jjaja Kolo\"\nSaid maama Bela."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Nekesa put on her shoes.\nShe put the letter in her small\nbag and ran off."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "She met her friends who were playing netball.\n\"Am taking this letter to Jjaja Kolo. I like to\nenjoy netball for some minutes. I must join you\nnow,\" said Nekesa.\n\nShe played netball with friends."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "She met an old man with her\nwife feeding the chicken.\n\"Am taking this letter to Jjaja\nKolo, but it is fun to feed\nchicken, I must join you now\"\nNekesa started to feed chicken."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "She met friends who wanted to climb a hill.\n\"Am taking this letter to Jjaja Kolo, but I have\nnever climbed any hill. I must join you now.\"\nShe joined the group."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "She met friends who were\npicking mangoes. \"Am taking\nthis letter to Jjaja Kolo but i like\npicking mangoes.\nI must join you.\"\nShe picked mangoes with\nfriends."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "She met friends who were\nswimming.\n\"Am taking this letter to Jjaja\nKolo but i like swimming so\nmuch.\nI must join you now.\"\nShe joined the swimming group."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "She forgot about the letter.\nSome one played with the bag\nand dropped the letter on the\ngrass.\nA group of cows came to the\npool to drink water."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "A cow grabbed the letter and\nchewed it up.\nNekesa did not see the cow."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "\"It is coming to midday.\nI must take Jjaja Kollo's letter\"\nShe said.\nNekesa picked her bag and checked inside it.\nThe bag was empty."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "she screamed and called for\nhelp.\n\"My friends help me\nI cant find Jjaja Kolo's letter.\nWho has picked it?\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Her friends tried to look for the\nletter but it was not found."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "\"Am now in danger.\nbut let me go back home.\nbut Maama Bela will punish me.\"\nShe went home with one of her friend."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "\"Am sssssorry Maama Belah! I lost Jjaja Kolo's\nletter.\"\nMaama Belah asked her many questions.\nShe knew that Nekesa played much and lost\nthe letter.\nShe gave her a small punishment and warned\nher never to do it again."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "bookId": "asp-en-0081",
+  "title": "Forest of snakes",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 437,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Forest of snakes",
+    "author": "Joseph Sanchez Nadimo",
+    "illustrator": "Rob Owen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 14 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Sinyaire village is surrounded by\nhills.\nMany snakes live in the forest on\nthose hills.\nThe biggest snake was called\nUnyalego by the villagers.\nThis snake scared many people.\nIt swallowed whole goats and\nsheep."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, sisters Apiyo, Ajoh and\nAtieno were going to the forest to\nfetch firewood.\nThe girls' grandmother warned,\n\"Beware of Unyalego the big snake.\nDo not take anything from the\nforest except the wood.\"\nOnly Ajoh did not pay attention to\nher grandmother."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The girls packed milk, bananas,\nsweet potatoes and water.\nThey took ropes for tying firewood\nand a sharp machete for chopping\nthe wood.\nThen they left for the forest."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "On the way, the sisters chatted\nand laughed.\nSuddenly, Apiyo, the eldest of\nthem, said, \"Be quiet. We are\ncoming to where Unyalego lives.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Atieno called to the others, \"Look,\nhere are Unyalego's golden teeth.\nLet us take them.\"\nApiyo reminded them, \"Don't forget\ngrandmother's warning. We must\nnot take anything from the forest\nexcept firewood.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Ajoh said, \"I don't trust\ngrandmother. I think she said that\nto stop us having what we want. I\nwant the golden teeth.\"\nHer sisters were worried. \"Ajoh, we\nwarned you,\" they said.\nAjoh did not care."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "At that moment Unyalego came\nlooking for his golden teeth. He was\nfurious when he could not find the\nteeth.\nThen Unyalego heard the girls\nchatting and laughing. He hid under\na rock next to the road where the\ngirls would pass on their way back."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The sisters were going home\ncarrying their firewood on their\nheads.\nSuddenly, they heard \"Hzzzzzzzz!\"\nThere was Unyalego with his mouth\nwide open, ready to bite. The girls\nwere terrified."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Unyalego asked the girls, \"Who\ntook my golden teeth?\" No one\nanswered.\nThe snake decided to test the girls.\n\"Whoever is innocent, will be able\nto sing without mistakes. She will\ngo home with her firewood.\nBut the guilty one will sing badly.\nShe will be my food for the next\nthree days!\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Apiyo started to sing with a clear\nvoice:\n\"Sio mimi, sio mimi aliye na meno,\nMwenye meno bado yuko nyuma.\"\nThen Atieno sang the song. She also\nsang well."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Lastly, it was Ajoh's turn. She was\nscared. She stepped forward and\nstarted singing. But her singing\nsounded terrible and the words\nwere wrong.\nUnyalego shouted, \"Can't you sing\nproperly like the others?\"\nThe snake knew that Ajoh took his\ngolden teeth."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Unyalego opened his huge jaws and\nswallowed Ajoh.\nHer sisters ran back to the village.\nThey told everyone the story of\nwhat happened.\n\"I warned her, if only she had\nlistened,\" the girls' grandmother\nsaid sadly."
+    }
+  ]
+}

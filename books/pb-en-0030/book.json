@@ -1,0 +1,83 @@
+{
+  "bookId": "pb-en-0030",
+  "title": "Timmy and Pepe",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 175,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Timmy and Pepe",
+    "author": "Madhav Chavan",
+    "illustrator": "Santosh Pujari",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/149-timmy-and-pepe",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I am Timmy.\n\nThis is my friend, Pepe, the puppy."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I like to tease Pepe.\n\nI tell him I am better than him.\n\nHe does not like it."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "“Look, I have a nose!” I say.\n\n“Woof,” says Pepe. That means he has a nose too."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "“Look, I have ears!” I say.\n\n“Woof,” says Pepe. That means he has ears too."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "“Look, I have eyes!” I say.\n\n“Woof,” says Pepe. That means he has eyes too."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "“Look, I can dance on my legs!” I say.\n\n“Woof, woof, woof,” says Pepe. That means he has legs too."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "“Look, I have a tongue!” I say.\n\n“Woof,” says Pepe. That means he has a tongue too."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "“I can think!” I say.\n\n“Wooooooof,” says Pepe. That means he can think better."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "“Look I have hands!” I say.\n\n“Grrrrrr...” Pepe says, and turns to show his little tail.\n\nThat means he has a tail and I don't have one."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "But I love Pepe, the puppy and he loves me too."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "In the picture above find:\n\n* Eyes\n* Hands\n* Nose\n* Legs\n* Tongue\n* Ears"
+    }
+  ]
+}

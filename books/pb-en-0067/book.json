@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0067",
+  "title": "Lost and Found",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ゆかい・ユーモア",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 153,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Lost and Found",
+    "author": "Sukhada Rahalkar",
+    "illustrator": "Sukhada Rahalkar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/356-lost-and-found",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Not here, not there.\n\nWhere have you gone?"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Not on the sofa.\n\nNot under the cot."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Not in the box.\n\nNot under my sister's frock."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Not under the pillow.\n\nNot in my bag.\n\nSob, sob, where have you gone?"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I have looked in every room,\n\nl have looked under every book."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I have looked under the chair,\n\nI have looked under the stool.\n\nWhere have you gone?"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Soon granny came back from her walk.\n\n\"Look what I found in the park.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "\"It can sway, it can bounce.\n\nIt can spin, it can dangle.\n\nHa-ha, hee-hee,\" said Granny with a giggle."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Oh Granny! Thank you so much!\n\nYou have found my dear yo-yo!"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "\"Yo-yo? What a funny name!\n\nWhat a funny toy!\n\nI want to play with it,\n\nIt gives me so much joy!\""
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Giggle, giggle, giggling away,\n\nGranny played, with my little toy.\n\nFor the rest of the day!"
+    }
+  ]
+}

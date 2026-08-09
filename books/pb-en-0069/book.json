@@ -1,0 +1,74 @@
+{
+  "bookId": "pb-en-0069",
+  "title": "The Red Raincoat",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 231,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Red Raincoat",
+    "author": "Kiran Kasturia",
+    "illustrator": "Zainab Tambawalla",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/369-the-red-raincoat",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "On Sunday, Manu's parents got him a red raincoat.\n\n“Ma, may I wear it now?” asked Manu.\n\n“No, my dear, the rains are near, but just now the sky is clear,” said Ma."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Monday was bright and sunny.\n\n“WILL it rain today, Mummy?” asked Manu.\n\n“No Manu, not today. If you wear your raincoat, you will look quite funny!” said Ma."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "On Tuesday, the sky was blue.\n\n“Ma, WHEN will my wish come true?” asked Manu.\n\n“Not today, my dear, there is just one white cloud in the sky!” said Ma."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Wednesday was hot.\n\n“Ma, WHY doesn't it rain?” asked Manu.\n\n“Son, I think it will rain very soon. Maybe even before it is noon,” said Ma."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "On Thursday Manu went on a picnic. “Ma, WHAT if it rains? Shall I take the raincoat with me?” asked Manu.\n\n“No my dear, it will not rain today. The little white clouds are too high in the sky,” said Ma."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Friday was cloudy.\n\n“Ma, will it rain today?” asked Manu loudly.\n\n“It might, my dear. There are some dark clouds low down in the sky,” said Ma."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Saturday began with a bang!\n\nBadaboom!\n\n\"Ma, is that thunder I hear? Will it rain very soon?\" asked Manu."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "And then at last, it started raining!\n\n“Oh, it's raining, it's raining,” sang Manu, running out."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "“But Manu,” called Ma, running after him, “you forgot your raincoat!”"
+    }
+  ]
+}

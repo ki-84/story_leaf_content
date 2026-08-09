@@ -1,0 +1,69 @@
+{
+  "bookId": "pb-en-0101",
+  "title": "Flying High",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ファンタジー",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 235,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Flying High",
+    "author": "Vidya Tiware",
+    "illustrator": "Rijuta Ghate",
+    "translator": "Rohini Nilekani",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/838-tarangat-tarangat",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Mother's song was soft and sweet.\n\nChandu was listening to it. Chandu fell asleep.\n\nIn his dream, he was flying."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Flying, flying into a garden. Look! A butterfly, so pretty.\n\nThe butterfly said, “Well, hello! How are you?”\n\n“Fine, thank you,” Chandu replied."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Chandu flew a bit higher. Flying, flying. He flew into a sparrow.\n\n“Hi there! How do you do?” she asked.\n\n“Very well, thank you,” Chandu said."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Then Chandu soared still higher. Flying, still flying, he met an eagle.\n\n“Hello friend! How are you?” the eagle asked.\n\n“I feel good,” replied Chandu."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Chandu was flying higher and higher. It seemed so easy. Flying, flying. So high that he came up to an aeroplane.\n\n“Hey, Chandu, how do you do?” the aeroplane asked.\n\n“Fine. And safe journey!” Chandu quickly replied."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Soon Chandu climbed higher than before. Flying and still flying.\n\nA rocket came to meet him. “Hello sir, how do you do?” the rocket shouted.\n\n“Very well,” Chandu smiled."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Still, Chandu was flying higher and higher. Now the stars were twinkling all around. They were smiling at Chandu, as though he were a part of them.\n\n“How are you feeling Chandu?” one star asked him.\n\n“I am feeling great!” he said.\n\nSuddenly, the stars began to wobble. And shake."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "It was Mother, shaking Chandu awake. “Good morning, how are you?”\n\nHe hugged her hard and said, “Oh, now I feel better than ever before!”"
+    }
+  ]
+}

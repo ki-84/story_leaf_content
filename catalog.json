@@ -1,0 +1,9682 @@
+{
+ "books": [
+  {
+   "bookId": "asp-en-0001",
+   "title": "A very tall man",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 79,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0001.jpg"
+  },
+  {
+   "bookId": "asp-en-0004",
+   "title": "Goat, Dog, and Cow",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "ぼうけん"
+   ],
+   "wordCount": 148,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0004.jpg"
+  },
+  {
+   "bookId": "asp-en-0005",
+   "title": "Anansi and Turtle",
+   "level": 3,
+   "genres": [
+    "むかしばなし",
+    "どうぶつ"
+   ],
+   "wordCount": 605,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0005.jpg"
+  },
+  {
+   "bookId": "asp-en-0006",
+   "title": "Anansi and Wisdom",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "むかしばなし"
+   ],
+   "wordCount": 285,
+   "pageCount": 6,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0006.jpg"
+  },
+  {
+   "bookId": "asp-en-0007",
+   "title": "Looking for water",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく"
+   ],
+   "wordCount": 21,
+   "pageCount": 4,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0007.jpg"
+  },
+  {
+   "bookId": "asp-en-0008",
+   "title": "What are you doing?",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 25,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0008.jpg"
+  },
+  {
+   "bookId": "asp-en-0010",
+   "title": "The Animals of Uganda",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 238,
+   "pageCount": 9,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0010.jpg"
+  },
+  {
+   "bookId": "asp-en-0011",
+   "title": "Father and son",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 112,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0011.jpg"
+  },
+  {
+   "bookId": "asp-en-0012",
+   "title": "My Village",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 77,
+   "pageCount": 7,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0012.jpg"
+  },
+  {
+   "bookId": "asp-en-0013",
+   "title": "Letter to mum",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 285,
+   "pageCount": 18,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0013.jpg"
+  },
+  {
+   "bookId": "asp-en-0014",
+   "title": "Girl called Norah",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 119,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0014.jpg"
+  },
+  {
+   "bookId": "asp-en-0015",
+   "title": "Together We're Strong",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 1665,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0015.jpg"
+  },
+  {
+   "bookId": "asp-en-0016",
+   "title": "My friend Coco",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 340,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0016.jpg"
+  },
+  {
+   "bookId": "asp-en-0017",
+   "title": "Zanele Situ: My Story",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "ファンタジー"
+   ],
+   "wordCount": 484,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0017.jpg"
+  },
+  {
+   "bookId": "asp-en-0018",
+   "title": "Why is Yayeri great?",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 169,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0018.jpg"
+  },
+  {
+   "bookId": "asp-en-0019",
+   "title": "My first day at the market",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 633,
+   "pageCount": 14,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0019.jpg"
+  },
+  {
+   "bookId": "asp-en-0020",
+   "title": "Pickpocketer",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "むかしばなし"
+   ],
+   "wordCount": 76,
+   "pageCount": 6,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0020.jpg"
+  },
+  {
+   "bookId": "asp-en-0021",
+   "title": "Dembe the shopkeeper",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 110,
+   "pageCount": 9,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0021.jpg"
+  },
+  {
+   "bookId": "asp-en-0022",
+   "title": "My baby boy.",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 74,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0022.jpg"
+  },
+  {
+   "bookId": "asp-en-0023",
+   "title": "Lion that wanted friendship",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 192,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0023.jpg"
+  },
+  {
+   "bookId": "asp-en-0024",
+   "title": "The Sick Hyena",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 217,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0024.jpg"
+  },
+  {
+   "bookId": "asp-en-0025",
+   "title": "Stealing",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "どうぶつ"
+   ],
+   "wordCount": 64,
+   "pageCount": 4,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0025.jpg"
+  },
+  {
+   "bookId": "asp-en-0026",
+   "title": "Imagine",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 127,
+   "pageCount": 9,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0026.jpg"
+  },
+  {
+   "bookId": "asp-en-0027",
+   "title": "Decision",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 187,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0027.jpg"
+  },
+  {
+   "bookId": "asp-en-0028",
+   "title": "The Race",
+   "level": 2,
+   "genres": [
+    "どうぶつ"
+   ],
+   "wordCount": 194,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0028.jpg"
+  },
+  {
+   "bookId": "asp-en-0029",
+   "title": "Sniffles the crocodile and Punch the butterfly",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 541,
+   "pageCount": 7,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0029.jpg"
+  },
+  {
+   "bookId": "asp-en-0031",
+   "title": "Kisirusiru, the foolish one",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 507,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0031.jpg"
+  },
+  {
+   "bookId": "asp-en-0032",
+   "title": "Where is the rat?",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 100,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0032.jpg"
+  },
+  {
+   "bookId": "asp-en-0033",
+   "title": "The Big Juicy Mango",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 143,
+   "pageCount": 9,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0033.jpg"
+  },
+  {
+   "bookId": "asp-en-0034",
+   "title": "Greedy Hyena",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 350,
+   "pageCount": 18,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0034.jpg"
+  },
+  {
+   "bookId": "asp-en-0035",
+   "title": "Wind",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "ファンタジー"
+   ],
+   "wordCount": 128,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0035.jpg"
+  },
+  {
+   "bookId": "asp-en-0036",
+   "title": "Miss Helen's Magical World",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 767,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0036.jpg"
+  },
+  {
+   "bookId": "asp-en-0037",
+   "title": "King of the birds",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 465,
+   "pageCount": 14,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0037.jpg"
+  },
+  {
+   "bookId": "asp-en-0038",
+   "title": "Neymar's visit to Africa",
+   "level": 2,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 207,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0038.jpg"
+  },
+  {
+   "bookId": "asp-en-0039",
+   "title": "First man and first woman",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 304,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0039.jpg"
+  },
+  {
+   "bookId": "asp-en-0040",
+   "title": "Kato Clever and the big trouble",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 484,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0040.jpg"
+  },
+  {
+   "bookId": "asp-en-0042",
+   "title": "Hungry jackal and the sour grapes",
+   "level": 2,
+   "genres": [
+    "むかしばなし",
+    "にちじょう"
+   ],
+   "wordCount": 164,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0042.jpg"
+  },
+  {
+   "bookId": "asp-en-0043",
+   "title": "Fire's story",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 62,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0043.jpg"
+  },
+  {
+   "bookId": "asp-en-0045",
+   "title": "The clever jackal and the foolish crow",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 247,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0045.jpg"
+  },
+  {
+   "bookId": "asp-en-0046",
+   "title": "Monkey's visit to the hunters home.",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 357,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0046.jpg"
+  },
+  {
+   "bookId": "asp-en-0048",
+   "title": "Rabbit under the tree",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 484,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0048.jpg"
+  },
+  {
+   "bookId": "asp-en-0049",
+   "title": "The Rainbow",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 21,
+   "pageCount": 6,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0049.jpg"
+  },
+  {
+   "bookId": "asp-en-0050",
+   "title": "What type of teeth?",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 65,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0050.jpg"
+  },
+  {
+   "bookId": "asp-en-0051",
+   "title": "The day we saw the rainbow",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 158,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0051.jpg"
+  },
+  {
+   "bookId": "asp-en-0052",
+   "title": "Simbegwire",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 863,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0052.jpg"
+  },
+  {
+   "bookId": "asp-en-0054",
+   "title": "How tortoise's nose became crooked",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 183,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0054.jpg"
+  },
+  {
+   "bookId": "asp-en-0055",
+   "title": "Baby snatched by cranes",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 539,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0055.jpg"
+  },
+  {
+   "bookId": "asp-en-0056",
+   "title": "Clever cat",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 138,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0056.jpg"
+  },
+  {
+   "bookId": "asp-en-0057",
+   "title": "Sane in the market",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 42,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0057.jpg"
+  },
+  {
+   "bookId": "asp-en-0058",
+   "title": "Soccer game",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 67,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0058.jpg"
+  },
+  {
+   "bookId": "asp-en-0059",
+   "title": "Akai's special mat",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 358,
+   "pageCount": 15,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0059.jpg"
+  },
+  {
+   "bookId": "asp-en-0060",
+   "title": "Nakitto at school",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 49,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0060.jpg"
+  },
+  {
+   "bookId": "asp-en-0061",
+   "title": "Flowers",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 78,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0061.jpg"
+  },
+  {
+   "bookId": "asp-en-0062",
+   "title": "Nangila's courage",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 428,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0062.jpg"
+  },
+  {
+   "bookId": "asp-en-0063",
+   "title": "Hen tricks Eagle",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 148,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0063.jpg"
+  },
+  {
+   "bookId": "asp-en-0064",
+   "title": "Joy goes to school",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 60,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0064.jpg"
+  },
+  {
+   "bookId": "asp-en-0065",
+   "title": "Ah! Football!",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 253,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0065.jpg"
+  },
+  {
+   "bookId": "asp-en-0066",
+   "title": "Nozibele and the three hairs",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 390,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0066.jpg"
+  },
+  {
+   "bookId": "asp-en-0069",
+   "title": "My new friends",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 77,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0069.jpg"
+  },
+  {
+   "bookId": "asp-en-0070",
+   "title": "Katitu Momambo, the clever little girl",
+   "level": 4,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 1222,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0070.jpg"
+  },
+  {
+   "bookId": "asp-en-0071",
+   "title": "Our river, our life",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 130,
+   "pageCount": 7,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0071.jpg"
+  },
+  {
+   "bookId": "asp-en-0072",
+   "title": "The Honeyguide's revenge",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 716,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0072.jpg"
+  },
+  {
+   "bookId": "asp-en-0074",
+   "title": "The Clever Little Bird",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 320,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0074.jpg"
+  },
+  {
+   "bookId": "asp-en-0075",
+   "title": "Sly jackal tricks the silly donkey",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 253,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0075.jpg"
+  },
+  {
+   "bookId": "asp-en-0076",
+   "title": "The Hornbill",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 143,
+   "pageCount": 9,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0076.jpg"
+  },
+  {
+   "bookId": "asp-en-0077",
+   "title": "The bleeding apple",
+   "level": 2,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 318,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0077.jpg"
+  },
+  {
+   "bookId": "asp-en-0079",
+   "title": "Jojo And Cow",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 71,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0079.jpg"
+  },
+  {
+   "bookId": "asp-en-0080",
+   "title": "Namoratunga",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "ゆかい・ユーモア"
+   ],
+   "wordCount": 271,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0080.jpg"
+  },
+  {
+   "bookId": "asp-en-0081",
+   "title": "Forest of snakes",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 437,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0081.jpg"
+  },
+  {
+   "bookId": "asp-en-0082",
+   "title": "Lion is sick",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 374,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0082.jpg"
+  },
+  {
+   "bookId": "asp-en-0083",
+   "title": "Graca's dream",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 529,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0083.jpg"
+  },
+  {
+   "bookId": "asp-en-0084",
+   "title": "Demane and Demazane",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 864,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0084.jpg"
+  },
+  {
+   "bookId": "asp-en-0085",
+   "title": "An egg for bride wealth",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 565,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0085.jpg"
+  },
+  {
+   "bookId": "asp-en-0086",
+   "title": "Things I do at school.",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 49,
+   "pageCount": 9,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0086.jpg"
+  },
+  {
+   "bookId": "asp-en-0087",
+   "title": "I like to read!",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 45,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0087.jpg"
+  },
+  {
+   "bookId": "asp-en-0088",
+   "title": "Young Palinyang'",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 498,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0088.jpg"
+  },
+  {
+   "bookId": "asp-en-0089",
+   "title": "Khalai talks to plants",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 163,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0089.jpg"
+  },
+  {
+   "bookId": "asp-en-0090",
+   "title": "Huts in our village",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 76,
+   "pageCount": 7,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0090.jpg"
+  },
+  {
+   "bookId": "asp-en-0091",
+   "title": "Adun, the beautiful",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 320,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0091.jpg"
+  },
+  {
+   "bookId": "asp-en-0092",
+   "title": "Hare and Tortoise (Again!)",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 461,
+   "pageCount": 14,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0092.jpg"
+  },
+  {
+   "bookId": "asp-en-0093",
+   "title": "My baby boy",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 23,
+   "pageCount": 3,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0093.jpg"
+  },
+  {
+   "bookId": "asp-en-0094",
+   "title": "Anansi, the crows, and the crocodiles",
+   "level": 4,
+   "genres": [
+    "むかしばなし",
+    "しぜん・かがく"
+   ],
+   "wordCount": 712,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0094.jpg"
+  },
+  {
+   "bookId": "asp-en-0095",
+   "title": "Zama is great!",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 127,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0095.jpg"
+  },
+  {
+   "bookId": "asp-en-0096",
+   "title": "Rainbow visits the village",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 156,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0096.jpg"
+  },
+  {
+   "bookId": "asp-en-0097",
+   "title": "Silly Sizwe",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "ゆかい・ユーモア"
+   ],
+   "wordCount": 802,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0097.jpg"
+  },
+  {
+   "bookId": "asp-en-0098",
+   "title": "A cow is my friend",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 29,
+   "pageCount": 4,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0098.jpg"
+  },
+  {
+   "bookId": "asp-en-0099",
+   "title": "Azizi the doll",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 109,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0099.jpg"
+  },
+  {
+   "bookId": "asp-en-0100",
+   "title": "Jaaka the fisherman",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 94,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0100.jpg"
+  },
+  {
+   "bookId": "asp-en-0101",
+   "title": "The Cooking Game",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 170,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0101.jpg"
+  },
+  {
+   "bookId": "asp-en-0102",
+   "title": "Kalabushe The Talkative",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 339,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0102.jpg"
+  },
+  {
+   "bookId": "asp-en-0103",
+   "title": "Singing the Truth: The Story of Miriam Makeba",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 468,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0103.jpg"
+  },
+  {
+   "bookId": "asp-en-0104",
+   "title": "Letter to mum",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 285,
+   "pageCount": 17,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0104.jpg"
+  },
+  {
+   "bookId": "asp-en-0105",
+   "title": "Ms Phone",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 140,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0105.jpg"
+  },
+  {
+   "bookId": "asp-en-0106",
+   "title": "Namukuru's bicycle",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 86,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0106.jpg"
+  },
+  {
+   "bookId": "asp-en-0107",
+   "title": "Jackal and the sun",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 322,
+   "pageCount": 9,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0107.jpg"
+  },
+  {
+   "bookId": "asp-en-0108",
+   "title": "Dima and Owl",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 1095,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0108.jpg"
+  },
+  {
+   "bookId": "asp-en-0109",
+   "title": "Lekishon and the cows",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 67,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0109.jpg"
+  },
+  {
+   "bookId": "asp-en-0110",
+   "title": "A Tiny Seed: The Story of Wangari Maathai",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 411,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0110.jpg"
+  },
+  {
+   "bookId": "asp-en-0111",
+   "title": "Why hippos have no hair",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 206,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0111.jpg"
+  },
+  {
+   "bookId": "asp-en-0113",
+   "title": "New pussy cat",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 59,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0113.jpg"
+  },
+  {
+   "bookId": "asp-en-0114",
+   "title": "The Cat and the Rats",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 127,
+   "pageCount": 6,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0114.jpg"
+  },
+  {
+   "bookId": "asp-en-0115",
+   "title": "Elephant and Chameleon",
+   "level": 2,
+   "genres": [
+    "むかしばなし",
+    "どうぶつ"
+   ],
+   "wordCount": 187,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0115.jpg"
+  },
+  {
+   "bookId": "asp-en-0116",
+   "title": "WAMAŊE THE WEAK MAN",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "むかしばなし"
+   ],
+   "wordCount": 119,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0116.jpg"
+  },
+  {
+   "bookId": "asp-en-0117",
+   "title": "Friendship between Hyena and Hare",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 73,
+   "pageCount": 7,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0117.jpg"
+  },
+  {
+   "bookId": "asp-en-0118",
+   "title": "Tselane and the Giant",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "ファンタジー"
+   ],
+   "wordCount": 741,
+   "pageCount": 14,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0118.jpg"
+  },
+  {
+   "bookId": "asp-en-0119",
+   "title": "What colors do you like?",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 74,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0119.jpg"
+  },
+  {
+   "bookId": "asp-en-0121",
+   "title": "Porridge",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 85,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0121.jpg"
+  },
+  {
+   "bookId": "asp-en-0122",
+   "title": "I love to read",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 47,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0122.jpg"
+  },
+  {
+   "bookId": "asp-en-0124",
+   "title": "A Fish and a Gift",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 655,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0124.jpg"
+  },
+  {
+   "bookId": "asp-en-0125",
+   "title": "Monkey Eats his Own Tail",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 148,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0125.jpg"
+  },
+  {
+   "bookId": "asp-en-0126",
+   "title": "Clouds",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく"
+   ],
+   "wordCount": 30,
+   "pageCount": 4,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0126.jpg"
+  },
+  {
+   "bookId": "asp-en-0127",
+   "title": "Different Plays",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 6,
+   "pageCount": 4,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0127.jpg"
+  },
+  {
+   "bookId": "asp-en-0128",
+   "title": "The girl who played",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "ぼうけん"
+   ],
+   "wordCount": 356,
+   "pageCount": 14,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0128.jpg"
+  },
+  {
+   "bookId": "asp-en-0130",
+   "title": "My grandma.",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 24,
+   "pageCount": 5,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0130.jpg"
+  },
+  {
+   "bookId": "asp-en-0131",
+   "title": "Fun at the farm",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 454,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0131.jpg"
+  },
+  {
+   "bookId": "asp-en-0132",
+   "title": "No pigs allowed",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "むかしばなし"
+   ],
+   "wordCount": 186,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0132.jpg"
+  },
+  {
+   "bookId": "asp-en-0133",
+   "title": "Little Badger goes to the moon",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 432,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0133.jpg"
+  },
+  {
+   "bookId": "asp-en-0135",
+   "title": "Monkey Eats his Own Tail",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 247,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0135.jpg"
+  },
+  {
+   "bookId": "asp-en-0136",
+   "title": "Hamisi's lucky day",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "ファンタジー"
+   ],
+   "wordCount": 111,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0136.jpg"
+  },
+  {
+   "bookId": "asp-en-0137",
+   "title": "Locusts",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 185,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0137.jpg"
+  },
+  {
+   "bookId": "asp-en-0139",
+   "title": "Crocodile in my body",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "どうぶつ"
+   ],
+   "wordCount": 536,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0139.jpg"
+  },
+  {
+   "bookId": "asp-en-0140",
+   "title": "Bathtub Safari",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 96,
+   "pageCount": 15,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0140.jpg"
+  },
+  {
+   "bookId": "asp-en-0141",
+   "title": "Chicken and Millipede",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 269,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0141.jpg"
+  },
+  {
+   "bookId": "asp-en-0142",
+   "title": "The boy who would not listen",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "どうぶつ"
+   ],
+   "wordCount": 287,
+   "pageCount": 6,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0142.jpg"
+  },
+  {
+   "bookId": "asp-en-0143",
+   "title": "My red ball",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく"
+   ],
+   "wordCount": 72,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0143.jpg"
+  },
+  {
+   "bookId": "asp-en-0144",
+   "title": "A Trip to Zanzibar",
+   "level": 1,
+   "genres": [
+    "ファンタジー"
+   ],
+   "wordCount": 87,
+   "pageCount": 6,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0144.jpg"
+  },
+  {
+   "bookId": "asp-en-0145",
+   "title": "Inyang and the Bird",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 515,
+   "pageCount": 17,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0145.jpg"
+  },
+  {
+   "bookId": "asp-en-0146",
+   "title": "My first Trip to kampala",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "ファンタジー"
+   ],
+   "wordCount": 91,
+   "pageCount": 6,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0146.jpg"
+  },
+  {
+   "bookId": "asp-en-0147",
+   "title": "My family and I",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 90,
+   "pageCount": 9,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0147.jpg"
+  },
+  {
+   "bookId": "asp-en-0149",
+   "title": "The Moon and the Cap",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 143,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0149.jpg"
+  },
+  {
+   "bookId": "asp-en-0150",
+   "title": "Disagreement among occupations",
+   "level": 2,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 175,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0150.jpg"
+  },
+  {
+   "bookId": "asp-en-0151",
+   "title": "Weather",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく"
+   ],
+   "wordCount": 39,
+   "pageCount": 6,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0151.jpg"
+  },
+  {
+   "bookId": "asp-en-0152",
+   "title": "What is wrong child?",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 74,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0152.jpg"
+  },
+  {
+   "bookId": "asp-en-0153",
+   "title": "Rats!",
+   "level": 2,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 158,
+   "pageCount": 9,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0153.jpg"
+  },
+  {
+   "bookId": "asp-en-0154",
+   "title": "Monkey and the hunter's wife",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 284,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0154.jpg"
+  },
+  {
+   "bookId": "asp-en-0155",
+   "title": "The Jungle School",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 316,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0155.jpg"
+  },
+  {
+   "bookId": "asp-en-0156",
+   "title": "The hungry crocodile",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 36,
+   "pageCount": 5,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0156.jpg"
+  },
+  {
+   "bookId": "asp-en-0157",
+   "title": "Children like to play",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "どうぶつ"
+   ],
+   "wordCount": 60,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0157.jpg"
+  },
+  {
+   "bookId": "asp-en-0158",
+   "title": "Hen and Eagle",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 390,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0158.jpg"
+  },
+  {
+   "bookId": "asp-en-0159",
+   "title": "Cow with one horn",
+   "level": 1,
+   "genres": [
+    "どうぶつ"
+   ],
+   "wordCount": 104,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0159.jpg"
+  },
+  {
+   "bookId": "asp-en-0160",
+   "title": "Disability is Not Inability",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 68,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0160.jpg"
+  },
+  {
+   "bookId": "asp-en-0161",
+   "title": "Keke's swing",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 285,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0161.jpg"
+  },
+  {
+   "bookId": "asp-en-0162",
+   "title": "Hare and Hyena",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 627,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0162.jpg"
+  },
+  {
+   "bookId": "asp-en-0163",
+   "title": "A dog",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 63,
+   "pageCount": 7,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0163.jpg"
+  },
+  {
+   "bookId": "asp-en-0164",
+   "title": "Hare and Elephant",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 446,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0164.jpg"
+  },
+  {
+   "bookId": "asp-en-0165",
+   "title": "Mulongo and the ogre",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 706,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0165.jpg"
+  },
+  {
+   "bookId": "asp-en-0166",
+   "title": "The girl who got rich",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "ぼうけん"
+   ],
+   "wordCount": 383,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0166.jpg"
+  },
+  {
+   "bookId": "asp-en-0167",
+   "title": "The seventh sun: A tribal tale from Odisha, India",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 380,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0167.jpg"
+  },
+  {
+   "bookId": "asp-en-0168",
+   "title": "Pam-Pam bird",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 536,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0168.jpg"
+  },
+  {
+   "bookId": "asp-en-0169",
+   "title": "Anansi gives people stories",
+   "level": 3,
+   "genres": [
+    "むかしばなし",
+    "しぜん・かがく"
+   ],
+   "wordCount": 650,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0169.jpg"
+  },
+  {
+   "bookId": "asp-en-0170",
+   "title": "Hyena and Raven",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 495,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0170.jpg"
+  },
+  {
+   "bookId": "asp-en-0171",
+   "title": "The boy who played",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 159,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0171.jpg"
+  },
+  {
+   "bookId": "asp-en-0172",
+   "title": "Fruits",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 46,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0172.jpg"
+  },
+  {
+   "bookId": "asp-en-0174",
+   "title": "Who is Big?",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 104,
+   "pageCount": 7,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0174.jpg"
+  },
+  {
+   "bookId": "asp-en-0175",
+   "title": "The Chase",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 102,
+   "pageCount": 5,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0175.jpg"
+  },
+  {
+   "bookId": "asp-en-0177",
+   "title": "Little Dog",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 191,
+   "pageCount": 9,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0177.jpg"
+  },
+  {
+   "bookId": "asp-en-0178",
+   "title": "Why Ajao was not buried",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 184,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0178.jpg"
+  },
+  {
+   "bookId": "asp-en-0180",
+   "title": "Vayu, the wind",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 189,
+   "pageCount": 9,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0180.jpg"
+  },
+  {
+   "bookId": "asp-en-0181",
+   "title": "Sunday at the park",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 168,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0181.jpg"
+  },
+  {
+   "bookId": "asp-en-0182",
+   "title": "Kabali and Kateera",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 92,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0182.jpg"
+  },
+  {
+   "bookId": "asp-en-0183",
+   "title": "Hare tricks Elephant again",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 260,
+   "pageCount": 14,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0183.jpg"
+  },
+  {
+   "bookId": "asp-en-0184",
+   "title": "Mulongo and the hyenas",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 566,
+   "pageCount": 15,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0184.jpg"
+  },
+  {
+   "bookId": "asp-en-0185",
+   "title": "How night came to Opio's village",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 399,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0185.jpg"
+  },
+  {
+   "bookId": "asp-en-0186",
+   "title": "Tjenga and the eland man",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 501,
+   "pageCount": 6,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0186.jpg"
+  },
+  {
+   "bookId": "asp-en-0187",
+   "title": "Anna and the three hairs",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 395,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0187.jpg"
+  },
+  {
+   "bookId": "asp-en-0188",
+   "title": "My mother planted",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 110,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0188.jpg"
+  },
+  {
+   "bookId": "asp-en-0189",
+   "title": "Hare the trickster",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 237,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0189.jpg"
+  },
+  {
+   "bookId": "asp-en-0191",
+   "title": "What will I use to travel?",
+   "level": 1,
+   "genres": [
+    "ぼうけん",
+    "にちじょう"
+   ],
+   "wordCount": 122,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0191.jpg"
+  },
+  {
+   "bookId": "asp-en-0192",
+   "title": "Hope is a Peanut Butter Sandwich",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 21,
+   "pageCount": 1,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0192.jpg"
+  },
+  {
+   "bookId": "asp-en-0195",
+   "title": "Sindiwe and the Fireflies",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 412,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0195.jpg"
+  },
+  {
+   "bookId": "asp-en-0196",
+   "title": "The baboons that went this way and that",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 353,
+   "pageCount": 15,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0196.jpg"
+  },
+  {
+   "bookId": "asp-en-0197",
+   "title": "Dog and Crocodile",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 189,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0197.jpg"
+  },
+  {
+   "bookId": "asp-en-0198",
+   "title": "Soccer game Chiefs and Aces",
+   "level": 2,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 172,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0198.jpg"
+  },
+  {
+   "bookId": "asp-en-0200",
+   "title": "Amazing Daisy",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "ファンタジー"
+   ],
+   "wordCount": 331,
+   "pageCount": 20,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0200.jpg"
+  },
+  {
+   "bookId": "asp-en-0201",
+   "title": "Donkey Child",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 487,
+   "pageCount": 20,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0201.jpg"
+  },
+  {
+   "bookId": "asp-en-0202",
+   "title": "Refiloe and the washed chickens",
+   "level": 4,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 1097,
+   "pageCount": 18,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0202.jpg"
+  },
+  {
+   "bookId": "asp-en-0203",
+   "title": "Searching for the spirit of Spring",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "ぼうけん"
+   ],
+   "wordCount": 669,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0203.jpg"
+  },
+  {
+   "bookId": "asp-en-0204",
+   "title": "Akatope",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 281,
+   "pageCount": 14,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0204.jpg"
+  },
+  {
+   "bookId": "asp-en-0205",
+   "title": "Sound Aaa",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 86,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0205.jpg"
+  },
+  {
+   "bookId": "asp-en-0207",
+   "title": "The wise man",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "むかしばなし"
+   ],
+   "wordCount": 222,
+   "pageCount": 5,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0207.jpg"
+  },
+  {
+   "bookId": "asp-en-0208",
+   "title": "Inyang and the Bird",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 70,
+   "pageCount": 17,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0208.jpg"
+  },
+  {
+   "bookId": "asp-en-0209",
+   "title": "Greedy Mairu",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "むかしばなし"
+   ],
+   "wordCount": 335,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0209.jpg"
+  },
+  {
+   "bookId": "asp-en-0210",
+   "title": "Tingi and the cows",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 79,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0210.jpg"
+  },
+  {
+   "bookId": "asp-en-0211",
+   "title": "Goat, the false king",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 567,
+   "pageCount": 18,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0211.jpg"
+  },
+  {
+   "bookId": "asp-en-0212",
+   "title": "My little goat",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "ゆかい・ユーモア"
+   ],
+   "wordCount": 37,
+   "pageCount": 5,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0212.jpg"
+  },
+  {
+   "bookId": "asp-en-0213",
+   "title": "Rooster and Hare",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 160,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0213.jpg"
+  },
+  {
+   "bookId": "asp-en-0214",
+   "title": "The rat",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 240,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0214.jpg"
+  },
+  {
+   "bookId": "asp-en-0216",
+   "title": "The day the sun went away",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 190,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0216.jpg"
+  },
+  {
+   "bookId": "asp-en-0217",
+   "title": "My teacher",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 73,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0217.jpg"
+  },
+  {
+   "bookId": "asp-en-0218",
+   "title": "Grandmother and the Smelly Girl",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 495,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0218.jpg"
+  },
+  {
+   "bookId": "asp-en-0219",
+   "title": "Rain for Nomvula",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 191,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0219.jpg"
+  },
+  {
+   "bookId": "asp-en-0220",
+   "title": "Keeper and His Special Nursery",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "ぼうけん"
+   ],
+   "wordCount": 184,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0220.jpg"
+  },
+  {
+   "bookId": "asp-en-0221",
+   "title": "Guilty Conscience",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 332,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0221.jpg"
+  },
+  {
+   "bookId": "asp-en-0222",
+   "title": "Devil's scarf",
+   "level": 3,
+   "genres": [
+    "むかしばなし",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 362,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0222.jpg"
+  },
+  {
+   "bookId": "asp-en-0224",
+   "title": "The Dancing Goat",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "ぼうけん"
+   ],
+   "wordCount": 145,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0224.jpg"
+  },
+  {
+   "bookId": "asp-en-0225",
+   "title": "Clever goats",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "どうぶつ"
+   ],
+   "wordCount": 226,
+   "pageCount": 5,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0225.jpg"
+  },
+  {
+   "bookId": "asp-en-0226",
+   "title": "The blacksmith's dilemma",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "むかしばなし"
+   ],
+   "wordCount": 499,
+   "pageCount": 15,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0226.jpg"
+  },
+  {
+   "bookId": "asp-en-0228",
+   "title": "Our wonderful world",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 688,
+   "pageCount": 15,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0228.jpg"
+  },
+  {
+   "bookId": "asp-en-0229",
+   "title": "The busy big mango tree",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 65,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0229.jpg"
+  },
+  {
+   "bookId": "asp-en-0230",
+   "title": "The generous fish",
+   "level": 4,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 1093,
+   "pageCount": 15,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0230.jpg"
+  },
+  {
+   "bookId": "asp-en-0232",
+   "title": "Sleepy Mr. Sloth",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 222,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0232.jpg"
+  },
+  {
+   "bookId": "asp-en-0233",
+   "title": "Rabbit Goes to a Party",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 146,
+   "pageCount": 7,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0233.jpg"
+  },
+  {
+   "bookId": "asp-en-0235",
+   "title": "Crushed louse",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "ぼうけん"
+   ],
+   "wordCount": 169,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0235.jpg"
+  },
+  {
+   "bookId": "asp-en-0236",
+   "title": "King Kayanja and his daughter",
+   "level": 4,
+   "genres": [
+    "むかしばなし",
+    "しぜん・かがく"
+   ],
+   "wordCount": 774,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0236.jpg"
+  },
+  {
+   "bookId": "asp-en-0237",
+   "title": "Mr Mkhize's quarters",
+   "level": 3,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 693,
+   "pageCount": 15,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0237.jpg"
+  },
+  {
+   "bookId": "asp-en-0238",
+   "title": "Who wet the bed?",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "ファンタジー"
+   ],
+   "wordCount": 120,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0238.jpg"
+  },
+  {
+   "bookId": "asp-en-0239",
+   "title": "Namorutunga",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "ゆかい・ユーモア"
+   ],
+   "wordCount": 269,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0239.jpg"
+  },
+  {
+   "bookId": "asp-en-0240",
+   "title": "Pendo our cow",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 58,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0240.jpg"
+  },
+  {
+   "bookId": "asp-en-0242",
+   "title": "The Elephant and the Frogs",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 175,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0242.jpg"
+  },
+  {
+   "bookId": "asp-en-0243",
+   "title": "Holidays with grandmother",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 573,
+   "pageCount": 20,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0243.jpg"
+  },
+  {
+   "bookId": "asp-en-0244",
+   "title": "The girl with one breast",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく"
+   ],
+   "wordCount": 206,
+   "pageCount": 4,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0244.jpg"
+  },
+  {
+   "bookId": "asp-en-0245",
+   "title": "Our day at the zoo",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "ファンタジー"
+   ],
+   "wordCount": 70,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0245.jpg"
+  },
+  {
+   "bookId": "asp-en-0246",
+   "title": "The happy revival",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 345,
+   "pageCount": 7,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0246.jpg"
+  },
+  {
+   "bookId": "asp-en-0247",
+   "title": "The man who lived alone",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 142,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0247.jpg"
+  },
+  {
+   "bookId": "asp-en-0248",
+   "title": "My trip to the Zoo",
+   "level": 1,
+   "genres": [
+    "どうぶつ"
+   ],
+   "wordCount": 50,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0248.jpg"
+  },
+  {
+   "bookId": "asp-en-0250",
+   "title": "Danger of abandoning a mother",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 338,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0250.jpg"
+  },
+  {
+   "bookId": "asp-en-0251",
+   "title": "Nonkungu and the imbulu",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 778,
+   "pageCount": 18,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0251.jpg"
+  },
+  {
+   "bookId": "asp-en-0252",
+   "title": "The tree that saved the village of Ombalantu",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 1064,
+   "pageCount": 9,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0252.jpg"
+  },
+  {
+   "bookId": "asp-en-0253",
+   "title": "My Picture Book",
+   "level": 1,
+   "genres": [
+    "どうぶつ"
+   ],
+   "wordCount": 8,
+   "pageCount": 4,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0253.jpg"
+  },
+  {
+   "bookId": "asp-en-0255",
+   "title": "The baboons that went this way and that",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 745,
+   "pageCount": 7,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0255.jpg"
+  },
+  {
+   "bookId": "asp-en-0256",
+   "title": "My first pair of shoes",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 320,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0256.jpg"
+  },
+  {
+   "bookId": "asp-en-0257",
+   "title": "Colours of a rainbow",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく"
+   ],
+   "wordCount": 115,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0257.jpg"
+  },
+  {
+   "bookId": "asp-en-0258",
+   "title": "The Animals of Uganda",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 238,
+   "pageCount": 9,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0258.jpg"
+  },
+  {
+   "bookId": "asp-en-0259",
+   "title": "A King Finds a Husband for His Princess",
+   "level": 3,
+   "genres": [
+    "むかしばなし",
+    "しぜん・かがく"
+   ],
+   "wordCount": 465,
+   "pageCount": 15,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0259.jpg"
+  },
+  {
+   "bookId": "asp-en-0260",
+   "title": "The boy who nobody loved",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 779,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0260.jpg"
+  },
+  {
+   "bookId": "asp-en-0261",
+   "title": "Fruit",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "むかしばなし"
+   ],
+   "wordCount": 619,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0261.jpg"
+  },
+  {
+   "bookId": "asp-en-0262",
+   "title": "Magozwe",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 836,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0262.jpg"
+  },
+  {
+   "bookId": "asp-en-0263",
+   "title": "Queen of Soweto: The Story of Basetsana Kumalo",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 711,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0263.jpg"
+  },
+  {
+   "bookId": "asp-en-0265",
+   "title": "Tell me...now! Happy and sad",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "ゆかい・ユーモア"
+   ],
+   "wordCount": 64,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0265.jpg"
+  },
+  {
+   "bookId": "asp-en-0266",
+   "title": "Bunty and Bubbly",
+   "level": 1,
+   "genres": [
+    "むかしばなし",
+    "にちじょう"
+   ],
+   "wordCount": 119,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0266.jpg"
+  },
+  {
+   "bookId": "asp-en-0267",
+   "title": "A Dancer's Tale: The Story of Phyllis Spira",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "むかしばなし"
+   ],
+   "wordCount": 483,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0267.jpg"
+  },
+  {
+   "bookId": "asp-en-0268",
+   "title": "A man who built a house",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 77,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0268.jpg"
+  },
+  {
+   "bookId": "asp-en-0269",
+   "title": "Soccer skills",
+   "level": 1,
+   "genres": [
+    "むかしばなし"
+   ],
+   "wordCount": 118,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0269.jpg"
+  },
+  {
+   "bookId": "asp-en-0270",
+   "title": "Hare Tricks Tortoise",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 345,
+   "pageCount": 14,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0270.jpg"
+  },
+  {
+   "bookId": "asp-en-0272",
+   "title": "Lion's fire sticks",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 608,
+   "pageCount": 14,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0272.jpg"
+  },
+  {
+   "bookId": "asp-en-0273",
+   "title": "Sizwe's Smile",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 686,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0273.jpg"
+  },
+  {
+   "bookId": "asp-en-0274",
+   "title": "Animals dig a well",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 625,
+   "pageCount": 14,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0274.jpg"
+  },
+  {
+   "bookId": "asp-en-0275",
+   "title": "Lion's fire sticks",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 555,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0275.jpg"
+  },
+  {
+   "bookId": "asp-en-0276",
+   "title": "Big blue bus",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 321,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0276.jpg"
+  },
+  {
+   "bookId": "asp-en-0277",
+   "title": "Friends",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 97,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0277.jpg"
+  },
+  {
+   "bookId": "asp-en-0278",
+   "title": "No Naughty Fingers, No Weird Websites",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "どうぶつ"
+   ],
+   "wordCount": 113,
+   "pageCount": 7,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0278.jpg"
+  },
+  {
+   "bookId": "asp-en-0279",
+   "title": "Rat and Frog",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 110,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0279.jpg"
+  },
+  {
+   "bookId": "asp-en-0280",
+   "title": "Why Frog is So Ugly",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 137,
+   "pageCount": 9,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0280.jpg"
+  },
+  {
+   "bookId": "asp-en-0281",
+   "title": "How ant saved dove",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 292,
+   "pageCount": 25,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0281.jpg"
+  },
+  {
+   "bookId": "asp-en-0282",
+   "title": "Maddy Moona's Menagerie",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 554,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0282.jpg"
+  },
+  {
+   "bookId": "asp-en-0283",
+   "title": "Teacher Akinyi",
+   "level": 2,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 177,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0283.jpg"
+  },
+  {
+   "bookId": "asp-en-0284",
+   "title": "Come back, cat",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 60,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0284.jpg"
+  },
+  {
+   "bookId": "asp-en-0285",
+   "title": "Serious accident",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 75,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0285.jpg"
+  },
+  {
+   "bookId": "asp-en-0286",
+   "title": "Swimming",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 171,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0286.jpg"
+  },
+  {
+   "bookId": "asp-en-0287",
+   "title": "Mr Fly and Mr Big Head",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく"
+   ],
+   "wordCount": 120,
+   "pageCount": 7,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0287.jpg"
+  },
+  {
+   "bookId": "asp-en-0288",
+   "title": "Maguru gives out legs",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 361,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0288.jpg"
+  },
+  {
+   "bookId": "asp-en-0289",
+   "title": "Anansi and Vulture",
+   "level": 3,
+   "genres": [
+    "むかしばなし",
+    "どうぶつ"
+   ],
+   "wordCount": 509,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0289.jpg"
+  },
+  {
+   "bookId": "asp-en-0290",
+   "title": "The hours and minutes in Ismail's day",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 422,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0290.jpg"
+  },
+  {
+   "bookId": "asp-en-0291",
+   "title": "What Vusi's sister said",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 503,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0291.jpg"
+  },
+  {
+   "bookId": "asp-en-0292",
+   "title": "The Staring Game",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 143,
+   "pageCount": 7,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0292.jpg"
+  },
+  {
+   "bookId": "asp-en-0293",
+   "title": "I enjoy",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 72,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0293.jpg"
+  },
+  {
+   "bookId": "asp-en-0294",
+   "title": "Grandma's bananas",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 528,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0294.jpg"
+  },
+  {
+   "bookId": "asp-en-0295",
+   "title": "The rainbow",
+   "level": 1,
+   "genres": [
+    "ファンタジー",
+    "にちじょう"
+   ],
+   "wordCount": 61,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0295.jpg"
+  },
+  {
+   "bookId": "asp-en-0296",
+   "title": "Tom the banana seller",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 140,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0296.jpg"
+  },
+  {
+   "bookId": "asp-en-0297",
+   "title": "The tree wife",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 532,
+   "pageCount": 14,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0297.jpg"
+  },
+  {
+   "bookId": "asp-en-0298",
+   "title": "Kumbana's Child",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 175,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0298.jpg"
+  },
+  {
+   "bookId": "asp-en-0299",
+   "title": "Tortoise finds his house",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 468,
+   "pageCount": 15,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0299.jpg"
+  },
+  {
+   "bookId": "asp-en-0300",
+   "title": "The bleeding apple",
+   "level": 2,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 318,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0300.jpg"
+  },
+  {
+   "bookId": "asp-en-0301",
+   "title": "Land of no old people",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 209,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0301.jpg"
+  },
+  {
+   "bookId": "asp-en-0302",
+   "title": "Fire",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 21,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0302.jpg"
+  },
+  {
+   "bookId": "asp-en-0303",
+   "title": "Namukhaywa",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 426,
+   "pageCount": 14,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0303.jpg"
+  },
+  {
+   "bookId": "asp-en-0304",
+   "title": "Greedy Kiundu",
+   "level": 2,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 280,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0304.jpg"
+  },
+  {
+   "bookId": "asp-en-0306",
+   "title": "My daughter Polar",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 46,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0306.jpg"
+  },
+  {
+   "bookId": "asp-en-0307",
+   "title": "Thandi misses her school bus",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 118,
+   "pageCount": 7,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0307.jpg"
+  },
+  {
+   "bookId": "asp-en-0308",
+   "title": "The Honeyguide's revenge",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 718,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0308.jpg"
+  },
+  {
+   "bookId": "asp-en-0311",
+   "title": "Dancing",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 82,
+   "pageCount": 4,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0311.jpg"
+  },
+  {
+   "bookId": "asp-en-0312",
+   "title": "Curious Baby Elephant",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 341,
+   "pageCount": 20,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0312.jpg"
+  },
+  {
+   "bookId": "asp-en-0314",
+   "title": "Fox and Rooster",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 246,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0314.jpg"
+  },
+  {
+   "bookId": "asp-en-0315",
+   "title": "Sakima's song",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 458,
+   "pageCount": 18,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0315.jpg"
+  },
+  {
+   "bookId": "asp-en-0316",
+   "title": "I enjoy doing",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 53,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0316.jpg"
+  },
+  {
+   "bookId": "asp-en-0317",
+   "title": "A King Finds a Husband for His Princess Wiwo",
+   "level": 3,
+   "genres": [
+    "むかしばなし",
+    "しぜん・かがく"
+   ],
+   "wordCount": 465,
+   "pageCount": 15,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0317.jpg"
+  },
+  {
+   "bookId": "asp-en-0319",
+   "title": "Teacher Mulongo",
+   "level": 2,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 164,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0319.jpg"
+  },
+  {
+   "bookId": "asp-en-0320",
+   "title": "What are you doing?",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 32,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0320.jpg"
+  },
+  {
+   "bookId": "asp-en-0322",
+   "title": "One hot Saturday afternoon",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 278,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0322.jpg"
+  },
+  {
+   "bookId": "asp-en-0324",
+   "title": "The day I left home for the city",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 442,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0324.jpg"
+  },
+  {
+   "bookId": "asp-en-0325",
+   "title": "Rat and Frog",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 110,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0325.jpg"
+  },
+  {
+   "bookId": "asp-en-0326",
+   "title": "The talking bag",
+   "level": 2,
+   "genres": [
+    "ファンタジー",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 218,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0326.jpg"
+  },
+  {
+   "bookId": "asp-en-0327",
+   "title": "Counting animals",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 74,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0327.jpg"
+  },
+  {
+   "bookId": "asp-en-0328",
+   "title": "The tree that saved the village of Ombalantu",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 691,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0328.jpg"
+  },
+  {
+   "bookId": "asp-en-0329",
+   "title": "Lazy Anansi",
+   "level": 3,
+   "genres": [
+    "むかしばなし",
+    "にちじょう"
+   ],
+   "wordCount": 432,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0329.jpg"
+  },
+  {
+   "bookId": "asp-en-0330",
+   "title": "A greedy boy",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 67,
+   "pageCount": 4,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0330.jpg"
+  },
+  {
+   "bookId": "asp-en-0331",
+   "title": "Rain",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 45,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0331.jpg"
+  },
+  {
+   "bookId": "asp-en-0332",
+   "title": "Lion and Warthog",
+   "level": 4,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 751,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0332.jpg"
+  },
+  {
+   "bookId": "asp-en-0334",
+   "title": "The frog and the lizard",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 163,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0334.jpg"
+  },
+  {
+   "bookId": "asp-en-0335",
+   "title": "The friend I miss",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 166,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0335.jpg"
+  },
+  {
+   "bookId": "asp-en-0336",
+   "title": "Child as a peacemaker",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 228,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0336.jpg"
+  },
+  {
+   "bookId": "asp-en-0337",
+   "title": "Children of wax",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 135,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0337.jpg"
+  },
+  {
+   "bookId": "asp-en-0338",
+   "title": "'M'e Maneo's pumpkin",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 414,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0338.jpg"
+  },
+  {
+   "bookId": "asp-en-0340",
+   "title": "The happy revival",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 346,
+   "pageCount": 7,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0340.jpg"
+  },
+  {
+   "bookId": "asp-en-0341",
+   "title": "Antoni ke bo mang bale",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 25,
+   "pageCount": 1,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0341.jpg"
+  },
+  {
+   "bookId": "asp-en-0342",
+   "title": "Punishment",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 131,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0342.jpg"
+  },
+  {
+   "bookId": "asp-en-0343",
+   "title": "Musau saves his father",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 333,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0343.jpg"
+  },
+  {
+   "bookId": "asp-en-0344",
+   "title": "How Tembe spends her day in life",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 154,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0344.jpg"
+  },
+  {
+   "bookId": "asp-en-0345",
+   "title": "Khayanga and her Gourd",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 303,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0345.jpg"
+  },
+  {
+   "bookId": "asp-en-0346",
+   "title": "Syonzola and his lies",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 378,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0346.jpg"
+  },
+  {
+   "bookId": "asp-en-0347",
+   "title": "The Monkey and the Crocodile",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 334,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0347.jpg"
+  },
+  {
+   "bookId": "asp-en-0348",
+   "title": "Things I know",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "どうぶつ"
+   ],
+   "wordCount": 221,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0348.jpg"
+  },
+  {
+   "bookId": "asp-en-0349",
+   "title": "Mod the Toad",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "ぼうけん"
+   ],
+   "wordCount": 464,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0349.jpg"
+  },
+  {
+   "bookId": "asp-en-0350",
+   "title": "A house for Mouse",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 98,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0350.jpg"
+  },
+  {
+   "bookId": "asp-en-0351",
+   "title": "Friends become enemies",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 264,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0351.jpg"
+  },
+  {
+   "bookId": "asp-en-0352",
+   "title": "Crocodile and Baboon",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 218,
+   "pageCount": 8,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0352.jpg"
+  },
+  {
+   "bookId": "asp-en-0353",
+   "title": "A naughty girl",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 224,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0353.jpg"
+  },
+  {
+   "bookId": "asp-en-0354",
+   "title": "Old rooster",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 608,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0354.jpg"
+  },
+  {
+   "bookId": "asp-en-0355",
+   "title": "Tell me...now! Colours",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく"
+   ],
+   "wordCount": 65,
+   "pageCount": 12,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0355.jpg"
+  },
+  {
+   "bookId": "asp-en-0356",
+   "title": "Where is my bat?",
+   "level": 1,
+   "genres": [
+    "ぼうけん"
+   ],
+   "wordCount": 73,
+   "pageCount": 7,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0356.jpg"
+  },
+  {
+   "bookId": "asp-en-0357",
+   "title": "Mwari and the ogre",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 179,
+   "pageCount": 10,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0357.jpg"
+  },
+  {
+   "bookId": "asp-en-0359",
+   "title": "My dog",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 43,
+   "pageCount": 6,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0359.jpg"
+  },
+  {
+   "bookId": "asp-en-0360",
+   "title": "Counting cats",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 73,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0360.jpg"
+  },
+  {
+   "bookId": "asp-en-0361",
+   "title": "The Man and the Lion",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 185,
+   "pageCount": 11,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0361.jpg"
+  },
+  {
+   "bookId": "asp-en-0362",
+   "title": "Nanu's taxi",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 299,
+   "pageCount": 16,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0362.jpg"
+  },
+  {
+   "bookId": "asp-en-0363",
+   "title": "The banana thieves",
+   "level": 2,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 223,
+   "pageCount": 13,
+   "source": "asp",
+   "license": "CC BY",
+   "cover": "covers/asp-en-0363.jpg"
+  },
+  {
+   "bookId": "pb-en-0001",
+   "title": "Smile Please!",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 102,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0001.jpg"
+  },
+  {
+   "bookId": "pb-en-0002",
+   "title": "Fat King Thin Dog",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 62,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0002.jpg"
+  },
+  {
+   "bookId": "pb-en-0003",
+   "title": "Vayu, the Wind",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 194,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0003.jpg"
+  },
+  {
+   "bookId": "pb-en-0004",
+   "title": "Chuskit Goes to School!",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 1600,
+   "pageCount": 21,
+   "source": "pb",
+   "license": "Public Domain",
+   "cover": "covers/pb-en-0004.jpg"
+  },
+  {
+   "bookId": "pb-en-0005",
+   "title": "Not Now, Not Now!",
+   "level": 2,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 177,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0005.jpg"
+  },
+  {
+   "bookId": "pb-en-0006",
+   "title": "Counting on Moru",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 1955,
+   "pageCount": 26,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0006.jpg"
+  },
+  {
+   "bookId": "pb-en-0007",
+   "title": "Listen to My Body",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 221,
+   "pageCount": 22,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0007.jpg"
+  },
+  {
+   "bookId": "pb-en-0008",
+   "title": "\"My fish!\" \"No, my fish!\"",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 185,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0008.jpg"
+  },
+  {
+   "bookId": "pb-en-0009",
+   "title": "Susheela's Kolams",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 210,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0009.jpg"
+  },
+  {
+   "bookId": "pb-en-0010",
+   "title": "Pehelwaan Ji",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 108,
+   "pageCount": 15,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0010.jpg"
+  },
+  {
+   "bookId": "pb-en-0011",
+   "title": "Sister, Sister, Where Does the Sun Go at Night?",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 1002,
+   "pageCount": 15,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0011.jpg"
+  },
+  {
+   "bookId": "pb-en-0012",
+   "title": "Everything looks new!",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 311,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0012.jpg"
+  },
+  {
+   "bookId": "pb-en-0013",
+   "title": "Aunty Jui's Baby",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 684,
+   "pageCount": 17,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0013.jpg"
+  },
+  {
+   "bookId": "pb-en-0014",
+   "title": "I Want That One!",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 292,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0014.jpg"
+  },
+  {
+   "bookId": "pb-en-0015",
+   "title": "Hot Tea and Warm Rugs",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 477,
+   "pageCount": 14,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0015.jpg"
+  },
+  {
+   "bookId": "pb-en-0016",
+   "title": "Kheer on a Full Moon Night",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 402,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0016.jpg"
+  },
+  {
+   "bookId": "pb-en-0017",
+   "title": "Peacocks and Pakodas!",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 363,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0017.jpg"
+  },
+  {
+   "bookId": "pb-en-0018",
+   "title": "Goloo the Circle",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 174,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0018.jpg"
+  },
+  {
+   "bookId": "pb-en-0019",
+   "title": "The Cat in the Ghat!",
+   "level": 4,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 1221,
+   "pageCount": 24,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0019.jpg"
+  },
+  {
+   "bookId": "pb-en-0020",
+   "title": "Rani's First Day at School",
+   "level": 2,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 179,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0020.jpg"
+  },
+  {
+   "bookId": "pb-en-0021",
+   "title": "Chhuk-Chhuk-Chhak",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 124,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0021.jpg"
+  },
+  {
+   "bookId": "pb-en-0023",
+   "title": "Little by Little",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 474,
+   "pageCount": 15,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0023.jpg"
+  },
+  {
+   "bookId": "pb-en-0024",
+   "title": "No Smiles Today",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 244,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0024.jpg"
+  },
+  {
+   "bookId": "pb-en-0025",
+   "title": "The Missing Bat",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 556,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0025.jpg"
+  },
+  {
+   "bookId": "pb-en-0026",
+   "title": "Can and Can't",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 50,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0026.jpg"
+  },
+  {
+   "bookId": "pb-en-0027",
+   "title": "Jungle Brew",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 3030,
+   "pageCount": 23,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0027.jpg"
+  },
+  {
+   "bookId": "pb-en-0028",
+   "title": "Going to a Wedding",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 285,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0028.jpg"
+  },
+  {
+   "bookId": "pb-en-0029",
+   "title": "Going Home",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 292,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0029.jpg"
+  },
+  {
+   "bookId": "pb-en-0030",
+   "title": "Timmy and Pepe",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 175,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0030.jpg"
+  },
+  {
+   "bookId": "pb-en-0031",
+   "title": "Cheep Cheep Drip Drip",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 127,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0031.jpg"
+  },
+  {
+   "bookId": "pb-en-0032",
+   "title": "Paper Play",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 368,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0032.jpg"
+  },
+  {
+   "bookId": "pb-en-0033",
+   "title": "Suraj and Sher Singh",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 125,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0033.jpg"
+  },
+  {
+   "bookId": "pb-en-0034",
+   "title": "Veeru Goes to the Circus",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 294,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0034.jpg"
+  },
+  {
+   "bookId": "pb-en-0035",
+   "title": "The Scarecrows on Parade",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 514,
+   "pageCount": 13,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0035.jpg"
+  },
+  {
+   "bookId": "pb-en-0036",
+   "title": "What Does Anu See?",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 181,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0036.jpg"
+  },
+  {
+   "bookId": "pb-en-0037",
+   "title": "The Jungle School",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 322,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0037.jpg"
+  },
+  {
+   "bookId": "pb-en-0038",
+   "title": "My Balwadi",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 286,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0038.jpg"
+  },
+  {
+   "bookId": "pb-en-0039",
+   "title": "A Walk Among Trees",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 3802,
+   "pageCount": 27,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0039.jpg"
+  },
+  {
+   "bookId": "pb-en-0040",
+   "title": "Sister, Sister, Where Does Thunder Come From?",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 1058,
+   "pageCount": 15,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0040.jpg"
+  },
+  {
+   "bookId": "pb-en-0041",
+   "title": "Look At Me",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 120,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0041.jpg"
+  },
+  {
+   "bookId": "pb-en-0042",
+   "title": "Sister, Sister Why is the Sky So Blue?",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 1059,
+   "pageCount": 18,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0042.jpg"
+  },
+  {
+   "bookId": "pb-en-0043",
+   "title": "Sister, Sister, Why Don't Things Fall Up?",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 1120,
+   "pageCount": 16,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0043.jpg"
+  },
+  {
+   "bookId": "pb-en-0044",
+   "title": "Ramya's Stars",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 242,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0044.jpg"
+  },
+  {
+   "bookId": "pb-en-0045",
+   "title": "What Shall I Wear Today?",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "ゆかい・ユーモア"
+   ],
+   "wordCount": 137,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0045.jpg"
+  },
+  {
+   "bookId": "pb-en-0046",
+   "title": "Aaloo-Maaloo-Kaaloo",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 141,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0046.jpg"
+  },
+  {
+   "bookId": "pb-en-0047",
+   "title": "Bunty and Bubbly",
+   "level": 1,
+   "genres": [
+    "むかしばなし",
+    "にちじょう"
+   ],
+   "wordCount": 120,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0047.jpg"
+  },
+  {
+   "bookId": "pb-en-0048",
+   "title": "My Home",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 114,
+   "pageCount": 15,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0048.jpg"
+  },
+  {
+   "bookId": "pb-en-0049",
+   "title": "Kaka and Munni: A Folktale from Punjab",
+   "level": 4,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 1156,
+   "pageCount": 15,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0049.jpg"
+  },
+  {
+   "bookId": "pb-en-0050",
+   "title": "Too Many Bananas",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 492,
+   "pageCount": 26,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0050.jpg"
+  },
+  {
+   "bookId": "pb-en-0051",
+   "title": "The Timid Train",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "どうぶつ"
+   ],
+   "wordCount": 619,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0051.jpg"
+  },
+  {
+   "bookId": "pb-en-0052",
+   "title": "Little Painters",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 199,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0052.jpg"
+  },
+  {
+   "bookId": "pb-en-0053",
+   "title": "The Moon and The Cap",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 143,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0053.jpg"
+  },
+  {
+   "bookId": "pb-en-0054",
+   "title": "Do and Don't",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 117,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0054.jpg"
+  },
+  {
+   "bookId": "pb-en-0055",
+   "title": "Curly and Straight",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 73,
+   "pageCount": 13,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0055.jpg"
+  },
+  {
+   "bookId": "pb-en-0056",
+   "title": "Goodnight, Tinku!",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 422,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0056.jpg"
+  },
+  {
+   "bookId": "pb-en-0057",
+   "title": "Ritu's Letter Gets Longer!",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 600,
+   "pageCount": 14,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0057.jpg"
+  },
+  {
+   "bookId": "pb-en-0058",
+   "title": "Sailing Home",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 1379,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0058.jpg"
+  },
+  {
+   "bookId": "pb-en-0059",
+   "title": "This and That",
+   "level": 1,
+   "genres": [
+    "どうぶつ"
+   ],
+   "wordCount": 101,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0059.jpg"
+  },
+  {
+   "bookId": "pb-en-0060",
+   "title": "Annual Haircut Day",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 241,
+   "pageCount": 19,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0060.jpg"
+  },
+  {
+   "bookId": "pb-en-0061",
+   "title": "Lassi, Ice-cream or Falooda?",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 299,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0061.jpg"
+  },
+  {
+   "bookId": "pb-en-0062",
+   "title": "Bheema, the Sleepyhead",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 281,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0062.jpg"
+  },
+  {
+   "bookId": "pb-en-0063",
+   "title": "Playtime",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "ファンタジー"
+   ],
+   "wordCount": 140,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0063.jpg"
+  },
+  {
+   "bookId": "pb-en-0064",
+   "title": "My Friends",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 69,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0064.jpg"
+  },
+  {
+   "bookId": "pb-en-0066",
+   "title": "My Car",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 147,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0066.jpg"
+  },
+  {
+   "bookId": "pb-en-0067",
+   "title": "Lost and Found",
+   "level": 2,
+   "genres": [
+    "ゆかい・ユーモア",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 153,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0067.jpg"
+  },
+  {
+   "bookId": "pb-en-0068",
+   "title": "The Auto That Flew",
+   "level": 4,
+   "genres": [
+    "ファンタジー",
+    "しぜん・かがく"
+   ],
+   "wordCount": 1009,
+   "pageCount": 23,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0068.jpg"
+  },
+  {
+   "bookId": "pb-en-0069",
+   "title": "The Red Raincoat",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 231,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0069.jpg"
+  },
+  {
+   "bookId": "pb-en-0070",
+   "title": "Bani",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 716,
+   "pageCount": 18,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0070.jpg"
+  },
+  {
+   "bookId": "pb-en-0071",
+   "title": "Colours of Nature",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 168,
+   "pageCount": 16,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0071.jpg"
+  },
+  {
+   "bookId": "pb-en-0072",
+   "title": "Happy and Sad (Tell me now series)",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "ゆかい・ユーモア"
+   ],
+   "wordCount": 64,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0072.jpg"
+  },
+  {
+   "bookId": "pb-en-0073",
+   "title": "Colours (Tell me now series)",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく"
+   ],
+   "wordCount": 65,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0073.jpg"
+  },
+  {
+   "bookId": "pb-en-0074",
+   "title": "Naughty or Not (Tell me now series)",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 62,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0074.jpg"
+  },
+  {
+   "bookId": "pb-en-0075",
+   "title": "Gulli's Box of Things",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 324,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0075.jpg"
+  },
+  {
+   "bookId": "pb-en-0076",
+   "title": "Paplu, the Giant",
+   "level": 4,
+   "genres": [
+    "ファンタジー",
+    "にちじょう"
+   ],
+   "wordCount": 1214,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0076.jpg"
+  },
+  {
+   "bookId": "pb-en-0078",
+   "title": "Cheenu's Gift",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 302,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0078.jpg"
+  },
+  {
+   "bookId": "pb-en-0079",
+   "title": "Kallu's World 1 - In Big Trouble Again!",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 1989,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0079.jpg"
+  },
+  {
+   "bookId": "pb-en-0080",
+   "title": "The Day the Vegetables Came to School",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 478,
+   "pageCount": 15,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0080.jpg"
+  },
+  {
+   "bookId": "pb-en-0081",
+   "title": "The Generous Crow",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 669,
+   "pageCount": 14,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0081.jpg"
+  },
+  {
+   "bookId": "pb-en-0082",
+   "title": "The Woodcutter of Gura - A Folktale from Ethiopia",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 1051,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0082.jpg"
+  },
+  {
+   "bookId": "pb-en-0083",
+   "title": "Three for Free - A Folktale from Taiwan",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 1302,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0083.jpg"
+  },
+  {
+   "bookId": "pb-en-0084",
+   "title": "Who is a good dog?",
+   "level": 1,
+   "genres": [
+    "どうぶつ"
+   ],
+   "wordCount": 57,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0084.jpg"
+  },
+  {
+   "bookId": "pb-en-0085",
+   "title": "When Amma Went to School",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 222,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0085.jpg"
+  },
+  {
+   "bookId": "pb-en-0087",
+   "title": "Rain, Rain",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 109,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0087.jpg"
+  },
+  {
+   "bookId": "pb-en-0088",
+   "title": "The Flyaway Cradle",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 324,
+   "pageCount": 13,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0088.jpg"
+  },
+  {
+   "bookId": "pb-en-0089",
+   "title": "The Magic Powder - A Folktale from Myanmar",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "ファンタジー"
+   ],
+   "wordCount": 1139,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0089.jpg"
+  },
+  {
+   "bookId": "pb-en-0090",
+   "title": "Raza Meets the King",
+   "level": 4,
+   "genres": [
+    "むかしばなし",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 1241,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0090.jpg"
+  },
+  {
+   "bookId": "pb-en-0091",
+   "title": "The Boat Ride",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 358,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0091.jpg"
+  },
+  {
+   "bookId": "pb-en-0092",
+   "title": "The Sparrow and The Fruit",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 596,
+   "pageCount": 12,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0092.jpg"
+  },
+  {
+   "bookId": "pb-en-0093",
+   "title": "Marching to Freedom",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 1386,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0093.jpg"
+  },
+  {
+   "bookId": "pb-en-0094",
+   "title": "Going to Buy a Book",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 278,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0094.jpg"
+  },
+  {
+   "bookId": "pb-en-0095",
+   "title": "Shobhini and Nani",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 1087,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0095.jpg"
+  },
+  {
+   "bookId": "pb-en-0096",
+   "title": "Samira Goes Shopping",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 630,
+   "pageCount": 13,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0096.jpg"
+  },
+  {
+   "bookId": "pb-en-0097",
+   "title": "Sniffles, the Crocodile and Punch, the Butterfly",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 543,
+   "pageCount": 12,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0097.jpg"
+  },
+  {
+   "bookId": "pb-en-0098",
+   "title": "The Hare & the Tortoise (Again!)",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 485,
+   "pageCount": 14,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0098.jpg"
+  },
+  {
+   "bookId": "pb-en-0099",
+   "title": "Here Comes the Camel and Other Poems",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 689,
+   "pageCount": 19,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0099.jpg"
+  },
+  {
+   "bookId": "pb-en-0100",
+   "title": "I Can Climb!",
+   "level": 1,
+   "genres": [
+    "ぼうけん"
+   ],
+   "wordCount": 89,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0100.jpg"
+  },
+  {
+   "bookId": "pb-en-0101",
+   "title": "Flying High",
+   "level": 2,
+   "genres": [
+    "ファンタジー",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 235,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0101.jpg"
+  },
+  {
+   "bookId": "pb-en-0102",
+   "title": "Rumniya",
+   "level": 2,
+   "genres": [
+    "ぼうけん",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 226,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0102.jpg"
+  },
+  {
+   "bookId": "pb-en-0103",
+   "title": "I Can Make Things!",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 91,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0103.jpg"
+  },
+  {
+   "bookId": "pb-en-0104",
+   "title": "I lost my bat! I found my bat!",
+   "level": 1,
+   "genres": [
+    "ぼうけん"
+   ],
+   "wordCount": 38,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0104.jpg"
+  },
+  {
+   "bookId": "pb-en-0105",
+   "title": "Mouse in the House",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 260,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0105.jpg"
+  },
+  {
+   "bookId": "pb-en-0106",
+   "title": "What If?",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 210,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0106.jpg"
+  },
+  {
+   "bookId": "pb-en-0108",
+   "title": "The Royal Toothache",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 223,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0108.jpg"
+  },
+  {
+   "bookId": "pb-en-0109",
+   "title": "Monkey Business on Stage - Kallu's World 2",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "どうぶつ"
+   ],
+   "wordCount": 2012,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0109.jpg"
+  },
+  {
+   "bookId": "pb-en-0111",
+   "title": "Too Much Noise",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "どうぶつ"
+   ],
+   "wordCount": 621,
+   "pageCount": 17,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0111.jpg"
+  },
+  {
+   "bookId": "pb-en-0112",
+   "title": "Phani's Funny Chappals",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 260,
+   "pageCount": 12,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0112.jpg"
+  },
+  {
+   "bookId": "pb-en-0113",
+   "title": "Topsy Turvy",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 201,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0113.jpg"
+  },
+  {
+   "bookId": "pb-en-0114",
+   "title": "I Am Not Afraid!",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 106,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0114.jpg"
+  },
+  {
+   "bookId": "pb-en-0116",
+   "title": "Wailers Three - A Folktale From China",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "どうぶつ"
+   ],
+   "wordCount": 851,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0116.jpg"
+  },
+  {
+   "bookId": "pb-en-0117",
+   "title": "Tok Tok",
+   "level": 4,
+   "genres": [
+    "むかしばなし",
+    "どうぶつ"
+   ],
+   "wordCount": 903,
+   "pageCount": 17,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0117.jpg"
+  },
+  {
+   "bookId": "pb-en-0118",
+   "title": "Why, Oh Why!",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく"
+   ],
+   "wordCount": 54,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0118.jpg"
+  },
+  {
+   "bookId": "pb-en-0119",
+   "title": "Pehelwaan ji Plays Cricket",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "ぼうけん"
+   ],
+   "wordCount": 276,
+   "pageCount": 15,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0119.jpg"
+  },
+  {
+   "bookId": "pb-en-0120",
+   "title": "Anaya's Thumb",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 444,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0120.jpg"
+  },
+  {
+   "bookId": "pb-en-0121",
+   "title": "Saboo and Jojo",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 285,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0121.jpg"
+  },
+  {
+   "bookId": "pb-en-0122",
+   "title": "First House",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 666,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0122.jpg"
+  },
+  {
+   "bookId": "pb-en-0123",
+   "title": "Under My Bed",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 139,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0123.jpg"
+  },
+  {
+   "bookId": "pb-en-0124",
+   "title": "Grandma's Glasses",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "ゆかい・ユーモア"
+   ],
+   "wordCount": 296,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0124.jpg"
+  },
+  {
+   "bookId": "pb-en-0125",
+   "title": "My Best Friend",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 111,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0125.jpg"
+  },
+  {
+   "bookId": "pb-en-0126",
+   "title": "Busy Ants",
+   "level": 2,
+   "genres": [
+    "どうぶつ"
+   ],
+   "wordCount": 192,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0126.jpg"
+  },
+  {
+   "bookId": "pb-en-0127",
+   "title": "Clean Cat",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 200,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0127.jpg"
+  },
+  {
+   "bookId": "pb-en-0128",
+   "title": "Noisy Crows",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 177,
+   "pageCount": 12,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0128.jpg"
+  },
+  {
+   "bookId": "pb-en-0129",
+   "title": "Naughty Dog",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 167,
+   "pageCount": 12,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0129.jpg"
+  },
+  {
+   "bookId": "pb-en-0130",
+   "title": "The Boy and the Drum",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 2937,
+   "pageCount": 13,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0130.jpg"
+  },
+  {
+   "bookId": "pb-en-0131",
+   "title": "The Elephant Bird",
+   "level": 4,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 1446,
+   "pageCount": 19,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0131.jpg"
+  },
+  {
+   "bookId": "pb-en-0132",
+   "title": "We Are All Animals",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 284,
+   "pageCount": 28,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0132.jpg"
+  },
+  {
+   "bookId": "pb-en-0133",
+   "title": "The Boy and the Drum (A Shorter Version)",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 1817,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0133.jpg"
+  },
+  {
+   "bookId": "pb-en-0134",
+   "title": "Pishi Caught in a Storm",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 355,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0134.jpg"
+  },
+  {
+   "bookId": "pb-en-0135",
+   "title": "Singing in the Rain",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 217,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0135.jpg"
+  },
+  {
+   "bookId": "pb-en-0136",
+   "title": "Tara Finds Her Stars",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 348,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0136.jpg"
+  },
+  {
+   "bookId": "pb-en-0137",
+   "title": "Spot and Spike",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 122,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0137.jpg"
+  },
+  {
+   "bookId": "pb-en-0138",
+   "title": "Thangwang and Bhalluka",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 286,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0138.jpg"
+  },
+  {
+   "bookId": "pb-en-0139",
+   "title": "My Juggling Granny",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "ゆかい・ユーモア"
+   ],
+   "wordCount": 188,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0139.jpg"
+  },
+  {
+   "bookId": "pb-en-0140",
+   "title": "It's All the Cat's Fault!",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 190,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0140.jpg"
+  },
+  {
+   "bookId": "pb-en-0141",
+   "title": "Who Made This World?",
+   "level": 1,
+   "genres": [
+    "ぼうけん"
+   ],
+   "wordCount": 32,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0141.jpg"
+  },
+  {
+   "bookId": "pb-en-0143",
+   "title": "The Lantern Queen",
+   "level": 4,
+   "genres": [
+    "むかしばなし",
+    "にちじょう"
+   ],
+   "wordCount": 2081,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0143.jpg"
+  },
+  {
+   "bookId": "pb-en-0144",
+   "title": "The cat and the monkey",
+   "level": 1,
+   "genres": [
+    "どうぶつ"
+   ],
+   "wordCount": 31,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0144.jpg"
+  },
+  {
+   "bookId": "pb-en-0145",
+   "title": "The Jolly Juggler",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "ゆかい・ユーモア"
+   ],
+   "wordCount": 247,
+   "pageCount": 2,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0145.jpg"
+  },
+  {
+   "bookId": "pb-en-0146",
+   "title": "My Diwali Book",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 344,
+   "pageCount": 17,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0146.jpg"
+  },
+  {
+   "bookId": "pb-en-0147",
+   "title": "Mili's birthday celebration",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 221,
+   "pageCount": 3,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0147.jpg"
+  },
+  {
+   "bookId": "pb-en-0148",
+   "title": "BooBoo sings for Vihaan",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 258,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0148.jpg"
+  },
+  {
+   "bookId": "pb-en-0149",
+   "title": "Where is Gogo?",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 200,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0149.jpg"
+  },
+  {
+   "bookId": "pb-en-0151",
+   "title": "Ammu's Puppy",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 338,
+   "pageCount": 16,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0151.jpg"
+  },
+  {
+   "bookId": "pb-en-0152",
+   "title": "Mangoes For Moidootty",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "ファンタジー"
+   ],
+   "wordCount": 319,
+   "pageCount": 19,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0152.jpg"
+  },
+  {
+   "bookId": "pb-en-0153",
+   "title": "The Woman With No Soul",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 719,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0153.jpg"
+  },
+  {
+   "bookId": "pb-en-0154",
+   "title": "The Princess and the Veggy Lion",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 245,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0154.jpg"
+  },
+  {
+   "bookId": "pb-en-0155",
+   "title": "When Percy Said Sorry",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 86,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0155.jpg"
+  },
+  {
+   "bookId": "pb-en-0156",
+   "title": "Subami's Family",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 126,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0156.jpg"
+  },
+  {
+   "bookId": "pb-en-0157",
+   "title": "My Musical Adventure",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 696,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0157.jpg"
+  },
+  {
+   "bookId": "pb-en-0158",
+   "title": "Asha gives up a bad habit!",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 312,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0158.jpg"
+  },
+  {
+   "bookId": "pb-en-0159",
+   "title": "The puppy that did not bark!!!",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 586,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0159.jpg"
+  },
+  {
+   "bookId": "pb-en-0160",
+   "title": "Preetha Aunty- My teacher",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 108,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0160.jpg"
+  },
+  {
+   "bookId": "pb-en-0161",
+   "title": "The Cave Party",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 203,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0161.jpg"
+  },
+  {
+   "bookId": "pb-en-0162",
+   "title": "Climb and Hop",
+   "level": 1,
+   "genres": [
+    "ぼうけん",
+    "にちじょう"
+   ],
+   "wordCount": 81,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0162.jpg"
+  },
+  {
+   "bookId": "pb-en-0163",
+   "title": "Me and my Strong Kite",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 58,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0163.jpg"
+  },
+  {
+   "bookId": "pb-en-0164",
+   "title": "The Horrible Crocobots",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "むかしばなし"
+   ],
+   "wordCount": 1547,
+   "pageCount": 19,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0164.jpg"
+  },
+  {
+   "bookId": "pb-en-0165",
+   "title": "The Story-Pooping Cat",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 283,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0165.jpg"
+  },
+  {
+   "bookId": "pb-en-0166",
+   "title": "Have You Seen These Birds?",
+   "level": 1,
+   "genres": [
+    "どうぶつ"
+   ],
+   "wordCount": 10,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0166.jpg"
+  },
+  {
+   "bookId": "pb-en-0167",
+   "title": "Didi and the Colourful Treasure",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 434,
+   "pageCount": 12,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0167.jpg"
+  },
+  {
+   "bookId": "pb-en-0168",
+   "title": "My Anti Litter Poem",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく"
+   ],
+   "wordCount": 62,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0168.jpg"
+  },
+  {
+   "bookId": "pb-en-0169",
+   "title": "Eat and Share",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "ファンタジー"
+   ],
+   "wordCount": 45,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0169.jpg"
+  },
+  {
+   "bookId": "pb-en-0170",
+   "title": "What Makes You Special?",
+   "level": 2,
+   "genres": [
+    "どうぶつ"
+   ],
+   "wordCount": 305,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0170.jpg"
+  },
+  {
+   "bookId": "pb-en-0171",
+   "title": "Jaggee's mornings",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 199,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0171.jpg"
+  },
+  {
+   "bookId": "pb-en-0172",
+   "title": "Tree on a plate",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく"
+   ],
+   "wordCount": 146,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0172.jpg"
+  },
+  {
+   "bookId": "pb-en-0173",
+   "title": "Fun with Balloon",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 92,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0173.jpg"
+  },
+  {
+   "bookId": "pb-en-0174",
+   "title": "My Friend Trace Roger the robot!",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 286,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0174.jpg"
+  },
+  {
+   "bookId": "pb-en-0175",
+   "title": "Don't get scared! Try!",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 231,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0175.jpg"
+  },
+  {
+   "bookId": "pb-en-0176",
+   "title": "Nadir's Pet",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 238,
+   "pageCount": 2,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0176.jpg"
+  },
+  {
+   "bookId": "pb-en-0177",
+   "title": "Amazing Ants",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "どうぶつ"
+   ],
+   "wordCount": 98,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0177.jpg"
+  },
+  {
+   "bookId": "pb-en-0178",
+   "title": "Long Water",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 200,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0178.jpg"
+  },
+  {
+   "bookId": "pb-en-0179",
+   "title": "Stripey the Bee",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "ファンタジー"
+   ],
+   "wordCount": 271,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0179.jpg"
+  },
+  {
+   "bookId": "pb-en-0180",
+   "title": "The Rainbow Story",
+   "level": 4,
+   "genres": [
+    "ぼうけん",
+    "にちじょう"
+   ],
+   "wordCount": 735,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0180.jpg"
+  },
+  {
+   "bookId": "pb-en-0181",
+   "title": "Prakruti",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 163,
+   "pageCount": 14,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0181.jpg"
+  },
+  {
+   "bookId": "pb-en-0182",
+   "title": "Animals Are Kind",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 176,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0182.jpg"
+  },
+  {
+   "bookId": "pb-en-0184",
+   "title": "The boy who hated vegetables",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 272,
+   "pageCount": 15,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0184.jpg"
+  },
+  {
+   "bookId": "pb-en-0185",
+   "title": "The Surprise",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "ゆかい・ユーモア"
+   ],
+   "wordCount": 218,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0185.jpg"
+  },
+  {
+   "bookId": "pb-en-0187",
+   "title": "Happy world",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 314,
+   "pageCount": 3,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0187.jpg"
+  },
+  {
+   "bookId": "pb-en-0188",
+   "title": "Where Is My Mother?",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 360,
+   "pageCount": 3,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0188.jpg"
+  },
+  {
+   "bookId": "pb-en-0189",
+   "title": "Tina and the crazy animal",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 290,
+   "pageCount": 12,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0189.jpg"
+  },
+  {
+   "bookId": "pb-en-0190",
+   "title": "Kaushik, the Kind Detective",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 371,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0190.jpg"
+  },
+  {
+   "bookId": "pb-en-0191",
+   "title": "Richard's unlucky day",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 207,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0191.jpg"
+  },
+  {
+   "bookId": "pb-en-0192",
+   "title": "The Disaster",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 256,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0192.jpg"
+  },
+  {
+   "bookId": "pb-en-0193",
+   "title": "Timmi's dream",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "ファンタジー"
+   ],
+   "wordCount": 78,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0193.jpg"
+  },
+  {
+   "bookId": "pb-en-0194",
+   "title": "Dadhi's crazy specatal day",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 61,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0194.jpg"
+  },
+  {
+   "bookId": "pb-en-0195",
+   "title": "The party",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 179,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0195.jpg"
+  },
+  {
+   "bookId": "pb-en-0196",
+   "title": "Mr. Fish won't talk",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 46,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0196.jpg"
+  },
+  {
+   "bookId": "pb-en-0197",
+   "title": "The Race",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 84,
+   "pageCount": 3,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0197.jpg"
+  },
+  {
+   "bookId": "pb-en-0199",
+   "title": "The Magical Zoo",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 79,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0199.jpg"
+  },
+  {
+   "bookId": "pb-en-0200",
+   "title": "The Unusual Rainmaking Duet",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "むかしばなし"
+   ],
+   "wordCount": 241,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0200.jpg"
+  },
+  {
+   "bookId": "pb-en-0201",
+   "title": "The Brave Girl",
+   "level": 3,
+   "genres": [
+    "ファンタジー",
+    "にちじょう"
+   ],
+   "wordCount": 512,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0201.jpg"
+  },
+  {
+   "bookId": "pb-en-0202",
+   "title": "Sheela Learns to make friends",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 671,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0202.jpg"
+  },
+  {
+   "bookId": "pb-en-0203",
+   "title": "The train journey",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 120,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0203.jpg"
+  },
+  {
+   "bookId": "pb-en-0204",
+   "title": "The Story of Stories",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 557,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0204.jpg"
+  },
+  {
+   "bookId": "pb-en-0205",
+   "title": "Golu Detective",
+   "level": 1,
+   "genres": [
+    "ファンタジー",
+    "ぼうけん"
+   ],
+   "wordCount": 81,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0205.jpg"
+  },
+  {
+   "bookId": "pb-en-0206",
+   "title": "The Duet of Rainmakers",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 1176,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0206.jpg"
+  },
+  {
+   "bookId": "pb-en-0207",
+   "title": "No Tricking Kutti",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 616,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0207.jpg"
+  },
+  {
+   "bookId": "pb-en-0208",
+   "title": "The Brave Kitten",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 115,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0208.jpg"
+  },
+  {
+   "bookId": "pb-en-0209",
+   "title": "The Man likes to Sing",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく"
+   ],
+   "wordCount": 63,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0209.jpg"
+  },
+  {
+   "bookId": "pb-en-0212",
+   "title": "Clean Surroundings and Keep Bright",
+   "level": 1,
+   "genres": [
+    "どうぶつ"
+   ],
+   "wordCount": 80,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0212.jpg"
+  },
+  {
+   "bookId": "pb-en-0213",
+   "title": "Kalaywani teacher class",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 49,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0213.jpg"
+  },
+  {
+   "bookId": "pb-en-0214",
+   "title": "Chameleon Life",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 139,
+   "pageCount": 3,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0214.jpg"
+  },
+  {
+   "bookId": "pb-en-0216",
+   "title": "School going Boy Story",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 58,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0216.jpg"
+  },
+  {
+   "bookId": "pb-en-0217",
+   "title": "The King and his music",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "むかしばなし"
+   ],
+   "wordCount": 148,
+   "pageCount": 2,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0217.jpg"
+  },
+  {
+   "bookId": "pb-en-0218",
+   "title": "Monkey in the Kitchen",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 64,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0218.jpg"
+  },
+  {
+   "bookId": "pb-en-0219",
+   "title": "Be greater than others",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 96,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0219.jpg"
+  },
+  {
+   "bookId": "pb-en-0220",
+   "title": "Monkey and Yummy Mangoes",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 90,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0220.jpg"
+  },
+  {
+   "bookId": "pb-en-0221",
+   "title": "Monkey at home",
+   "level": 1,
+   "genres": [
+    "どうぶつ"
+   ],
+   "wordCount": 33,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0221.jpg"
+  },
+  {
+   "bookId": "pb-en-0222",
+   "title": "Honey Bee journey",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "ファンタジー"
+   ],
+   "wordCount": 50,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0222.jpg"
+  },
+  {
+   "bookId": "pb-en-0223",
+   "title": "Mischievous Monkey",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "どうぶつ"
+   ],
+   "wordCount": 82,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0223.jpg"
+  },
+  {
+   "bookId": "pb-en-0224",
+   "title": "Hoggy and Ramu",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 90,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0224.jpg"
+  },
+  {
+   "bookId": "pb-en-0225",
+   "title": "Naughty Children",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 42,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0225.jpg"
+  },
+  {
+   "bookId": "pb-en-0226",
+   "title": "Diwali",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 83,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0226.jpg"
+  },
+  {
+   "bookId": "pb-en-0227",
+   "title": "The dog",
+   "level": 4,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 1634,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0227.jpg"
+  },
+  {
+   "bookId": "pb-en-0228",
+   "title": "Granny and her Bird Friend",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 192,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0228.jpg"
+  },
+  {
+   "bookId": "pb-en-0229",
+   "title": "Manya's perfect dress",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 143,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0229.jpg"
+  },
+  {
+   "bookId": "pb-en-0230",
+   "title": "Didi's knowledge",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 139,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0230.jpg"
+  },
+  {
+   "bookId": "pb-en-0231",
+   "title": "Shruti's secret to winning",
+   "level": 2,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 170,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0231.jpg"
+  },
+  {
+   "bookId": "pb-en-0232",
+   "title": "My best friend",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 58,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0232.jpg"
+  },
+  {
+   "bookId": "pb-en-0233",
+   "title": "Follow Your Dreams",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 114,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0233.jpg"
+  },
+  {
+   "bookId": "pb-en-0234",
+   "title": "Tita",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 40,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0234.jpg"
+  },
+  {
+   "bookId": "pb-en-0235",
+   "title": "Shambu and the little man",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "ぼうけん"
+   ],
+   "wordCount": 134,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0235.jpg"
+  },
+  {
+   "bookId": "pb-en-0236",
+   "title": "Amma's stories",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 594,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0236.jpg"
+  },
+  {
+   "bookId": "pb-en-0237",
+   "title": "The missing cat",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 123,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0237.jpg"
+  },
+  {
+   "bookId": "pb-en-0240",
+   "title": "The Day It Rained Fish",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 255,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0240.jpg"
+  },
+  {
+   "bookId": "pb-en-0241",
+   "title": "Rachel and Big Ben",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "ファンタジー"
+   ],
+   "wordCount": 294,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0241.jpg"
+  },
+  {
+   "bookId": "pb-en-0242",
+   "title": "Cute Rat",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 51,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0242.jpg"
+  },
+  {
+   "bookId": "pb-en-0243",
+   "title": "Where is my Home?",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 74,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0243.jpg"
+  },
+  {
+   "bookId": "pb-en-0244",
+   "title": "When the Wind Blew Today...",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "ファンタジー"
+   ],
+   "wordCount": 71,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0244.jpg"
+  },
+  {
+   "bookId": "pb-en-0246",
+   "title": "Crumbled Tear Laden Walls",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "どうぶつ"
+   ],
+   "wordCount": 269,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0246.jpg"
+  },
+  {
+   "bookId": "pb-en-0247",
+   "title": "It's bath time!",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 239,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0247.jpg"
+  },
+  {
+   "bookId": "pb-en-0248",
+   "title": "Ham and Lily",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 388,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0248.jpg"
+  },
+  {
+   "bookId": "pb-en-0250",
+   "title": "The Angry Shopkeeper",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 816,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0250.jpg"
+  },
+  {
+   "bookId": "pb-en-0251",
+   "title": "Windy's adventure",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "ぼうけん"
+   ],
+   "wordCount": 261,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0251.jpg"
+  },
+  {
+   "bookId": "pb-en-0252",
+   "title": "The book of poems",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 438,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0252.jpg"
+  },
+  {
+   "bookId": "pb-en-0253",
+   "title": "Dia's favourite festivals",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 268,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0253.jpg"
+  },
+  {
+   "bookId": "pb-en-0254",
+   "title": "The Magical Jackal",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 286,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0254.jpg"
+  },
+  {
+   "bookId": "pb-en-0255",
+   "title": "The love of art",
+   "level": 2,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 182,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0255.jpg"
+  },
+  {
+   "bookId": "pb-en-0256",
+   "title": "My Juggling Grandma",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 94,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0256.jpg"
+  },
+  {
+   "bookId": "pb-en-0257",
+   "title": "Nina Plays With the Butterflies",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "むかしばなし"
+   ],
+   "wordCount": 191,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0257.jpg"
+  },
+  {
+   "bookId": "pb-en-0258",
+   "title": "Gargi and Soapy",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "ファンタジー"
+   ],
+   "wordCount": 356,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0258.jpg"
+  },
+  {
+   "bookId": "pb-en-0259",
+   "title": "Treasure of Deeds",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "ぼうけん"
+   ],
+   "wordCount": 1071,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0259.jpg"
+  },
+  {
+   "bookId": "pb-en-0260",
+   "title": "Guess this place? Ghost Town!",
+   "level": 2,
+   "genres": [
+    "ファンタジー",
+    "にちじょう"
+   ],
+   "wordCount": 206,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0260.jpg"
+  },
+  {
+   "bookId": "pb-en-0261",
+   "title": "Aditi's Trip To Moon",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 227,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0261.jpg"
+  },
+  {
+   "bookId": "pb-en-0262",
+   "title": "Many Bananas",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 68,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0262.jpg"
+  },
+  {
+   "bookId": "pb-en-0263",
+   "title": "Hacking Is Life Part 2 - The Kid Can't Be Kidnapped",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 628,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0263.jpg"
+  },
+  {
+   "bookId": "pb-en-0264",
+   "title": "The perfect project",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 127,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0264.jpg"
+  },
+  {
+   "bookId": "pb-en-0265",
+   "title": "Mittai Lals' Sweet Dream",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 155,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0265.jpg"
+  },
+  {
+   "bookId": "pb-en-0266",
+   "title": "Intelligent Friends",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 422,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0266.jpg"
+  },
+  {
+   "bookId": "pb-en-0267",
+   "title": "The little girl and Teddy",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 348,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0267.jpg"
+  },
+  {
+   "bookId": "pb-en-0268",
+   "title": "The Girl and the Bear",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 224,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0268.jpg"
+  },
+  {
+   "bookId": "pb-en-0269",
+   "title": "Hooray!!! It's Sunday- Time for Leisure Shower and Fun time",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 126,
+   "pageCount": 3,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0269.jpg"
+  },
+  {
+   "bookId": "pb-en-0270",
+   "title": "Viva.., the curious girl",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "ぼうけん"
+   ],
+   "wordCount": 135,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0270.jpg"
+  },
+  {
+   "bookId": "pb-en-0271",
+   "title": "Best Friends Forever",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち"
+   ],
+   "wordCount": 97,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0271.jpg"
+  },
+  {
+   "bookId": "pb-en-0272",
+   "title": "Life's Lighter Moments",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 464,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0272.jpg"
+  },
+  {
+   "bookId": "pb-en-0273",
+   "title": "App-ily ever after",
+   "level": 3,
+   "genres": [
+    "むかしばなし",
+    "ぼうけん"
+   ],
+   "wordCount": 463,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0273.jpg"
+  },
+  {
+   "bookId": "pb-en-0274",
+   "title": "Wonders of Martina's Adventure",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "ぼうけん"
+   ],
+   "wordCount": 565,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0274.jpg"
+  },
+  {
+   "bookId": "pb-en-0275",
+   "title": "Cinderella",
+   "level": 2,
+   "genres": [
+    "むかしばなし",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 220,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0275.jpg"
+  },
+  {
+   "bookId": "pb-en-0276",
+   "title": "King of Birds",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 465,
+   "pageCount": 14,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0276.jpg"
+  },
+  {
+   "bookId": "pb-en-0277",
+   "title": "The brave boy!",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 213,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0277.jpg"
+  },
+  {
+   "bookId": "pb-en-0278",
+   "title": "Queen's Village",
+   "level": 2,
+   "genres": [
+    "むかしばなし",
+    "にちじょう"
+   ],
+   "wordCount": 154,
+   "pageCount": 3,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0278.jpg"
+  },
+  {
+   "bookId": "pb-en-0279",
+   "title": "Croaky the Frog",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 313,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0279.jpg"
+  },
+  {
+   "bookId": "pb-en-0280",
+   "title": "The day of an owl",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 63,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0280.jpg"
+  },
+  {
+   "bookId": "pb-en-0281",
+   "title": "Abhinav and the Cat",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 229,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0281.jpg"
+  },
+  {
+   "bookId": "pb-en-0282",
+   "title": "The Avengers and the age of powerful mach Green Goblin",
+   "level": 1,
+   "genres": [
+    "むかしばなし"
+   ],
+   "wordCount": 134,
+   "pageCount": 17,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0282.jpg"
+  },
+  {
+   "bookId": "pb-en-0283",
+   "title": "Food makes everything better!",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 169,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0283.jpg"
+  },
+  {
+   "bookId": "pb-en-0284",
+   "title": "Our earth is precious",
+   "level": 1,
+   "genres": [
+    "ファンタジー",
+    "しぜん・かがく"
+   ],
+   "wordCount": 63,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0284.jpg"
+  },
+  {
+   "bookId": "pb-en-0285",
+   "title": "Zara",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "むかしばなし"
+   ],
+   "wordCount": 90,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0285.jpg"
+  },
+  {
+   "bookId": "pb-en-0286",
+   "title": "The Clever Tortoise and the Foolish Fox",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 132,
+   "pageCount": 2,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0286.jpg"
+  },
+  {
+   "bookId": "pb-en-0287",
+   "title": "My family",
+   "level": 1,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 124,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0287.jpg"
+  },
+  {
+   "bookId": "pb-en-0288",
+   "title": "Adventures of Anna",
+   "level": 1,
+   "genres": [
+    "ぼうけん",
+    "どうぶつ"
+   ],
+   "wordCount": 126,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0288.jpg"
+  },
+  {
+   "bookId": "pb-en-0290",
+   "title": "Sheema and King Kenrykoof",
+   "level": 1,
+   "genres": [
+    "むかしばなし",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 122,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0290.jpg"
+  },
+  {
+   "bookId": "pb-en-0291",
+   "title": "Akash's sweet lesson to brush",
+   "level": 2,
+   "genres": [
+    "ファンタジー",
+    "にちじょう"
+   ],
+   "wordCount": 203,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0291.jpg"
+  },
+  {
+   "bookId": "pb-en-0292",
+   "title": "God",
+   "level": 2,
+   "genres": [
+    "どうぶつ"
+   ],
+   "wordCount": 151,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0292.jpg"
+  },
+  {
+   "bookId": "pb-en-0294",
+   "title": "Truth Alone Triumphs",
+   "level": 2,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 287,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0294.jpg"
+  },
+  {
+   "bookId": "pb-en-0295",
+   "title": "Silly & Billy Meet the Ministry of Petrol Pumps",
+   "level": 2,
+   "genres": [
+    "ゆかい・ユーモア",
+    "どうぶつ"
+   ],
+   "wordCount": 188,
+   "pageCount": 3,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0295.jpg"
+  },
+  {
+   "bookId": "pb-en-0296",
+   "title": "Rizwan and his friends having fun in the snow",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 129,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0296.jpg"
+  },
+  {
+   "bookId": "pb-en-0297",
+   "title": "Holiday Fun",
+   "level": 1,
+   "genres": [
+    "ぼうけん"
+   ],
+   "wordCount": 43,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0297.jpg"
+  },
+  {
+   "bookId": "pb-en-0298",
+   "title": "Inhabitants of the Sea",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 160,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0298.jpg"
+  },
+  {
+   "bookId": "pb-en-0299",
+   "title": "How Does the Toothpaste Get into the Tube?",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 675,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0299.jpg"
+  },
+  {
+   "bookId": "pb-en-0300",
+   "title": "Toothpaste trouble!!",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 149,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0300.jpg"
+  },
+  {
+   "bookId": "pb-en-0301",
+   "title": "And this is how the earth got colour.",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく"
+   ],
+   "wordCount": 87,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0301.jpg"
+  },
+  {
+   "bookId": "pb-en-0302",
+   "title": "Oliver beats his problem!",
+   "level": 2,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 340,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0302.jpg"
+  },
+  {
+   "bookId": "pb-en-0303",
+   "title": "My brother",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 182,
+   "pageCount": 2,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0303.jpg"
+  },
+  {
+   "bookId": "pb-en-0304",
+   "title": "Why Do Bees Buzz?",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 572,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0304.jpg"
+  },
+  {
+   "bookId": "pb-en-0305",
+   "title": "The Cloud Dragon",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "ファンタジー"
+   ],
+   "wordCount": 471,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0305.jpg"
+  },
+  {
+   "bookId": "pb-en-0306",
+   "title": "Our easy escape",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 385,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0306.jpg"
+  },
+  {
+   "bookId": "pb-en-0307",
+   "title": "Hyena and Raven",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 495,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0307.jpg"
+  },
+  {
+   "bookId": "pb-en-0308",
+   "title": "Starry and the land of the unknown",
+   "level": 2,
+   "genres": [
+    "むかしばなし",
+    "しぜん・かがく"
+   ],
+   "wordCount": 180,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0308.jpg"
+  },
+  {
+   "bookId": "pb-en-0309",
+   "title": "A Kind Boy.",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 440,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0309.jpg"
+  },
+  {
+   "bookId": "pb-en-0310",
+   "title": "The Moon and the Stars",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 405,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0310.jpg"
+  },
+  {
+   "bookId": "pb-en-0311",
+   "title": "The huge beauty",
+   "level": 2,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 240,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0311.jpg"
+  },
+  {
+   "bookId": "pb-en-0312",
+   "title": "The bizarre island",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 361,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0312.jpg"
+  },
+  {
+   "bookId": "pb-en-0313",
+   "title": "Long Live Friendship! A Humorous Play for Children",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 2958,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0313.jpg"
+  },
+  {
+   "bookId": "pb-en-0314",
+   "title": "Loving Family",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 296,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0314.jpg"
+  },
+  {
+   "bookId": "pb-en-0315",
+   "title": "Chottu - The Little Boy",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 354,
+   "pageCount": 13,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0315.jpg"
+  },
+  {
+   "bookId": "pb-en-0316",
+   "title": "“Everything happens for the good”",
+   "level": 2,
+   "genres": [
+    "むかしばなし",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 316,
+   "pageCount": 3,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0316.jpg"
+  },
+  {
+   "bookId": "pb-en-0317",
+   "title": "Lalu the owl",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 58,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0317.jpg"
+  },
+  {
+   "bookId": "pb-en-0318",
+   "title": "Why Does A Poori Puff Up?",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "むかしばなし"
+   ],
+   "wordCount": 1152,
+   "pageCount": 12,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0318.jpg"
+  },
+  {
+   "bookId": "pb-en-0319",
+   "title": "A Brighter Day",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 109,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0319.jpg"
+  },
+  {
+   "bookId": "pb-en-0320",
+   "title": "The Rabbit's Kite Tales",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 281,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0320.jpg"
+  },
+  {
+   "bookId": "pb-en-0321",
+   "title": "Drigo lost in Space",
+   "level": 2,
+   "genres": [
+    "ぼうけん",
+    "しぜん・かがく"
+   ],
+   "wordCount": 277,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0321.jpg"
+  },
+  {
+   "bookId": "pb-en-0322",
+   "title": "The Carpenter's last job",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 244,
+   "pageCount": 3,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0322.jpg"
+  },
+  {
+   "bookId": "pb-en-0323",
+   "title": "Chhoti and Bade",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 183,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0323.jpg"
+  },
+  {
+   "bookId": "pb-en-0324",
+   "title": "Why Can't We Glow Like Fireflies?",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "ファンタジー"
+   ],
+   "wordCount": 658,
+   "pageCount": 13,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0324.jpg"
+  },
+  {
+   "bookId": "pb-en-0325",
+   "title": "Trip to the Dragon Land",
+   "level": 2,
+   "genres": [
+    "ファンタジー",
+    "しぜん・かがく"
+   ],
+   "wordCount": 207,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0325.jpg"
+  },
+  {
+   "bookId": "pb-en-0328",
+   "title": "Little Blue Alien",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "ぼうけん"
+   ],
+   "wordCount": 266,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0328.jpg"
+  },
+  {
+   "bookId": "pb-en-0329",
+   "title": "The Change",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 410,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0329.jpg"
+  },
+  {
+   "bookId": "pb-en-0330",
+   "title": "Eldorado",
+   "level": 1,
+   "genres": [
+    "ぼうけん"
+   ],
+   "wordCount": 72,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0330.jpg"
+  },
+  {
+   "bookId": "pb-en-0331",
+   "title": "Everyone needs a friend",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 508,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0331.jpg"
+  },
+  {
+   "bookId": "pb-en-0332",
+   "title": "Oh the Way We Ran, in the Fish Rain",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 285,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0332.jpg"
+  },
+  {
+   "bookId": "pb-en-0333",
+   "title": "The Indigo Fairy and the Lizard",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "ファンタジー"
+   ],
+   "wordCount": 232,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0333.jpg"
+  },
+  {
+   "bookId": "pb-en-0334",
+   "title": "Kardi",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 233,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0334.jpg"
+  },
+  {
+   "bookId": "pb-en-0337",
+   "title": "Jack and Anny go to space",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 224,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0337.jpg"
+  },
+  {
+   "bookId": "pb-en-0339",
+   "title": "The Indigo Fairy and the Water Buffaloes",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 262,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0339.jpg"
+  },
+  {
+   "bookId": "pb-en-0340",
+   "title": "The Indigo Fairy and the Frogs",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "ファンタジー"
+   ],
+   "wordCount": 675,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0340.jpg"
+  },
+  {
+   "bookId": "pb-en-0341",
+   "title": "Fonky's Fishy Party",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 202,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0341.jpg"
+  },
+  {
+   "bookId": "pb-en-0342",
+   "title": "Unbreakable Friendship",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 434,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0342.jpg"
+  },
+  {
+   "bookId": "pb-en-0343",
+   "title": "A bear makes lasting memories",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 147,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0343.jpg"
+  },
+  {
+   "bookId": "pb-en-0344",
+   "title": "Gabbar Is Back",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 325,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0344.jpg"
+  },
+  {
+   "bookId": "pb-en-0348",
+   "title": "How Do Aeroplanes Fly?",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "ファンタジー"
+   ],
+   "wordCount": 901,
+   "pageCount": 12,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0348.jpg"
+  },
+  {
+   "bookId": "pb-en-0349",
+   "title": "Chulli and the cows",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "むかしばなし"
+   ],
+   "wordCount": 32,
+   "pageCount": 3,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0349.jpg"
+  },
+  {
+   "bookId": "pb-en-0351",
+   "title": "Moti and Mohan",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "どうぶつ"
+   ],
+   "wordCount": 71,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0351.jpg"
+  },
+  {
+   "bookId": "pb-en-0352",
+   "title": "Let's Go Seed Collecting!",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 1305,
+   "pageCount": 18,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0352.jpg"
+  },
+  {
+   "bookId": "pb-en-0356",
+   "title": "Life full of dreams",
+   "level": 2,
+   "genres": [
+    "ファンタジー",
+    "しぜん・かがく"
+   ],
+   "wordCount": 245,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0356.jpg"
+  },
+  {
+   "bookId": "pb-en-0357",
+   "title": "Sam the Dragon",
+   "level": 2,
+   "genres": [
+    "ファンタジー",
+    "にちじょう"
+   ],
+   "wordCount": 200,
+   "pageCount": 12,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0357.jpg"
+  },
+  {
+   "bookId": "pb-en-0358",
+   "title": "Nanni's Birthday Gift",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 368,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0358.jpg"
+  },
+  {
+   "bookId": "pb-en-0360",
+   "title": "Reeti and Mithu",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 1051,
+   "pageCount": 19,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0360.jpg"
+  },
+  {
+   "bookId": "pb-en-0361",
+   "title": "Journey to many lands",
+   "level": 3,
+   "genres": [
+    "ぼうけん",
+    "しぜん・かがく"
+   ],
+   "wordCount": 633,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0361.jpg"
+  },
+  {
+   "bookId": "pb-en-0362",
+   "title": "Shriya and her Piyali",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 405,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0362.jpg"
+  },
+  {
+   "bookId": "pb-en-0363",
+   "title": "Pet Respect",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 299,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0363.jpg"
+  },
+  {
+   "bookId": "pb-en-0364",
+   "title": "Talking Tree of Alpha Town",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 176,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0364.jpg"
+  },
+  {
+   "bookId": "pb-en-0365",
+   "title": "Ananya's first story",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "むかしばなし"
+   ],
+   "wordCount": 45,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0365.jpg"
+  },
+  {
+   "bookId": "pb-en-0366",
+   "title": "Little Madhu's Dream",
+   "level": 3,
+   "genres": [
+    "ファンタジー",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 426,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0366.jpg"
+  },
+  {
+   "bookId": "pb-en-0367",
+   "title": "Rupa's Vacation...!!",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 941,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0367.jpg"
+  },
+  {
+   "bookId": "pb-en-0368",
+   "title": "Anty's Team",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 576,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0368.jpg"
+  },
+  {
+   "bookId": "pb-en-0369",
+   "title": "Karthik loves to read",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 357,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0369.jpg"
+  },
+  {
+   "bookId": "pb-en-0370",
+   "title": "Terrific Trio",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 230,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0370.jpg"
+  },
+  {
+   "bookId": "pb-en-0372",
+   "title": "Mango Tango",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 321,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0372.jpg"
+  },
+  {
+   "bookId": "pb-en-0374",
+   "title": "The Monkey in You",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 43,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0374.jpg"
+  },
+  {
+   "bookId": "pb-en-0377",
+   "title": "Dum Dum-a-Dum Biryani!",
+   "level": 4,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 1617,
+   "pageCount": 12,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0377.jpg"
+  },
+  {
+   "bookId": "pb-en-0378",
+   "title": "Have You Ever Travelled By?",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 17,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0378.jpg"
+  },
+  {
+   "bookId": "pb-en-0379",
+   "title": "Lalu the Owl",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 117,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0379.jpg"
+  },
+  {
+   "bookId": "pb-en-0380",
+   "title": "Bonda and Devi",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 1805,
+   "pageCount": 17,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0380.jpg"
+  },
+  {
+   "bookId": "pb-en-0381",
+   "title": "Am I Alone?",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 213,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0381.jpg"
+  },
+  {
+   "bookId": "pb-en-0382",
+   "title": "Crocky and friends",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 74,
+   "pageCount": 7,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0382.jpg"
+  },
+  {
+   "bookId": "pb-en-0383",
+   "title": "Tintu's Day at Garden",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 52,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0383.jpg"
+  },
+  {
+   "bookId": "pb-en-0384",
+   "title": "Tilly and Kyle make Vegetable Curry",
+   "level": 2,
+   "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 244,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0384.jpg"
+  },
+  {
+   "bookId": "pb-en-0385",
+   "title": "The Many Tails of Jiril the Squirrel",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 109,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0385.jpg"
+  },
+  {
+   "bookId": "pb-en-0386",
+   "title": "Danny The Dragon",
+   "level": 3,
+   "genres": [
+    "ファンタジー",
+    "しぜん・かがく"
+   ],
+   "wordCount": 353,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0386.jpg"
+  },
+  {
+   "bookId": "pb-en-0388",
+   "title": "Where Did Your Dimples Go?",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 792,
+   "pageCount": 13,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0388.jpg"
+  },
+  {
+   "bookId": "pb-en-0389",
+   "title": "My best friend and I",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 165,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0389.jpg"
+  },
+  {
+   "bookId": "pb-en-0391",
+   "title": "Up World, Down World",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 1412,
+   "pageCount": 22,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0391.jpg"
+  },
+  {
+   "bookId": "pb-en-0392",
+   "title": "We Don't Pick Up Dog Family",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 155,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0392.jpg"
+  },
+  {
+   "bookId": "pb-en-0394",
+   "title": "The Big Game",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 477,
+   "pageCount": 3,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0394.jpg"
+  },
+  {
+   "bookId": "pb-en-0395",
+   "title": "Manikantan Has Enough",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 1433,
+   "pageCount": 17,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0395.jpg"
+  },
+  {
+   "bookId": "pb-en-0397",
+   "title": "Jadav and the Tree-Place",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+   ],
+   "wordCount": 1482,
+   "pageCount": 19,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0397.jpg"
+  },
+  {
+   "bookId": "pb-en-0399",
+   "title": "Cat Dreams",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 28,
+   "pageCount": 2,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0399.jpg"
+  },
+  {
+   "bookId": "pb-en-0400",
+   "title": "Nanni and the Oil Spill",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 219,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0400.jpg"
+  },
+  {
+   "bookId": "pb-en-0401",
+   "title": "Baby in the clouds",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 321,
+   "pageCount": 3,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0401.jpg"
+  },
+  {
+   "bookId": "pb-en-0403",
+   "title": "The Messy Desk",
+   "level": 4,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 1368,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0403.jpg"
+  },
+  {
+   "bookId": "pb-en-0404",
+   "title": "The Mango Pickle",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 1093,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0404.jpg"
+  },
+  {
+   "bookId": "pb-en-0407",
+   "title": "Jamun Has Her Wish",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 531,
+   "pageCount": 13,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0407.jpg"
+  },
+  {
+   "bookId": "pb-en-0409",
+   "title": "The wait",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 342,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0409.jpg"
+  },
+  {
+   "bookId": "pb-en-0410",
+   "title": "Inside the World Wide Web",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "ぼうけん"
+   ],
+   "wordCount": 1577,
+   "pageCount": 16,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0410.jpg"
+  },
+  {
+   "bookId": "pb-en-0411",
+   "title": "Nilofar",
+   "level": 3,
+   "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+   ],
+   "wordCount": 599,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0411.jpg"
+  },
+  {
+   "bookId": "pb-en-0412",
+   "title": "The Magic Pond",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 484,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0412.jpg"
+  },
+  {
+   "bookId": "pb-en-0413",
+   "title": "Chimni",
+   "level": 4,
+   "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+   ],
+   "wordCount": 1079,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0413.jpg"
+  },
+  {
+   "bookId": "pb-en-0414",
+   "title": "The Mango Tree",
+   "level": 1,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 67,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0414.jpg"
+  },
+  {
+   "bookId": "pb-en-0415",
+   "title": "Frog in the Movie",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 105,
+   "pageCount": 2,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0415.jpg"
+  },
+  {
+   "bookId": "pb-en-0416",
+   "title": "Dive!",
+   "level": 4,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 735,
+   "pageCount": 19,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0416.jpg"
+  },
+  {
+   "bookId": "pb-en-0417",
+   "title": "River and Sun",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 452,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0417.jpg"
+  },
+  {
+   "bookId": "pb-en-0418",
+   "title": "Can you smile when you snore?",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+   ],
+   "wordCount": 485,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0418.jpg"
+  },
+  {
+   "bookId": "pb-en-0420",
+   "title": "Amit and his Football",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 400,
+   "pageCount": 1,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0420.jpg"
+  },
+  {
+   "bookId": "pb-en-0421",
+   "title": "Under the sea",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 411,
+   "pageCount": 11,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0421.jpg"
+  },
+  {
+   "bookId": "pb-en-0422",
+   "title": "Happy Holi!",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 465,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0422.jpg"
+  },
+  {
+   "bookId": "pb-en-0423",
+   "title": "The mouse+dragon",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "ファンタジー"
+   ],
+   "wordCount": 435,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0423.jpg"
+  },
+  {
+   "bookId": "pb-en-0424",
+   "title": "The Moon and Daisy",
+   "level": 2,
+   "genres": [
+    "しぜん・かがく",
+    "むかしばなし"
+   ],
+   "wordCount": 313,
+   "pageCount": 5,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0424.jpg"
+  },
+  {
+   "bookId": "pb-en-0425",
+   "title": "Seasons",
+   "level": 1,
+   "genres": [
+    "にちじょう"
+   ],
+   "wordCount": 4,
+   "pageCount": 4,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0425.jpg"
+  },
+  {
+   "bookId": "pb-en-0426",
+   "title": "Zara and the butterfly",
+   "level": 3,
+   "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+   ],
+   "wordCount": 685,
+   "pageCount": 9,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0426.jpg"
+  },
+  {
+   "bookId": "pb-en-0427",
+   "title": "Food Thieves",
+   "level": 1,
+   "genres": [
+    "にちじょう",
+    "どうぶつ"
+   ],
+   "wordCount": 79,
+   "pageCount": 6,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0427.jpg"
+  },
+  {
+   "bookId": "pb-en-0428",
+   "title": "Shyamlal, your work!",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+   ],
+   "wordCount": 226,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0428.jpg"
+  },
+  {
+   "bookId": "pb-en-0429",
+   "title": "The Nose-less King",
+   "level": 2,
+   "genres": [
+    "むかしばなし",
+    "どうぶつ"
+   ],
+   "wordCount": 277,
+   "pageCount": 3,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0429.jpg"
+  },
+  {
+   "bookId": "pb-en-0432",
+   "title": "Daddy's Mo",
+   "level": 3,
+   "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+   ],
+   "wordCount": 427,
+   "pageCount": 8,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0432.jpg"
+  },
+  {
+   "bookId": "pb-en-0433",
+   "title": "The Tree",
+   "level": 3,
+   "genres": [
+    "しぜん・かがく"
+   ],
+   "wordCount": 408,
+   "pageCount": 10,
+   "source": "pb",
+   "license": "CC BY 4.0",
+   "cover": "covers/pb-en-0433.jpg"
+  }
+ ]
+}

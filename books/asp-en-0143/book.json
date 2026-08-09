@@ -1,0 +1,108 @@
+{
+  "bookId": "asp-en-0143",
+  "title": "My red ball",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 72,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "My red ball",
+    "author": "Marion Drew",
+    "illustrator": "Marion Drew",
+    "translator": "Khothatso Ranoosi, Marion Drew",
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Ball."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "My ball."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "My red ball."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "My big red ball."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I kick."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I kick my ball."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "I kick my red ball."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "I kick my red ball hard!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Where?"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Where is my ball?"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Where is my ball now?"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Where is my red ball\nnow?"
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "It is up."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "It is high up."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "It is high up in the sky."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "It is high up in the sky.\nIt is over the moon.\nIt is gone!"
+    }
+  ]
+}

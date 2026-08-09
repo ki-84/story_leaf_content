@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0072",
+  "title": "Happy and Sad (Tell me now series)",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "ゆかい・ユーモア"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 64,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Happy and Sad (Tell me now series)",
+    "author": "Madhav Chavan",
+    "illustrator": "Rijuta Ghate",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/453-happy-and-sad-tell-me-now-series",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Why is the baby crying?"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I think she is hungry."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Why is the boy sad?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I think he is missing his father."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Why is the girl happy?"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "She has a new dress."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Why is the old man laughing?"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "He read a good joke."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Why is the lady smiling?"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Her children are reading quietly."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "What is this lady feeling?\n\nI think she is feeling shy."
+    }
+  ]
+}

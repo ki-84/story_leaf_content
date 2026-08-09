@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0237",
+  "title": "The missing cat",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 123,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The missing cat",
+    "author": "Rachita Uday Kumar",
+    "illustrator": "Ruchi Shah",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2651-the-missing-cat",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Ruchi had a cat named Reena. Ruchi loved and cared for Reena so much that she would not let anyone touch Reena."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Ruchi played with Reena day and night till they got tired."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Ruchi fed Reena fish and milk. After a few years, Ruchi was sent to school."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "So when Ruchi was studying under a tree, Reena would sit on top of the tree and listen."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "One such day when Ruchi came back from school, Reena was gone. Ruchi searched the wholetown, but she was not there."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Ruchi was heartbroken on that day. She pinned up missing posters all around the town."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "One day when Ruchi was drinking milk, she saw Reena running towards. At last, Ruchi had found her dream cat, Reena."
+    }
+  ]
+}

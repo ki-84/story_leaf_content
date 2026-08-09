@@ -1,0 +1,76 @@
+{
+  "bookId": "asp-en-0033",
+  "title": "The Big Juicy Mango",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 143,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The Big Juicy Mango",
+    "author": "Katelyn Mostert",
+    "illustrator": "Catherine Groenewald, Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 11 とページ数 9 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Tiny shoot begins to\nshow, A tiny plant\nbegins to grow."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Reaching higher\ntowards the sun,\nReaching higher until\nit's done."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Now it's a big tree, leafy\nand green, Spreading\nit's branches so it can\nbe seen."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The branches are\nstrong now, sturdy and\nsteady, The tree needs\nsome fruit now, the\nbranches are ready."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "First comes the flowers,\nthen come the bees,\nThen after the bees\ncome the fruit on the\ntrees."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The mangoes are\npicked by my fumbling\nhands, And put into big\nbaskets to eat or make\njams."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "This juicy, red mango\nlooks delicious and\nfresh, Inside of the skin\nis bright yellow flesh."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Just one bite to taste it,\nsweet, juicy, cool, That\none little taste is\nmaking me drool!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "My mango is finished, I\nate it so fast, I must get\nanother and it won't be\nmy last!"
+    }
+  ]
+}

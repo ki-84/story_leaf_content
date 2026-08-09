@@ -1,0 +1,54 @@
+{
+  "bookId": "pb-en-0325",
+  "title": "Trip to the Dragon Land",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ファンタジー",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 207,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Trip to the Dragon Land",
+    "author": "Payoshni Saraf",
+    "illustrator": "Vinayak Varma",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3908-trip-to-the-dragon-land",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Varun is going on his summer holidays to Hubli. Varun likes to travel. Varun likes to eat icecreams. But what he loves the most is reading. And what he reads he dreams, and what he dreams becomes true."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Suddenly he hears a loud roar. He peeps out of the window and yelps! He sees a dragon racing with his car. The dragon puffs out big grey clouds of smoke."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "As time passes Varun dozes off to sleep. He is woken up by a flash of light on his face. He opens his eyes and is astonished! It is dark and all that he sees is a tall dragon spitting fire on the ships in the sea."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Continuing his journey, Varun enjoyed the sight of the rising sun. Suddenly he noticed a signboard pointing to Dragon-bridge. As the car continued its ride Varun suddenly found himself zooming over a dragon shaped bridge."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "As Varun was dreaming of a dragon in the form of a train, a lighthouse and a bridge. Now, what do you think, he heard? The flapping of huge wings and a big roar. He was out of his dream, seeing the real red eyes of a green huge dragon spitting fire.\n\nThe real one!"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "bookId": "asp-en-0034",
+  "title": "Greedy Hyena",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 350,
+  "pageCount": 18,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Greedy Hyena",
+    "author": "John Nga'sike",
+    "illustrator": "Zablon Alex Nguku",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 20 とページ数 18 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Atabo and Akiru went to\ncollect water at the\nriver."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "On their way back\nhome they rested on a\nbig rock."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Atabo tried to stand up\nto continue home but\nwas stuck to the rock."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Akiru ran home to call\nmother."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "When mother arrived at\nthe rock, she found\nAtabo truly stuck."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"I will make a fence\naround the rock to\nprotect you from wild\nanimals,\" mother said\nto Atabo."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "So, she made a fence\nwith only one door\nwhich she used to get\ninside.\n\nThen mother said to Atabo, \"When I come to\nfeed you I will sing a song for you to open\nthe door.\"\nThis is the song she sang:\n\"lka koku nachirima,\nBala ekena,\nKe...ke...i...ya.\nTangarae totokonia kainak ngakon kile.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "And mother also said, \"Never open the door\nto a stranger.\"\nSo whenever mother came she sang the\nsong, the door opened and she gave Atabo\nfood.\n\nBut Hyena was hiding\nand watching and\nlistening when mother\ncame to feed Atabo."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Hyena tried to copy the\nsong. He practised and\npractised."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The other animals told\nHyena to swallow a fly\nfrom the river so that\nhe could sing better.\nHe swallowed a fly from\nthe river and he came\nto sing. But the door did\nnot open."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "He swallowed a fly from\nthe plains and he came\nto sing. But the door did\nnot open.\nFinally he swallowed a\nfly from the far away\nplains."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "He came to sing, and\nthe door opened.\nHyena ate Atabo."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "When mother came\nagain, she sang, and\nsang, and sang. But\nnothing happened."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Mother called a\nmeeting of all the\nanimals and lit a very\nbig fire.\n\"The animal that ate\nAtabo will fall into the\nfire and burn,\" she said."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "All the animals jumped\nsafely over the fire until\nthe fox had a turn."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Fox jumped and the fire\ncaught his tail.\nHe cried in pain."
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "Last of all came the\nhyena.\nHe jumped and fell in\nthe fire."
+    },
+    {
+      "index": 17,
+      "imagePath": "images/19.jpg",
+      "text": "Then the animals sang\nanother song:\n\"Ata kalio,\nAnikanyamit ikon koku,\nAchakakin nakim na,\nChi...gi...gir.\""
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "bookId": "asp-en-0236",
+  "title": "King Kayanja and his daughter",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "むかしばなし",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 774,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "King Kayanja and his daughter",
+    "author": "Amana Yunus",
+    "illustrator": "Natalie Propa",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 18 とページ数 16 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Long, long ago there was a king\ncalled Kayanja. He lived in a palace\nwith the queen and their daughter,\nprincess Apenyo.\nPrincess Apenyo was such a\nbeautiful young woman that every\nman wanted to marry her. But king\nKayanja demanded a very high\nbride price for the princess."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Near king Kayanja's palace lived a\nchief called Aludah the Great. He\nwas called \"the Great\" because\neverybody in the neighbourhood\nobeyed him. (He was very violent to\nanyone who disobeyed him!)\nChief Aludah's wife had recently\ndied of malaria and he wanted\nanother wife."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "So the fat old chief went to king\nKayanja to offer bride wealth for the\nyoung princess.\nWhile the two men were discussing\nthe price, the maid Kakembo\noverheard their conversation. Maid\nKakembo was very close to princess\nApenyo."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Chief Aludah agreed to give half of\nhis wealth to king Kayanja,\nincluding a needle, which was also\npart of the bride price.\nPreparations were made in secret\nfor the wedding between chief\nAludah and princess Apenyo. The\nking knew that his daughter would\nnot be happy with this decision."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "One week before the royal wedding\nday, maid Kakembo approached\nApenyo.\n\"My dear princess, your father has\norganised your wedding with Chief\nAludah, and it will take place in one\nweek,\" said Kakembo."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Princess Apenyo was shocked and\nat first didn't know what to do. Then\nshe thought, \"I will never marry\nchief Aludah, that fat old man.\nNever! I must hurry to Trevor and\nsee what he can do before it's too\nlate.\"\nTrevor was princess Apenyo's\nboyfriend."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "That night Apenyo crept out of the\npalace. If her father discovered\nwhere she was going he would be\nvery angry.\nShe ran through the thick, dark\nforest over rocks and shrubs, until\nshe finally reached her Trevor. When\nshe arrived at his house she was\ntired, hungry, and thirsty."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "\"My love, why have you run all this\nlong distance alone and at such a\ntime of night?\" asked Trevor. He\nfetched drinking water for her and\nallowed her to rest.\nTrevor could not settle down while\nhe waited for Apenyo to talk."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "\"My dear princess, what is the\nproblem?\" asked Trevor.\nApenyo breathed heavily and said\nsadly, \"My father wants to marry\nme off to chief Aludah the Great.\nBut I can't marry that horrible man.\nTrevor, I want to marry you even if\nyou are poor. I am ready to suffer. I\nlove you.\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "\"But princess, I have nothing to pay\nas your bride price, you know I'm a\npoor boy.\" cried Trevor.\nApenyo replied, \"I know, but it's\nonly you I can get married to.\"\nShe thought for a while and said,\n\"Let's go to Kategga the boat man\nto sail us to the other side of the\nriver. That way we can escape and\nmy father will never find us.\""
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Back at the palace, king Kayanja\nhad discovered Princess Apenyo's\ndisappearance and ordered his\nsubjects to search for her\neverywhere in the village.\nThe king's guards, soldiers, and\neveryone else searched, but they\ncouldn't find Princess Apenyo.\nThey went back to the King and told\nhim Apenyo was nowhere to be\nseen. \"Then go to the bush and\nsearch,\" King Kayanja ordered. He\nwas very annoyed."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "As Princess Apenyo and Trevor\nhurried to the riverbank, dark\nclouds began gathering in the sky. A\nheavy storm was coming."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Kategga the boatman was mooring\nhis boat when the young couple\napproached him. Trevor asked\nKategga to row them across the\nriver.\nKategga refused to accept,\nexplaining that a heavy storm was\nfast approaching, and it would be\ntoo dangerous."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Trevor insisted and explained to\nKategga why they must cross. He\nthen put his hand deep in his\npocket and took out a cowrie shell\nto give to Kategga.\nWhen Kategga heard their story and\nsaw the beautiful shell, he felt sorry\nfor them. He agreed to row them\nacross the river in spite of the\nweather."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Kategga pulled the boat near the\nbank and told them to get in. He\nthen picked his oars and began\nrowing.\nWhen king Kayanja and chief\nAludah reached the bank, they saw\nthe three people in the boat. They\nrealised that the young lovers had\nescaped."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Heavy winds rocked the boat and\nKategga could no longer control it.\nKing Kayanja shouted: \"Apenyo,\nplease come back! I have forgiven\nyou and will never punish you or\nTrevor.\"\nBut it was too late. The boat tipped\nover and the three people were\nthrown into the wild water. They all\ndrowned.\nAfter that day, everyone in king\nKayanja's kingdom could marry\nanyone they wanted, rich or poor."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "bookId": "asp-en-0288",
+  "title": "Maguru gives out legs",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 361,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Maguru gives out legs",
+    "author": "Mutugi Kamundi",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Long time ago, no animal had legs.\n\nThey all used to crawl on the ground."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Only human beings had legs because Maguru had given legs to humans."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day, Maguru decided to give legs to every animal.\n\nHe walked round the village announcing from a loudspeaker.\n\nHe wanted each animal to walk like a human being."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The animals were happy when they heard that they would be given legs.\n\nEach animal wanted to have legs so that it could walk and run.\n\nThey sang, wagged their tails and flapped their wings."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Animals gathered and discussed how difficult it was to crawl.\n\nThe ground scratched their bellies.\n\nLegs would also help them to stand and see far, like human beings did."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "When the day came, many animals crawled to Maguru's house to get their legs.\n\nGiraffes, lions, elephants, rabbits, crocodiles, and birds queued and waited to be given legs."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Each animal was given four legs.\n\nBirds were given two legs each."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Animals looked different on legs.\n\nSome danced in joy.\n\nOthers had difficulty walking and fell down."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "They walked round the village showing off to human beings.\n\nAll the animals said, \"We will never crawl again.\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The last animal in the queue was the millipede.\n\nMaguru asked, \"Is there anyone else after you?\"\n\n\"No, I am the last one,\" Millipede answered."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Maguru thought, \"If there is no one else, what will I do with the rest of the legs?\"\n\nMaguru gave all the remaining legs to Millipede."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Millipede went away very happy because he had many legs.\n\n\"I will move faster than any of them,\" he thought."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "As soon as Millipede had left, the snake came to Maguru's house.\n\n\"Maguru, please give me some legs,\" Snake begged."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "\"I have given out all the legs. Where were you?\" Maguru asked.\n\n\"I over-slept,\" Snake replied."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Maguru checked in his house to see whether there were any legs remaining.\n\nBut he did not find any."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Maguru came out and said, \"Sorry, Snake, there are no legs remaining.\" Snake had to crawl back home without legs.\n\nSince that day Snake does not sleep much.\n\nHe is always waiting for the next chance to get legs."
+    }
+  ]
+}

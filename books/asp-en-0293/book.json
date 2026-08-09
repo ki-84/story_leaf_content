@@ -1,0 +1,85 @@
+{
+  "bookId": "asp-en-0293",
+  "title": "I enjoy",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 72,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "I enjoy",
+    "author": "Ursula Nafula",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 13 とページ数 11 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I enjoy skipping."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I enjoy skipping rope alone."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I enjoy skipping with my friend."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I enjoy reading interesting stories."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I enjoy walking in the field with my friends."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I enjoy washing dishes to help at home."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "I enjoy writing big letters which I can read easily."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "I enjoy eating different fruits."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "I enjoy sleeping on a big bed."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "I enjoy listening to my mother's interesting stories."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "I enjoy doing all these things!"
+    }
+  ]
+}

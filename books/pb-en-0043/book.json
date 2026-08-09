@@ -1,0 +1,109 @@
+{
+  "bookId": "pb-en-0043",
+  "title": "Sister, Sister, Why Don't Things Fall Up?",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 1120,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Sister, Sister, Why Don't Things Fall Up?",
+    "author": "Roopa Pai",
+    "illustrator": "Greystroke",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/188-sister-sister-why-don-t-things-fall-up",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Sister, sister, I wonder...\n\nWhat do you wonder, little brother,\n\nWhat do you wonder?\n\nI wonder, I wonder, why things don't fall up.\n\nWhat do you think, little brother,\n\nWhat do you think?\n\nI think, I think...\n\nTell me, little brother, what do you think?"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I think\n\nThat long ago, things did fall up\n\nThat the sky was full of toffee wrappers\n\nAnd ice cream sticks\n\nThat stars slipped on banana peels\n\nThat sometimes, the moon cut her dainty feet\n\nOn bits of broken glass\n\nOr caught her trailing silver skirts\n\nOn a rusty nail."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I think\n\nThe old woman who lives in the sky\n\nGot so tired of cleaning the mess\n\nThat she put a curse on the earth;\n\nAnd things have fallen down ever since.\n\nI think that's why things don't fall up\n\nBecause the old woman in the sky\n\nWas fed up of living in a smelly pigsty.\n\nI'm clever, aren't I, sister?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Oh yes, you are, little brother,\n\nAnd maybe you're right, too...\n\nBut in the books that I have read\n\nThat is not what they said.\n\nThen what did they say, sister,\n\nWhat did they say?\n\nWhat do you think, little brother,\n\nWhat do you think?\n\nI think, I think...\n\nTell me, little brother, what do you think?"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I think\n\nThat long ago, things did fall up\n\nAnd drove Mother mad.\n\nFather's keys,\n\nThe screw of her nose-stud,\n\nThe coins you were tossing from hand to hand (even though you knew Mother would scold if she knew)\n\nOn your way back from the market;\n\nAll fell up and disappeared."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Mother prayed to all her Gods.\n\nOne of them took pity on her,\n\nAnd things fell down and vanished no more.\n\nMother was happy (for a while)\n\nNow she complains about the mess on the floor.\n\nI think that's why things don't fall up\n\nAll thanks to a woman's pleas\n\nFor fewer lost coins, and screws, and keys.\n\nI'm clever, aren't I, sister?"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "I know you are, little brother,\n\nAnd maybe you're right, too...\n\nBut in the books that I have read\n\nThat is not what they said.\n\nThen what did they say, sister,\n\nWhat did they say?\n\nWhat do you think, little brother,\n\nWhat do you think?\n\nI think, I think...\n\nTell me, little brother, what do you think?"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "I think\n\nThere is a big greedy demon inside the earth\n\nAll day he waits, his mouth a gaping hole\n\nSucking in mighty lungfuls of air...\n\nAnd nothing can fall up\n\nAs long as he keeps sucking in —\n\nEverything heads towards that greedy hole."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "I think\n\nMany things go right in.\n\nMy marbles, your hairclips,\n\nThe yummy laddoos Mother makes\n\nWhich I don't eat and you don't eat\n\nBut which disappear somehow.\n\nI think that is why things don't fall up\n\nBecause they hurtle earthwards to feed\n\nAn underground demon's greed.\n\nI'm clever, aren't I, sister?"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Of course you are, little brother,\n\nOf course you are\n\nAnd maybe you're right, too...\n\nBut in all the books that I have read\n\nThat is not what they said.\n\nThen what did they say, sister,\n\nWhat did they say?"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Come here, little brother,\n\nI'll tell you what they said.\n\nThey said, they said...\n\nTell me what they said, sister,\n\nTell me what they said."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "They said\n\nThat everything, just everything\n\nIn the great big universe\n\nPulls everything, just everything else\n\nIn the great big universe\n\nTowards itself."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "They said\n\nThat BIG things can pull much harder\n\nAt small things\n\nThan small things can pull\n\nAt BIG things.\n\nBut why don't things fall up, sister,\n\nWhy don't things fall up?\n\nBe patient, little brother, be patient now."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "They said\n\nThe earth, our home,\n\nIs a very BIG thing\n\nAnd all of us,\n\nand everything else on earth—\n\nOur aeroplanes, our blue whales,\n\neven our oceans—\n\nAre very small things."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "And that's why\n\nThe earth pulls us towards itself\n\nMUCH, MUCH harder\n\nThan we can pull the earth\n\nTowards us.\n\nSO HARD\n\nThat we, or our keys, or our screws,\n\nor our coins,\n\nCannot escape, float away, disappear,\n\nOr fall up."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "This GREAT force, this GIGANTIC force\n\nWith which the earth pulls us\n\nAll of us,\n\nEven the penguins at the edge of the earth,\n\nTowards itself\n\nIs called GRA-VI-TY.\n\nCan it be true, sister, can it be true?\n\nI can't say, little brother, I can't say.\n\nBut in all the books that I have read\n\nThat is what they said.\n\nFIND OUT MORE!\n\nWhy don't things fall up?\n\nAbout 350 years ago, a famous English scientist called Isaac Newton was relaxing under an apple tree when an apple fell and hit him SMACK! on the head. Rubbing his sore head, Newton wondered why things never fell up. Finally, he came up with the theory that the earth was like a giant magnet, which attracted everything around it with great force. He called this invisible force ‘gravity'.\n\nHe also concluded that everything in the universe attracts everything else. Bigger objects attract each other with greater force than smaller ones. Also, as the distance between two objects increases, the force of attraction between them decreases.\n\nGravity, however, does not just make apples fall down from trees. It also keeps the moon in orbit around the earth and all the planets in orbit around the sun. The force of the earth's gravity keeps the moon from flying away into space.\n\nBut why doesn't the moon fall towards the earth? Because the moon has its own gravity, with which it attracts the earth. It is because the earth's gravity is greater, that the moon goes around the earth. If the moon's was greater, the earth would have gone around the moon instead!\n\nTry this experiment!\n\nYou need:\n\nA few rubber bands\n\nA small rubber ball\n\nA length of string\n\nWhat to do:\n\nPut the rubber bands around the ball in such a way that they grip it tightly. Tie the string to one of the rubber bands around the ball. Stand somewhere where there is plenty of room and swing the ball around your head. If you swing it hard enough, the ball will go around your head in a horizontal circle. Now let go of the string. What happens? The ball flies away in a straight line.\n\nWhy does this happen?\n\nBecause there is a tension force in the string, which keeps the ball turning around your head. When you let go of the string, the tension force disappears and the ball goes flying.\n\nNow imagine the ball is the moon and you are the earth. The earth's gravity is like the tension force in the string! If this tension force did not exist, the moon would fly away into space!"
+    }
+  ]
+}

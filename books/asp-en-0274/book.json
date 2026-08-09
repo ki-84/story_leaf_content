@@ -1,0 +1,99 @@
+{
+  "bookId": "asp-en-0274",
+  "title": "Animals dig a well",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 625,
+  "pageCount": 14,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Animals dig a well",
+    "author": "Um conto tradicional dos Manyungwes de Moçambique",
+    "illustrator": "João Carlos Brito",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "It happened one year that the rain didn't fall. The trees dried up and died. The rivers\ndisappeared and the water evaporated. People and animals began dying from hunger and\nthirst."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Lion and Elephant as the chief animals got together to discuss the situation. Lion said,\n\"We're going to end up dying from thirst. Let's call everyone together and discuss the idea\nof digging a well. Elephant agreed and went off to spread the news to all the animals."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "All the animals except the hare got together to discuss the situation. Lion said, \"Look, my\nbrothers and sisters, this year, the rain has not fallen. Everyone is dying from hunger and\nthirst. Let us now make a plan to dig a well so that we might all be able to drink from it.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "All the animals agreed and immediately grabbed hoes, shovels and picks and started\ndigging. They dug and dug. And they dug some more. Finally they hit water. Lion said, \"Why\ndid Hare not come to dig this well? He most certainly will not drink from this water!\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Later Hare came and saw the well. He said, \"Tipite, tipite at the well!\" He heard nothing. So\nhe went in, drank some water and splashed around for a while."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The next day, when the animals came they saw that their well was a big mess. The water\nwas nothing but mud. They asked, \"Who would do such a thing?\" Someone said, \"I bet it\nwas Hare. When we were digging the well he was nowhere to be found.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "And so the animals decided to leave a guard at the well. They\nchose Baboon to keep an eye on things. Baboon was at the well\nwhen Hare came at night saying, \"Tipite! Tipite! by the water!\"\nBaboon replied, \"Pitani!\" So Hare came over and greeted Baboon,\n\"I have come, my friend, and I bring that which the great ones like\nto eat!\" Baboon replied, \"Come, let's see what it is.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Hare had some honey. He went over to Baboon, \"Yes, my friend, try some of this!\" Hare\ngave him the honey. Then he drew some water from the well and drank it. Just as Hare was\nleaving, Hyena arrived and he saw Hare."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The next day, Hyena went and told all the animals that Hare had taken water from the well.\nSo they chose Turtle to guard the well. Hare arrived at night, saying, \"Tipite by the well!\"\nWhen he didn't hear any reply he said: \"I am Hare! I've come to drink water.\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "When Turtle had arrived at the well earlier that night, she had hidden herself among the\nrocks. She looked just like another rock. As soon as Hare started to go into the water, Turtle\ngrabbed Hare by the leg. Turtle didn't say a word, she just sat there holding on until the sun\ncame up."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "When the animals arrived, they saw that Turtle had captured Hare. They called the rest of\nthe animals to decide what to do with Hare. When all the animals were assembled, Lion\nasked them, \"What shall we do with this Hare?\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Turtle said, \"Elephant should grab him with her trunk and beat him on the rocks.\" All the\nother animals agreed. Then Hare said, \"O Great Lion, you know that hares don't die if you\nhit them on rocks. The Hare will only die if he is thrown into ash.\" So Lion told Elephant to\nthrow Hare into ash."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "After Hare was completely covered with ash, Elephant picked him up and threw him. When\nHare landed he made a big cloud of dust. The dust was everywhere."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "When the dust settled, the animals\nlooked around. Hare was gone!\nThey realised that Hare had tricked\nthem again."
+    }
+  ]
+}

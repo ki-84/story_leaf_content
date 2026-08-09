@@ -1,0 +1,49 @@
+{
+  "bookId": "pb-en-0296",
+  "title": "Rizwan and his friends having fun in the snow",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 129,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Rizwan and his friends having fun in the snow",
+    "author": "Reshma Krishnamurthy Sharma",
+    "illustrator": "Priya Kuriyan, rakesh naidu",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3519-rizwan-and-his-friends-having-fun-in-the-snow",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Rizwan, a young kid stayed in a beautiful snow mountain near the Himalayan range."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Like him this Saturday morning, the parents finally allowed the other kids who were all his friends to come out and play in the snow."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "As the sun finally shone like a bright star, the kids Prisha, Arwan, Vinay and Tina all were there creating multiple snowmen. Everyone loved being out there in the snow. They were playing, laughing and singing."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The kids knew only those who played in the snow could understand the difference of having fun in the midst of nature. It wasn't about going to a mall or watching TV. This was bliss. They later shared the pictures to all their cousins living in cities to come and enjoy snow like them."
+    }
+  ]
+}

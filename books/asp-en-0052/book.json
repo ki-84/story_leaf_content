@@ -1,0 +1,111 @@
+{
+  "bookId": "asp-en-0052",
+  "title": "Simbegwire",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 863,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Simbegwire",
+    "author": "Rukia Nantale",
+    "illustrator": "Benjamin Mitchley",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 18 とページ数 16 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "When Simbegwire's mother died,\nshe was very sad. Simbegwire's\nfather did his best to take care of\nhis daughter. Slowly, they learned\nto feel happy again, without\nSimbegwire's mother.\nEvery morning they sat and talked\nabout the day ahead. Every evening\nthey made dinner together. After\nthey washed the dishes,\nSimbegwire's father helped her with\nhomework."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, Simbegwire's father came\nhome later than usual. \"Where are\nyou my child?\" he called.\nSimbegwire ran to her father. She\nstopped still when she saw that he\nwas holding a woman's hand. \"I\nwant you to meet someone special,\nmy child. This is Anita,\" he said\nsmiling."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"Hello Simbegwire, your father told\nme a lot about you,\" said Anita. But\nshe did not smile or take the girl's\nhand.\nSimbegwire's father was happy and\nexcited. He talked about the three\nof them living together, and how\ngood their life would be. \"My child, I\nhope you will accept Anita as your\nmother,\" he said."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Simbegwire's life changed. She no\nlonger had time to sit with her\nfather in the mornings. Anita gave\nher so many household chores that\nshe was too tired to do her school\nwork in the evenings. She went\nstraight to bed after dinner.\nHer only comfort was the colourful\nblanket her mother gave her.\nSimbegwire's father did not seem to\nnotice that his daughter was\nunhappy."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "After a few months, Simbegwire's\nfather told them that he would be\naway from home for a while. \"I have\nto travel for my job,\" he said. \"But I\nknow you will look after each other.\"\nSimbegwire's face fell, but her\nfather did not notice. Anita did not\nsay anything. She was not happy\neither."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Things got worse for Simbegwire. If\nshe didn't finish her chores, or she\ncomplained, Anita hit her. And at\ndinner, the woman ate most of the\nfood, leaving Simbegwire with only\na few scraps.\nEach night Simbegwire cried herself\nto sleep, hugging her mother's\nblanket."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "One morning, Simbegwire was late\ngetting out of bed. \"You lazy girl!\"\nAnita shouted. She pulled\nSimbegwire out of bed. The\nprecious blanket caught on a nail,\nand tore in two."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Simbegwire was very upset. She\ndecided to run away from home.\nShe took the pieces of her mother's\nblanket, packed some food, and left\nthe house. She followed the road\nher father had taken."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "When it came to evening, she\nclimbed a tall tree near a stream\nand made a bed for herself in the\nbranches.\nAs she went to sleep, she sang:\n\"Maama, maama, maama, you left\nme.\nYou left me and never came back.\nFather doesn't love me anymore.\nMother, when are you coming back?\nYou left me.\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The next morning, Simbegwire sang\nthe song again. When the women\ncame to wash their clothes at the\nstream, they heard the sad song\ncoming from the tall tree.\nThey thought it was only the wind\nrustling the leaves, and carried on\nwith their work. But one of the\nwomen listened very carefully to\nthe song."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "This woman looked up into the tree.\nWhen she saw the girl and the\npieces of colourful blanket, she\ncried, \"Simbegwire, my brother's\nchild!\"\nThe other women stopped washing\nand helped Simbegwire to climb\ndown from the tree. Her aunt\nhugged the little girl and tried to\ncomfort her."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Simbegwire's aunt took the child to\nher own house. She gave\nSimbegwire warm food, and tucked\nher in bed with her mother's\nblanket.\nThat night, Simbegwire cried as she\nwent to sleep. But they were tears\nof relief. She knew her aunt would\nlook after her."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "When Simbegwire's father returned\nhome, he found her room empty.\n\"What happened, Anita?\" he asked\nwith a heavy heart. The woman\nexplained that Simbegwire had run\naway. \"I wanted her to respect me,\"\nshe said. \"But perhaps I was too\nstrict.\"\nSimbegwire's father left the house\nand went in the direction of the\nstream. He continued to his sister's\nvillage to find out if she had seen\nSimbegwire."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Simbegwire was playing with her\ncousins when she saw her father\nfrom far away. She was scared he\nmight be angry, so she ran inside\nthe house to hide.\nBut her father went to her and said,\n\"Simbegwire, you have found a\nperfect mother for yourself. One\nwho loves you and understands\nyou. I am proud of you and I love\nyou.\"\nThey agreed that Simbegwire would\nstay with her aunt as long as she\nwanted to."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Her father visited her every day.\nEventually, he came with Anita. She\nreached out for Simbegwire's hand.\n\"I'm so sorry little one, I was\nwrong,\" she cried. \"Will you let me\ntry again?\"\nSimbegwire looked at her father\nand his worried face. Then she\nstepped forward slowly and put her\narms around Anita."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "The next week, Anita invited\nSimbegwire, with her cousins and\naunt, to the house for a meal. What\na feast! Anita prepared all of\nSimbegwire's favourite foods, and\neveryone ate until they were full.\nThen the children played while the\nadults talked.\nSimbegwire felt happy and brave.\nShe decided that soon, very soon,\nshe would return home to live with\nher father and her stepmother."
+    }
+  ]
+}

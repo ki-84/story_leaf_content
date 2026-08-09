@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0024",
+  "title": "No Smiles Today",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 244,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "No Smiles Today",
+    "author": "Cheryl Rao",
+    "illustrator": "Saurabh Pandey",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/122-no-smiles-today",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Shanti and Arun were good friends. They had so much fun together.\n\nThey shared secrets in class. They ran races on the way home.\n\nShe was always cheerful."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, Shanti came into the classroom slowly. Her head was bent. She looked sad. “Did someone scold you?” asked Arun.\n\nShanti shook her head. She sat down and did not look up. She did not answer ‘Present!' when Sona Miss called her name. Sona Miss called again, louder this time, “Shanti Kumar!” Shanti raised her hand."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "“Do you have a sore throat?” her teacher asked her. Shanti shook her head.\n\nHer cheeks were red and it looked like she had a fever.\n\n“Are you feeling okay?” Sona Miss asked.\n\nShanti nodded, still not daring to look up."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "“Why does Shanti look so sad?”\n\n“Is your little brother okay?”\n\n“Is your puppy okay?”\n\n“Is your grandmother okay?”\n\nShanti kept nodding her head to each of her friends. But she did not look up."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Arun wanted to make her smile. He had an idea! He took out something from his bag.\n\nAs he ran to show it to Shanti, it slipped out of his hands. Shanti saw something flying towards her and she grabbed it."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "It was a BIG, green, rubber frog!\n\nShanti's eyes flew open. Then she opened her mouth to laugh.\n\nTHEN Arun and her friends saw why she had not smiled or talked all day!\n\nFour of her front teeth had gone missing!"
+    }
+  ]
+}

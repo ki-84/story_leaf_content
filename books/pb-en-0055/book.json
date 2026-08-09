@@ -1,0 +1,93 @@
+{
+  "bookId": "pb-en-0055",
+  "title": "Curly and Straight",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 73,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Curly and Straight",
+    "author": "Radha HS",
+    "illustrator": "Ruchi Shah",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/254-curly-and-straight",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I like straight hair."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I like curly hair."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I like curly tails."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I like straight tails."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I like staircases which curl upwards."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I like straight staircases.\n\nI like the straight road up the hill."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "I like the road that curls around the hill."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "I like to draw straight lines..."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "I always draw curly lines..."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Want some Chakli?"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "I love Chakli!"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Straight or Curly?"
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Straight or Curly, who cares! We love Chaklis both ways!"
+    }
+  ]
+}

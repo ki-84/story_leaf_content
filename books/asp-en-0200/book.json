@@ -1,0 +1,129 @@
+{
+  "bookId": "asp-en-0200",
+  "title": "Amazing Daisy",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "ファンタジー"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 331,
+  "pageCount": 20,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Amazing Daisy",
+    "author": "Nozizwe Herero",
+    "illustrator": "Siya Masuku",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time on a little farm near a little village"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "there lived a little chicken called Daisy."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"When I grow up, I want to fly high, high into the sky,\" Daisy said."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "But all the other chickens laughed at her."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "\"You are so weird,\" they said.\n\n\"We won't play with you anymore.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"Daisy, we can all flap our wings but it's very difficult for chickens to fly,\" Mama told her."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Daisy wouldn't give up.\n\nEvery day she practised by herself, flapping her wings.\n\nFlap, flap, flap, she would flap her wings but she couldn't lift off the ground."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/10.jpg",
+      "text": "While she practised, she imagined herself flying high into the sky and looking at the chickens below.\n\nShe imagined herself flying past the sparrows and past the swallows.\n\n\"Wow!\" the birds would say. \"A chicken that can fly!\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/12.jpg",
+      "text": "So... Flap, flap, flap, every day Daisy would flap her wings."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/13.jpg",
+      "text": "She would lift off the ground but fall down again."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/14.jpg",
+      "text": "\"I'm never going to fly!\" Daisy cried to Mama. \"The others are right.\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/15.jpg",
+      "text": "\"Daisy, you are different from the other chickens. They don't want to fly but you do! You can do it,\" Mama said."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/16.jpg",
+      "text": "The following day Daisy climbed to the top of the chicken coop and flap, flap, flap, she flapped her wings.\n\nShe flew into the air and flapped her wings...\n\nand flapped her wings...\n\nand flapped her wings...\n\nand..."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/18.jpg",
+      "text": "BAM!"
+    },
+    {
+      "index": 14,
+      "imagePath": "images/19.jpg",
+      "text": "The other chickens laughed out loud.\n\n\"Ha ha ha! We told you! Chickens can't fly!\""
+    },
+    {
+      "index": 15,
+      "imagePath": "images/20.jpg",
+      "text": "But the next day Daisy climbed even higher, right up to the top of the rondavel.\n\nFlap, flap, flap, Daisy flapped her wings."
+    },
+    {
+      "index": 16,
+      "imagePath": "images/21.jpg",
+      "text": "She flew into the air and flapped her wings... and flapped her wings ... and flapped her wings and..."
+    },
+    {
+      "index": 17,
+      "imagePath": "images/22.jpg",
+      "text": "She kept flying!\n\nThe wind beneath her wings grew stronger and she flew higher and higher!\n\nThe sparrows and the swallows said, \"Amazing! A flying chicken!\""
+    },
+    {
+      "index": 18,
+      "imagePath": "images/23.jpg",
+      "text": "And the other chickens wanted to be just like her."
+    },
+    {
+      "index": 19,
+      "imagePath": "images/24.jpg",
+      "text": "They said, \"Oh Daisy, you're amazing!\""
+    }
+  ]
+}

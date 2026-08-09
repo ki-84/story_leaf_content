@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0341",
+  "title": "Fonky's Fishy Party",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 202,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Fonky's Fishy Party",
+    "author": "Vinuta Shirgopikar",
+    "illustrator": "Greystroke, Srikrishna Kedilaya",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4111-fonky-s-fishy-party",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once there was a frog named Fonky. Fonky jumped into a pond to meet his friends. He had many fish friends. They played catch and cook."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Then suddenly Tutu, the turtle came. They were all happily surprised. Fonky jumped on Tutu's back, Marina jumped over Fonky in joy. Gippy asked Tutu, \"Where were you all this while? We were waiting for you.. Come and join us!\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Tutu joined them to play. They suddenly heard a loud sound! The little fish got scared, but Tutu was brave and he said,\" Let's go and see what happened.\""
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "They saw a big yellow box sitting in the water. Everyone started poking it. Suddenly there was music coming from it.\" Oh! It is a Radio!\", said Fonky."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Goldie, the goldfish, came to meet Fonky and the friends. Fonky told her about the new Radio. Goldie was very excited, she turned up the volume, \"BOOM! BOOM! BOOM!\" and they all had a fishy party!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Everyone danced a lot and had lots of fun! Fonky, Tutu and Goldie were then tired. Fonky said, \"I must go back home, my mother is waiting for me\". Tutu said, \"Good bye! Let's do this again tomorrow.\" And they all went home."
+    }
+  ]
+}

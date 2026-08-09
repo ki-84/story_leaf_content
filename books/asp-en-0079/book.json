@@ -1,0 +1,91 @@
+{
+  "bookId": "asp-en-0079",
+  "title": "Jojo And Cow",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 71,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Jojo And Cow",
+    "author": "Isiira Patrick",
+    "illustrator": "Rob Owen, Catherine Groenewald",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 14 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Jojo is a young boy."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Jojo living with his\nmother and a milk cow."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Jojo loves the cow."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Every morning Jojo's\nmother milks the cow."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Jojo takes the milk."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Jojo takes the cow to\ngraze"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Jojo gives the cow the\nwater."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Jojo's mother cooks\nfood."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Jojo enjoys food"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Jojo plays the ball with\nhis friend."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Jojo reads his book."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Jojo says bye to the cow\nand go to bed to sleep."
+    }
+  ]
+}

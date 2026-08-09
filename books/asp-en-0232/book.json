@@ -1,0 +1,89 @@
+{
+  "bookId": "asp-en-0232",
+  "title": "Sleepy Mr. Sloth",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 222,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Sleepy Mr. Sloth",
+    "author": "Paul Kennedy",
+    "illustrator": "Graham Paterson",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day, Mr. Sloth\ncame to visit. He said:\n\nI'm sleepy! I need a\ngood branch for a bed!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I'm quite good at\nclimbing.\nI know how to swing.\nBut sleeping's my\nfavourite, favourite\nthing."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "This branch looks\nlovely!\nI think I'll sleep here.\n\nAnd you? Don't you\nthink that's a splendid\nidea?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Oh no, Mr. Sloth! A\ngiraffe's eating there!\nHe might think you're\nlunch and start nibbling\nyour hair!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "This branch looks\nlovely!\nI think I'll sleep here.\nAnd you? Don't you\nthink that's a splendid\nidea?"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Oh no, Mr. Sloth!\nThere's\na beehive right there!\nYou'll never get sleep\nwith those bees\neverywhere!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "This branch looks\nlovely!\nI think I'll sleep here.\nAnd you? Don't you\nthink that's a splendid\nidea?"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Oh no, Mr. Sloth, that's\na snake over there!\nNot a branch! Poor old\nsnake. You gave him\nquite a scare."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "This branch looks\nlovely!\nI think I'll sleep here.\nAnd you? Don't you\nthink that's a splendid\nidea?"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Oh no, Mr. Sloth!\nThere's\na bird squawking there!\nYou'll never get sleep\nwith that noise in the\nair!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Try climb one more\nbranch, Mr. Sloth! they\nall said.\nAnd that branch was\njust the right one for his\nbed."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The bird and the snake,\nthe giraffe and each\nbee\nwere happy to have Mr.\nSloth in their tree."
+    }
+  ]
+}

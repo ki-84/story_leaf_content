@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0385",
+  "title": "The Many Tails of Jiril the Squirrel",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 109,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Many Tails of Jiril the Squirrel",
+    "author": "Jill Keeler",
+    "illustrator": "Sanjay Sarkar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4838-the-many-tails-of-jiril-the-squirrel",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Jiril the squirrel sat on the branch of a tree. He was all alone."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Jiril felt lonely. He wished he could play with his friends."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He ran down the tree to the ground. He did not find his friends\nbut he did find an acorn to eat."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Jiril looked and looked for his friends but he could not find them.\nHe took a nap because he was tired."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "When Jiril woke up, he decided to climb the tree again.\nBut he was still half asleep and he rolled down to the ground."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Soon he found his friends playing and eating.\n\nJiril was happy now as he was not alone."
+    }
+  ]
+}

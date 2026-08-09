@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0171",
+  "title": "Jaggee's mornings",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 199,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Jaggee's mornings",
+    "author": "Sandhya Sridhar",
+    "illustrator": "Angie & Upesh, Hari Kumar Nair, Rajiv Eipe, Rijuta Ghate, Shailja Jain Chougule, Suvidha Mistry, Tapas Guha",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1933-jaggee-s-mornings",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Every weekday morning Jaggee's alarm clock rings at 5 o'clock and every weekday morning he tries to ignore it."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "\"I do not like mornings!\" groans Jaggee. But Jaggee has school. He hides under the blankets and pretends that it isn't really morning."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He complains. He says nasty things about mornings. \"Most of the days I fall back to sleep for a few minutes!\", Jaggee says."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "When his mother wakes him up, Jaggee pretends as if he is fast asleep. Jaggee says, \"Even when she yells, I act like I never hear it.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "After a short time he realizes that he has to get up. Jaggee sighs. \"Finally, I struggle out of bed and I start my day\", says the young boy."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "But the minute he pulls through his morning routine and enters school, everything changes. He is a different person! School is where his home is. His friends welcome him shouting his name. He loves his teachers and awaits his favourite subject- Math."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "After school, Jaggee plays happily with his neighbours. At night, as he goes to bed, he secretly wishes that the next day, he goes to school directly and does not have to wake up in the morning."
+    }
+  ]
+}

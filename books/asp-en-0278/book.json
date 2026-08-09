@@ -1,0 +1,66 @@
+{
+  "bookId": "asp-en-0278",
+  "title": "No Naughty Fingers, No Weird Websites",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 113,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "No Naughty Fingers, No Weird Websites",
+    "author": "Danica Strydom",
+    "illustrator": "Danica Strydom",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 9 とページ数 7 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once there was a\nbutterfly named Fiffie.\nShe was clever at\nworking with\ncomputers."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Fiffie saw a girl who was\nupset and sad.\nThe girl saw a nasty\npicture on a website."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Fiffie flew over to the\ngirl's house."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "She said to the girl,\n\"Never go on the\ninternet without a\ngrownup.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The girl and Fiffie\nbecame friends.\nFiffie went to live with\nthe girl."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "When the girl grew up\nshe opened her own\ncomputer shop.\nEvery week she had\nlessons to teach\nchildren how to work on\ncomputers."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "She taught the children\nnever to go on websites\nwithout the permission\nof grownups.\nBecause of Fiffie, the\nwoman never had\nnaughty fingers again!"
+    }
+  ]
+}

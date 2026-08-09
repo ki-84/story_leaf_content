@@ -1,0 +1,131 @@
+{
+  "bookId": "asp-en-0243",
+  "title": "Holidays with grandmother",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 573,
+  "pageCount": 20,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Holidays with grandmother",
+    "author": "Violet Otieno",
+    "illustrator": "Catherine Groenewald",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 22 とページ数 20 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Odongo and Apiyo lived in the city with their father.\n\nThey looked forward to the holidays. Not just because school was closed, but because they went to visit their grandmother. She lived in a fishing village near a large lake."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Odongo and Apiyo were excited because it was time to visit their grandmother again.\n\nThe night before, they packed their bags and got ready for the long journey to her village. They could not sleep and talked the whole night about the holiday."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Early the next morning, they left for the village in their father's car.\n\nThey drove past mountains, wild animals and tea plantations. They counted cars and sang songs."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "After a while, the children were tired and fell asleep."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Father woke up Odongo and Apiyo as they arrived in the village.\n\nThey found Nyar-Kanyada, their grandmother, resting on a mat under a tree.\n\nNyar-Kanyada in Luo, means 'daughter of the people of Kanyada'. She was a strong and beautiful woman."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Nyar-Kanyada welcomed them into the house and danced around the room singing with joy.\n\nHer grandchildren were excited to give her the presents they brought from the city.\n\n\"First open my gift,\" said Odongo.\n\n\"No, my gift first!\" said Apiyo."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "After she opened the presents, Nyar-Kanyada blessed her grandchildren in a traditional way."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Then Odongo and Apiyo went outside. They chased butterflies and birds."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "They climbed trees and splashed in the water of the lake."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "When it was dark they returned to the house for dinner. Before they could finish eating, they were falling asleep!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The next day, the children's father drove back to the city leaving them with Nyar-Kanyada."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Odongo and Apiyo helped their grandmother with household chores. They fetched water and firewood. They collected eggs from the chickens and picked greens from the garden."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Nyar-Kanyada taught her grandchildren to make soft ugali to eat with stew. She showed them how to make coconut rice to eat with roast fish."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "One morning, Odongo took his grandmother's cows to graze. They ran onto a neighbour's farm.\n\nThe farmer was angry with Odongo. He threatened to keep the cows for eating his crops. After that day, the boy made sure that the cows did not get into trouble again."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "On another day, the children went to the marketplace with Nyar-Kanyada. She had a stall selling vegetables, sugar and soap.\n\nApiyo liked to tell customers the price of items. Odongo would pack the items that customers bought."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "At the end of the day they drank chai tea together. They helped grandmother to count the money she earned."
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "But too soon the holidays were over and the children had to go back to the city.\n\nNyar-Kanyada gave Odongo a cap and Apiyo a sweater. She packed food for their journey."
+    },
+    {
+      "index": 17,
+      "imagePath": "images/19.jpg",
+      "text": "When their father came to fetch them, they did not want to leave. The children begged Nyar-Kanyada to go with them to the city.\n\nShe smiled and said, \"I am too old for the city. I will be waiting for you to come to my village again.\""
+    },
+    {
+      "index": 18,
+      "imagePath": "images/20.jpg",
+      "text": "Odongo and Apiyo both hugged her tightly and said goodbye."
+    },
+    {
+      "index": 19,
+      "imagePath": "images/21.jpg",
+      "text": "When Odongo and Apiyo went back to school they told their friends about life in the village. Some children felt that life in the city was good. Others felt that the village was better.\n\nBut most of all, everyone agreed that Odongo and Apiyo had a wonderful grandmother!"
+    }
+  ]
+}

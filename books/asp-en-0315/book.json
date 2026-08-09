@@ -1,0 +1,119 @@
+{
+  "bookId": "asp-en-0315",
+  "title": "Sakima's song",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 458,
+  "pageCount": 18,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Sakima's song",
+    "author": "Ursula Nafula",
+    "illustrator": "Peris Wachuka",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Sakima lived with his parents and his four year old sister.\n\nThey lived on a rich man's land.\n\nTheir grass-thatched hut was at the end of a row of trees."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "When Sakima was three years old, he fell sick and lost his sight.\n\nSakima was a talented boy."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Sakima did many things that other six year old boys did not do.\n\nFor example, he could sit with older members of the village and discuss important matters."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The parents of Sakima worked at the rich man's house.\n\nThey left home early in the morning and returned late in the evening.\n\nSakima was left with his little sister."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Sakima loved to sing songs.\n\nOne day his mother asked him, \"Where do you learn these songs from, Sakima?\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Sakima answered, \"They just come, mother. I hear them in my head and then I sing.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Sakima liked to sing for his little sister, especially, if she felt hungry.\n\nHis sister would listen to him singing his favourite song.\n\nShe would sway to the soothing tune."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "\"Can you sing it again and again, Sakima,\" his sister would beg him.\n\nSakima would accept and sing it over and over again."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "One evening when his parents returned home, they were very quiet.\n\nSakima knew that there was something wrong."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "\"What is wrong, mother, father?\" Sakima asked.\n\nSakima learned that the rich man's son was missing.\n\nThe man was very sad and lonely."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "\"I can sing for him. He might be happy again,\" Sakima told his parents.\n\nBut his parents dismissed him.\n\n\"He is very rich. You are only a blind boy. Do you think your song will help him?\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "However, Sakima did not give up.\n\nHis little sister supported him.\n\nShe said, \"Sakima's songs soothe me when I am hungry. They will soothe the rich man too.\""
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "The following day, Sakima asked his little sister to lead him to the rich man's house."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "He stood below one big window and began to sing his favourite song.\n\nSlowly, the head of the rich man began to show through the big window."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "The workers stopped what they were doing. They listened to Sakima's beautiful song.\n\nBut one man said, \"Nobody has been able to console the boss. Does this blind boy think he will console him?\""
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Sakima finished singing his song and turned to leave.\n\nBut the rich man rushed out and said, \"Please sing again.\""
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "At that very moment, two men came carrying someone on a stretcher.\n\nThey had found the rich man's son beaten up and left on the side of the road."
+    },
+    {
+      "index": 17,
+      "imagePath": "images/19.jpg",
+      "text": "The rich man was so happy to see his son again.\n\nHe rewarded Sakima for consoling him.\n\nHe took his son and Sakima to hospital so Sakima could regain his sight."
+    }
+  ]
+}

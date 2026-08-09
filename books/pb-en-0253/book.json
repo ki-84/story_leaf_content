@@ -1,0 +1,49 @@
+{
+  "bookId": "pb-en-0253",
+  "title": "Dia's favourite festivals",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 268,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Dia's favourite festivals",
+    "author": "Rachita Uday Kumar",
+    "illustrator": "Priya Kuriyan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2914-dia-s-favourite-festivals",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Holi\n\nIt's holi!There is a lot of cheer around India. Me and my family are getting ready to celebrate holi.\n\nWe wear ethenic clothes on this day. We play holi on an empty ground. We spray colour water on each other.\n\nAfter we finished spraying water, and after the celebrations are over, we distribute sweets and samosas to the neighbours.\n\nMe and my family enjoy holi. Do you?"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Dussehera\n\nOn dussehera, me and my family buy dolls and make a *golu. We make vadas, paysam, sweets and dry rice.\n\nI help my grandmother make the food. Then, me and my mother go and invite people who we know to see the golu.\n\nIn the night, we give sweets to the people who we invited.\n\nI like dussehera. Do you?"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Onam\n\nOn onam, we make a rangoli out of jasmine and other coloured flowers. Me and my family go to Kerala to celebrate onam.\n\nWe first go to my cousins house and then we start making the rangoli. After we finished, we go and watch the boat race.\n\nThe boat race is held near the islands. After the boat race is over, we rent a boat and go for a row.\n\nI love onam. Do you?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Diwali\n\nDiwali is creeping close!On this wonderful festival, the whole of India will be filled with light.\n\nIn english, Diwali is called\" the festival of lights\". We light diya's and burn crackers on this day.\n\nWe wear non-synthitic clothes to not get burnt. We make sweets, vada's and pongal. We distribute sweets to the neighbours.\n\nI enjoy Diwali. Do you?"
+    }
+  ]
+}

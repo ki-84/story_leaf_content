@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0383",
+  "title": "Tintu's Day at Garden",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 52,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Tintu's Day at Garden",
+    "author": "Ambika Balamurugan",
+    "illustrator": "Kabini Amin, Muniza Shariq, Rajeev Verma 'Banjara', Soumya Menon",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4827-tintu-s-day-at-garden",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One evening Tintu was playing with his garden friends."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He was enjoying the bird's play and suddenly.."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "a beetle called Tintu and asked him to feed it with something delicious."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Tintu rushed home and took some vegetables."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "He made a tasty and yummy soup."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The beetle was happy to taste the soup."
+    }
+  ]
+}

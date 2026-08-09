@@ -1,0 +1,49 @@
+{
+  "bookId": "pb-en-0201",
+  "title": "The Brave Girl",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ファンタジー",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 512,
+  "pageCount": 4,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Brave Girl",
+    "author": "Dhriti Nut",
+    "illustrator": "Chet Nut, Greystroke",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2330-the-brave-girl",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was once a girl named Olivia. She lived in the US. She was on obedient girl who loved going to school. She was a scaredy cat.\n\nHer mother was a beautiful woman with curly blonde hair and blue eyes. He father was a handsome man with brown hair and brown eyes. She loved them more than anything in the world.\n\nBut then the war came and her parents had to go to the war. One day she got the news that her parents disappeared in the war. She thought her parents died.\n\nShe was 15 years old and she did not know what to do. Luckily she had caring grandparents and they came and lived with her.\n\nOne night, she had a horrible dream which ended good."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "In the morning Olivia told her grandparents her dream.\n\n\"One night we went on a trip to India. When we were traveling a storm broke out and the aeroplane broke into many pieces and burnt in the icy ocean. Luckily the piece I was on did not burn and I was left in the icy region. I called for help. I saw an aeroplane above and waved a burning piece in the air. The people in the aeroplane saw me and picked me up. Since I looked shabby they gave me clothes to wear and food to eat. I was taken India!\"\n\nDream over.\n\nSoon after this a letter arrived with a book. She started to read the letter.\n\nRead and solve the three riddles in the Book.\n\nLove X0X0X0\n\nShe opened the book and started to read"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Riddle 1:\n\nCome out of the maze without touching the walls.\n\nRiddle 2:\n\nGet out of fairy land without being seen.\n\nRiddle 3:\n\nGet out of the magic patch and you will find your parents in India.\n\nShe closed the book and thought the riddles were true and told her grandparents about it. They told her that she had to go and find her parents. She went in search of the maze. Finally she found it as mentioned in the book.\n\nShe tried getting in, but the walls kept on moving. But she did not give up. She used her ballet skills to dance through and cross the maze without touching the walls.\n\nShe reached the fairy land, she put on some wings and disguised herself as a fairy and"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "crossed without being seen. She reached the magic patch. Now she used her western dance skills to make it past the magic patch.\n\nShe finally saw her parents at a distance and could not believe her eyes. She ran to them and they hugged each other. They finally made it past everything and reached home.\n\nOlivia asked her parents how they were lost and who had sent her the letter. Her parents did not know anything about it. In any case everything ended happily.\n\nUp above unknown to Olivia, a fairy Godmother smiled down on the family. She knew Olivia loved her parents very much and would do anything for them. Thats why she had sent the letter."
+    }
+  ]
+}

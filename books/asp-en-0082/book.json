@@ -1,0 +1,91 @@
+{
+  "bookId": "asp-en-0082",
+  "title": "Lion is sick",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "むかしばなし"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 374,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Lion is sick",
+    "author": "Francisco Escondido",
+    "illustrator": "Claudio Molina, Hélder de Paz Alexandre",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 14 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day, all the wild animals\ngot together to choose a king.\nThey decided that Lion should\nbe their king."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "In celebration of the new king,\nthey had a great big party that\nwent on for a week. They ate,\nthey drank, they sang and they\ndanced."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "When the celebration was over,\neveryone went home."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "King Lion went home too.\nThe next day, when Hyena\narrived at Lion's house to visit\nthe king, he found Lion was sick\nin bed.\nLion said weakly, \"I have got a\nterrible illness. I don't know\nwhat to do.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Hyena said, \"O great king, don't\nworry. Hare will know the cure\nfor this illness.\"\n\nThe reason he said this was because he wanted to get Hare\ninto trouble with the king. Hyena knew that Hare would not\nbe able to cure Lion's illness."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Lion cheered up and right away\nsent Hyena to call Hare."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Hyena ran to call Hare and said,\n\"Let's go to the king because he\nis very sick. He sent me to call\nyou.\"\n\nSo Hare hurried to Lion's house."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Lion said, \"I am so happy to\nsee, my dear Hare. I have called\nyou because my life is hanging\nby a thread. I have an incurable\nillness. Hyena told me that you\nhave the cure for this sickness\nof mine.\"\n\nAnd Hare replied, \"You are correct, O king. I am able to heal\nthis illness. But the medicine is very difficult to get a hold\nof.\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Lion replied, \"Don't you worry,\nHare, about this medicine being\ndifficult to find. The bird that\nflies is the one that is caught.\nCome on now, tell us about this\nmedicine!\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "And Hare replied, \"O my king,\nwhen I say that the medicine is\nhard to find I don't mean that it\nis far away. For you to be healed\nat once, you must make an\nointment from the heart of a\nhyena.\""
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "When Hyena heard that, he\nstarted trembling all over. He\nwas the one who had told Lion\nthat Hare had the medicine to\ncure his illness! It was useless\nnow to try to contradict Hare\nabout the medicine."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "So Hyena ran away.\nAnd to this day, hyenas like to\neat hares, but always avoid\nlions."
+    }
+  ]
+}

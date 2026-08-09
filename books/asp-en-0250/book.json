@@ -1,0 +1,94 @@
+{
+  "bookId": "asp-en-0250",
+  "title": "Danger of abandoning a mother",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 338,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Danger of abandoning a mother",
+    "author": "John Nga'sike",
+    "illustrator": "Zablon Alex Nguku",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There lived a man called\nLodipo.\nHe lived with his two wives,\nAkai and Akitela."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Lodipo's first wife, Akai, was the\nonly one who helped his blind\nmother."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day, Lodipo's younger wife,\nAkitela, said, \"Let us move\naway to a safer village.\"\nThe current place was\nconstantly attacked by cattle\nraiders and Akitela felt unsafe."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Lodipo told Akitela that they\ncould not leave his blind\nmother.\nBut Akitela insisted that they\nshould move and leave the old\nwoman alone.\n\"If you don't move away from\nhere, I will return to my\nparents,\" Akitela cried to\nLodipo."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Lodipo loved Akitela very much\nso he gave in to her demands\nand they prepared to leave.\nThe first wife, Akai, watched all\nthese happenings with\nconfusion."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Lodipo's blind mother sat on a\ngoat skin under a tree.\nShe was unaware of what was\ngoing on.\n\"How can we leave her on her\nown?\" Akai wondered."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Lodipo and his two wives loaded\nall their belongings on their two\ncamels.\nThey left quietly without even\nsaying goodbye to the old\nwoman.\nBut Akai was crying because\nshe was sad to leave her\nmother-in-law all alone."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The old woman was left alone in the manyatta.\nShe cried and sang this sad song:\n\"Awesita Lodipo Ngina Ekitae Ka ng'akinei,\nNakolong kedounio,\nNitonoma tani Akolong'a Awesiti ngina,\nAwesiti a Lodipo ngina Eriamaros morua polonia.\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Immediately after Lodipo and\nhis wives had left, raiders\nattacked the village."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The raiders asked the old\nwoman to tell them where her\nson went.\nThe warriors told her that they\nwould go after her son and kill\nhim.\nThe old woman pleaded with\nthem not to kill the first wife\nand her children."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "She also told them to bring\nback her ram that Lodipo took\nwith him."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The warriors followed Lodipo.\nWhen he was just settling down\nin the new place, they caught\nup with him.\nThey killed him and his young\nwife."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "The first wife, Akai, went back\nwith the ram to live with the old\nwoman."
+    }
+  ]
+}

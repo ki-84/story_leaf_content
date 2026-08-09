@@ -1,0 +1,89 @@
+{
+  "bookId": "asp-en-0124",
+  "title": "A Fish and a Gift",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 655,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "A Fish and a Gift",
+    "author": "Liesl Jobson",
+    "illustrator": "Jesse Breytenbach",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One special Friday Yusuf's\nfather gets dressed before a\nflicker of light brightens the sky.\nHe pulls on his heavy weatherproof jacket and the green\nwoolen cap that covers his ears.\nHe waves his boy goodbye.\nYusuf's eyes brighten when\nPapa says, \"Today is the day I\nwill catch a fish and bring a gift\nhome for you.\""
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "A fish and a gift? Oh, what will it\nbe? Papa cycles down to\nMuizenberg Beach. Squeak\nsqueak go the wheels all the\nway to Surfer's Corner.\nGulls circle the sky. \"Whaaat?\nWhaaat? Whaaat?\" they cry.\n\"What will you bring back for\nYusuf?\"\nPapa rings his bell. \"Wait and\nsee what it will be!\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The fishermen watch the sun\nrise. They check their nets.\nThey check their oars. They\nlisten to the wind. They drag\ntheir boats down to the water.\nYusuf's grandfather, Oupa Salie\nwas a treknet fisherman. Before\nhim his father, Oupagrootjie\nRidwaan, knew the sea too."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The boat rides into the waves.\nPapa's arms stretch to the oar.\nHis leg braces against the side.\nHis neck strains, his back\nmuscles ripple.\nPapa sings as he works: \"Drop\nand swish. Find a fish. Pull and\nplop. Don't you stop.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "All day long Yusuf looks at the\nsky. It is bright and clear and\nwindless. A fish and a gift! What\nwill Papa bring home from the\nsea? Sometimes he brings a\nbeautiful shell. Sometimes he\nbrings a jewel green bottle\nrinsed by the waves."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Some days Yusuf's father brings\na story. Like the time they found\nsea turtles on the sand,\nhundreds washed up in a storm.\n\"Whaaat? Whaaat? Whaaat?\"\ncried the gulls. \"What will you\ndo to help the turtles?\"\nPapa said, \"We saved those\nturtles, I tell you straight. We\nsent them back to the ocean,\nevery last one.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Always Papa brings a song. He\nsings the song while he pulls\nthe oars. He sings the song\nwhile he pulls the nets. He sings\nthe song as he winds the ropes.\nHe sings the song as he cycles\nhome. \"Drop and swish. Find a\nfish. Pull and plop. Don't you\nstop.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Ouma Safiya wants a nice fat\nyellowtail for her supper.\nMother wants a new dress.\n\"Don't be silly,\" says Ouma.\n\"You'll be lucky if they catch\neven a tiny crab. More likely it\nwill be fish tail Friday. There's\nnot so many fish left in the\nsea.\"\nYusuf holds Ouma's hand. They\ncross the road at the bathing\ncabins.\n\"Whaaat? Whaaat? Whaaat?\"\ncry the gulls perched on the\nbright rooftops. \"What is for\nsupper?\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Last year the fishermen fought\nwith the surfers. Angry fists and\nshouting words.\n\"Whaaat? Whaaat? Whaaat?\"\ncried the gulls.\n\"There's enough sea for\neverybody,\" said Yusuf's father.\nHe showed them the fishing\nlicense that had been Oupa\nSalie's. \"Waves for all. Water for\nfree.\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Ouma Safiya watches through\nher binoculars, her fingers\ncurled in curiosity. The shark\nsiren sounds. Swimmers run\nback to the sand and grab their\ntowels. Surfers rush to the\nshore, carrying their boards\nunder their arms. Under the\nshowers they strip off their\nwetsuits.\n\"Whaaat? Whaaat? Whaaat?\"\ncry the gulls. \"What will Yusuf's\nfather bring from the ocean?\""
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Yusuf's father and uncle and\ncousins heave and pull. A little\nshark has been caught. It twists\nand thrashes in the waves.\nYusuf's father untangles the\nnets, singing to the shark:\n\"Drop and swish. Find a fish.\nPull and plop. Don't you stop.\"\nWhen the shark at last is free it\nstreaks back into the waves,\nleaving only one fat yellowtail in\nthe net. Ouma Safiya will be\npleased."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The men pull the boat in and\ncoil up the cables. A hard white\ntriangle catches Papa's finger.\n\"Whaaat? Whaaat? Whaaat?\"\ncry the gulls. \"What did you\nbring back for Yusuf?\"\nAs the sun goes down, Papa\nanswers the gulls. \"A lucky\nshark tooth for my boy.\"\nAt home Yusuf holds his gift up\nto the stars."
+    }
+  ]
+}

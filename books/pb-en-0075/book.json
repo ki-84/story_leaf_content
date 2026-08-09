@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0075",
+  "title": "Gulli's Box of Things",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 324,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Gulli's Box of Things",
+    "author": "Anupama Ajinkya Apte",
+    "illustrator": "Anupama Ajinkya Apte",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/486-gulli-s-box-of-things",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "“What's wrong Grandpa, why are you not reading the newspaper?”\n\nasked Gulli one morning.\n\n“Oh dear, I broke my reading glasses, and I can't read anything without them,”said Grandpa."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "“Ah, don't you worry, Grandpa. Let me go and get my box of things.”\n\nGulli ran out fast, and came back with his little brown box."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Clink, clonk, dadum-dum. What has he found at last?\n\nA shining bright magnifying glass!\n\nIf you care to look through it, everything will look better and bigger."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "\"Thank you, this is just fine, now I can read each and every line,\" said Grandpa."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "“What is wrong, Mangal Chacha?” asked Gulli one Sunday.\n\n“I have to pour oil from this pack, but the bottle's neck is so small. I am sure I will make a complete mess in my kitchen,” said Mangal Chacha.\n\n“Ah, don't worry, let me find you something really fast,” said Gulli."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Clink, clonk, dadum-dum, let's see what Gulli has found this time!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "A funnel with a big, wide mouth! Pour anything from the top, and see how it comes down so neatly, drop by drop!\n\n\"Here, Mangal Chacha, use this one, the kitchen will be clean and cooking will be fun.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "\"Thank you Gulli, for helping me out!\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "“What are you looking for, Grandma?” asked Gulli.\n\n“Oh, I was mending Grandpa's monkey cap, and the needle just fell off from my lap!” said Grandma.\n\n“You just sit here on the chair that rocks, while I go find something from my little brown box!” said Gulli."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Clink, clonk, dadum-dum, what has Gulli found this time?\n\nA magnet! All the little metal things will stick to that!\n\n\"Let me scan the ground, and the needle will soon be found,\" said Gulli."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "“Look Grandma, see how your needle is stuck, and I also found other long-lost metal stuff!”\n\n“Thank you Gulli, you are so wise. Your little brown box is really nice!” said Grandma."
+    }
+  ]
+}

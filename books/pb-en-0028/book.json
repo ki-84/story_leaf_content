@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0028",
+  "title": "Going to a Wedding",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 285,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Going to a Wedding",
+    "author": "Rukmini Banerji",
+    "illustrator": "Santosh Pujari",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/141-going-to-a-wedding",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "My youngest uncle is getting married.\n\nThe wedding is in the village.\n\nWe are all going to the wedding.\n\nWe are going by train."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "We are the first to come to the station.\n\nMy father, my mother, my brother and I."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "We have one big bag and two small bags.\n\nAnd we have a red water bottle."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The train has not yet come.\n\nMany people are coming.\n\nThey are all waiting for the train.\n\nWhere is the rest of the family?"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "There! I can see my grandfather.\n\nHe is walking slowly.\n\nHe is looking for us.\n\nMy grandmother is behind him."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I am thirsty. Can I have a cold drink?\n\nMy brother is hungry. He wants to eat chips."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"Wait,\" says my mother. \"We are not even on the train. I have sweets if you are hungry. I have water if you are thirsty. But wait till the train comes.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "My grandfather has a very small bag.\n\nHe also has a stick.\n\nMy grandmother's bag is big.\n\nI think there are many good things to eat in it."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "My fat aunt has arrived. Her thin husband is here too.\n\nTheir suitcase is full of clothes. They both like to dress up."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "There is a big noise. The train is coming. The train is coming!\n\nEveryone wants to get in. Where is the young man, who is getting married? We are all ready. But where is he?\n\nMy father goes to look for my uncle. My grandfather looks too."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "My mother looks worried. But my grandmother is smiling.\n\n\"There he is!\" grandmother says.\n\nMy uncle is running towards us. “So sorry, so sorry,” he says.\n\nWe all get on the train. The train leaves the station."
+    }
+  ]
+}

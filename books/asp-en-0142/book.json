@@ -1,0 +1,61 @@
+{
+  "bookId": "asp-en-0142",
+  "title": "The boy who would not listen",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 287,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The boy who would not listen",
+    "author": "Jonathan Githui, Gavin Gatamu, Eissa elzaki",
+    "illustrator": "Wiehan de Jager, Zablon Alex Nguku, Vusi Malindi, Robert McEwan, Catherine Groenewald",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 8 とページ数 6 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, a little boy named Eissa was at\nhome. He did not like to listen. One day his parents\ngave him a song,\"Never eat x2, without washing,\nyour hands. Never eat without washing your hands\".\nEissa didn't want to listen at all, so he ignored his\nparents. Neither did his sister Aysha"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He ran into a big lion on the way to the forest. He said \"Release me and i will give you pure\nfruit that does not need to be washed at all.\" \"Really? What type of fruit.\" Asked Eissa."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"Okay. I will set you free\" said Eissa. \"On condition you give me a pure fruit\" said Eissa. The\nlion was very happy and gave Eissa a pure apple."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Eissa ate the apple happily and\nwent home not thinking about it. He\nsoon got stomach upset. His\nparents and siblings saw that there\nwas something wrong with him.\nEissa was pretending not to be sick\n\nA few days passed and his stomach\nupset did not stop at all. He finally\ntold his parents about his issues.\n\"Did you eat anything bad?\" asked\nhis mother. ?Did you eat something\nbad?\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "\"Why did you eat that fruit Eissa?\" His elder brothers\nKen and Sean asked him.\" A lion told me that it was\nclean and...\" said Eissa before Ken interrupted him.\n\"Wait! Let me get this strait! YOU SPOKE TO A LION\"\nsaid Ken. \"HAHAHAHAH\" his brothers burst into\nlaughter. Eissa felt very ashamed, embarrassed and\nsad. He ran to his room and banged the door angrily."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "'Why do they make fun of me. Why.\nI feel so embarrassed. I wish i had\nnever accepted to eat that apple\nthe talking lion gave me\""
+    }
+  ]
+}

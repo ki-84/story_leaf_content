@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0136",
+  "title": "Tara Finds Her Stars",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 348,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Tara Finds Her Stars",
+    "author": "Mala Kumar, Manisha Chaudhry",
+    "illustrator": "Shikha Nambiar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1219-tara-finds-her-stars",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Tara could not sit still! The train seemed to be going very slowly. Tara peered out through the window. Lights winked from windows in tall buildings.\n\nAs everyone in the bogey prepared to sleep, one passenger asked Tara, “Beti, I hope you are not running away from home?”\n\n“No, no!” said Tara. Early in the morning, Tara got off the train at Meenapur."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "She walked towards the banks of the river Ganga and got into a crowded boat.\n\n“Who could this girl be, travelling all alone?” wondered many people on the boat.\n\nAs Tara got out, the boatman asked, “Have you run away from home?”\n\nTara smiled and said, “No, no, sir, I am going home!”"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Tara came to a forest. She took out her camera. A deer looked at her and seemed to be asking what she was doing there! Tara aimed her camera and clicked.\n\n“I've come home, dear deer, I've come home to the village of my ancestors.”"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "As the sun set, Tara started walking on a rope bridge. The bridge swung gently with her steps. She smiled as she thought of what awaited her on the other side."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Once on the other side, Tara stopped to take out her map and plan her way forward. She closed her eyes and took a deep breath.\n\nAh, the earthy smell of green trees and plants in this forest was lovely!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Tara made a small bonfire. She ate some food that she had packed and settled down under the sky. Stars twinkled like friends. Tomorrow she would cross the forest by foot, and then take a bus to the village where her great grandparents lived.\n\nFor today, Tara Prakash, famous wildlife photographer, was just going to sleep under the stars and dream about home."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Dear Reader,\n\nHave you tried counting the stars? How many stars do you think you can count?\n\nIf you had to stay alone in a forest, name some of the things that you should have with you.\n\nWhich are the days in a month when stars are most visible to the eye? Why?"
+    }
+  ]
+}

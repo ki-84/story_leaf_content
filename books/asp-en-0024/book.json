@@ -1,0 +1,79 @@
+{
+  "bookId": "asp-en-0024",
+  "title": "The Sick Hyena",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 217,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The Sick Hyena",
+    "author": "Mozambican folktale",
+    "illustrator": "Razaque Lázaro Quive",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, a long time\nago, there was a time of great\nhunger. A very smart hyena\npretended he was so sick he\ncouldn't even go out."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Lots of animals went to visit him\nin his home to comfort him. But\nnone of them ever came out!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One beautiful afternoon, the\nrabbit arrived. He thought he\nwould like to visit the hyena\ntoo."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "He almost went into the\nhyena's cave. But suddenly he\nstopped, and saw there were\nonly tracks of animals going in,\nand none coming out."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "So he stayed outside and\nshouted into it, \"How are you?\nAre you healthy, my best\nfriend? Are you getting better?\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The hyena answered, \"Don't\nworry, my friend. Come in and\ngive me some lovely company!\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"Oh, I'm not sure if I should come in. Really, I don't have\ntime right now,\nand you have so many visitors . . .\"\n\n\"No, no, rabbit, everything is alright. There's nobody in\nhere. It's no good\nfor me to stay here all sick and alone.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "\"You are lying! I can see the\nfootprints of animals that have\ngone in but haven't come out . .\n.\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The hyena went quiet and the\nrabbit said, \"Good-bye, my\nfriend, I think I will visit you\nanother day.\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "And the rabbit ran far away\nfrom that place!"
+    }
+  ]
+}

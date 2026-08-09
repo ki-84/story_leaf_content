@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0066",
+  "title": "My Car",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 147,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "My Car",
+    "author": "Phidi Pulu",
+    "illustrator": "Phidi Pulu",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/355-my-car",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Hi, I am Khaidi. I am seven years old.\n\nI have a car, a lovely long car. Papa made it for my birthday."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I love my car and love to drive it all day long.\nDrooomm... here I go ...drooomm... there I go.\nDrooomm... I go everywhere."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I visit my relatives driving my car,\n\nand in school, my friends want my car.\n\nI love my grandma and she loves to see me drive."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "With my car I can go round and round my home.\n\nWith my car I can go around the earth.\n\nI can go around the sun, the moon and the stars."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "My little brother loves riding on my car.\n\nMummy tells us not to do so, but do we care!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Now, here I am without my car and...\n\nmy brother without his tooth!\n\nBut still we go drooomm...\n\nwith my brother on my back!"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "bookId": "pb-en-0017",
+  "title": "Peacocks and Pakodas!",
+  "slug": "peacocks-and-pakodas",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 363,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "storyweaver (global-asp/pb-source mirror)",
+  "attribution": {
+    "title": "Peacocks and Pakodas!",
+    "author": "Mala Kumar, Manisha Chaudhry",
+    "illustrator": "Priya Kuriyan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/89-peacocks-and-pakodas",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "bundled": true,
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I can see big, black clouds in the sky and I can hear BADABOOM, the roll of thunder.\n\nThe monsoon is here. It is called Varsha Ritu in Sanskrit. I love the smell of wet earth. After a long hot summer, the soil also loves the first raindrops I think."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The rain makes beautiful patterns on the ground. My uncle has kept big drums in some places to save rain water. The rain water from the terrace comes and falls into these drums. So I call them waterfalls!"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Aunty likes to sing aloud when it starts raining. Shubha aunty who lives in Varanasi, taught me some lovely songs called ‘Kajari'.\n\nDo you know, Miyan Tansen, a very famous singer in the court of Emperor Akbar, could bring the rain down from the skies just by singing a song in raag ‘Miyan ki Malhar!'\n\nI am going to start learning Indian classical music too."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I got wet in the rain when I came running back from school, but it was fun. I saw peacocks dancing in the fields near our house. They never seem to get wet!\n\nI cannot wait to sit on the swing that Manu has put up on the big tree, and feel the cool rainy breeze on my face."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I can smell the pakodas being fried in the kitchen. Can I be greedy and eat some corn too? Amma makes us drink hot milk.\n\nYesterday, she had made spicy puffed rice. And tomorrow, she says she will make puris!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "All the trees and plants will look green and happy. Just like the green dupatta that Hari bhaiya sent for me from Jaipur. He said it is called a ‘dhaani chunariya.'\n\n‘Dhaani' means the fresh green colour of paddy saplings. Grandpa told me that good rain means the farmers will get a good crop. We all wait for the rains, but farmers worship the rain gods."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "My mango tree has grown very tall during the monsoon season. I do not have to water it at all! And when the wind blew hard last month, my tree stood firm. When will my mango tree be as big as this one?"
+    }
+  ]
+}

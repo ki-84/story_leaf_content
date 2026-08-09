@@ -1,0 +1,111 @@
+{
+  "bookId": "asp-en-0102",
+  "title": "Kalabushe The Talkative",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 339,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Kalabushe The Talkative",
+    "author": "Gaspah Juma",
+    "illustrator": "Jesse Breytenbach",
+    "translator": "Gaspah Juma",
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 18 とページ数 16 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Long time ago, there lived a girl whose name was Kalabushe. Kalabushe was a very talkative girl. Although her mother warned her not to talk too much, Kalabushe did not listen."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Kalabushe's aunt lived across the valley on the other side of Kalabushe's village. One day she fell ill. She had nobody to take care of her."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Kalabushe's mother was very busy. It was late in the evening when she gave Kalabushe food to take to her sick aunt."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "On the way, Kalabushe met Sinson. Sinson was a hyena who had changed into a person."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Sinson asked Kalabushe, \"What are you carrying?\" Kalabushe answered, \"I am carrying meat, eggs and milk.\" Kalabushe's mother had warned her not to say what she was carrying."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Kalabushe also said, \"I am taking the food to my sick aunt.\" Sinson licked his lips at the thought of the meat that Kalabushe was carrying."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Sinson quickly ran ahead of Kalabushe to her aunt's house."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "He swallowed Kalabushe's aunt and then covered himself with her blanket."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "When Kalabushe arrived, the house was very quiet. She went inside and called out, \"Aunt, where are you?\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Kalabushe did not hear her aunt's voice. She went to the inner room where her aunt slept. She was surprised when she saw someone covered with a big blanket."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Kalabushe asked, \"Aunt, why are your ears so big today?\" Sinson replied from under the big blanket, \"So that I can hear you well.\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Kalabushe asked again, \"Aunt, why are your eyes so big today?\" Sinson answered, \"So I can see you well.\""
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Kalabushe finally asked, \"Aunt, why is your mouth so big today?\" Sinson replied, \"So I can eat you up!\" He jumped from the bed and swallowed Kalabushe."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Kalabushe kept talking even when she was inside Sinson's stomach. She asked many questions."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "In the end, Sinson was so tired of Kalabushe's many questions that he decided to spit her out."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Kalabushe and her aunt were rescued by the villagers. From that day, Kalabushe did not talk too much to strangers."
+    }
+  ]
+}

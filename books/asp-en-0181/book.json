@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0181",
+  "title": "Sunday at the park",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 168,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Sunday at the park",
+    "author": "Neo",
+    "illustrator": "Neo",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "We are in Cape Town on\nholiday. We are excited\nbecause Mom and Dad\nare taking us to the\npark next to the sea."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Look at the tall slide.\nAm I brave enough to\nclimb up and slide\ndown?"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "My sister and I want to\nplay on the see saw. I\nwonder which one of us\nis heaviest?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Mom and Dad need to\npush us when we want\nto swing. I am going to\ntry to swing the\nhighest."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Look at these white\nhorses. They are\nstatues."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "We read the sign which\nshows us what fun we\ncan have with the\nhorses."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "We visit the lighthouse.\nMom and Dad say it is\nvery old."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Lighthouses are\nimportant at night and\nin the fog. They alert\nships to the rocks in the\nsea."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "We have had a happy\ntime at the park, but\nnow it is home time. We\nare going to catch a\nbus."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Thank you Mom and\nDad for our treat. We\nare tired but very\nhappy!"
+    }
+  ]
+}

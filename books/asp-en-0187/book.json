@@ -1,0 +1,96 @@
+{
+  "bookId": "asp-en-0187",
+  "title": "Anna and the three hairs",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 395,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Anna and the three hairs",
+    "author": "Tessa Welch",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 15 とページ数 13 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A long time ago, three girls went\nout to collect wood."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "It was a hot day so they went down\nto the river to swim.\nThey played and splashed and\nswam in the water."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Suddenly they realised that it was\nlate.\nThey hurried back to the village."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "When they were nearly home,\nNozibele put her hand to her neck.\nShe had forgotten her necklace!\n\"Please come back with me!\" she\nbegged her friends.\nBut her friends said it was too late."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "So Anna went back to the river\nalone.\nShe found her necklace and hurried\nhome.\nBut she got lost in the dark."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "In the distance she saw light\ncoming from a hut.\nShe hurried towards it and knocked\nat the door."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "To her surprise, a dog opened the\ndoor and said, \"What do you want?\"\n\"I'm lost and I need a place to\nsleep,\" said Anna.\n\"Come in, or I'll bite you!\" said the\ndog.\nSo Anna went in."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Then the dog said, \"Cook for me!\"\n\"But I've never cooked for a dog\nbefore,\" she answered.\n\"Cook, or I'll bite you!\" said the dog.\nSo Anna cooked some food for the\ndog."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Then the dog said, \"Make the bed\nfor me!\"\nAnna answered, \"I've never made a\nbed for a dog.\"\n\"Make the bed, or I'll bite you!\" the\ndog said.\nSo Anna made the bed."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Every day she had to cook and\nsweep and wash for the dog.\nThen one day the dog said, \"Anna,\ntoday I have to visit some friends.\nSweep the house, cook the food and\nwash my things before I come\nback.\""
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "As soon as the dog had gone, Anna\ntook three hairs from her head.\nShe put one hair under the bed, one\nbehind the door, and one in the\nfenced area in the village.\nThen she ran home as fast as she\ncould."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "When the dog came back, he looked\nfor Anna.\n\"Anna, where are you?\" he shouted.\n\"I'm here, under the bed,\" said the\nfirst hair.\n\"I'm here, behind the door,\" said the\nsecond hair.\n\"I'm here, in the fenced area,\" said\nthe third hair."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Then the dog knew that Anna had\ntricked him.\nSo he ran and ran all the way to the\nvillage.\nBut Anna's brothers were waiting\nthere with big sticks.\nThe dog turned and ran away and\nhas never been seen since."
+    }
+  ]
+}

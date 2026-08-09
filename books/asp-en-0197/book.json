@@ -1,0 +1,89 @@
+{
+  "bookId": "asp-en-0197",
+  "title": "Dog and Crocodile",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 189,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Dog and Crocodile",
+    "author": "Candiru Enzikuru Mary",
+    "illustrator": "Rob Owen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day at the river, Dog came across some eggs in the sand. He asked himself, \"Which animal left these eggs here?\""
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He counted ten eggs and thought they might belong to Duck. He put them in his bag."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He took the eggs home and put them in a warm place."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "When Dog returned to the river, he met Crocodile. She asked, \"Have you seen my eggs?\"\"I don't know anything about your eggs,\" he replied."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Crocodile started visiting all the animals asking about her eggs."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Meanwhile, the eggs hatched one by one."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Dog did his best to look after the baby crocodiles, but there was never enough food. The young crocodiles were always hungry."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "One day Crocodile went to Dog's house looking for her eggs. As she stood outside, she heard the rumbling of little crocodile bellies!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Crocodile stormed inside and hit Dog with her tail. Dog yelped and jumped through the window."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Crocodile chased Dog all the way to the river."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Dog cried, \"I'm sorry, I didn't know they were your eggs!\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Crocodile believed him and forgave him. She took her offspring for their first swimming lesson."
+    }
+  ]
+}

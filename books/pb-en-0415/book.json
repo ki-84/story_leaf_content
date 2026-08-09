@@ -1,0 +1,39 @@
+{
+  "bookId": "pb-en-0415",
+  "title": "Frog in the Movie",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 105,
+  "pageCount": 2,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Frog in the Movie",
+    "author": "Aparna Ganapathy",
+    "illustrator": "Delwyn Remedios, Vartika Sharma",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/5239-frog-in-the-movie",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day, Raju, Dimpy and Pinky went to watch a movie. They were very happy to finish their exams and were waiting to go for a movie. When they heard about Jungle Raja movie, they were very happy."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "When they were watching the movie, instead of hearing the tiger's roar, they were hearing a frogs's croaking noise. They were wondering what happened to the mighty tiger. They were curios. And suddenly they see Sharma uncle jumping off his seat screaming. And alas, what they see? A on his seat. All burst out laughing. Adventure movie of Jungle Raja became a comedy movie of Frogiee Raja."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0115",
+  "title": "Elephant and Chameleon",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "むかしばなし",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 187,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Elephant and Chameleon",
+    "author": "Stella Badaru",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time in a big\npalace, there lived a king and\nhis\nbeautiful daughter, the\nprincess."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Elephant lived in a house on\none side of the palace.\nChameleon\nlived on the other side."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "At this time, there was a terrible\ndrought across the land.\nThe king had an idea and called\nhis two neighbours to the\npalace."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The kind said to Elephant and\nChameleon, \"I want you to\nstomp\non the ground with your feet\nuntil water comes out.\"\nThe king promised the princess\nin marriage to the one who\nsucceeded."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Chameleon had no hope since\nhe was very small.\nElephant was extremely happy\nsince he was so big and\npowerful.\nElephant went to the field and\nstarted stomping on the\nground."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "A lot of dust came, but no\nwater.\nElephant stomped on the\nground until water was almost\ncoming out, but he was too\ntired.\nHe gave Chameleon a chance\nto try."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Chameleon started stomping on\nthe ground. After a short while,\nwater came out.\nPeople could not believe their\neyes!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "So the King gave the beautiful\nprincess to Chameleon.\nElephant went home annoyed."
+    }
+  ]
+}

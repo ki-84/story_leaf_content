@@ -1,0 +1,104 @@
+{
+  "bookId": "pb-en-0049",
+  "title": "Kaka and Munni: A Folktale from Punjab",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 1156,
+  "pageCount": 15,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Kaka and Munni: A Folktale from Punjab",
+    "author": "Natasha Sharma",
+    "illustrator": "Natasha Sharma",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/207-kaka-and-munni-a-folktale-from-punjab",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "In a gulmohar tree along the wheat fields in Punjab, Munni the sparrow, sat by her nest. She watched over her three little eggs, waiting for them to hatch.\n\nMunni looked around happily at the bright red flowers, before giving a startled chirp as she saw a flash of black. It was the village bully, Kaka, the crow. \"Move over Munni, for I have come to eat your eggs,\" he cawed."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Now Munni was a clever little sparrow and she quickly chirped back, \"Who can refuse you, Kaka? But I have one request. Before eating my eggs, could you please wash your beak, since it is looking very dirty?\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Kaka did not like the idea of not looking his very best. He quickly flew over to the stream and was about to wash his beak in the water, when the stream cried out, “Kaka! Wait! If you dip your beak into me, all my water will become dirty. Go get a cup, fill it with water, and wash your beak in that.”"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Hearing this, Kaka went to the potter in the village, and cawed to him,\n\n“Oh potter dear,\n\nThis is Kaka here.\n\nA cup you make\n\nFor me to fill\n\nWith water to wash\n\nMy dirty bill\n\nSo I can eat the eggs\n\nAnd loudly caw\n\nTo let everyone\n\nHear me and know\n\nThat I am the most handsome crow.”\n\n“I will gladly give you a cup, but I need mud to make one for you,” said the potter."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "So Kaka flew over to the nearby field and said to it,\n\n“Oh field dear,\n\nThis is Kaka here.\n\nSome mud I'll take\n\nFor the potter to make\n\nA cup to fill\n\nWith water to wash\n\nMy dirty bill\n\nSo I can eat the eggs\n\nAnd loudly caw\n\nTo let everyone\n\nHear me and know\n\nThat I am the most handsome crow.”\n\n“I am all dry and baked hard, for the monsoon rains are yet to start. Get something sharp to dig me up,” replied the field."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Off Kaka went to the nearby jungle where he saw a deer with sharp horns. He called out to it,\n\n“My friend, oh deer,\n\nThis is Kaka here.\n\nYour horn may I take\n\nTo dig some mud\n\nFor the potter to make\n\nA cup for me to fill\n\nWith water to wash\n\nMy dirty bill\n\nSo I can eat the eggs\n\nAnd loudly caw\n\nTo let everyone\n\nHear me and know\n\nThat I am the most handsome crow?”\n\n“Oh, you very clever crow, how can you take my horn while I am still alive?” Kaka, terribly hungry, flew around in a flurry till he came across..."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "...a pair of dogs.\n\n“Oh dogs dear,\n\nThis is Kaka here.\n\nI need your help, I fear,\n\nTo kill the deer\n\nWhose horn I shall take\n\nTo dig some mud\n\nFor the potter to make\n\nA cup for me to fill\n\nWith water to wash\n\nMy dirty bill\n\nSo I can eat the eggs\n\nAnd loudly caw\n\nTo let everyone\n\nHear me and know\n\nThat I am the most handsome crow.”\n\n“That is a lot of work in this heat,” grumbled one of the dogs. “We need to be strong to kill the deer. Go get some milk for us to drink.”"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Back to the village flew Kaka and went to the buffalo munching on some straw.\n\n“Oh buffalo dear,\n\nThis is Kaka here.\n\nCould I take your milk\n\nTo the dogs to feed\n\nWhose help I need\n\nTo kill the deer\n\nWhose horn I shall take\n\nTo dig some mud\n\nFor the potter to make\n\nA cup for me to fill\n\nWith water to wash\n\nMy dirty bill\n\nSo I can eat the eggs\n\nAnd loudly caw\n\nTo let everyone\n\nHear me and know\n\nThat I am the most handsome crow?”\n\n“If I could get some lovely juicy grass to eat instead of this dry hay, I would certainly give you milk,” mooed back the buffalo."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "On hearing this, Kaka swooped over to the only grassy field around and said to it,\n\n“Oh grass dear,\n\nThis is Kaka here.\n\nPlease come with me\n\nFor the buffalo is hungry\n\nAnd I need her milk\n\nFor the dogs to feed\n\nWhose help I need\n\nTo kill the deer\n\nWhose horn I shall take\n\nTo dig some mud\n\nFor the potter to make\n\nA cup for me to fill\n\nWith water to wash\n\nMy dirty bill\n\nSo I can eat the eggs\n\nAnd loudly caw\n\nTo let everyone\n\nHear me and know\n\nThat I am the most handsome crow.”"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "“And how do you plan to cut me?” whispered the grass. “Go get a sickle from the blacksmith and then I can come with you.”"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Kaka, really hungry now, went to the blacksmith and said to him,\n\n“Oh blacksmith dear,\n\nThis is Kaka here.\n\nGive me a sickle\n\nTo give the grass a tickle.\n\nI will take her with me\n\nFor the buffalo is hungry\n\nAnd I need her milk\n\nFor the dogs to feed\n\nWhose help I need\n\nTo kill the deer\n\nWhose horn I shall take\n\nTo dig some mud\n\nFor the potter to make\n\nA cup for me to fill\n\nWith water to wash\n\nMy dirty bill\n\nSo I can eat the eggs\n\nAnd loudly caw\n\nTo let everyone\n\nHear me and know\n\nThat I am the most handsome crow.”"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The blacksmith, like all the others, wanted to save Munni's eggs. Looking up, he said, “Kaka, please go around the back, open the furnace door and put this piece of iron in it.”"
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Kaka was very excited and in his hurry, he quickly flung open the furnace door. As he did this, a sudden gust of wind made him fall backwards on the coal, burning his tail.\n\n“Oh ho! Mera poonja sadhiya!”“Oh ho! Mera poonja sadhiya!”\n\nWhich, in Punjabi, meant, “Oh! My tail has got burnt!”"
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Since Kaka always wanted to look his best, he could not bear to be seen with a burnt tail.\n\nSo he flew off never to be seen again."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "What is a Collage?\n\nEach of the pictures that you have seen in this book is a collage (pronounced ko–laaj). Collage is a way of making a whole new picture by putting bits of material together. The material could be handmade and printed paper, like in this book. It could be clippings from newspapers and magazines, old greeting cards, photographs, fabric, ribbons, dried flowers and leaves, or anything else that you find lying around!\n\nThe word “collage” comes from the French word “colle” meaning “glue”. To make a collage, you need bits of different material, a scissor or a pair of nimble fingers to tear up stuff and lots of glue to stick things together. This page shows the four elements, Wind, Water, Earth and a fiery Sun, and uses bits from paper you can spot in the book. Now go ahead and make your own collage!"
+    }
+  ]
+}

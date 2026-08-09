@@ -1,0 +1,66 @@
+{
+  "bookId": "asp-en-0307",
+  "title": "Thandi misses her school bus",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 118,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Thandi misses her school bus",
+    "author": "Melissa Chetty",
+    "illustrator": "Wiehan de Jager, Marleen Visser, Catherine Groenewald, Cathy Feek",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 9 とページ数 7 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Thandi woke up happy and she\nwanted to play before going to\nschool."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Grandma says to Thandi \"you will\nbe late for your bus Thandi\"\nThandi replies \"I will go now\ngrandma\"\nThandi leaves 5 minutes later..."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Thandi goes to the bus stop too\nlate.\nThe bus has left..."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The old man asked \"why are you\ncrying child\"\nThandi replies \"I missed my school\nbus\"\nThe old man says \"I will walk you to\nschool\"."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The old man askes Thandi \"Is that\nyour school\".\nThandi replies \"Yes it is. Thank you\"\nThe old man leaves her at school."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Thandi tells her teacher and friend's\nabout she missed her bus and the\nnice, old man who helped her."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "THE END"
+    }
+  ]
+}

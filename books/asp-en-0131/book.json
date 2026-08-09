@@ -1,0 +1,96 @@
+{
+  "bookId": "asp-en-0131",
+  "title": "Fun at the farm",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 454,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Fun at the farm",
+    "author": "Phoebe Sibomana",
+    "illustrator": "Marion Drew",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 16 とページ数 13 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "In a far away town, there lived a\nboy named Themba.\nEveryone in the town was tired of\nThemba breaking things and\ndrawing on walls, so his mum\ndecided that farm work was the\nonly place he would not be able to\nbreak or ruin anything. So she sent\nhim to work at the farm with Sipho\nthe herdsman."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Early in the morning Themba and\nSipho would go to the farm and look\nafter the animals and water the\ncrops."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "The more that Themba worked in\nthe farm the more it felt like doing\nchaos and no longer fun.\nThemba started to get tired and\nannoyed with the place, but Sipho\nwould always encourage him and\ntell him that it can be fun."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Sipho would go and play with the\nanimals. He would feed them and\ntalk to them. But Themba would sit\nand just watching, he didn't feel like\nworking in the farm anymore. He\nthought it was a waste of time for\nhim."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "After seeing how much fun Sipho\nwas having, Themba decided to go\nand join in the fun."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "But Themba started getting carried\naway and what seemed like fun now\nfelt horrible for Sipho."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"Now this is fun! you were right\nSipho, working in the farm is so\nmuch fun. Hahahahah\" said\nThemba"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Themba destroyed the farm and let\nall the animal out of the farm and\nled the to town."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Soon the animals were all over the\ntown and people started shouting at\nThemba. Everyone new that trouble\nfrom the naughthy boy was back\nagain.\nChickens were running everywhere,\nthe other animals were eating and\nbreaking things in the town. It was\nall a big mess."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "It all got out of hand and the\nanimals started chasing Themba\nand the people.\n\"Oh no, what have i done?\" said\nThemba"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "So Sipho told Themba that they\nhave to get the animals back to the\nfarm and clean up the place before\nhis mum comes from work or else\nthey will both be in big trouble.\nThey started cleaning and fetching\nwater to water the plants that\nThemba had destroyed and got all\nthe animals back to the farm in\ntime."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "In no time the garden was back to\nthe way it was.\n\"Thank you so much Sipho, we had\nput the garden back to how it was\"\nThemba shouted\n\"Yesss! we did it Themba\" Sipho\nsaid cheerfully"
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "Now instead of messing the farm\nThemba and Sipho would sit and\nenjoy the Apples from the Apple\ntree and play with the animals.\nThemba never again did as he had\ndone before, he now listened to\nSipho and realised that being at the\nfarm can also be fun without\nvandalising the place."
+    }
+  ]
+}

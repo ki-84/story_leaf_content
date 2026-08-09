@@ -1,0 +1,60 @@
+{
+  "bookId": "asp-en-0049",
+  "title": "The Rainbow",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 21,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The Rainbow",
+    "author": "Ursula Nafula",
+    "illustrator": "Catherine Groenewald, Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 8 とページ数 6 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "It has many colours."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "They appear together."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "You see orange."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "You see blue."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "You see red."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The colours are so beautiful."
+    }
+  ]
+}

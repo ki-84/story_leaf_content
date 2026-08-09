@@ -1,0 +1,68 @@
+{
+  "bookId": "asp-en-0160",
+  "title": "Disability is Not Inability",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 68,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Disability is Not Inability",
+    "author": "Agnes Mabururu",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "This is Agnes. She is my teacher."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Agnes uses crutches to walk."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "This is Metobo. He is my favourite radio DJ."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Metobo has problems with his eyes."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "This is Moraa, my neighbour. Moraa is a farmer."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Moraa cannot hear. She speaks using Sign Language."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "This is Osero. He is the best soccer player at my school."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Osero has no hands. But he scores many goals for our team!"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "bookId": "asp-en-0287",
+  "title": "Mr Fly and Mr Big Head",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 120,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Mr Fly and Mr Big Head",
+    "author": "Dorothy Fetaru",
+    "illustrator": "Joshua Waswa",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 9 とページ数 7 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "This is Mr Fly."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "This is Mr Big Head."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Mr Big Head and Mr Fly\nwere friends.\nOne day, they went for\na walk together."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "They came to the edge\nof a river, and started\narguing with each\nother.\n\nMr Fly said, \"You can't\njump over this river!\"\n\"Yes, I can! It's you who\ncan't!\" replied Mr Big\nHead."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "\"You jump!\" said Mr Fly.\n\"No, you jump first,\"\nsaid Mr Big Head.\nSo Mr Fly flew across\nthe river."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Then Mr Big Head\njumped into the river.\nBut his head was so big\nthat he started to sink."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Mr Fly laughed, \"Hee\nhee!\"\nBut he laughed so\nmuch that his mouth\ntore in two from one\nside to the other!"
+    }
+  ]
+}

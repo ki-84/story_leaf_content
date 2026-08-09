@@ -1,0 +1,91 @@
+{
+  "bookId": "pb-en-0357",
+  "title": "Sam the Dragon",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ファンタジー",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 200,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Sam the Dragon",
+    "author": "Menaka Raman",
+    "illustrator": "Priya Kuriyan, Somesh Kumar, Suvidha Mistry, Vinayak Varma",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4574-sam-the-dragon",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 11 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Sam the dragon was a flying lighthouse. He showed ships the way back home by breathing out fire."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Sam's best friend was called Sar. He was a movie star. He acted in Dragon Breath the movie as a road. But he was not very good at singing."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Sam was far away from his parents. He wanted to go home."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Toothless was Sam's Doctor. He told Sam to go home to see his parents."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Toothless told Sam to follow the square footprints home."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "On the way home, Sam saw many strange things. Like a Cactus Dragon."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "He met a girl called Sham. He asked her to help him find his way because he was lost and very sad."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "She looked at her Dragon Book to look for Sam's parents and find out where they lived."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "She said 'We have to follow the Dragon Train. Not the square footprints.\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The Dragon Train went straight to Sam's house. When he saw his father in the sky, Sam felt happy!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/11.jpg",
+      "text": "This is Sam's mother. She is burning food for dinner. She has made Sam's favourite food: pasta."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/11.jpg",
+      "text": "Sam goes back to his job. He is happy now because he has met his parents now."
+    }
+  ]
+}

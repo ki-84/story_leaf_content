@@ -1,0 +1,78 @@
+{
+  "bookId": "pb-en-0300",
+  "title": "Toothpaste trouble!!",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 149,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Toothpaste trouble!!",
+    "author": "Rachita Uday Kumar",
+    "illustrator": "Rajiv Eipe",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3580-toothpaste-trouble",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Tilia and Max lived in Carlafonia. It was the 1960's. Their getting up routine was to get up and brush. In those days, they used to brush with wood and cream."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "They found it very difficult to brush because the toothbrush was made out of wood and they used cream as paste."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Soon, the whole country started complaining about the paste. Granny's teeth had rot."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "People started putting the cans of cream in the junkyard."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "So one day, Mr. Wilbur, the owner of the cream factory was passing a painting and he saw the painter pouring paint out of a tube. So he got an idea."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "So he thought he would make pastes like painting tubes."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "He put in sugar and wood."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "And he also put in fruits, vegetables, neem and cloves."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "In 2 days time, the toothpastes were made."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "From that day on, people did'nt have to use cream!"
+    }
+  ]
+}

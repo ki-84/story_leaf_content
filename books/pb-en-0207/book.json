@@ -1,0 +1,59 @@
+{
+  "bookId": "pb-en-0207",
+  "title": "No Tricking Kutti",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 616,
+  "pageCount": 6,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "No Tricking Kutti",
+    "author": "Kalyani Radhakrishnan",
+    "illustrator": "Greystroke, Hari Kumar Nair, Mayur Mistry, Nina Sabnani, Suvidha Mistry, Tanvee Nabar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2433-no-tricking-kutti",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Cooozzzz... Cooozzzssss....\n\nWhat is this strange noise?\n\nIs it the sound of the red car racing towards me or the new big train making its rounds?\n\nNo.. Over Amma's high pitched voice, it was the milk boiler and pressure cooker singing a tune together!\n\nIt could only mean one thing.\nIt is morning already!!!\n\n“Kutti wake up! It's getting late for school!”\n\nI heard amma's voice from the kitchen.\n\nKutti opened his eyes unwillingly to a bright room.\n\nHe searched for the bed sheet his mother had carefully removed, forcing him to wake up.\n\n“Kutti, Head to the bathroom before amma discovers you are still in bed!” said appa."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "As Kutti headed to the bath room to brush his teeth, he tried to makes sense of how it can be morning so soon.\n\n“Appa, how many minutes are there for evening to become morning?” asked Kutti slowly sipping his milk.\n\nBefore appa could explain, amma frisked him away to get him ready to school."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "On the way to school, Kutti met his best friend Cheenu.\n\n“Cheenu, you remember the day when Mottu promised to let us play with his video games as long as we wanted? But he took it away from us as we were about to win?” Asked Kutti.\n\n“Of course... Bad Mottu.. Wait till I bring those ghee murukku's that Mottu is so fond of!!” planned Cheenu with a mischievous grin on his face.\n\n“Listen da, Cheenu. I think someone else is also playing similar tricks on us” said Kutti sounding worried.“Only it is someone big and powerful”.\n\n“Who, da?” asked Cheenu looking serious.\n\nKutti whispered unsure of his answer “Hmm. You know, someone who has lot of power and can do magic.. Someone like God....”"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "All evening, kutti felt restless.\n\nIs God really tricking me?\n\nHe remembered going to bed the previous night and having a game of racing cars over his pillows.\n\nThen started the tickle fight with appa, until amma switched off the lights. He then remembered listening to the funny story of the donkey and the fox.\n\n“What happened next? How could it be morning so soon after going to bed?” he wondered.\n\nThat night he declared that he was going to sleep with thatha unmindful of the protests from appa and amma. As expected, thatha helped him win the battle and he settled down to get cozy in\n\nthatha's warm bed."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "“Thatha, like appa and amma listen to you, does papa God listen to Grandpa God?” Asked Kutti.\n\nThatha somehow found all of Kutti's questions to be funny. After a big laugh, he said God must be pretty sure of things God does and may not need supervision unlike us.\n\n“But thatha, explained kutti, God has got his timings all wrong. He is not calculating the change from night to morning well”.\n\nWith a warm smile and reassuring nod, thatha said that this is one place where Math skills will help.\n\nHe explained the concepts of seconds, minutes and hours to Kutti. He also told Kutti to take note of the time in the night and check the clock the first thing in the morning. Reassured, Kutti slept happily."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The next morning before appa could snooze the alarm which was ringing loud, Kutti was on his feet rushing out of the bedroom.\n\nHe ran to the clock and to his surprise noticed that the clock's hands had moved and were pointing to different numbers since the previous night!!\n\nThatha was right!\n\nKutti felt happy and reassured that God was not cheating after all!\n\nHe was busy planning his next move when he heard appa say “How does he know to wake up so early on a Saturday!”"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "bookId": "pb-en-0014",
+  "title": "I Want That One!",
+  "slug": "i-want-that-one",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 292,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "storyweaver (global-asp/pb-source mirror)",
+  "attribution": {
+    "title": "I Want That One!",
+    "author": "Mala Kumar",
+    "illustrator": "Soumya Menon",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/82-i-want-that-one",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "bundled": true,
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "It was a holiday for Amma. She was reading a book. Anil had a holiday too. He wanted to do.... SOMETHING!\n\n“Amma, I want to see what is in that blue box!” said Anil.\n\n“Later, Anil,” said Amma."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Anil put a stool over a chair. He climbed up to get the box down.\n\n“No, no! Not that one! All the boxes on top of that will fall on our heads, Anil!” said Amma."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Anil was very angry. He was angry with his mother."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "“Come, let's go to the market and get you something,” said Amma."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Anil was very angry even after they went to the market.\n\n“I want that one!” he said, pointing at an orange.\n\n“No, no, not that one! The fruits will all fall down!” said the shopkeeper."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "“I want that book!” said Anil.\n\n“No, no, not that one!” said the shopkeeper.“Take this one.”"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "“I want that one!” shouted Anil, almost pulling out a samosa from a high stack of samosas.\n\n“No, no, not that one!” warned the shopkeeper.\n\n“All my samosas will fall to the ground!”"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "“I want that one!” said Anil loudly. He was now in a very, very bad mood.\n\n“No, no, not that one!” said the flower seller. “Don't touch them! They will wilt.”"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "By now, Anil was crying loudly. Everyone was looking at Anil."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "“I want that one! The black one!” said Amma loudly.\n\nAnil stopped crying suddenly.\n\n“Amma, no, no! Not that one!” said Anil."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "“Let's take this brown one!” said Anil. Then Anil gently lifted the brown puppy on top of a pile of puppies.\n\n“Amma, I am very angry with you! All the puppies would have fallen down!”\n\nAmma smiled. Anil was smiling too. He was not angry at all now."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0340",
+  "title": "The Indigo Fairy and the Frogs",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "ファンタジー"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 675,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Indigo Fairy and the Frogs",
+    "author": "Dinaz Irani",
+    "illustrator": "Dinaz Irani",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4110-the-indigo-fairy-and-the-frogs",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "To walk, a child needs his parents, but to fly, the child needs the entire universe and all its creations.\n\nAll Indigo Fairy children leave home when they can walk and go on a journey full of adventure, new friends and discovery where they learn to fly!\n\nAs Kian left home, his mother said,\n\n“Dear little one, always be polite and you will find that finding your flower guide will be a lot of fun!\""
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Kian, the Indigo Fairy at this moment meditates on a lotus flower with the frogs.\n\nUsing his mother's advice he asks very politely-\n\n“Dearest frogs, I wonder if you could help me find a flower, a very special flower with great, great power!”"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "His friend, a swimming frog leads him across the pond to a lovely flower which might just be the one, it's as white as snow and grows under the sun."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Flower guides are very distinct,\na fairy knows his guide by pure instinct.\nThe flower starts to sway and dance;\nthis puts the fairy into a special trance!\n\nLying among the lovely white snowflakes,\nKian knows his search must continue.\n\nThe green frogs point the way to the forest."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "A leaping frog takes Kian deep into the forest where the passion flower lives.\n\n“Thank you leaping frog, it is truly beautiful.\nEven though it is not the one,\nit makes my heart glad and hopeful!”\n\n“Dear fairy, if you stop for a rest, it might be of interest\nto visit the wise tree frog that lives among the mushrooms in this forest.”"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Kian sits silently in an empty bird's nest for a while,\nhe and the wise tree frog open their eyes together and smile.\n\nThe wise tree frog sends Kian off to meet his friend who always gets a dreamy look when he talks about his flower!\n\n“Dear Fairy, I would like to leave you with this little rhyme-\n\nIf only we would take the time to stay,\nwe would learn a lot along the way.\n\nAn adventure you see is rarely about the end,\nit is about the start, the middle and things\nthat await us around the bend!”"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "“Your flower indeed is very sweet\nand it was ever so nice to meet,\nbut I will just be on my way.”\n\nAs Kian was leaving, he was a little confused,\nthis visit seemed to be of no use.\nIt was then that he decided to stay.\n\nAs he gazed at the frog, he could now see\na flower is only as special as we make it out to be."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The Hungry Frog\n\n“Take a break and have a treat,\nthis dragonfly is good enough to eat!”\n\n“Thank you, I had better join you,\nwatching the dragonfly crumble is making my belly rumble!”\n\nMunch munch munch\ngoes Kian as he happily eats\nhis orange carrot with a crunch."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Mommy and Daddy Frog\n\nFattened up after his snack, Kian sees a frog on another frog's back!\n\n“Dearest frogs, I wonder if you could help me find a flower , a very special flower with great, great power!\"\n\n“We are very busy laying our eggs as you can see”\n\n“Oh dear! Oh dear! How rude of me!”\n\n“Sweet little fairy, if you come back in a while,\n\nwe might be able to show you a flower which will make you smile!”"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "“Good bye dearest frogs, it has been ever so fun,\nI am thrilled, just thrilled to have found the one!”\n\n“Will the dandelion take you home?”\n\n“That I really could not say, but I learnt a lot and it was all play,\nso farewell dear friends, I will be on my way!”\n\nDangling from a dandelion, a gust of wind blows Kian away to his next adventure."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "At the exact same time as Kian finds his special flower, the dandelion, other Indigo Fairy children who started their journey with him also find their flower guides.\n\nYou see Indigo Fairies are only as strong as they can be together so while their journeys are separate, the learning is shared."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "bookId": "pb-en-0097",
+  "title": "Sniffles, the Crocodile and Punch, the Butterfly",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 543,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Sniffles, the Crocodile and Punch, the Butterfly",
+    "author": "Herminder Ohri",
+    "illustrator": "Herminder Ohri",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/790-sniffles-the-crocodile-and-punch-the-butterfly",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "In the swamp on the far side of the Far Forest, lived Sniffles, the Crocodile. Sniffles was always crying big crocodile tears or going sniff... sniff... Even his mom was quite tired of him and would say, “Stop snivelling and crying, start behaving like a crocodile. Go hunt for your food.”"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "But Sniffles would burst into tears at the thought of eating another animal. So mom and dad had to feed Sniffles every day."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Sniffles did not want to be a crocodile. 'I am so ugly,' he thought, bursting into tears. He did not even want to live like crocodiles do. His best friend was Punch, a golden yellow butterfly. And Punch wanted to be big and strong. So Punch always had her feeler curled into a fist saying, “Look out! I will punch you in the mouth.”"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "They made a very funny pair. Sniffles swimming with Punch perched on his head. The other crocodiles would laugh and make fun of them. That did not bother Sniffles. He continued crying, sniffling and being friends with Punch."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "One sunny afternoon, Punch settled herself near Sniffles' ear and told him, “I have seen two men come this way with guns, they want to kill crocodiles for their skins.”\n\n“Don't these men have skins of their own?” asked a puzzled Sniffles.\n\n“I don't know Sniffles,” replied Punch. “Tell the other crocodiles and hide.”"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "“But Punch, they might shoot you. Oh! What will I do,” cried Sniffles sobbing loudly.\n\n“People catch butterflies with nets and pin them on a board, my grandaunt told me,” said Punch and flew away."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The other crocodiles heard Sniffles crying and shouting, “Men coming to kill us. Hide ... Hurry ... Hide.” At first the crocodiles did not believe Sniffles, but then they heard the men's footsteps.\n\nThe crocodiles went deep into the river and left some rotten logs floating on the water. The men shot at the logs which looked like crocodiles from afar. The men could not see any crocodiles, only hundreds of butterflies that flew into their faces and hair."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Shaking their heads and trying to brush off the butterflies they said, “There are no crocodiles here, we will bring nets and catch the butterflies.” And off they went. All the crocodiles got together and said, “Thank you, Punch.”\n\n“Thank you, butterflies.”"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The next day Sniffles saw men with nets. He remembered Punch telling him about nets. “Punch, the nets! Come here quick! The men with the nets have come.” All the crocodiles came on the river bank. The butterflies settled on the backs and heads of the crocodiles."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "A few of the crocodiles made a circle around the men as they came close. The crocodiles snapped their jaws. Sniffles was in front, gnashing his teeth and whipping his tail around most menacingly."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The men were so frightened that they took to their heels and ran right out of the swamp. The other crocodiles were very proud of Sniffles, as he had acted like a real crocodile. Now Sniffles was also proud to be one."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "All the butterflies flew around the crocodiles, fluttering their wings.\n\n“Thank you, Sniffles, Thank you, crocodiles.”\n\n“It is all right,” said Sniffles shyly. “That is what friends are for, to take care of each other.”"
+    }
+  ]
+}

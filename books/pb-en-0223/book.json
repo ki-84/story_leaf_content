@@ -1,0 +1,34 @@
+{
+  "bookId": "pb-en-0223",
+  "title": "Mischievous Monkey",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 82,
+  "pageCount": 1,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Mischievous Monkey",
+    "author": "Avinash Kumar",
+    "illustrator": "Priya Kuriyan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2542-mischievous-monkey",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was a small monkey in a village. He was very mischievous and used to trouble the villagers. One day he was very hungry and had nothing to eat. So he decided to enter a house and get food from there. He saw a window open in a kitchen and went inside. The women in the house got scared seeing the monkey and ran away. He broke all the food boxes and ate it all. After eating the food he ran away."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "bookId": "pb-en-0246",
+  "title": "Crumbled Tear Laden Walls",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 269,
+  "pageCount": 1,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Crumbled Tear Laden Walls",
+    "author": "Srividya Suryanarayanan",
+    "illustrator": "Rayika Sen",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2786-crumbled-tear-laden-walls",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "表紙をページ 1 と共用"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/01.jpg",
+      "text": "There was an old widow who had two sons and two daughters-in-law. They mistreated her all day long which made her very sad. The widow kept her sadness within herself and soon she grew heavy with the burden of her grief. On seeing her getting fat, her sons and daughters-in-law complained and served her less food.\n\nOne day, they left her alone in the house while they went out to enjoy themselves in the village fair. The sheer misery of being alone with her sadness forced her to wander the streets. She came across a decaying house that seemed to reflect her state of mind and she ventured into it.\n\nThe cracked walls seemed to invite her and her sorrow. She began to narrate how her first son tormented her. The wall on hearing her sad story collapsed, unable to bear the weight of her sorrow.\n\nEven after sharing her sorrow she felt stifled with her inner emotions. Then she shared how her first son's wife abused and disappointed her. The second wall buckled under her narration.\n\nHalf the burden of her sorrow was released and taking this cue of sharing her emotional burden made her share the ill-treatment that she met at the hands of her second son.\n\nThe wall crumbled under the narration's power of expression. Soon the fourth wall also crumbled as she narrated about the cruelty she met at the hands of her daughter-in-law.\n\nEventually, all the four walls laden with old widow's tear just crumbled down. The widow then returned home feeling much better and light-hearted."
+    }
+  ]
+}

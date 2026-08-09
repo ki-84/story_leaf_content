@@ -1,0 +1,70 @@
+{
+  "bookId": "asp-en-0159",
+  "title": "Cow with one horn",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 104,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Cow with one horn",
+    "author": "Sebongile Daniel, Mpho Ntlhanngoe, Khothatso Ranoosi",
+    "illustrator": "Marion Drew",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Heeeee! There is a\nbeautiful cow at home."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "It has no tail and only\none horn.\nIt looks so beautiful."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "It is fat, and has a big\nstomach."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "It is the strongest cow."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Its shepherd loves this\ncow very much.\nHe has taught this cow\nto listen only to his\nvoice."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "When the herd go to\nthe fields to graze, this\ncow eats alone."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "This cow is a great\nfighter, so the other\ncows leave it alone."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "People know this cow.\nThey are afraid of it,\nbecause it can fight\nwith its one horn.\nIf you met such a cow,\nwhat would you do?"
+    }
+  ]
+}

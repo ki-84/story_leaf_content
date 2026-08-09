@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0295",
+  "title": "The rainbow",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ファンタジー",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 61,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The rainbow",
+    "author": "Jane Tsharane, Mmapule Nkuna",
+    "illustrator": "Natalie Propa, Jesse Breytenbach, Wiehan de Jager, Marleen Visser, Maya Marshak, Benjamin Mitchley, Magriet Brink, Michael Nakuwa",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I love the rainbow"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I love all the colours of\nthe rainbow."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I wish I could have a\nrainbow house"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "It could have a red roof."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "It could have a blue\nwindows."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I could have it painted yellow\noutside."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "It could have violet\nwalls inside."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "It could have orange\nflowers."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "It could have indigo bed."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "It could have a green\ngarden."
+    }
+  ]
+}

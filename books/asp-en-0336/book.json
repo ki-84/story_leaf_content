@@ -1,0 +1,94 @@
+{
+  "bookId": "asp-en-0336",
+  "title": "Child as a peacemaker",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 228,
+  "pageCount": 13,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Child as a peacemaker",
+    "author": "John Ng'asike",
+    "illustrator": "Jacob Kono",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A woman carrying her baby went into the forest to pick fruit."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "In the forest she found a tree with ripe fruit."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "She put down her sleeping baby and climbed the tree."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "An erotot from another community came by and saw the baby.\n\nSurprised, he asked himself, \"Where is the mother of the baby?\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "As he bent down, the sound of the chains on his neck woke the baby."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "He let the baby play with his chains. The baby laughed as he played."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The woman looked down to see why the baby was laughing. She saw a strange man close to her baby."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "She was so afraid that she dropped her bag full of fruit."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The erotot looked up and said, \"Don't be afraid. I'm only playing with your beautiful baby.\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "So the woman came down from the tree."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The erotot took off one of his chains. He gave it to the baby, and said, \"Here is a gift for you.\""
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Then he said to the woman, \"Take your baby, take your bag, and go home. Tell your husband to move to a more peaceful village. Your baby has given me peace.\""
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "_Note: In the language Ng'aturkana, 'erotot' is the word used to to describe a man who goes ahead to survey an area before before an attack takes place. It is similar to the English word 'scout'._"
+    }
+  ]
+}

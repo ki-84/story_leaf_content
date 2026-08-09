@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0039",
+  "title": "First man and first woman",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 304,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "First man and first woman",
+    "author": "Southern African Folktale",
+    "illustrator": "Jemma Kahn",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Long long ago when the earth was new,\ngreat mountains covered the world like a\nblanket, and tall trees spiked the sky."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "In this world, there was a deep dark pool, silent\nand cold."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "At the bottom of this pool were\ntwo snakes.\nOne had thick strongly\npatterned coils, and the other\nwas smaller and more delicate."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Then one day, there was a great storm.\nA flash of lightning pierced right to the bottom\nof the pool.\nThe waters parted for a moment.\nThe snakes saw the earth above, full of colours\nand shapes and feathered creatures.\nWhen the waters closed again, the snakes\ncould not forget the beauty they had seen."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "\"We cannot stay in this dark cold pool any longer,\" they said to each other.\n\"Let us go up and see the earth above.\"\n\"How will we live on earth?\" said the smaller snake.\n\"Will we crawl on our bellies?\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"The birds of the air will not laugh at us for\nbeing so low,\" said her friend.\n\"We will not crawl, we will walk!\"\nVery slowly the snakes uncoiled themselves.\nClose together they began to swim up, up, to\nthe light above."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "And as they reached the surface of the water,\na strange thing happened.\nThe tips of their tails split into two.\nThey grew limbs with feet and toes.\nFrom just beneath their heads grew two arms\nwith hands and fingers."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "They were no longer snakes, but Man and Woman."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "\"We will make our home in the\nhills,\" said Woman. \"Each\nmorning we will see the sun rise\nand feel it warm on our backs.\"\n\"We will look after the grass\nand the trees,\" said Man. \"And\nbe friends with Bird and Beast.\""
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "\"Come,\" said First Man.\n\"I will,\" said First Woman.\nAnd they walked out together into their new world."
+    }
+  ]
+}

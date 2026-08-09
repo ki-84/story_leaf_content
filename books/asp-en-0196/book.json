@@ -1,0 +1,104 @@
+{
+  "bookId": "asp-en-0196",
+  "title": "The baboons that went this way and that",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 353,
+  "pageCount": 15,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The baboons that went this way and that",
+    "author": "Southern African Folktale",
+    "illustrator": "Benjamin Mitchley",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "The people in a village of small\nhuts were becoming unhappy.\nWild animals began to come\nand frighten them."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "These animals ate all their\ncrops and even carried children\naway.\nIt was not a good place to live\nany longer, but where could the\npeople go?"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One family found the answer.\nIt was not hard to find food up\nin the hills."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Bushes grew in the cracks\nbetween rocks.\nTrees grew on the slopes of the\nhills.\nThe parents trapped rock\nrabbits and the children caught\nbirds."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Other families noticed how well\nthe hill family lived.\n\"It is a good life up in the hills,\"\nsaid the husband. \"You should\ncome there too.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Soon the other families left the\nflat land and went up to the\nhills.\nEach family found a cave to live\nin, and felt warm and secure."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Soon the children became very\nquick at climbing rocks, and\nfinding fruit in the trees.\nThey could swing in the\nbranches almost as well as any\nmonkey."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Slowly, things began to change.\nThe children talked less, and\ngrunted more. Then the adults\nnoticed that their noses were\ngetting bigger and that they\nwere growing more hair."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Every time they looked at one\nanother they saw that their\nteeth were longer.\nThey started to walk on four\nlegs."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "They became a new creature\nthat no-one had seen before in\nthat place. This was the\ncreature which people now call\nthe baboon."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "For a time, the baboons lived\nhappily. They stopped chasing\nthe rock rabbits and ate grubs\nfrom the ground."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "They forgot how to talk. They took off their clothes because\ntheir legs and arms were covered with dark hair."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "They still remembered that they\nhad been people. They looked\nat each other's big noses and\nlaughed at each other."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "But they did not like the\nlaughing. They jumped up and\ndown in anger.\nSoon the baboons could not be\ntogether because of the\nlaughing and the anger. Each\nfamily went off and lived by\nitself."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "That is why baboons live in small groups today and do not live as a baboon\nnation."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0159",
+  "title": "The puppy that did not bark!!!",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 586,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The puppy that did not bark!!!",
+    "author": "Uma Balamurali",
+    "illustrator": "Deepa Balsavar, Greystroke, Madhuri Purandare, Natasha Sharma, Preeti Krishnamurthy, Priya Kuriyan, Santosh Pujari, Soumya Menon, Suvidha Mistry",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1811-the-puppy-that-did-not-bark",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Rinku was a little girl who lived in a big house with her parents and baby sister.\n\nShe looked out into the garden and thought how wonderful it would be if she had a dog as her pet and play with him in the garden every evening."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "\"Mummy, please get me a small puppy\", she asked her mother.\n\nHer mother said, \"I'm sorry Rinku, it is very difficult to take care of a pup .\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "As soon as she got up in the morning she begged her father , \"Daddy , please, please get me a pup. \"\n\nHer father said \" Sure Rinku, as soon as you grow a little older. \"\n\nOne evening on the way back from school , Rinku heard some noise in the bushes near her house.\n\nShe ran towards the noise and found a little brown puppy under the bushes.\n\nRinku was very excited.\n\nShe carefully picked up the small furry bundle and carried it home.\n\nShe kept it in a small box in the garden.\n\nThis was her big secret."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "She named him Brownie .\n\nThe next day she put her red ribbon around his neck and gave him a small stool to sit on.\n\nThe puppy licked her face and she was overjoyed."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "After a few days, the puppy started making gentle noises . \" Sshhhh,\" said Rinku , \" don't make so much noise, mummy will hear you.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The puppy grew bigger.\n\nRinku gave him a bone, which he started to nibble and bite!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "One evening the puppy started running around in the garden.\n\nHe was chasing a butterfly.\n\nMummy saw the puppy and started to chase it away.\n\n\"Mummy, he is such a cute little puppy, please let me keep him,\" said Rinku.\n\n\" I will take care of him. Please, please say yes,\" she begged.\n\nAfter some time her mother felt sad for her and said,\" okay Rinku, you can keep the pup\"."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "\"Thank you mummy,\" she laughed, happily dancing around her mother.\n\nThe puppy grew bigger day by day, but it never barked.\n\nIt could only make low growls and gentle noises.\n\nHer pet dog did not know how to bark.\n\nRinku felt very sad.\n\nHow could she teach him, Rinku wondered.\n\nShe asked her friends for help."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "The next day Rinku's friends came home.\n\nThey all stood near Brownie and made barking noises .\n\n\" Woof woof\", they said trying to teach Brownie to bark.\n\nBut Brownie did not bark.\n\nRinku felt very puzzled.\n\nPerhaps she should try a different sound, she thought.\n\nThe next evening , Rinku sat near Brownie and tried to teach him\n\n\"Bow Wow, Bow Wow. \"\n\nShe made the noise several times.\n\nBrownie cocked his ears and listened to her.\n\nHe started making noises but that did not sound like a dog barking at all.\n\nRinku was very very sad.\n\nHow could she teach him to bark?"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Then, Rinku brought out her slate and sat near the dog .\n\nShe wondered what she should draw to make him learn a \" bow wow \"!!!\n\nShe only knew how to draw a train.\n\nThe next day she saw a big white dog outside the garden gate barking loudly, \"bow wow , bow wow .\"\n\nAnd there were barking noises from inside the garden . \"Bow wow \" , \"bow wow\", she heard.\n\nShe rushed to the garden and saw Brownie barking loudly , \" bow wow,\" at the white dog outside.\n\nShe jumped for joy and gave Brownie a tight hug.\n\nAt last Brownie had learnt to bark!!!!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "That night , Rinku slept peacefully.\n\n\"BOW WOW, BOW WOW,\"\n\nThank you white dog for teaching Brownie to bark!"
+    }
+  ]
+}

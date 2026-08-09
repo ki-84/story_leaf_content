@@ -1,0 +1,80 @@
+{
+  "bookId": "asp-en-0038",
+  "title": "Neymar's visit to Africa",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 207,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Neymar's visit to Africa",
+    "author": "Benard Agasi",
+    "illustrator": "Benard Agasi",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "When Neymar arrived\nin Africa he landed in\nthe capital city of\nNigeria. The Nigerians\ntold him to demonstrate\nthe skill of passing the\nball using the instep."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "From Nigeria, he moved\nto Ghana to\ndemonstrate passing\nthe ball using the inside\nof the foot. This made\nall the people in Ghana\nvery happy."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "While in Ghana,\nNeymar received an\ninvitation from South\nAfrica to demonstrate\ntrapping the ball using\nthe front of the foot."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "From South Africa, he\nmoved to Chad. In Chad\nhe demonstrated\ntrapping the ball using\nthe side of the foot."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "When Neymar reached\nDR Congo, he shook the\ncountry with the skill of\ntrapping the ball using\nthe thigh."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The Ugandans who\nwatched Neymar in the\nCongo decided to invite\nhim to demonstrate the\nskill of tackling."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "This news then spread\nall over East Africa. The\nKenyans welcomed\nNeymar to demonstrate\npunching in goal\nkeeping."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The same week the\nTanzanians called for\nNeymar to demonstrate\nthe skill of heading in\npassing the ball."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "He later moved to\nRwanda to demonstrate\nthe skill of passing the\nball using the outside of\nthe foot."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "After Rwanda, Neymar\nconcluded his African\ntrip in South Sudan,\nwhere he demonstrated\nthe skill of punting in\ngoal keeping."
+    }
+  ]
+}

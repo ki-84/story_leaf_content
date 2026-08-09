@@ -1,0 +1,74 @@
+{
+  "bookId": "pb-en-0291",
+  "title": "Akash's sweet lesson to brush",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "ファンタジー",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 203,
+  "pageCount": 9,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Akash's sweet lesson to brush",
+    "author": "Nisha Sridhar",
+    "illustrator": "Ajit Narayan, Archana Sreenivasan, Greystroke, Hari Kumar Nair, Lavanya Karthik, Ruchi Shah, Sorit Gupto",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3462-akash-s-sweet-lesson-to-brush",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Akash is a little boy who loves sweets. He loves yummy laddoos, cupcakes, pudding and cakes."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He talks about it to his friends and sneaks yummy cupcakes into his bed."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He has never stopped dreaming about it. All he can think of is something sweet for his sweet tooth."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "He sneaks every night to have some sugar."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "He imagines a cake awaiting for him in his dream. However he refuses to brush his teeth at night even though mommy and daddy has warned him about tooth monsters."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "One day he went to bed, just as usual dreaming about his cake he saw a huge monster went whoosh into his mouth and scared him. The monster said \"I will eat all your teeth away if you don't brush your teeth\"."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Akash woke up crying and running frantically to his parents. He said \"mom and dad, I will not go to bed without brushing my teeth from now on, I do not want tooth monster.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Mom and dad were surprised and definitely excited that Akash wanted to brush his teeth."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Not only that day Akash started brushing every morning and evening so he can enjoy all his sweets without worrying about germs.\n\nGood bye germs."
+    }
+  ]
+}

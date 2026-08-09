@@ -1,0 +1,106 @@
+{
+  "bookId": "asp-en-0317",
+  "title": "A King Finds a Husband for His Princess Wiwo",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "むかしばなし",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 465,
+  "pageCount": 15,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "A King Finds a Husband for His Princess Wiwo",
+    "author": "John Emongot",
+    "illustrator": "Catherine Groenewald, Wiehan de Jager, Caroline Lentupuru, Laura Libertore, Benjamin Mitchley",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 17 とページ数 15 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once upon a time, there lived a\nking called Opale with his beautiful\nqueen.\nThey had only one beautiful\ndaughter."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, a king looked at his\nprincess and said to his wife, \"I\nthink our daughter is grown up now,\nwe must find her a handsome man\nfrom the village.\""
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"Who will marry my beautiful\nprincess?, a king asked himself.\nHe thought of a test for all men who\nwill come expecting to marry his\ndaughter.\n\"I am going to cook a pot full\nof water and any man who will drink\nthis hot water will marry my lovely\ndaughter.\" said the king."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The following day the king put up an announcement\ninviting all unmarried men in the village.\n\nAnnouncement!!! Announcement!!!\nTo all young and unmarried men in the village,a king\nwants to find a handsome man for his beautiful\ndaughter.\nCome, Come, Come all."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "On hearing the announcement,all young men were\nvery excited and every body got set for the day."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "One of the young men told his\nfather,I have had that the king has\ninvited all young men to his\npalace,he wants to choose a\nhusband for his daughter.\nFather,\"I must go and stand before\nthe king,am very sure I will come\nback with the princess.\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "As usual,it was a proposed day,a\nqueue of young and smartly\ndressed men was seen moving\ntowards the palace.\nEvery body was very happy."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "\"You are all most welcome\"said the\nking.\nThen the king began to address the\ncrowd of young men,If any one\ndrinks a pot of hot water all at\nonce,he will be able to my lovely\nprincess with him."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "They were very many in that the\ninterview could not be complete\nwithin a day.\nMost men tried their level best but\nthey could not go with the princess."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "On the following day,there came\nmr. Hare who had heard the\nannouncement late.\nHe was welcomed and given a seat."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The king told him,to take my\ndaughter,one has got to drink a pot\nof hot water all at once.\nThat is nothing to me,my lord,said\nmr Hare."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Mr. Hare was a very wise and tricky\nman,he started a very interesting\nstory that took up the king's\nattention while the water was\ncooling."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "The chiefs and the king were very\nhappy saying, \"This is the man we\nwanted.\"\nIn a few minutes,the hot water had\ncooled and mr. Hare drank it all at\nonce."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "The king and his chiefs were very\nsurprised to see mr. Hare drinking\nthe hot water."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Finally mr. Hare took the beautiful\nprincess with him and he was very\nhappy but the king remained very\nsad because his daughter had gone\nwith an animal."
+    }
+  ]
+}

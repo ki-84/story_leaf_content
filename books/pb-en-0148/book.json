@@ -1,0 +1,79 @@
+{
+  "bookId": "pb-en-0148",
+  "title": "BooBoo sings for Vihaan",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 258,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "BooBoo sings for Vihaan",
+    "author": "Surekha Pillai",
+    "illustrator": "Jithin Jacob",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1583-booboo-sings-for-vihaan",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One day Vihaan wanted to play. Vihaan is a small baby and cannot talk. So he started crying. His Mamma heard him cry and thought of something to make Vihaan laugh. So she called the BooBoo Bear!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The BooBoo bear was a jolly golly lolly-loving bear! So Vihaan's Mamma gave him a lolly and asked him to meet Vihaan. BooBoo laughed and went to meet little Vihaan! He carried MushyMushy, his pet mushroom with him."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "\"VIHAAN, look!,\" said BooBoo. \"Meet my lushy wushy MushyMushy!\" BooBoo threw MushyMushy in the air as Vihaan looked."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Boinggggg! Zoinnggggg! Toingggg! fell Mushy-Mushy on Vihaan's round head and on the ground. Vihaan looked at it and THEN...."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "WAAAAAAAAAAA! BAAAAAAAAAA! GAAAAAAAAA! he cried. Vihaan's Papa came running and kissed Vihaan's doly roly poly head."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "WAAAAAAAAAAA! BAAAAAAAAAA! GAAAAAAAAA! he cried. Vihaan's Mamma came running and kissed Vihaan's doly roly poly head."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "WAAAAAAAAAAA! BAAAAAAAAAA! GAAAAAAAAA! he cried. Vihaan's Aachi came running and kissed Vihaan's doly roly poly head. Aachi then whispered something in BooBoo bear's ritty-mitty-gritty ears."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "\"Don't cry Vihaan!,\" said BooBoo. \"Why don't we sing a rappy-jappy-happy SONG!,\" he said. Vihaan stopped crying and looked at BooBoo with his big beautiful eyes."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "So BooBoo started singing this song:\n\nGooshy Booshy Looooty hoi ik laaaaaanch\n\nThen the Booboo bear said No No No!\n\nThen the Booboo bear said Dont cry cry\n\nGooshy booshy looty hoi ik laaanch!"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "'HOHOHO HIHIHI!,' laughed Vihaan! 'HIRHIRHIR! HARHARHAR!' laughed BooBoo!\n\n'Heeheehee Teeheeeheee!' laughed Mushy-Mushy\n\n'HAHAHA HAHAHA' laughed Mamma, Papa and Aachi!"
+    }
+  ]
+}

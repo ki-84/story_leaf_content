@@ -1,0 +1,116 @@
+{
+  "bookId": "asp-en-0208",
+  "title": "Inyang and the Bird",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 70,
+  "pageCount": 17,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Inyang and the Bird",
+    "author": "Simon Ipoo",
+    "illustrator": "Catherine Groenewald, Wiehan de Jager, Kathy Arbuckle, Rijuta Ghate, Jemma Kahn",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 19 とページ数 17 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Inyang was a herd's boy."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day..."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "...he was very\nhungry"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "He got a bird..."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "...and sent it home."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The bird flew..."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "...and landed on the hut."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "People heard the bird."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Food was cooked."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "They took food..."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "... found him under the tree."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The cows had gone."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "They fed him."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "His father went for the cows."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "Inyang ate enough."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Inyang and the cows were taken home."
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": "The bird had saved Inyang!!"
+    }
+  ]
+}

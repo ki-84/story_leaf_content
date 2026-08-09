@@ -1,0 +1,39 @@
+{
+  "bookId": "pb-en-0286",
+  "title": "The Clever Tortoise and the Foolish Fox",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 132,
+  "pageCount": 2,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "The Clever Tortoise and the Foolish Fox",
+    "author": "Likhith Avileli",
+    "illustrator": "Muniza Shariq, Padmanabh, Sanjay Sarkar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3408-the-clever-tortoise-and-the-foolish-fox",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There once was a tortoise living on the shores of a river and there was also a cunning fox who lived there. The fox was always trying to eat the tortoise but the tortoise always kept clear and lived in the waters of the river, unfortunately one day the fox caught the tortoise"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The tortoise was shivering with fear and hid in his shell the fox could not crack the shell. So the fox asked the turtle what he should do the turtle grabbed his courage, and spoke that the fox should put him in the water when he does so the shell will soak and become soft the foolish fox did what the tortoise said. But, as soon as he put the tortoise in the water it swam for his life"
+    }
+  ]
+}

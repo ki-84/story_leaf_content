@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0327",
+  "title": "Counting animals",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 74,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Counting animals",
+    "author": "Zanele Buthelezi, Thembani Dladla, Clare Verbeek",
+    "illustrator": "Rob Owen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One elephant is going to drink water."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Two giraffes are going to drink water."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Three buffaloes and four birds are also going to drink water."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Five impalas and six warthogs are walking to the water."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Seven zebras are running to the water."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Eight frogs and nine fish are swimming in the water."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "One lion roars. He also wants to drink. Who is afraid of the lion?"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "One elephant is drinking water with the lion."
+    }
+  ]
+}

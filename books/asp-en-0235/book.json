@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0235",
+  "title": "Crushed louse",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "ぼうけん"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 169,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Crushed louse",
+    "author": "Zimbili Dlamini",
+    "illustrator": "Magriet Brink",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Long time ago, there were two\nyoung men who lost their cows.\nThey looked for the cows until it\nwas late."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "As it got dark, they saw a light\nin a house.\nThey agreed to go and ask for a\nplace to sleep."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "They went to the house and\nknocked.\nThe door opened and they went\nin.\nThe young men didn't see\nanyone. But they heard a voice\ngreeting them."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The voice said, \"I am a louse.\nOpen the pot and have food.\nOpen the earthenware pot and\ndrink amahewu.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Then the louse put on its skin\nand went out."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The young men ate, drank, and\ngave thanks.\nThey left the house."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "As they left, they had a bad\nthought.\nThey said, \"No, it couldn't\nhappen that we had food from a\nlouse.\"\nEventually they agreed to go\nback and crush the louse."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "They went back to the house\nand crushed the louse.\nSuddenly the louse was gone,\nand the house disappeared!\nThey found themselves outside\nin the open."
+    }
+  ]
+}

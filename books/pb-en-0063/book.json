@@ -1,0 +1,79 @@
+{
+  "bookId": "pb-en-0063",
+  "title": "Playtime",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "ファンタジー"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 140,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Playtime",
+    "author": "Sanjiv Jaiswal 'Sanjay'",
+    "illustrator": "Ajit Narayan",
+    "translator": "Manisha Chaudhry",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/335-khel-khel-mein",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "The little elephant's name was Golu. He was as round as a drum. The little rabbit was called Chhotu. He looked like a ball of cotton."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "They played together.\n\nOne day, Golu said, “Let's play a new game today.”"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "“You sit down. I'll land on your back in one flying leap,” said Chhotu. Golu sat down. Chhotu took a mighty leap."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Thump! He landed on Golu's back.\n\n“Wow!” laughed Golu and said, “My turn now. You sit down and I will leap on your back.”"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "“You!”\n\n“Yes, me.”\n\n“How can you do that?” asked Chhotu."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"Like this!\" Golu showed him."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Thud... thud... thud...\n\nA shower of coconuts came down on Golu's head."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "He ran away on fat legs, scared."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "One small coconut fell on Chhotu."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "‘That's better,' thought Chhotu, ‘Better a coconut than an elephant on my head!'"
+    }
+  ]
+}

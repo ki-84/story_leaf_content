@@ -1,0 +1,105 @@
+{
+  "bookId": "pb-en-0010",
+  "title": "Pehelwaan Ji",
+  "slug": "pehelwaan-ji",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 108,
+  "pageCount": 15,
+  "coverImagePath": "images/01.jpg",
+  "source": "storyweaver (global-asp/pb-source mirror)",
+  "attribution": {
+    "title": "Pehelwaan Ji",
+    "author": "Sanjiv Jaiswal 'Sanjay'",
+    "illustrator": "Ajit Narayan",
+    "translator": "Manisha Chaudhry",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/60-pehelwaan-ji",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "bundled": true,
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Pehelwaan ji!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He drinks ten litres of milk everyday."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He eats fifty rotis."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "He lifts weights of a hundred kilos."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "He walks with a swagger."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "He orders all the children about."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "One day, Gappu said, “Will you wrestle with me?”"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Pehelwaan ji laughed. And then agreed."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Both of them slapped their thighs!"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Pehelwaan ji caught hold of Gappu."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Gappu tickled him in the stomach."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Hee...Heee...Heeee... Pehelwaan ji jumped!"
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "As Gappu tickled him, Pehelwaan ji began to dance."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "Ha...Ha...Hee...Hee...Hoo...Hoo...\n\nPehelwaan ji rolled about helplessly. And he ran away."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "The kids are not scared of him any more. He is scared of them."
+    }
+  ]
+}

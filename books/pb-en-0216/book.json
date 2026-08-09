@@ -1,0 +1,34 @@
+{
+  "bookId": "pb-en-0216",
+  "title": "School going Boy Story",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 58,
+  "pageCount": 1,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "School going Boy Story",
+    "author": "Chandra Sekhar",
+    "illustrator": "Priya Kuriyan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/2490-school-going-boy-story",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One boy is going back home from the school, there is a dog feeling hungry near to his place.\n\nThat boy passing in front of that dog, then the dog saw his books which are in his hand.\n\nDog grabbed the book with her mouth and boy was fearful and he left his book there and run away."
+    }
+  ]
+}

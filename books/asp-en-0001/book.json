@@ -1,0 +1,84 @@
+{
+  "bookId": "asp-en-0001",
+  "title": "A very tall man",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 79,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "A very tall man",
+    "author": "Cornelius Gulere",
+    "illustrator": "Catherine Groenewald",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "His hoe was too short."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "His doorway was too low."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "His bed was too short."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "His bicycle was too short."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "This man was too tall!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "He made a very long hoe handle."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "He made very high door frames."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "He made a very long bed."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "He bought a very high bicycle."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "He sat on a very high chair. He ate with a very long fork."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "He left his house and lived in a big forest. He lived for many years."
+    }
+  ]
+}

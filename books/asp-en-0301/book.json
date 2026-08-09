@@ -1,0 +1,69 @@
+{
+  "bookId": "asp-en-0301",
+  "title": "Land of no old people",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 209,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Land of no old people",
+    "author": "Cleófas Samo",
+    "illustrator": "Laura Libertore",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One time it happened in a\nvillage that a gang of young\npeople decided to kill all the old\npeople so that they would stop\ndoing magic."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "But one of the youth ran off\nwith his father and hid him in\nthe desert."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "After he had done this, the gang\nbegan killing the old people."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Just then a snake came into the\nvillage from the desert. The\nsnake went into the stomach of\na small child."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "The snake kept poking its head\nout of the mouth of the child."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The parents of the child and all\nthe other people tried\neverything to solve this\nproblem. But they saw that if\nthey killed the snake they\nwould also kill the child."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Then the young man who had\nhidden his father went and told\nhim everything that had\nhappened.?\nAnd the old man said, \"That's\nthe easiest thing in the world to\ntake care of.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The old man said, \"Find a toad\nand put it near the snake. You'll\nsee that the snake will come\nout of the child's stomach to\ncatch the toad.?\nThe young man did just what\nthe old man said. And the snake\ncame out and started to chase\nthe toad. The child was saved\nfrom death."
+    }
+  ]
+}

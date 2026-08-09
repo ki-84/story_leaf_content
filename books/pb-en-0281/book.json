@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0281",
+  "title": "Abhinav and the Cat",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 229,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Abhinav and the Cat",
+    "author": "Rajalakshmi Paramasivam",
+    "illustrator": "Anita Sivakumar, Deepa Balsavar, Henu, Priya Kuriyan, Ruchi Shah, Sanjay Sarkar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3341-abhinav-and-the-cat",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "It was a holiday for Abhinav. He saw a cat. He was reminded of his cartoon character Oggy. This must be Oggy he thought. He rushed to his mom and asked for milk to feed his Oggy."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He left the milk in a sauce and soon the cat drank way. He gave milk to the cat everyday and soon both of them turned friends."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He also started talking to Oggy,\" Oggy , you should be strong enough to drive away those cockroaches. Drink milk and become strong.\" And this became as one of his daily jobs."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Some days passed. One day after coming from school and finishing his homework , he sat to watch his catoon \"Oggy and the Cockroaches.\" But he found there was no change in the behaviour and attitude of Oggy."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "He asked his mom,\" Mom I gave so much milk and advised Oggy to win over the cockroaches. But still Oggy behaves the same and gets into trouble. \"\nHis mom said,\" Your friend cat and Oggy are different. It is not Oggy.\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "\"Oh!....... If my cat is not Oggy, then why should I give milk for the cat?\" Abhinav asked.\nHis mom said \" Abhinav, The cat is your friend. Also we have to share food and stuff with others because.......\""
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"Because........ sharing is caring \" Abhinav completed and added,\" My teacher taught me this.\"\n\nYes. He is right."
+    }
+  ]
+}

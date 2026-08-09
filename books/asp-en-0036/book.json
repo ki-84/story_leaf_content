@@ -1,0 +1,89 @@
+{
+  "bookId": "asp-en-0036",
+  "title": "Miss Helen's Magical World",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 767,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Miss Helen's Magical World",
+    "author": "Jacqui L'ange",
+    "illustrator": "Wendy Morison",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Meet my friend Helen. She was born\nin a little Karoo town called Nieu\nBethesda. There was not much\ngoing on in this town. But she made\na whole world here. She even made\nme. And she named her house after\nme.\nIt was called 'The Owl House'."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Most of Helen's nine brothers and\nsisters were grown up and gone by\nthe time she arrived. But she still\nhad her sisters Annie and Alida.\nHelen didn't have many friends in\nthe village, but she didn't mind.\nFrom the start, Helen did things\ndifferently from most people."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "After her sisters left home, Helen\nlived alone with her parents. She\nloved her mother, but she hated her\nfather. Everyone agreed he was a\nvery strange man.\nHer big sister Alida travelled all over\nthe world. One day she sent Helen a\npostcard from Egypt.\nIn her mind Helen saw princes and\npyramids and camels in the sand."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "As she grew older, Helen read more\nstories of faraway places. She\nespecially liked poems from Persia\nin the Middle East.\nShe dreamed of visiting the ocean\none day. She kept a seashell on her\nbedside table, and imagined she\ncould hear the sound of waves\ninside it.\nBut of course, owls were always her\nfavourite things of all!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Helen loved books and stories so\nmuch that she decided to become a\nteacher. She was very good at it\ntoo. But then she met Johannes\nPienaar. He was also a teacher, and\na writer and actor.\nHe convinced her to run away with\nhim."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Helen and Johannes got married.\nThey travelled to many different\ntowns, teaching and performing\nplays. Helen thought she might\nstart a family like her sisters had\ndone. But it was not to be. She and\nher husband were always fighting.\nWhen Helen's mother became very\nsick, she decided it was time to go\nback home."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Helen was not happy. Her mother\nwas so sick, and her father was so\ngrumpy. She kept to herself. People\nthought she was strange.\nThe night her mother died, Helen\nkept a candle burning beside her\nbed all night.\nWith the help of that little light,\nHelen didn't feel so afraid of the\ndark.\nAnd remember, we owls were there\ntoo.\nWe watched over her, calling woowooh!"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Helen decided she wanted\nbrightness in her life. She began by\nchanging the space around her. She\nneeded helpers. Three men from\nthe village, Jonas Adams, Piet van\nder Merwe, and Koos Malgas, made\nthe things she imagined out of wire\nand cement. She filled her back\ngarden with interesting creatures.\nThere were sphinxes and camels,\nmermaids and cats.\nAnd lots and lots of owls! She called\nit her camel yard.\nOn the fence she made a wire sign.\nIt said: \"This is my world.\""
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "During the day Helen made\nsculptures. At night, she practised\ncatching light.\nShe collected glasses and mirrors,\ncandles and lamps. Anything that\nwould shine.\nShe put lanterns in every room.\nMirrors caught and reflected the\nlight. She covered the walls in\nglittering glass so that they could\nshine too.\nAfter Helen's father died, she had\nthe house to herself. Each night she\nslept in a different room.\nShe would always choose the one\nwith the best view of the moon and\nthe stars."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The people of Nieu Bethesda would\nwalk past Helen's garden and\nmarvel at the creatures in it.\nSome of the village children brought\nher glass bottles for her sculptures\nand called her \"Miss Helen.\" She\nalways thanked them with sweets.\nOthers were not so friendly. They\ncalled her names and threw stones\non her roof. Miss Helen spent all her\nmoney on glass and cement. She\nlived on bread and black tea. In her\ndiary she wrote:\n\"In my loneliness I am happy.\""
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The garden grew and grew, until\nthere was hardly space left for any\nmore creatures.\nMiss Helen was tired now. Her\nhands were stiff and sore. Her eyes\nwere going blind from working with\ntiny bits of glass.\nShe wasn't afraid of being alone.\nBut she was still afraid of the dark.\nAnd her world was getting darker\nand darker. She knew that soon she\nwouldn't be able to see anything at\nall."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "But when she closed her eyes for\nthe last time, Miss Helen didn't see\ndarkness. She saw the sun and the\nmoon and the stars. She saw wise\nmen and mermaids, camels and\ncats, acrobats and owls with big\nbrown glittering glass eyes.\nAnd we still stand here today, just\nthe way she left us, in the garden\nshe made, looking East."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "bookId": "asp-en-0229",
+  "title": "The busy big mango tree",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 65,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The busy big mango tree",
+    "author": "Rose Alungho",
+    "illustrator": "Wiehan de Jager, Jesse Pietersen, Melany Pietersen, Johanna Kistner, Eden Daniels, Catherine Groenewald, Karlien de Villiers",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Monday, it used for\nvillage meetings"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Tuesday, it is meeting venue for\npoliticians."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Wednesday, it is a play ground for\nchildren."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Thursday, it is used as a village\nlocal court."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Friday, it acts as a class\nfor girls by teacher\nNabune."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Saturday, it is used as a drinking\njoint for the elders only."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Sunday, people gather there for\nprayers."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Ee..ee, what blessed mango tree"
+    }
+  ]
+}

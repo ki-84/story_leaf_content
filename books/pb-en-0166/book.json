@@ -1,0 +1,68 @@
+{
+  "bookId": "pb-en-0166",
+  "title": "Have You Seen These Birds?",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 10,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Have You Seen These Birds?",
+    "author": "Yamini",
+    "illustrator": "Muniza Shariq, Preeti Krishnamurthy",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/1892-have-you-seen-these-birds",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Flamingoes"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Vulture"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Sunbird"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Hornbill"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Indian Roller"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Bulbul"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Weaver Bird"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Sparrow"
+    }
+  ]
+}

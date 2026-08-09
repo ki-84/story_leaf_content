@@ -1,0 +1,89 @@
+{
+  "bookId": "asp-en-0110",
+  "title": "A Tiny Seed: The Story of Wangari Maathai",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 411,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "A Tiny Seed: The Story of Wangari Maathai",
+    "author": "Nicola Rijsdijk",
+    "illustrator": "Maya Marshak",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "In a village on the slopes of Mount Kenya in East Africa, a little girl worked in the fields with her mother. Her name was Wangari."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Wangari loved being outside. In her family's food garden she broke up the soil with her machete. She pressed tiny seeds into the warm earth."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Her favourite time of day was just after sunset. When it got too dark to see the plants, Wangari knew it was time to go home.\n\nShe would follow the narrow paths through the fields, crossing rivers as she went."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Wangari was a clever child and couldn't wait to go to school. But her mother and father wanted her to stay and help them at home.\n\nWhen she was seven years old, her big brother persuaded her parents to let her go to school."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "She liked to learn! Wangari learnt more and more with every book she read. She did so well at school that she was invited to study in the United States of America.\n\nWangari was excited! She wanted to know more about the world."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "At the American university Wangari learnt many new things. She studied plants and how they grow. And she remembered how she grew: playing games with her brothers in the shade of the trees in the beautiful Kenyan forests."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The more she learnt, the more she realised that she loved the people of Kenya. She wanted them to be happy and free.\n\nThe more she learnt, the more she remembered her African home."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "When she had finished her studies, she returned to Kenya. But her country had changed. Huge farms stretched across the land. Women had no wood to make cooking fires. The people were poor and the children were hungry."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Wangari knew what to do. She taught the women how to plant trees from seeds. The women sold the trees and used the money to look after their families. The women were very happy. Wangari had helped them to feel powerful and strong."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "As time passed, the new trees grew into forests, and the rivers started flowing again. Wangari's message spread across Africa. Today, millions of trees have grown from Wangari's seeds."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Wangari had worked hard. People all over the world took notice, and gave her a famous prize. It is called the Nobel Peace Prize, and she was the first African woman ever to receive it."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Wangari died in 2011, but we can think of her every time we see a beautiful tree."
+    }
+  ]
+}

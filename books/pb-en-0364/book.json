@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0364",
+  "title": "Talking Tree of Alpha Town",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 176,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Talking Tree of Alpha Town",
+    "author": "Maryam Soni",
+    "illustrator": "Archana Sreenivasan",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/4639-talking-tree-of-alpha-town",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Two best friends , Gini and Jojo along with their beloved doggie , Tommy, return home from school complaining about the food they got , as usual . They heard a tree calling them ."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "They ran towards the tree . Mr. Talking tree , was a 50 year old magical wise tree, living in Alpha town . He heard them talking to each other and decides to teach them how to appreciate their meals ."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Mr. Talking Tree decided to give them different variety of food items to taste ."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The first thing he gave them was 'Coconut water' , they found it to be very 'sweet' and 'refreshing' .\n\nThen he gave them 'imli' which was very 'sour' ."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Next he gave them a cup of 'coffee' . They found that to be 'bitter' but energizing .\n\nThen he gave them a bowl of 'dal', which they enjoyed very much ."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Gini and Jojo , realised that every food item has its own different taste and must be appreciated ."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "They go back home promising never to complain about the food they get at school or even what thier mom cooks at home ."
+    }
+  ]
+}

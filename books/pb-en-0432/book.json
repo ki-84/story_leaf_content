@@ -1,0 +1,69 @@
+{
+  "bookId": "pb-en-0432",
+  "title": "Daddy's Mo",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 427,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Daddy's Mo",
+    "author": "Madhuri Purandare",
+    "illustrator": "Madhuri Purandare",
+    "translator": "Sai Keskar",
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/132-daddy-s-mo",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Anu likes many things about Daddy. She likes the bright paper lanterns he makes, the crisp onion pakodas he fries and the cute tortoise he makes out of paper. Besides, he climbs the stairs with a hop, and wrestles with Uncle for fun. When guests come over, he always makes them laugh.\n\nAnu likes all these things about Daddy.\n\nBut do you know what Anu likes most of all? Daddy's moustache!"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Every morning as Daddy shaves, Anu sits by and watches him carefully.\n\nDaddy holds his tiny pair of scissors between his two fingers, and with a snip-snip-snip he trims his moustache. Anu says, “Now a little to the left...now a bit to the right...no no, Daddy! Don't make your moustache small! I won't talk to you if you do!”"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "When Daddy comes out of the shower, Anu takes a little comb and brushes his moustache neatly.\n\nShe then holds both ends between her fingertips and gives them a twirl!\n\nThen Daddy's moustache looks stiff and proud.\n\n“Done, Daddy! Now don't you mess it up, okay?” she says sternly."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Anu always thinks, if Daddy wears a smart tunic and a turban and rides a tall horse, with a sword across his belt, how grand he'll look!\n\nJust like a soldier wearing glasses!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Actually, Anu likes anyone with a moustache. Like the dad of her friend Tuti, whose real name is Smruti. He has such a fat moustache! He must need a big fat comb to brush it.\n\nTuti's dad plays very good tennis. But really, he should be a wrestler.\n\nIf he wears a pleated turban and carries a giant club on his shoulder, he'll look just great!"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Sahil's dad has a pencil-thin moustache. Anu wonders how he manages to trim it so fine.\n\nIf he wears a tall black hat, a long black overcoat and dark glasses, he'll look just like the detective on TV, who catches all the thieves!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "But Grandpa who lives next door has the best moustache of all! It looks as if a big white cloud has come down from the sky to live under his nose! His mouth is hidden behind the cloud.\n\nAnu is anxious about Grandpa... how can he eat with that cloud in the way?"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Anu wonders why a moustache doesn't grow under her nose.\n\nEvery morning she wets her soap, makes a lot of lather and gives herself many different kinds of moustaches.\n\n“My moustache is the best,” she says. “It's pure white, and so soft! Isn't it nice?” she asks, happily."
+    }
+  ]
+}

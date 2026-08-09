@@ -1,0 +1,108 @@
+{
+  "bookId": "asp-en-0257",
+  "title": "Colours of a rainbow",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 115,
+  "pageCount": 16,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Colours of a rainbow",
+    "author": "Caren Echesa",
+    "illustrator": "Jesse Breytenbach",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "A rainbow has seven colours."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "The first colour is red."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Kewyu is wearing a red shirt."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "The second colour is orange."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "This is an orange.\n\nWhat else can you see that is the colour orange?"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The third colour is yellow."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The yolk of an egg is yellow.\n\nWhat else can you see that is the colour yellow?"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The fourth colour is green."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Our banana garden is green."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The fifth colour is blue."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The sky is blue."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "The sixth colour is indigo."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "These berries are the colour indigo."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "The seventh colour is violet."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "My dress is violet.\n\nViolet is my favourite colour!\n\nWhat is your favourite colour?"
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": "Do you know the seven colours of the rainbow?"
+    }
+  ]
+}

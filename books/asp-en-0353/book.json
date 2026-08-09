@@ -1,0 +1,81 @@
+{
+  "bookId": "asp-en-0353",
+  "title": "A naughty girl",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 224,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "A naughty girl",
+    "author": "Bathokwa book club",
+    "illustrator": "Catherine Groenewald, Vusi Malindi, Rob Owen, Natalie Propa, Ingrid Schechter, Melany Pietersen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "once upon a time the was a girl\nby the name of Emily\nEmily was very naughty"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "whenever her mother asked her\nto do anything she would refuse"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day her mother was sick.\nShe asked her to go her\ngrandma and ask for some\nspecial medicine, so that she\ncan drink and get better.\nBecause Emily was naughty,\nshe decided to go and have a\nswim on her way to grand ma."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "It became late, her mother started to worry."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Her mother called the people of the village to help her look for Emily"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "She was very worried because\nthere was a monster who eats\nlittle girls at night"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "While the people were looking\nfor Emily, she was still having\nfun in the pond.\nShe was not aware of the\ndarkness"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "It was time for dinner for the\nmonster and he started looking\nfor food. As he was walking he\nstarted to smell a little girl.\nThe village people were getting\ncloser and closer to the pond."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Emily saw the monster coming\nand she started to scream.\nThe people of the village heard\na little girl's scream and they\nstarted to run towards the voice"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "The people of the village found\nemily still in the pond, she was\nvery scared.\nAnd from that day she learned\nto listen and to respect her\nmother."
+    }
+  ]
+}

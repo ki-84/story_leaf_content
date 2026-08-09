@@ -1,0 +1,66 @@
+{
+  "bookId": "asp-en-0163",
+  "title": "A dog",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 63,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "A dog",
+    "author": "Ritah Katetemera",
+    "illustrator": "Catherine Groenewald, Wiehan de Jager, Jean Fullalove, Ursula Nafula, Sandy Campbell",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 9 とページ数 7 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "There was a man with his one\ndog."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He loved his dog so much."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "It was hard working and it used to go to the market to buy meat."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "fetching water from the well."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Guarding every thing at home."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "One day the man thanked his dog in a special\nway for being faithful."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "The dog became so happy and\nit continued working hard."
+    }
+  ]
+}

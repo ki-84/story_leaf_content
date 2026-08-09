@@ -1,0 +1,91 @@
+{
+  "bookId": "asp-en-0141",
+  "title": "Chicken and Millipede",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 269,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Chicken and Millipede",
+    "author": "Winny Asara",
+    "illustrator": "Magriet Brink",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 14 とページ数 12 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Chicken and Millipede were friends. But they were always competing with each other. One day they decided to play football to see who the best player was."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "They went to the football field and started their game. Chicken was fast, but Millipede was faster. Chicken kicked far, but Millipede kicked further. Chicken started to feel grumpy."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "They decided to play a penalty shoot-out. First Millipede was goal keeper. Chicken scored only one goal. Then it was the chicken's turn to defend the goal."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Millipede kicked the ball and scored.\n\nMillipede dribbled the ball and scored. Millipede headed the ball and scored. Millipede scored five goals."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Chicken was furious that she lost. She was a very bad loser. Millipede started laughing because his friend was making such a fuss."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Chicken was so angry that she opened her beak wide and swallowed the millipede."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "As Chicken was walking home, she met Mother Millipede. Mother Millipede asked, \"Have you seen my child?\" Chicken didn't say anything.\n\nMother Millipede was worried."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Then Mother Millipede heard a tiny voice. \"Help me mom!\" cried the voice. Mother Millipede looked around and listened carefully. The voice came from inside the chicken."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Mother Millipede shouted, \"Use your special power my child!\" Millipedes can make a bad smell and a terrible taste. Chicken began to feel ill."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Chicken burped. Then she swallowed and spat. Then she sneezed and coughed. And coughed. The millipede was disgusting!"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Chicken coughed until she coughed out the millipede that was in her stomach. Mother Millipede and her child crawled up a tree to hide."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "From that time, chickens and millipedes were enemies."
+    }
+  ]
+}

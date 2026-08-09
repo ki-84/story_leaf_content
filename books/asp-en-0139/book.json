@@ -1,0 +1,86 @@
+{
+  "bookId": "asp-en-0139",
+  "title": "Crocodile in my body",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 536,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Crocodile in my body",
+    "author": "Val Morris",
+    "illustrator": "Felicity Bell",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 13 とページ数 11 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Hello, I'm Ntombi. I'm a little girl\nlike other little girls, except...\nI have a crocodile in my body.\nYou can't see him, but I know he is\nthere. His name is Horrible InVader.\nHe hides in my body and doesn't do\nany harm to my friends."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He won't leave my body and go into\nyours if you sit next to me, or hold\nmy hand."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "He won't leave my body and jump\ninto yours even if you share your\nlunch with me, or lie down on the\nfloor together when we have a rest."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "My crocodile, Horrible InVader, has\nbeen with me since I was born. He\nlikes eating all the soldiers in my\nbody that fight germs and stop me\nfrom getting sick.\nWhen he eats too many of my\nsoldiers, I get very sick. Then I\ncannot go to school and play with\nmy friends."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I have to take my medicine every\nday at the same time. Otherwise\nmy crocodile wakes up in a bad\nmood and eats my soldiers again. I\ndon't want him to do that, so I\nremind my Gogo to give me my\nspecial medicine right on time."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "If I eat good food like vegetables\nand fruit, my soldiers in my body\nget stronger and don't let my\ncrocodile catch them. I think he\ngoes to sleep for a while, because\nthen I am well and strong and able\nto play with my friends again. I am\nso happy when he goes to sleep\nand I am able to play."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "My Gogo took me to the clinic a\nwhile ago and got something\nspecial to feed my crocodile. It\nmakes him go to sleep, and he\ndoesn't eat my soldiers. Then I am\nable to do all the fun things that\nother children do, like run and climb\nand dance."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "I love my Gogo very much. She is\ngood and kind to me. She gives me\ngood food to eat and sees that I\ntake extra vitamins as well to keep\nmy soldiers strong, so that I don't\nget sick. If I do get sick she takes\nme to the clinic straight away, so\nthat I can get medicine to make me\nbetter.\nI love it when she puts me on her\nlap and reads stories to me before I\ngo to bed."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "After Gogo has put me to bed, I\nthink of many things. I think about\nlearning to read at big school. If I\nkeep taking my special medicine\nthat puts my crocodile to sleep, I\nwill look after my Gogo and read\nher stories when she is very old and\ncan't see so well anymore.\nWhen I am a grown woman, I would\nlike to study. I want to help to find a\nmedicine that will put all the\ncrocodiles in other peoples' bodies,\nto sleep forever."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "I will learn to live with my crocodile\nand keep him asleep as much as I\ncan.\nI will have as many friends as I can.\nAnd have as much fun as I can\nevery day"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "My Gogo, my aunts and uncles, and\nfriends love me, even though I have\na crocodile called Horrible InVader\nliving in my body."
+    }
+  ]
+}

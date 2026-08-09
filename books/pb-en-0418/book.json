@@ -1,0 +1,86 @@
+{
+  "bookId": "pb-en-0418",
+  "title": "Can you smile when you snore?",
+  "level": 3,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 485,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Can you smile when you snore?",
+    "author": "Mala Kumar",
+    "illustrator": "Sonal Goyal, Sumit Sakhuja, Sumit Sakhuja",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/5360-can-you-smile-when-you-snore",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "表紙をページ 1 と共用"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/01.jpg",
+      "text": "Beena's friends were all sleeping. They were making a lot of noise.\n\nHoiinnnnkkkkhoinnnkkk, snored the pigs.\n\nKeekkkeek, snored the mice. Ssssssss snored the hens. Do your friends snore, dear reader?"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/02.jpg",
+      "text": "\"We could not sleep all night,\" said Minti Uncle.\n\n\"We could not sleep a wink,\" said Kajal Aunty.\n\n\"I could not sleep at all,\" said Big Bird.\n\n\"What can I do if my friends snore?\" wailed Beena. What would you do, dear reader?"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/03.jpg",
+      "text": "\"Hmmm. Haa. Uh-hmmm,\" said the village head. People should climb this tree to bring down the fruits. People should sit and talk to each other under this tree. People should play under this tree after they have finished their work.\n\n\"But why?\" asked Beena. Why do you think, dear reader?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/04.jpg",
+      "text": "The Moon knew why.\n\nSo she smiled. She smiled at the tree.\n\nShe smiled at the village head. She smiled at the sleeping animals.\n\nDo you think the moon REALLY smiles, dear reader?"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/05.jpg",
+      "text": "Kuttu, the pup, wanted to help Beena.\n\n\"Beena is not happy. It seems we all snore very loudly. The villagers are angry with her. Can you help in any way?\" he asked Jenna, the bee.\n\n\"Why do sounds make people unhappy? The sound of my buzzing makes my friends sleep well!\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/06.jpg",
+      "text": "Kuttu spoke to Beena. Beena walked up to Big Bird and siad, \"Big bird, may I ask our friend Jenna to sing a lullaby for you?\"\n\n\"Grrrr!\" growled Big Bird, still in a very bad mood.\n\nAre you ever in a bad mood, dear reader?"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/07.jpg",
+      "text": "Kuttu went to Madam Ola next. \"Why do people get angry when they cannot sleep well? You look so nice and happy even though you have not slept all night,\" said Kuttu.\n\n\"Hmmm. That is because I am up on this tree. I fly. I hunt. I work. I stretch.\n\nAnd when I catch a rat, I'm happy and content.\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/08.jpg",
+      "text": "The Moon's smile became wide...a bit more...more...wider! And her eyes grew....\n\nDear reader, what happens to your eyes when you smile wider and wider and wider?\n\nAnd can you smile when you snore? Or snore when you smile?"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/09.jpg",
+      "text": "Beena and Kuttu met under the tree. Why did the village head want people to come to the tree?\n\nBecause, because, because.......do you know why, gentle reader?\n\nBeena's friends came to the tree, one by one. Soon, they were laughing and dancing under the tree. Beena looked at them and......aha! She knew the WHY!"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/10.jpg",
+      "text": "When people work with each other, they smile a lot. When they play with each other, they smile a lot. And then, when they sleep, they sleep happily and really do not mind if any one snores. Sometimes they smile in their sleep. And snore in their sleep too.\n\nThe pig can go hoinkkkkkhoinkkkk with a smile."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/11.jpg",
+      "text": "The mice can go Keeeekkk eekkkk.\n\nAnd you can go...zzzzzzzzzzzzzz. zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.\n\nGoodnight, dear reader... goodnight...goodnight....nighttt."
+    }
+  ]
+}

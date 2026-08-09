@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0103",
+  "title": "I Can Make Things!",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 91,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "I Can Make Things!",
+    "author": "Mini Shrinivasan",
+    "illustrator": "Tanvee Nabar",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/859-i-can-make-things",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "I am a big boy now.\n\nI can draw and I can make things."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I draw my mother, she sits still."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "I draw my sister, she does not sit still."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "I draw many things."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "But I am told not to draw on the wall."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I can make things."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "I make a drawing of a cat, she is fat."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "I make a fish. It is small."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "I make paper boats, birds and planes."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "I make houses and trains."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "My sister makes a mess!\n\nI can make many things. But my sister cannot!"
+    }
+  ]
+}

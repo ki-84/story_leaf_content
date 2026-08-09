@@ -1,0 +1,104 @@
+{
+  "bookId": "pb-en-0040",
+  "title": "Sister, Sister, Where Does Thunder Come From?",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち",
+    "しぜん・かがく"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 1058,
+  "pageCount": 15,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Sister, Sister, Where Does Thunder Come From?",
+    "author": "Roopa Pai",
+    "illustrator": "Greystroke",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/182-sister-sister-where-does-thunder-come-from",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Sister, sister I wonder...\n\nWhat do you wonder, little brother,\n\nWhat do you wonder?\n\nI wonder, I wonder,\n\nWhere thunder comes from.\n\nWhere do you think, little brother,\n\nWhere do you think?\n\nI think, I think\n\nTell me, little brother,\n\nWhat do you think?"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "I think\n\nThat there is a great big Kumbhakarna\n\nSleeping in the sky\n\nAnd when the silver ropes of rain\n\nLash him, and chase his sleep away,\n\nHe wakes up.\n\nSparks fly out of his eyes like lightning\n\nHe stamps his big ugly feet\n\nTakes a long deep breath\n\nAnd ROARS with rage."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "(Let me tell you If I had thrown a tantrum like that Mother would have spanked me.\n\nHard.)\n\nI think that's\n\nWhere the thunder comes from\n\nFrom the fury of a\n\nKumbhakarna in the sky\n\nWho likes to stay asleep, and dry.\n\nI'm clever, aren't I, sister?"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Oh yes you are, little brother, oh yes you are.\n\nAnd maybe you're right, too...\n\nBut in the books that I have read\n\nThat is not what they said.\n\nThen what did they say, sister,\n\nWhat did they say?\n\nWhat do you think, little brother,\n\nWhat do you think?\n\nI think, I think...\n\nTell me, little brother, What do you think?"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "I think\n\nThere is a gang of crazy bikers\n\nUp there in the sky\n\nIn their black leather jackets\n\nAnd steel-studded boots\n\nAnd dark glasses that hide their eyes\n\nJust like in the movies.\n\nAnd what they like to do best\n\nIs to race each other in the pouring rain."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "I think\n\nWhen they mount their bikes and\n\nKICK them to life\n\nSteel strikes steel\n\nThere's your lightning!\n\nThen, when they do what bikers do\n\nRev up their engines, and rrrev them,\n\nand rrrev them\n\nThere's your thunder!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "I think that's where the thunder comes from\n\nNot from a demon,\n\nnot from a plane,\n\nBut from a fleet of bikes that race in the rain.\n\nI'm clever, aren't I, sister?"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "I know you are, little brother, I know you are\n\nAnd maybe you're right, too...\n\nBut in all the books that I have read\n\nThat is not what they said.\n\nThen what did they say, sister,\n\nWhat did they say?\n\nWhat do you think, little brother,\n\nWhat do you think?\n\nI think, I think...\n\nTell me, little brother, What do you think?"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "I think\n\nThat when it rains\n\nThe children\n\nOf the old woman in the sky\n\nAre absolutely NOT allowed\n\nTo play outside (for they may catch a cold!).\n\nCooped up indoors\n\nThey all get a little restless,\n\nand VERY cranky."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "I think the old woman opens her trunk\n\nPulls out a game of chaupad\n\nAnd a pair of giant dice.\n\nThe children clap their hands in excitement\n\nRoll the giant dice\n\nAnd forget they were ever bored.\n\nI think that's where the thunder comes from\n\nFrom the dance of a pair of dice\n\nAs they make their way across the skies.\n\nI'm clever, aren't I, sister?"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Of course you are, little brother,\n\nAnd maybe you're right, too...\n\nBut in all the books that I have read\n\nThat is not what they said.\n\nThen what did they say, sister,\n\nWhat did they say?\n\nCome here, little brother,\n\nI'll tell you what they said.\n\nThey said, they said...\n\nTell me sister, what did they say?"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "They said\n\nThat thunder always comes after lightning.\n\nBut you know that, don't you?\n\nAnd that\n\nIt is the lightning\n\nThat makes the thunder."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "The lightning is like ELEC-TRI-CITY\n\nThe same magic ELEC-TRI-CITY\n\nThat runs the pump\n\nAnd floods the house with light\n\nAnd fills the TV with Sachin and Saurav\n\nAt the flip of a switch.\n\nBut I asked about thunder, sister,\n\nI asked about thunder.\n\nHave patience, little brother,\n\nHave patience now."
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "They said that lightning is very hot\n\nJust like electricity.\n\nAnd when it slices through the air\n\nAnd stabs the earth\n\nIt makes the air through which it comes\n\nVery Very Very hot.\n\nThey said\n\nThe hot air EXPANDS\n\nAnd explodes BOOOOOOM!\n\nLike a monster Diwali bomb."
+    },
+    {
+      "index": 14,
+      "imagePath": "images/16.jpg",
+      "text": "And some little children\n\nBury their faces\n\nIn their mothers' sarees.\n\nBut brave little boys like you\n\nHear the air go BOOOOOOM!\n\nTurn around quickly.\n\nCan it be true, sister, can it be true?\n\nI can't say, little brother, I can't say.\n\nBut in all the books that I have read\n\nThat is what they said.\n\nFIND OUT MORE!\n\nWhere does thunder come from?\n\nEverything around us is made up of tiny particles called atoms. Each atom has a nucleus at the centre, which is filled with particles called neutrons and positively charged particles called protons. Even tinier particles (negatively charged) called electrons go around the nucleus like the planets go around the sun.\n\nIn a thundercloud, air carries bits of ice and water droplets upwards. When they rub against each other, the atoms in them become ions (that is, they become charged positively or negatively). The positive ions are lighter and move upwards, while the heavier negative ions move downwards to the bottom of the cloud.\n\nThe negative ions at the bottom of the cloud attract the positive ions on the earth. When they start flowing towards each other, electricity is created, which becomes a huge, powerful flash of lightning.\n\nThe lightning makes the air around it very, very hot almost as hot as the sun! This hot air expands very quickly, causing a big explosion. It then begins to contract equally quickly once the lightning flash has passed. This explosion of air is what causes the sound waves that we call thunder.\n\nTry this experiment!\n\nTo understand how particles with opposite charges attract each other, let's make a magic ‘magnetic balloon'!\n\nYou need:\n\nA balloon\n\nA piece of wool or silk\n\nA wall\n\nWhat to do:\n\n1. Blow up the balloon.\n\n2. Rub it briskly with the piece of wool or silk.\n\n3. Hold it against the wall and watch it ‘stick' there like a magnet to iron!\n\nWhy does this happen?\n\nWhen you rub the balloon with the wool or silk, electrons get transferred between the two. The atoms in the balloon take in more electrons, so the balloon becomes negatively charged. When you hold it against the wall, the negative ions in the balloon get attracted to the positive ions in the wall, causing the balloon to stick to the wall!"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "bookId": "asp-en-0014",
+  "title": "Girl called Norah",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "かぞく・ともだち"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 119,
+  "pageCount": 8,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "Girl called Norah",
+    "author": "Annet Ssebaggala",
+    "illustrator": "Melany Pietersen",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 10 とページ数 8 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "This is a girl called\nNorah.\nHer doll's name is\nSelah."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "Norah loves her doll\nvery much.\nNorah plays with Selah\nevery day.\nShe sleeps with her doll\nevery night."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One day, Norah could\nnot find her doll.\nShe looked everywhere,\nbut could not find\nSelah.\nNorah got very worried."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Norah did not know that\nher mother took Selah\nfor washing.\nShe hung the doll\noutside to dry."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "\"I can't find my doll,\"\ncried Norah.\n\"Don't worry,\" said her\nmother."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "That evening, Norah's\nmother gave the doll to\nNorah.\nThe doll was very clean.\nSelah looked like a new\ndoll!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Norah was very happy.\nShe jumped up and\ndown.\nShe danced.\nShe laughed loudly."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "And she thanked her\nmother."
+    }
+  ]
+}

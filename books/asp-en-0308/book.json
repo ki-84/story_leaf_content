@@ -1,0 +1,84 @@
+{
+  "bookId": "asp-en-0308",
+  "title": "The Honeyguide's revenge",
+  "level": 4,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "どうぶつ"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 718,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The Honeyguide's revenge",
+    "author": "Zulu folktale",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "This is the story of Togar, the Honeyguide, and a greedy young\nman named Gartee.\nOne day while Gartee was out hunting he heard the call of Togar.\nGartee's mouth began to water at the thought of honey. He\nstopped and listened carefully, searching until he saw the bird in\nthe branches above his head.\n\"Chitik-chitik-chitik,\" the little bird rattled, as he flew to the next\ntree, and the next.\n\"Chitik, chitik, chitik,\" he called, stopping from time to time to be\nsure that Gartee followed."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "After half an hour, they reached a\nhuge wild fig tree.\nTogar hopped about madly among\nthe branches. He then settled on\none branch and cocked his head at\nGartee as if to say, \"Here it is!\nCome now! What is taking you so\nlong?\"\nGartee couldn't see any bees from\nunder the tree, but he trusted Togar."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "So Gartee put down his hunting\nspear under the tree, gathered\nsome dry twigs and made a small\nfire.\nWhen the fire was burning well, he\nput a long dry stick into the heart of\nthe fire. This wood was especially\nknown to make lots of smoke while\nit burned.\nHe began climbing, holding the cool\nend of the smoking stick in his\nteeth."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Soon he could hear the loud\nbuzzing of the busy bees. They\nwere coming in and out of a hollow\nin the tree trunk – their hive.\nWhen Gartee reached the hive he\npushed the smoking end of the stick\ninto the hollow.\nThe bees came rushing out, angry\nand mean. They flew away because\nthey didn't like the smoke – but not\nbefore they had given Gartee some\npainful stings!"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "When the bees were out, Gartee\npushed his hands into the nest. He\ntook out handfuls of the heavy\ncomb, dripping with rich honey and\nfull of fat, white grubs.\nHe put the comb carefully in the\npouch he carried on his shoulder,\nand started to climb down the tree."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Togar eagerly watched everything\nthat Gartee was doing. He was\nwaiting for him to leave a fat piece\nof honeycomb as a thank-you\noffering to the Honeyguide.\nTogar flittered from branch to\nbranch, closer and closer to the\nground. Finally Gartee reached the\nbottom of the tree.\nTogar perched on a rock near the\nboy and waited for his reward."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "But, Gartee put out the fire, picked up his spear and started\nwalking home, ignoring the bird.\nTogar called out angrily, \"VIC-torr! VIC-torrr!\"\nGartee stopped, stared at the little bird and laughed aloud. \"You\nwant some honey, do you, my friend? Ha! But I did all the work,\nand got all the stings. Why should I share any of this lovely honey\nwith you?\" Then he walked off.\nTogar was furious! This was no way to treat him! But he would get\nhis revenge."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "One day several weeks later Gartee again heard the honey call of\nthe Honeyguide, Togar. He remembered the delicious honey, and\neagerly followed the bird once again.\nAfter leading Gartee along the edge of the forest, Togar stopped to\nrest in a great umbrella thorn. \"Ahh,\" thought Gartee.\n\"The hive must be in this tree.\" He quickly made his small fire and\nbegan to climb, the smoking branch in his teeth. Togar sat and\nwatched."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Gartee climbed, wondering why he didn't hear the usual buzzing.\n\"Perhaps the hive is deep in the tree,\" he thought to himself.\nHe pulled himself up another branch. But instead of the hive, he\nwas staring into the face of a leopard!\nLeopard was very angry at having her sleep so rudely interrupted.\nShe narrowed her eyes, opened her mouth to reveal her very large\nand very sharp teeth."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Before Leopard could take a swipe at Gartee, he rushed down the\ntree.\nIn his hurry he missed a branch, and landed with a heavy thud on\nthe ground twisting his ankle. He hobbled off as fast as he could.\nLuckily for him, Leopard was still too sleepy to chase him.\nTogar, the Honeyguide, had his revenge.\nAnd Gartee learned his lesson."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "And so, when the children of Gartee\nhear the story of Togar they have\nrespect for the little bird.\nWhenever they harvest honey, they\nmake sure to leave the biggest part\nof the comb for Honeyguide!"
+    }
+  ]
+}

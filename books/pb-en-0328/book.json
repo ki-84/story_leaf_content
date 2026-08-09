@@ -1,0 +1,64 @@
+{
+  "bookId": "pb-en-0328",
+  "title": "Little Blue Alien",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "しぜん・かがく",
+    "ぼうけん"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 266,
+  "pageCount": 7,
+  "coverImagePath": "images/01.jpg",
+  "source": "pb",
+  "attribution": {
+    "title": "Little Blue Alien",
+    "author": "Mohan Bambha",
+    "illustrator": "Kavita Singh Kale",
+    "translator": null,
+    "publisher": "Pratham Books",
+    "sourceURL": "https://storyweaver.org.in/stories/3954-little-blue-alien",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "On a red Planet far far away\n\nOur little blue Alien lost his way\n\nWith four legs and three little fingers in his hand\n\nAll he was left with, was a Magic Wand"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "And with his magic wand, however hard he tried\n\nTo make his new red planet full of colors green, blue or even white\n\nAll that he could do was create only stars, although bright\n\nBut with flowers and trees in his mind, he felt nothing was going right"
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Alone and exhausted, he became so sad\n\nTo find a way out, he scratched his head\n\nSuddenly, there crossed our Astronaut in his speedy Jet\n\nAnd he saw our little blue Alien sitting alone in a planet so red"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "And the astronaut stopped by\n\nTo say a little \"Hi\"\n\nTo our little blue Alien\n\nWho was excited to finally see a companion"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Our little blue alien told the Astronaut\n\nThat how he is stuck alone and lost\n\n\"Please take me along\n\nTo the place you belong\n\nI hear the Earth is a colorful place\n\nWhere there are trees and grass and flowers to embrace\""
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "The Astronaut happily agreed to take our Little Blue Alien to Earth, the beautiful planet\n\nAnd excited, together they boarded the speedy Jet\n\nThrough the stars and the moon and the cloud\n\nHustled back the Jet to the Earth making sounds so loud"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Our little blue Alien smiled and danced seeing the colorful sight\n\nThe flowers, the trees everything so beautiful and bright\n\nAnd he had also made a wonderful friend\n\nHappy he was, that everything was good in the end."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "bookId": "asp-en-0077",
+  "title": "The bleeding apple",
+  "level": 2,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 318,
+  "pageCount": 10,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The bleeding apple",
+    "author": "Sara Mohale",
+    "illustrator": "Catherine Groenewald, Wiehan de Jager, Marion Drew",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Kala was staying with his Mom.\nThey lived in a big house. Kala\nwas a spoiled boy. His Mom\nloved him very much. He got\neverything that he wanted."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "It was a bright, sunny Saturday\nmorning. It was the start of the\nschool holidays. Kala woke up\nlater than usual. He was excited\nand ready to go out in the\nstreet to play with his friends."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Kala's Mom was working in her\nvegetable garden. She saw her\nson running out through the\ndoor."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "On the kitchen table there was\na big basket full of a variety of\nfruits. Kala called out to his\nMom, asking for an apple. \"Did\nyou bath?'' asked his Mom. \"Did\nyou brush your teeth?\" she\nasked too. \"Yes Mom!\"\nanswered Kala. \"Ok, you can\nhave one,\" she agreed."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Kala immediately chose the biggest, juiciest\napple from the fruit basket. He then dashed\noutside towards his favourite playing area."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "After a few seconds, Mom heard\nKala screaming. \"Aah, Mom!\"\ncalled Kala."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "\"Mom, my apple is bleeding!\" he said. His Mom was busy in\nthe kitchen and Kala burst through the door. \"Why are you\nmaking such a noise Kala,\" asked his Mom. \"What is it?\""
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "\"My apple is bleeding, look,\" he said again.\nKala's Mom stopped what she was doing and\nturned to look at her son. She had a surprise\nlook on her face."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "She took the apple from Kala's hand and looked at it.\n\"Come here and open your mouth,\" she order Kala. \"Aah,\"\nopened Kala wide. Mom bend a little and peeped into her\nson's mouth."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "\"It's not the apple that is bleeding, you little, lazy, naughty boy. It's your filthy,\nyellow rotting teeth!\" she shouted. \"You do not brush your teeth as told!\" she said\nwith a cross face. All that Kala felt as he escaped through the door, was his\nbehind getting warm from his Mom's dish cloth!"
+    }
+  ]
+}

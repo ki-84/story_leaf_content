@@ -1,0 +1,56 @@
+{
+  "bookId": "asp-en-0156",
+  "title": "The hungry crocodile",
+  "level": 1,
+  "levelSource": "provisional-wordcount",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "provisional-keyword",
+  "wordCount": 36,
+  "pageCount": 5,
+  "coverImagePath": "images/01.jpg",
+  "source": "asp",
+  "attribution": {
+    "title": "The hungry crocodile",
+    "author": "Christian G.",
+    "illustrator": "Wiehan de Jager",
+    "translator": null,
+    "publisher": "African Storybook (Saide)",
+    "sourceURL": "https://www.africanstorybook.org/",
+    "license": "CC BY",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
+  },
+  "warnings": [
+    "画像数 7 とページ数 5 が不一致 (要人手確認)"
+  ],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Once there was a very hungry crocodile."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "He searched for food slowly and quietly. And then..."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "POW!!! The crocodile strikes!"
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "After that he is no longer hungry, and he is happy."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Until he gets hungry again."
+    }
+  ]
+}
