@@ -1,7 +1,6 @@
 {
   "bookId": "pb-en-0004",
   "title": "Chuskit Goes to School!",
-  "slug": "chuskit-goes-to-school",
   "level": 4,
   "levelSource": "provisional-wordcount",
   "genres": [
@@ -12,7 +11,7 @@
   "wordCount": 1600,
   "pageCount": 21,
   "coverImagePath": "images/01.jpg",
-  "source": "storyweaver (global-asp/pb-source mirror)",
+  "source": "pb",
   "attribution": {
     "title": "Chuskit Goes to School!",
     "author": "Sujatha Padmanabhan",
@@ -24,10 +23,7 @@
     "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
     "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
   },
-  "bundled": true,
-  "warnings": [
-    "画像数 23 とページ数 21 が不一致 (要人手確認)"
-  ],
+  "warnings": [],
   "pages": [
     {
       "index": 0,

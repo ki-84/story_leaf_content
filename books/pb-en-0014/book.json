@@ -1,7 +1,6 @@
 {
   "bookId": "pb-en-0014",
   "title": "I Want That One!",
-  "slug": "i-want-that-one",
   "level": 2,
   "levelSource": "provisional-wordcount",
   "genres": [
@@ -12,7 +11,7 @@
   "wordCount": 292,
   "pageCount": 11,
   "coverImagePath": "images/01.jpg",
-  "source": "storyweaver (global-asp/pb-source mirror)",
+  "source": "pb",
   "attribution": {
     "title": "I Want That One!",
     "author": "Mala Kumar",
@@ -24,7 +23,6 @@
     "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
     "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
   },
-  "bundled": true,
   "warnings": [],
   "pages": [
     {

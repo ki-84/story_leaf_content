@@ -1,7 +1,6 @@
 {
   "bookId": "pb-en-0008",
   "title": "\"My fish!\" \"No, my fish!\"",
-  "slug": "my-fish-no-my-fish",
   "level": 2,
   "levelSource": "provisional-wordcount",
   "genres": [
@@ -12,7 +11,7 @@
   "wordCount": 185,
   "pageCount": 11,
   "coverImagePath": "images/01.jpg",
-  "source": "storyweaver (global-asp/pb-source mirror)",
+  "source": "pb",
   "attribution": {
     "title": "\"My fish!\" \"No, my fish!\"",
     "author": "Suraj J Menon",
@@ -24,7 +23,6 @@
     "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
     "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
   },
-  "bundled": true,
   "warnings": [],
   "pages": [
     {

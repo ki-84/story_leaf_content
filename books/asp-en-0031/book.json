@@ -9,7 +9,7 @@
   ],
   "genreSource": "provisional-keyword",
   "wordCount": 507,
-  "pageCount": 10,
+  "pageCount": 11,
   "coverImagePath": "images/01.jpg",
   "source": "asp",
   "attribution": {
@@ -24,7 +24,7 @@
     "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
   },
   "warnings": [
-    "画像数 12 とページ数 10 が不一致 (要人手確認)"
+    "絵だけのページにも絵がある"
   ],
   "pages": [
     {
@@ -50,31 +50,36 @@
     {
       "index": 4,
       "imagePath": "images/06.jpg",
-      "text": "The following day, Kisirusiru's father\ntold him to take the goats out to\ngraze.\nHe remembered what his mother\nhad said, and put the goat on his\nhead.\nThe goat kicked and scratched\nKisirusiru's head. Soon blood was\npouring down his face.\n\"When will you stop your stupidity?\"\nsaid his father, exasperated.\n\"Goats are tied and pulled with\nropes! If you can't behave properly,\nyou'll have to leave this house.\""
+      "text": ""
     },
     {
       "index": 5,
       "imagePath": "images/07.jpg",
-      "text": "The next day, the man sent his son\nto go buy some meat at the market.\nRemembering what his father said,\nKisirusiru tied a rope around the\nmeat and started pulling it home.\nHe ran very fast so as not to keep\nhis father waiting.\nImagine how the meat looked when\nit reached home?"
+      "text": "The following day, Kisirusiru's father\ntold him to take the goats out to\ngraze.\nHe remembered what his mother\nhad said, and put the goat on his\nhead.\nThe goat kicked and scratched\nKisirusiru's head. Soon blood was\npouring down his face.\n\"When will you stop your stupidity?\"\nsaid his father, exasperated.\n\"Goats are tied and pulled with\nropes! If you can't behave properly,\nyou'll have to leave this house.\""
     },
     {
       "index": 6,
       "imagePath": "images/08.jpg",
-      "text": "His father was so angry he told him\nto pack his things and go away.\nWhen his mother heard this, she\ndecided to leave with her son.\nWhen they left, they took the\nkitchen door with them - to have\nsomething to start building a new\nhouse."
+      "text": "The next day, the man sent his son\nto go buy some meat at the market.\nRemembering what his father said,\nKisirusiru tied a rope around the\nmeat and started pulling it home.\nHe ran very fast so as not to keep\nhis father waiting.\nImagine how the meat looked when\nit reached home?"
     },
     {
       "index": 7,
       "imagePath": "images/09.jpg",
-      "text": "They had walked for quite a while\nbut could not find anywhere to build\ntheir new house.\nWhen it became dark, they decided\nto climb up a tree and sleep."
+      "text": "His father was so angry he told him\nto pack his things and go away.\nWhen his mother heard this, she\ndecided to leave with her son.\nWhen they left, they took the\nkitchen door with them - to have\nsomething to start building a new\nhouse."
     },
     {
       "index": 8,
       "imagePath": "images/10.jpg",
-      "text": "They had just climbed the tree,\npulling the door up after them,\nwhen they heard noises down\nbelow.\nThey saw three dangerous looking\nmen with huge sacks.\nThey were so scared that they let\ngo of the door. It crashed to the\nground, terrifying the men so much\nthat they ran away leaving\neverything behind."
+      "text": "They had walked for quite a while\nbut could not find anywhere to build\ntheir new house.\nWhen it became dark, they decided\nto climb up a tree and sleep."
     },
     {
       "index": 9,
       "imagePath": "images/11.jpg",
+      "text": "They had just climbed the tree,\npulling the door up after them,\nwhen they heard noises down\nbelow.\nThey saw three dangerous looking\nmen with huge sacks.\nThey were so scared that they let\ngo of the door. It crashed to the\nground, terrifying the men so much\nthat they ran away leaving\neverything behind."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
       "text": "Kisirusiru and his mother climbed\ndown the tree.\nWhen they opened the sacks, they\nfound money, clothes, blankets,\neverything they needed to set up\nhouse.\nThey soon found a place to build\nthemselves a new house, and lived\nhappily ever after."
     }
   ]

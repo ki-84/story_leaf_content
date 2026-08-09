@@ -9,7 +9,7 @@
   ],
   "genreSource": "provisional-keyword",
   "wordCount": 454,
-  "pageCount": 13,
+  "pageCount": 14,
   "coverImagePath": "images/01.jpg",
   "source": "asp",
   "attribution": {
@@ -24,7 +24,7 @@
     "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
   },
   "warnings": [
-    "画像数 16 とページ数 13 が不一致 (要人手確認)"
+    "絵だけのページにも絵がある"
   ],
   "pages": [
     {
@@ -80,16 +80,21 @@
     {
       "index": 10,
       "imagePath": "images/12.jpg",
-      "text": "So Sipho told Themba that they\nhave to get the animals back to the\nfarm and clean up the place before\nhis mum comes from work or else\nthey will both be in big trouble.\nThey started cleaning and fetching\nwater to water the plants that\nThemba had destroyed and got all\nthe animals back to the farm in\ntime."
+      "text": ""
     },
     {
       "index": 11,
       "imagePath": "images/13.jpg",
-      "text": "In no time the garden was back to\nthe way it was.\n\"Thank you so much Sipho, we had\nput the garden back to how it was\"\nThemba shouted\n\"Yesss! we did it Themba\" Sipho\nsaid cheerfully"
+      "text": "So Sipho told Themba that they\nhave to get the animals back to the\nfarm and clean up the place before\nhis mum comes from work or else\nthey will both be in big trouble.\nThey started cleaning and fetching\nwater to water the plants that\nThemba had destroyed and got all\nthe animals back to the farm in\ntime."
     },
     {
       "index": 12,
       "imagePath": "images/14.jpg",
+      "text": "In no time the garden was back to\nthe way it was.\n\"Thank you so much Sipho, we had\nput the garden back to how it was\"\nThemba shouted\n\"Yesss! we did it Themba\" Sipho\nsaid cheerfully"
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
       "text": "Now instead of messing the farm\nThemba and Sipho would sit and\nenjoy the Apples from the Apple\ntree and play with the animals.\nThemba never again did as he had\ndone before, he now listened to\nSipho and realised that being at the\nfarm can also be fun without\nvandalising the place."
     }
   ]

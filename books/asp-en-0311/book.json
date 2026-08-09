@@ -8,7 +8,7 @@
   ],
   "genreSource": "provisional-keyword",
   "wordCount": 82,
-  "pageCount": 4,
+  "pageCount": 5,
   "coverImagePath": "images/01.jpg",
   "source": "asp",
   "attribution": {
@@ -23,7 +23,7 @@
     "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
   },
   "warnings": [
-    "画像数 7 とページ数 4 が不一致 (要人手確認)"
+    "絵だけのページにも絵がある"
   ],
   "pages": [
     {
@@ -45,6 +45,11 @@
       "index": 3,
       "imagePath": "images/05.jpg",
       "text": "And I say,\n\"One day\nI'll dance and people\nwill pay\nJust to see me leap and\ntwirl.\n'Her dancing is SO\ngood,' they'll say.\""
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": ""
     }
   ]
 }

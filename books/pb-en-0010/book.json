@@ -1,7 +1,6 @@
 {
   "bookId": "pb-en-0010",
   "title": "Pehelwaan Ji",
-  "slug": "pehelwaan-ji",
   "level": 1,
   "levelSource": "provisional-wordcount",
   "genres": [
@@ -11,7 +10,7 @@
   "wordCount": 108,
   "pageCount": 15,
   "coverImagePath": "images/01.jpg",
-  "source": "storyweaver (global-asp/pb-source mirror)",
+  "source": "pb",
   "attribution": {
     "title": "Pehelwaan Ji",
     "author": "Sanjiv Jaiswal 'Sanjay'",
@@ -23,7 +22,6 @@
     "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
     "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
   },
-  "bundled": true,
   "warnings": [],
   "pages": [
     {

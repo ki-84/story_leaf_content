@@ -369,7 +369,7 @@
     "にちじょう"
    ],
    "wordCount": 507,
-   "pageCount": 10,
+   "pageCount": 11,
    "source": "asp",
    "license": "CC BY",
    "cover": "covers/asp-en-0031.jpg"
@@ -979,7 +979,7 @@
     "にちじょう"
    ],
    "wordCount": 529,
-   "pageCount": 11,
+   "pageCount": 12,
    "source": "asp",
    "license": "CC BY",
    "cover": "covers/asp-en-0083.jpg"
@@ -1443,20 +1443,6 @@
    "cover": "covers/asp-en-0117.jpg"
   },
   {
-   "bookId": "asp-en-0118",
-   "title": "Tselane and the Giant",
-   "level": 4,
-   "genres": [
-    "かぞく・ともだち",
-    "ファンタジー"
-   ],
-   "wordCount": 741,
-   "pageCount": 14,
-   "source": "asp",
-   "license": "CC BY",
-   "cover": "covers/asp-en-0118.jpg"
-  },
-  {
    "bookId": "asp-en-0119",
    "title": "What colors do you like?",
    "level": 1,
@@ -1587,7 +1573,7 @@
     "しぜん・かがく"
    ],
    "wordCount": 454,
-   "pageCount": 13,
+   "pageCount": 14,
    "source": "asp",
    "license": "CC BY",
    "cover": "covers/asp-en-0131.jpg"
@@ -1684,7 +1670,7 @@
     "にちじょう"
    ],
    "wordCount": 96,
-   "pageCount": 15,
+   "pageCount": 17,
    "source": "asp",
    "license": "CC BY",
    "cover": "covers/asp-en-0140.jpg"
@@ -2179,7 +2165,7 @@
     "にちじょう"
    ],
    "wordCount": 189,
-   "pageCount": 9,
+   "pageCount": 10,
    "source": "asp",
    "license": "CC BY",
    "cover": "covers/asp-en-0180.jpg"
@@ -2641,20 +2627,6 @@
    "cover": "covers/asp-en-0219.jpg"
   },
   {
-   "bookId": "asp-en-0220",
-   "title": "Keeper and His Special Nursery",
-   "level": 2,
-   "genres": [
-    "どうぶつ",
-    "ぼうけん"
-   ],
-   "wordCount": 184,
-   "pageCount": 12,
-   "source": "asp",
-   "license": "CC BY",
-   "cover": "covers/asp-en-0220.jpg"
-  },
-  {
    "bookId": "asp-en-0221",
    "title": "Guilty Conscience",
    "level": 2,
@@ -2761,7 +2733,7 @@
     "しぜん・かがく"
    ],
    "wordCount": 1093,
-   "pageCount": 15,
+   "pageCount": 16,
    "source": "asp",
    "license": "CC BY",
    "cover": "covers/asp-en-0230.jpg"
@@ -3370,7 +3342,7 @@
     "どうぶつ"
    ],
    "wordCount": 292,
-   "pageCount": 25,
+   "pageCount": 28,
    "source": "asp",
    "license": "CC BY",
    "cover": "covers/asp-en-0281.jpg"
@@ -3738,24 +3710,10 @@
     "かぞく・ともだち"
    ],
    "wordCount": 82,
-   "pageCount": 4,
+   "pageCount": 5,
    "source": "asp",
    "license": "CC BY",
    "cover": "covers/asp-en-0311.jpg"
-  },
-  {
-   "bookId": "asp-en-0312",
-   "title": "Curious Baby Elephant",
-   "level": 2,
-   "genres": [
-    "どうぶつ",
-    "かぞく・ともだち"
-   ],
-   "wordCount": 341,
-   "pageCount": 20,
-   "source": "asp",
-   "license": "CC BY",
-   "cover": "covers/asp-en-0312.jpg"
   },
   {
    "bookId": "asp-en-0314",
@@ -4194,7 +4152,7 @@
     "にちじょう"
    ],
    "wordCount": 98,
-   "pageCount": 11,
+   "pageCount": 12,
    "source": "asp",
    "license": "CC BY",
    "cover": "covers/asp-en-0350.jpg"
@@ -4276,7 +4234,7 @@
     "ぼうけん"
    ],
    "wordCount": 73,
-   "pageCount": 7,
+   "pageCount": 8,
    "source": "asp",
    "license": "CC BY",
    "cover": "covers/asp-en-0356.jpg"
@@ -4432,20 +4390,6 @@
    "source": "pb",
    "license": "CC BY 4.0",
    "cover": "covers/pb-en-0005.jpg"
-  },
-  {
-   "bookId": "pb-en-0006",
-   "title": "Counting on Moru",
-   "level": 4,
-   "genres": [
-    "にちじょう",
-    "かぞく・ともだち"
-   ],
-   "wordCount": 1955,
-   "pageCount": 26,
-   "source": "pb",
-   "license": "CC BY 4.0",
-   "cover": "covers/pb-en-0006.jpg"
   },
   {
    "bookId": "pb-en-0007",
@@ -5666,20 +5610,6 @@
    "cover": "covers/pb-en-0098.jpg"
   },
   {
-   "bookId": "pb-en-0099",
-   "title": "Here Comes the Camel and Other Poems",
-   "level": 3,
-   "genres": [
-    "どうぶつ",
-    "にちじょう"
-   ],
-   "wordCount": 689,
-   "pageCount": 19,
-   "source": "pb",
-   "license": "CC BY 4.0",
-   "cover": "covers/pb-en-0099.jpg"
-  },
-  {
    "bookId": "pb-en-0100",
    "title": "I Can Climb!",
    "level": 1,
@@ -6262,20 +6192,6 @@
    "cover": "covers/pb-en-0145.jpg"
   },
   {
-   "bookId": "pb-en-0146",
-   "title": "My Diwali Book",
-   "level": 2,
-   "genres": [
-    "かぞく・ともだち",
-    "にちじょう"
-   ],
-   "wordCount": 344,
-   "pageCount": 17,
-   "source": "pb",
-   "license": "CC BY 4.0",
-   "cover": "covers/pb-en-0146.jpg"
-  },
-  {
    "bookId": "pb-en-0147",
    "title": "Mili's birthday celebration",
    "level": 2,
@@ -6828,20 +6744,6 @@
    "source": "pb",
    "license": "CC BY 4.0",
    "cover": "covers/pb-en-0189.jpg"
-  },
-  {
-   "bookId": "pb-en-0190",
-   "title": "Kaushik, the Kind Detective",
-   "level": 3,
-   "genres": [
-    "かぞく・ともだち",
-    "しぜん・かがく"
-   ],
-   "wordCount": 371,
-   "pageCount": 10,
-   "source": "pb",
-   "license": "CC BY 4.0",
-   "cover": "covers/pb-en-0190.jpg"
   },
   {
    "bookId": "pb-en-0191",
@@ -8465,20 +8367,6 @@
    "cover": "covers/pb-en-0317.jpg"
   },
   {
-   "bookId": "pb-en-0318",
-   "title": "Why Does A Poori Puff Up?",
-   "level": 4,
-   "genres": [
-    "しぜん・かがく",
-    "むかしばなし"
-   ],
-   "wordCount": 1152,
-   "pageCount": 12,
-   "source": "pb",
-   "license": "CC BY 4.0",
-   "cover": "covers/pb-en-0318.jpg"
-  },
-  {
    "bookId": "pb-en-0319",
    "title": "A Brighter Day",
    "level": 1,
@@ -8842,20 +8730,6 @@
    "cover": "covers/pb-en-0356.jpg"
   },
   {
-   "bookId": "pb-en-0357",
-   "title": "Sam the Dragon",
-   "level": 2,
-   "genres": [
-    "ファンタジー",
-    "にちじょう"
-   ],
-   "wordCount": 200,
-   "pageCount": 12,
-   "source": "pb",
-   "license": "CC BY 4.0",
-   "cover": "covers/pb-en-0357.jpg"
-  },
-  {
    "bookId": "pb-en-0358",
    "title": "Nanni's Birthday Gift",
    "level": 3,
@@ -8868,20 +8742,6 @@
    "source": "pb",
    "license": "CC BY 4.0",
    "cover": "covers/pb-en-0358.jpg"
-  },
-  {
-   "bookId": "pb-en-0360",
-   "title": "Reeti and Mithu",
-   "level": 4,
-   "genres": [
-    "にちじょう",
-    "かぞく・ともだち"
-   ],
-   "wordCount": 1051,
-   "pageCount": 19,
-   "source": "pb",
-   "license": "CC BY 4.0",
-   "cover": "covers/pb-en-0360.jpg"
   },
   {
    "bookId": "pb-en-0361",
@@ -9052,20 +8912,6 @@
    "cover": "covers/pb-en-0374.jpg"
   },
   {
-   "bookId": "pb-en-0377",
-   "title": "Dum Dum-a-Dum Biryani!",
-   "level": 4,
-   "genres": [
-    "にちじょう",
-    "かぞく・ともだち"
-   ],
-   "wordCount": 1617,
-   "pageCount": 12,
-   "source": "pb",
-   "license": "CC BY 4.0",
-   "cover": "covers/pb-en-0377.jpg"
-  },
-  {
    "bookId": "pb-en-0378",
    "title": "Have You Ever Travelled By?",
    "level": 1,
@@ -9191,20 +9037,6 @@
    "cover": "covers/pb-en-0386.jpg"
   },
   {
-   "bookId": "pb-en-0388",
-   "title": "Where Did Your Dimples Go?",
-   "level": 4,
-   "genres": [
-    "かぞく・ともだち",
-    "どうぶつ"
-   ],
-   "wordCount": 792,
-   "pageCount": 13,
-   "source": "pb",
-   "license": "CC BY 4.0",
-   "cover": "covers/pb-en-0388.jpg"
-  },
-  {
    "bookId": "pb-en-0389",
    "title": "My best friend and I",
    "level": 2,
@@ -9259,20 +9091,6 @@
    "source": "pb",
    "license": "CC BY 4.0",
    "cover": "covers/pb-en-0394.jpg"
-  },
-  {
-   "bookId": "pb-en-0395",
-   "title": "Manikantan Has Enough",
-   "level": 4,
-   "genres": [
-    "かぞく・ともだち",
-    "しぜん・かがく"
-   ],
-   "wordCount": 1433,
-   "pageCount": 17,
-   "source": "pb",
-   "license": "CC BY 4.0",
-   "cover": "covers/pb-en-0395.jpg"
   },
   {
    "bookId": "pb-en-0397",
@@ -9359,20 +9177,6 @@
    "cover": "covers/pb-en-0404.jpg"
   },
   {
-   "bookId": "pb-en-0407",
-   "title": "Jamun Has Her Wish",
-   "level": 3,
-   "genres": [
-    "かぞく・ともだち",
-    "にちじょう"
-   ],
-   "wordCount": 531,
-   "pageCount": 13,
-   "source": "pb",
-   "license": "CC BY 4.0",
-   "cover": "covers/pb-en-0407.jpg"
-  },
-  {
    "bookId": "pb-en-0409",
    "title": "The wait",
    "level": 2,
@@ -9385,20 +9189,6 @@
    "source": "pb",
    "license": "CC BY 4.0",
    "cover": "covers/pb-en-0409.jpg"
-  },
-  {
-   "bookId": "pb-en-0410",
-   "title": "Inside the World Wide Web",
-   "level": 4,
-   "genres": [
-    "しぜん・かがく",
-    "ぼうけん"
-   ],
-   "wordCount": 1577,
-   "pageCount": 16,
-   "source": "pb",
-   "license": "CC BY 4.0",
-   "cover": "covers/pb-en-0410.jpg"
   },
   {
    "bookId": "pb-en-0411",
@@ -9673,7 +9463,7 @@
     "しぜん・かがく"
    ],
    "wordCount": 408,
-   "pageCount": 10,
+   "pageCount": 11,
    "source": "pb",
    "license": "CC BY 4.0",
    "cover": "covers/pb-en-0433.jpg"

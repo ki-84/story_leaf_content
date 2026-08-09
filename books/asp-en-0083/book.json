@@ -9,7 +9,7 @@
   ],
   "genreSource": "provisional-keyword",
   "wordCount": 529,
-  "pageCount": 11,
+  "pageCount": 12,
   "coverImagePath": "images/01.jpg",
   "source": "asp",
   "attribution": {
@@ -24,7 +24,7 @@
     "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
   },
   "warnings": [
-    "画像数 13 とページ数 11 が不一致 (要人手確認)"
+    "絵だけのページにも絵がある"
   ],
   "pages": [
     {
@@ -81,6 +81,11 @@
       "index": 10,
       "imagePath": "images/12.jpg",
       "text": "Graça mourned Samora for many\nyears, but she found love again.\nShe met a man who had also spent\nhis life dreaming of bringing\nfreedom, hope and education to his\npeople.\nGraça married Nelson Mandela and\ntogether they worked to help\nAfrica's children."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": ""
     }
   ]
 }

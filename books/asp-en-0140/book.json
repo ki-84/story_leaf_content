@@ -8,7 +8,7 @@
   ],
   "genreSource": "provisional-keyword",
   "wordCount": 96,
-  "pageCount": 15,
+  "pageCount": 17,
   "coverImagePath": "images/01.jpg",
   "source": "asp",
   "attribution": {
@@ -23,7 +23,7 @@
     "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
   },
   "warnings": [
-    "画像数 18 とページ数 15 が不一致 (要人手確認)"
+    "絵だけのページにも絵がある"
   ],
   "pages": [
     {
@@ -100,6 +100,16 @@
       "index": 14,
       "imagePath": "images/16.jpg",
       "text": "'Time to get out. I hope\nyou're clean and\nready for bed.'"
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
+      "text": ""
+    },
+    {
+      "index": 16,
+      "imagePath": "images/18.jpg",
+      "text": ""
     }
   ]
 }

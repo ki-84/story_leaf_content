@@ -9,7 +9,7 @@
   ],
   "genreSource": "provisional-keyword",
   "wordCount": 292,
-  "pageCount": 25,
+  "pageCount": 28,
   "coverImagePath": "images/01.jpg",
   "source": "asp",
   "attribution": {
@@ -24,7 +24,7 @@
     "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
   },
   "warnings": [
-    "画像数 30 とページ数 25 が不一致 (要人手確認)"
+    "絵だけのページにも絵がある"
   ],
   "pages": [
     {
@@ -105,51 +105,66 @@
     {
       "index": 15,
       "imagePath": "images/17.jpg",
-      "text": "\"I cannot leave until I\nsay thank you to the\ndove. I will wait until he\ncomes back to drink.\""
+      "text": ""
     },
     {
       "index": 16,
       "imagePath": "images/18.jpg",
-      "text": "One day as he waited,\ntwo boys came to the\nriver with their\nslingshots."
+      "text": "\"I cannot leave until I\nsay thank you to the\ndove. I will wait until he\ncomes back to drink.\""
     },
     {
       "index": 17,
       "imagePath": "images/19.jpg",
-      "text": "\"There is a big white\ndove that comes here\nto drink,\" said one boy.\n\"We will have it for\nsupper tonight.\""
+      "text": "One day as he waited,\ntwo boys came to the\nriver with their\nslingshots."
     },
     {
       "index": 18,
       "imagePath": "images/20.jpg",
-      "text": "\"I cannot let the boys\nkill White Dove.\nBut I am so tiny, what\ncan I do?\""
+      "text": "\"There is a big white\ndove that comes here\nto drink,\" said one boy.\n\"We will have it for\nsupper tonight.\""
     },
     {
       "index": 19,
       "imagePath": "images/21.jpg",
-      "text": "Just then White Dove\nflew down from the tree\nto drink."
+      "text": ""
     },
     {
       "index": 20,
       "imagePath": "images/22.jpg",
-      "text": "Little Ant had an idea."
+      "text": "\"I cannot let the boys\nkill White Dove.\nBut I am so tiny, what\ncan I do?\""
     },
     {
       "index": 21,
       "imagePath": "images/23.jpg",
-      "text": "He jumped onto one\nboy's foot, and bit him\nas hard as he could."
+      "text": "Just then White Dove\nflew down from the tree\nto drink."
     },
     {
       "index": 22,
       "imagePath": "images/24.jpg",
-      "text": "The boy jumped.\n\"Ouch!\" he cried."
+      "text": ""
     },
     {
       "index": 23,
       "imagePath": "images/25.jpg",
-      "text": "White Dove was\nstartled and flew away\nto safety."
+      "text": "Little Ant had an idea."
     },
     {
       "index": 24,
       "imagePath": "images/26.jpg",
+      "text": "He jumped onto one\nboy's foot, and bit him\nas hard as he could."
+    },
+    {
+      "index": 25,
+      "imagePath": "images/27.jpg",
+      "text": "The boy jumped.\n\"Ouch!\" he cried."
+    },
+    {
+      "index": 26,
+      "imagePath": "images/28.jpg",
+      "text": "White Dove was\nstartled and flew away\nto safety."
+    },
+    {
+      "index": 27,
+      "imagePath": "images/29.jpg",
       "text": "That was how Little Ant\nthanked White Dove for\nsaving him."
     }
   ]

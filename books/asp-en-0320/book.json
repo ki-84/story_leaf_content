@@ -22,9 +22,7 @@
     "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
     "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
   },
-  "warnings": [
-    "画像数 12 とページ数 10 が不一致 (要人手確認)"
-  ],
+  "warnings": [],
   "pages": [
     {
       "index": 0,

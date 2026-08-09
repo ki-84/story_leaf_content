@@ -9,7 +9,7 @@
   ],
   "genreSource": "provisional-keyword",
   "wordCount": 1093,
-  "pageCount": 15,
+  "pageCount": 16,
   "coverImagePath": "images/01.jpg",
   "source": "asp",
   "attribution": {
@@ -24,7 +24,7 @@
     "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
   },
   "warnings": [
-    "画像数 17 とページ数 15 が不一致 (要人手確認)"
+    "絵だけのページにも絵がある"
   ],
   "pages": [
     {
@@ -50,56 +50,61 @@
     {
       "index": 4,
       "imagePath": "images/06.jpg",
-      "text": "Mpunzi loved his new wife very\nmuch. He treated her like a queen.\nShe sat inside her hut all day and\ngave orders to Nosisa and the\nservants. Nosisa woke up early\nevery day to make tea for her\nstepmother. She cleaned her hut\nand cooked for her, but her\nstepmother always complained that\nher food was cold, her tea was\nweak, and her hut was not clean."
+      "text": ""
     },
     {
       "index": 5,
       "imagePath": "images/07.jpg",
-      "text": "One day Mpunzi became very angry at Nosisa. He\nscolded her and hit her with a stick. Nosisa ran off to\nthe river where she sat and cried the whole\nafternoon.\nSuddenly she heard a voice coming out of the river.\nShe looked up and saw a big fish. The voice was\ncoming from the fish. Nosisa was so shocked she\nalmost ran away, but the fish stopped her. \"Please\ndon't run away my daughter, I am your mother. I\nhave changed myself into a fish so that your father\ndoes not know it's me.\""
+      "text": "Mpunzi loved his new wife very\nmuch. He treated her like a queen.\nShe sat inside her hut all day and\ngave orders to Nosisa and the\nservants. Nosisa woke up early\nevery day to make tea for her\nstepmother. She cleaned her hut\nand cooked for her, but her\nstepmother always complained that\nher food was cold, her tea was\nweak, and her hut was not clean."
     },
     {
       "index": 6,
       "imagePath": "images/08.jpg",
-      "text": "\"What is the matter?\" asked the\nfish. Nosisa told the fish everything\nabout her sad life. \"Don't worry my\ngirl. I will bring you food every day,\"\nsaid the fish. The fish gave fresh\nvegetables to Nosisa. She had a\nfeast. When she looked up the fish\nwas gone. That day Nosisa went\nhome smiling. She would not have\nto go to bed without food as usual."
+      "text": "One day Mpunzi became very angry at Nosisa. He\nscolded her and hit her with a stick. Nosisa ran off to\nthe river where she sat and cried the whole\nafternoon.\nSuddenly she heard a voice coming out of the river.\nShe looked up and saw a big fish. The voice was\ncoming from the fish. Nosisa was so shocked she\nalmost ran away, but the fish stopped her. \"Please\ndon't run away my daughter, I am your mother. I\nhave changed myself into a fish so that your father\ndoes not know it's me.\""
     },
     {
       "index": 7,
       "imagePath": "images/09.jpg",
-      "text": "Nosisa went to the river every day. In the morning\nshe woke up as usual and did her chores around the\nhouse. At midday, she went to the river. She called\nout every time, and every time the fish would appear\nwith delicious food. Nosisa became happier and\nhappier. She could talk to the fish about anything.\nShe started to regain her health. Her skin was\nglowing and she was a happy child."
+      "text": "\"What is the matter?\" asked the\nfish. Nosisa told the fish everything\nabout her sad life. \"Don't worry my\ngirl. I will bring you food every day,\"\nsaid the fish. The fish gave fresh\nvegetables to Nosisa. She had a\nfeast. When she looked up the fish\nwas gone. That day Nosisa went\nhome smiling. She would not have\nto go to bed without food as usual."
     },
     {
       "index": 8,
       "imagePath": "images/10.jpg",
-      "text": "Nosisa visited the fish every day until her stepmother\nbecame suspicious. Nosisa had gained weight and\nshe was glowing. \"Something is going on at the river,\nI must find out what it is,\" thought the stepmother.\nOne afternoon she followed Nosisa to the river. She\nsaw Nosisa talking to the fish, and getting delicious\nfood. Nosisa's secret was out. \"I have to do\nsomething about this fish,\" said the stepmother."
+      "text": "Nosisa went to the river every day. In the morning\nshe woke up as usual and did her chores around the\nhouse. At midday, she went to the river. She called\nout every time, and every time the fish would appear\nwith delicious food. Nosisa became happier and\nhappier. She could talk to the fish about anything.\nShe started to regain her health. Her skin was\nglowing and she was a happy child."
     },
     {
       "index": 9,
       "imagePath": "images/11.jpg",
-      "text": "In the evening, Mpunzi came back from the fields. He\nfound his new wife crying in her hut. \"What is wrong\nmy lovely wife,\" asked Mpunzi.\n\"I went to a traditional doctor,\" said the wife. \"He\ntold me that the only way for me to give you a son is\nto eat the biggest fish that lives in this nearby river,\"\nshe said. \"Will you catch the fish for me tonight?\"\npleaded the woman.\n\"I will do anything for you my beautiful wife,\" said\nMpunzi."
+      "text": "Nosisa visited the fish every day until her stepmother\nbecame suspicious. Nosisa had gained weight and\nshe was glowing. \"Something is going on at the river,\nI must find out what it is,\" thought the stepmother.\nOne afternoon she followed Nosisa to the river. She\nsaw Nosisa talking to the fish, and getting delicious\nfood. Nosisa's secret was out. \"I have to do\nsomething about this fish,\" said the stepmother."
     },
     {
       "index": 10,
       "imagePath": "images/12.jpg",
-      "text": "Mpunzi set off to the river before it was too dark. He\ntook his servants to help him find the biggest fish in\nthat river. They searched and searched and\neventually Mpunzi caught the biggest fish. He put it\nin a bag and went home with it. When he got to the\nhouse, there was a good hot fire ready to cook the\nfish.\n\"I will make the best meal ever for us,\" said the\nwoman to Mpunzi. \"You are the bravest and\nstrongest man I know.\"\nMpunzi was very pleased with himself."
+      "text": "In the evening, Mpunzi came back from the fields. He\nfound his new wife crying in her hut. \"What is wrong\nmy lovely wife,\" asked Mpunzi.\n\"I went to a traditional doctor,\" said the wife. \"He\ntold me that the only way for me to give you a son is\nto eat the biggest fish that lives in this nearby river,\"\nshe said. \"Will you catch the fish for me tonight?\"\npleaded the woman.\n\"I will do anything for you my beautiful wife,\" said\nMpunzi."
     },
     {
       "index": 11,
       "imagePath": "images/13.jpg",
-      "text": "That night Mpunzi and his wife went to bed happy\nafter their delicious meal. They left the bones on the\ntable for Nosisa to clean in the morning.\nWhen Nosisa brought coffee into their hut in the\nmorning they were still sleeping. \"This is very\nstrange,\" she thought to herself. \"My father usually\nwakes up very early in the morning to go to the\nfields. I wonder why he is still sleeping.\""
+      "text": "Mpunzi set off to the river before it was too dark. He\ntook his servants to help him find the biggest fish in\nthat river. They searched and searched and\neventually Mpunzi caught the biggest fish. He put it\nin a bag and went home with it. When he got to the\nhouse, there was a good hot fire ready to cook the\nfish.\n\"I will make the best meal ever for us,\" said the\nwoman to Mpunzi. \"You are the bravest and\nstrongest man I know.\"\nMpunzi was very pleased with himself."
     },
     {
       "index": 12,
       "imagePath": "images/14.jpg",
-      "text": "\"Anyway, now I can run to the river for a nice\nbreakfast,\" she thought. Nosisa ran to the river.\nWhen she got there she called out to the fish, and\nshe called again and again. The fish never came.\nNosisa started to cry. She did not know what had\nhappened to the fish.\nWhile she was crying a bird came to sit next to her\nand told her what had happened. She cried harder\nthinking that her mother had been caught and eaten."
+      "text": "That night Mpunzi and his wife went to bed happy\nafter their delicious meal. They left the bones on the\ntable for Nosisa to clean in the morning.\nWhen Nosisa brought coffee into their hut in the\nmorning they were still sleeping. \"This is very\nstrange,\" she thought to herself. \"My father usually\nwakes up very early in the morning to go to the\nfields. I wonder why he is still sleeping.\""
     },
     {
       "index": 13,
       "imagePath": "images/15.jpg",
-      "text": "The bird told her to collect the fish bones from the\ntable and throw them back into the river. If she did\nthat the fish would come back to life. The bird also\ntold her to let her father and stepmother sleep and\nwake them up only at midday. Nosisa did as she was\ntold. She ran back home and walked quietly into her\nfather's hut. They were still fast asleep. She took the\nbones, put them inside a bag and threw them back\ninto the river."
+      "text": "\"Anyway, now I can run to the river for a nice\nbreakfast,\" she thought. Nosisa ran to the river.\nWhen she got there she called out to the fish, and\nshe called again and again. The fish never came.\nNosisa started to cry. She did not know what had\nhappened to the fish.\nWhile she was crying a bird came to sit next to her\nand told her what had happened. She cried harder\nthinking that her mother had been caught and eaten."
     },
     {
       "index": 14,
       "imagePath": "images/16.jpg",
+      "text": "The bird told her to collect the fish bones from the\ntable and throw them back into the river. If she did\nthat the fish would come back to life. The bird also\ntold her to let her father and stepmother sleep and\nwake them up only at midday. Nosisa did as she was\ntold. She ran back home and walked quietly into her\nfather's hut. They were still fast asleep. She took the\nbones, put them inside a bag and threw them back\ninto the river."
+    },
+    {
+      "index": 15,
+      "imagePath": "images/17.jpg",
       "text": "Nosisa ran back home and just before midday she\nwoke her father and stepmother. She could hardly\nrecognise them. They looked old and grey and frail.\nThey were too old to scold her. They were too weak\nto hit her. They were too tired to look after the\nhomestead.\nSo, Nosisa took over the homestead and her father's\nwealth. She called all the servants and told them\nwhat had happened. They prepared a feast and there\nwas peace at the homestead from that day on."
     }
   ]

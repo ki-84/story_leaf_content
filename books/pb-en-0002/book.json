@@ -1,7 +1,6 @@
 {
   "bookId": "pb-en-0002",
   "title": "Fat King Thin Dog",
-  "slug": "fat-king-thin-dog",
   "level": 1,
   "levelSource": "provisional-wordcount",
   "genres": [
@@ -12,7 +11,7 @@
   "wordCount": 62,
   "pageCount": 7,
   "coverImagePath": "images/01.jpg",
-  "source": "storyweaver (global-asp/pb-source mirror)",
+  "source": "pb",
   "attribution": {
     "title": "Fat King Thin Dog",
     "author": "Parismita",
@@ -24,7 +23,6 @@
     "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
     "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
   },
-  "bundled": true,
   "warnings": [],
   "pages": [
     {

@@ -8,7 +8,7 @@
   ],
   "genreSource": "provisional-keyword",
   "wordCount": 408,
-  "pageCount": 10,
+  "pageCount": 11,
   "coverImagePath": "images/01.jpg",
   "source": "pb",
   "attribution": {
@@ -23,7 +23,7 @@
     "modified": "テキスト抽出・画像リサイズ・JSON 正規化を実施"
   },
   "warnings": [
-    "画像数 13 とページ数 10 が不一致 (要人手確認)"
+    "絵だけのページにも絵がある"
   ],
   "pages": [
     {
@@ -75,6 +75,11 @@
       "index": 9,
       "imagePath": "images/11.jpg",
       "text": "Soon...\n\nA tiny little plant will come from the seed. One day it will be a tree.\n\nAnd green grass will grow all around.\n\nAnd green grass will grow all around."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": ""
     }
   ]
 }
