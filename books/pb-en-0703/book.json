@@ -1,0 +1,89 @@
+{
+  "bookId": "pb-en-0703",
+  "title": "The Big Pancake Morning",
+  "level": 2,
+  "levelSource": "original",
+  "genres": [
+    "かぞく・ともだち",
+    "ゆかい・ユーモア"
+  ],
+  "genreSource": "original",
+  "wordCount": 182,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "original",
+  "attribution": {
+    "title": "The Big Pancake Morning",
+    "author": "Nobuaki Kuwabara",
+    "illustrator": "AI generated (FLUX.1-schnell), directed by Nobuaki Kuwabara",
+    "translator": null,
+    "publisher": "Nobuaki Kuwabara",
+    "sourceURL": "https://ki-84.github.io/story_leaf_content/",
+    "license": "All Rights Reserved",
+    "licenseURL": "https://ki-84.github.io/story_leaf_content/LICENSE-original.txt",
+    "modified": "生成AI (FLUX.1-schnell) による画像生成・オリジナルテキスト"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "One sunny morning, Bruno the bear cub woke up very hungry. “Pancakes!” he said. “I want pancakes!”"
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "But Bruno's kitchen was almost empty. He had flour, but no eggs, no milk, no honey. Bruno looked very sad."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Pip the hedgehog knocked on the door. “Why so sad, Bruno?” “I have no eggs,” said Bruno."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "“Let's ask our friends!” said Pip. So they walked to Nana's house together."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "Nana the rabbit had two big eggs. “Here you are!” she said with a happy hop."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Coco the duckling brought a jug of milk. But Coco tripped at the kitchen door! Oh no!"
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Splash! The milk flew up... and landed right in the bowl. “Lucky duck!” everyone laughed."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Wise old Olive the owl came with honey. “A little honey makes everything sweet,” she said."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "They mixed and mixed. Flip! Bruno turned the pancakes in the pan."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Soon the little kitchen smelled warm and sweet. The pancakes were golden and round."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "“Thank you, friends,” said Bruno. “Pancakes taste best when we share them.”"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "So the five friends ate pancakes together, and every plate was soon empty."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "bookId": "pb-en-0701",
+  "title": "The Slow, Slow Letter",
+  "level": 2,
+  "genres": ["どうぶつ", "かぞく・ともだち"],
+  "style_prefix": "Children's picture book illustration.",
+  "style_suffix": "Flat colors, soft pastel palette, simple rounded shapes, thick clean outlines, warm sunny light, simple uncluttered background, no text, no letters, no words.",
+  "characters": {
+    "lulu": "Lulu is a small cheerful green turtle with a round brown shell, short legs, big friendly eyes, and a little red mail bag on her back.",
+    "letter": "The letter is a plain white envelope with a red heart seal.",
+    "rabbit": "The rabbit is a tall slim beige rabbit with long upright ears and a cocky grin.",
+    "crow": "The crow is a round glossy black crow with a gray beak.",
+    "grandma": "Grandma Mouse is a small round gray mouse with tiny round glasses, a pink shawl, and a warm smile."
+  },
+  "cover": {
+    "scene": "Exactly one animal in the picture: the small green turtle Lulu with her red mail bag walks proudly along a sunny path beside a big blue pond, a white envelope tucked in the bag, centered, front three-quarter view.",
+    "cast": ["lulu"],
+    "seed": 7300
+  },
+  "pages": [
+    {
+      "text": "Lulu was a little mail turtle. Every morning, she carried letters around the big pond.",
+      "scene": "Exactly one animal in the picture: the small green turtle Lulu with her red mail bag walks along a dirt path beside a big blue pond on a sunny morning, cattails and flowers by the water.",
+      "cast": ["lulu"],
+      "seed": 7301
+    },
+    {
+      "text": "One morning, a special letter came. It was for Grandma Mouse. “Today is her birthday!” said Lulu.",
+      "scene": "Exactly one animal in the picture: the small green turtle Lulu holds up a white envelope with a red heart seal and looks at it with wide happy eyes, standing on the path by the pond.",
+      "cast": ["lulu", "letter"],
+      "seed": 7302
+    },
+    {
+      "text": "Grandma Mouse lived on the far side of the pond. Lulu started to walk. Walk, walk, walk.",
+      "scene": "Wide view. A long sandy path curves around the edge of a big blue pond, always on dry land beside the water. The small green turtle Lulu with her red mail bag walks on the path in the bottom left, on the grass. Far away on the opposite shore, in the top right, stands one tiny cozy mouse house with a round door.",
+      "cast": ["lulu"],
+      "seed": 7403
+    },
+    {
+      "text": "“You are too slow!” laughed Rabbit. “Give me the letter. I can run fast!”",
+      "scene": "Only these two animals: one rabbit and one turtle. One tall beige rabbit with long upright ears stands on the sandy path, bends down and laughs boastfully at the small green turtle Lulu, who holds her red mail bag close with a calm face.",
+      "cast": ["lulu", "rabbit"],
+      "seed": 7404
+    },
+    {
+      "text": "“No, thank you,” said Lulu. “A mail turtle carries her own mail.” And she walked on.",
+      "scene": "Exactly two animals in the picture: the small green turtle Lulu walks away along the path with her head held high and her red mail bag on her back, while the tall beige rabbit stands behind her looking surprised.",
+      "cast": ["lulu", "rabbit"],
+      "seed": 7305
+    },
+    {
+      "text": "“Give it to me!” called Crow. “I can fly over the pond!” “No, thank you,” said Lulu.",
+      "scene": "Exactly two animals in the picture: a round glossy black crow perches on a tree branch in the top right and calls down. The small green turtle Lulu walks on the path below in the bottom left, calm and steady with her red mail bag.",
+      "cast": ["lulu", "crow"],
+      "seed": 7306
+    },
+    {
+      "text": "Then rain fell. Drip, drop! Lulu hid the letter under her shell. It stayed warm and dry.",
+      "scene": "Soft blue rain falls from one gray cloud. Exactly one animal in the picture: the small green turtle Lulu tucks her head low, and a corner of the white envelope peeks out safely from under her round brown shell.",
+      "cast": ["lulu", "letter"],
+      "seed": 7307
+    },
+    {
+      "text": "The rain stopped. A big hill stood in the way. Lulu climbed and climbed. She did not stop.",
+      "scene": "Exactly one animal in the picture: the small green turtle Lulu with her red mail bag climbs up a big round green hill with a determined face. A small rainbow arcs in the clearing sky behind her.",
+      "cast": ["lulu"],
+      "seed": 7308
+    },
+    {
+      "text": "At sunset, Lulu came to Grandma Mouse's door. She knocked. “Mail for you, Grandma Mouse!”",
+      "scene": "Warm orange sunset. Exactly one animal in the picture: the small green turtle Lulu stands at the little round wooden door of a cozy mouse house and knocks, her red mail bag on her back.",
+      "cast": ["lulu"],
+      "seed": 7309
+    },
+    {
+      "text": "Grandma Mouse opened the letter. It was from her grandchildren. “Happy birthday, Grandma! We love you!”",
+      "scene": "Exactly one animal in the picture: the small round gray Grandma Mouse with tiny round glasses and a pink shawl sits in a cozy warm room and happily reads one opened plain white paper letter held in her paws, smiling with joy.",
+      "cast": ["grandma", "letter"],
+      "seed": 7510
+    },
+    {
+      "text": "Grandma Mouse smiled and smiled. “This is the best gift,” she said. “Thank you, Lulu.”",
+      "scene": "Only these two animals: one mouse and one turtle. In a cozy warm room with a little lamp, the small round gray Grandma Mouse with tiny round glasses and a pink shawl stands on the right and smiles warmly at the small green turtle Lulu, who stands on the left and smiles back. A clear gap of floor separates the two.",
+      "cast": ["lulu", "grandma"],
+      "seed": 7511
+    },
+    {
+      "text": "That night, they ate warm cheese cake together. Slow and steady Lulu felt very happy.",
+      "scene": "Only these two animals: one mouse and one turtle. Side view of a tiny round table with one yellow cheese cake and one lit candle. The small green turtle Lulu sits on the left. The small round gray Grandma Mouse with tiny round glasses and a pink shawl sits on the right. Cozy room, warm lamplight, plain wall behind them.",
+      "cast": ["lulu", "grandma"],
+      "seed": 7412
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "bookId": "pb-en-0701",
+  "title": "The Slow, Slow Letter",
+  "level": 2,
+  "levelSource": "original",
+  "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+  ],
+  "genreSource": "original",
+  "wordCount": 192,
+  "pageCount": 12,
+  "coverImagePath": "images/01.jpg",
+  "source": "original",
+  "attribution": {
+    "title": "The Slow, Slow Letter",
+    "author": "Nobuaki Kuwabara",
+    "illustrator": "AI generated (FLUX.1-schnell), directed by Nobuaki Kuwabara",
+    "translator": null,
+    "publisher": "Nobuaki Kuwabara",
+    "sourceURL": "https://ki-84.github.io/story_leaf_content/",
+    "license": "All Rights Reserved",
+    "licenseURL": "https://ki-84.github.io/story_leaf_content/LICENSE-original.txt",
+    "modified": "生成AI (FLUX.1-schnell) による画像生成・オリジナルテキスト"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Lulu was a little mail turtle. Every morning, she carried letters around the big pond."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One morning, a special letter came. It was for Grandma Mouse. “Today is her birthday!” said Lulu."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Grandma Mouse lived on the far side of the pond. Lulu started to walk. Walk, walk, walk."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "“You are too slow!” laughed Rabbit. “Give me the letter. I can run fast!”"
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "“No, thank you,” said Lulu. “A mail turtle carries her own mail.” And she walked on."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "“Give it to me!” called Crow. “I can fly over the pond!” “No, thank you,” said Lulu."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Then rain fell. Drip, drop! Lulu hid the letter under her shell. It stayed warm and dry."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The rain stopped. A big hill stood in the way. Lulu climbed and climbed. She did not stop."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "At sunset, Lulu came to Grandma Mouse's door. She knocked. “Mail for you, Grandma Mouse!”"
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Grandma Mouse opened the letter. It was from her grandchildren. “Happy birthday, Grandma! We love you!”"
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Grandma Mouse smiled and smiled. “This is the best gift,” she said. “Thank you, Lulu.”"
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "That night, they ate warm cheese cake together. Slow and steady Lulu felt very happy."
+    }
+  ]
+}

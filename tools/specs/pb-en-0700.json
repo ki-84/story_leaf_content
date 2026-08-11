@@ -1,0 +1,90 @@
+{
+  "bookId": "pb-en-0700",
+  "title": "Where Is Momo's Hat?",
+  "level": 1,
+  "genres": ["どうぶつ", "にちじょう"],
+  "style_prefix": "Children's picture book illustration.",
+  "style_suffix": "Flat colors, soft pastel palette, simple rounded shapes, thick clean outlines, warm sunny light, simple uncluttered background, no text, no letters, no words.",
+  "characters": {
+    "momo": "Momo is a small chubby orange fox cub with a cream white belly and muzzle, big round dark eyes, and a big fluffy orange tail with a white tip.",
+    "hat": "The hat is a bright red knitted wool hat with a white pompom on top.",
+    "rabbit": "The rabbit is a small round white rabbit with long upright ears and a pink nose.",
+    "bear": "The bear is a big round gentle light-brown bear with a tan muzzle and small ears.",
+    "duck": "The duck is a small plump yellow duck with an orange beak.",
+    "bird": "The bird is a tiny round sky-blue bird with a small orange beak.",
+    "mama": "Mama is a bigger slender orange mother fox with a cream white belly, kind eyes, and a pale blue apron."
+  },
+  "cover": {
+    "scene": "A cheerful little fox cub named Momo wearing a bright red knitted wool hat with a white pompom, standing in a green meadow with small flowers under a blue sky, smiling happily, front view, centered.",
+    "cast": ["momo"],
+    "seed": 7000
+  },
+  "pages": [
+    {
+      "text": "Momo has a red hat. She loves her red hat.",
+      "scene": "The little fox cub Momo stands in a green meadow with small flowers, proudly wearing her bright red knitted wool hat with a white pompom, smiling with joy.",
+      "cast": ["momo", "hat"],
+      "seed": 7001
+    },
+    {
+      "text": "One day, the wind blows. Oh no! The hat flies away.",
+      "scene": "A windy day in the green meadow. The bright red knitted wool hat with a white pompom flies off the little fox cub Momo's head into the sky. Momo reaches up, surprised, mouth open. Leaves swirl in the wind.",
+      "cast": ["momo", "hat"],
+      "seed": 7002
+    },
+    {
+      "text": "Momo looks under the tree. No hat.",
+      "scene": "Exactly one animal in the picture: the bareheaded little fox cub Momo crouches low and peers into the grass under one big round green tree in the meadow, searching with a worried face.",
+      "cast": ["momo"],
+      "seed": 7103
+    },
+    {
+      "text": "“Rabbit, do you see my red hat?”\n“No,” says Rabbit.",
+      "scene": "Exactly two animals in the picture: the bareheaded little fox cub Momo talks to one single small white rabbit next to a green bush in the meadow. The rabbit shakes its head.",
+      "cast": ["momo", "rabbit"],
+      "seed": 7104
+    },
+    {
+      "text": "“Bear, do you see my red hat?”\n“No,” says Bear.",
+      "scene": "The little fox cub Momo, not wearing any hat, looks up and talks to a big gentle light-brown bear at the edge of a friendly green forest. The bear shrugs kindly.",
+      "cast": ["momo", "bear"],
+      "seed": 7005
+    },
+    {
+      "text": "“Duck, do you see my red hat?”\n“No,” says Duck.",
+      "scene": "The little fox cub Momo, not wearing any hat, talks to a small plump yellow duck standing by a little round blue pond in the meadow.",
+      "cast": ["momo", "duck"],
+      "seed": 7006
+    },
+    {
+      "text": "Momo is sad. Where is her red hat?",
+      "scene": "The little fox cub Momo, not wearing any hat, sits alone in the green meadow with drooping ears and a sad face, one small white cloud above her head.",
+      "cast": ["momo"],
+      "seed": 7007
+    },
+    {
+      "text": "Look! A bird has the red hat. It is a nest!",
+      "scene": "The bareheaded little fox cub Momo stands on the grass under a big tree and points up happily with wide surprised eyes. High on a branch above her, one tiny sky-blue bird sits inside the bright red knitted wool hat with a white pompom, using it as a nest. The hat appears only once, up on the branch. Momo's head is bare.",
+      "cast": ["momo", "bird", "hat"],
+      "seed": 7108
+    },
+    {
+      "text": "Momo sees the baby birds in the hat. They are warm.",
+      "scene": "Close-up of a tree branch: three tiny fluffy sky-blue baby birds snuggle warmly inside the bright red knitted wool hat with a white pompom, which sits on the branch like a cozy nest. The mother sky-blue bird perches beside them.",
+      "cast": ["bird", "hat"],
+      "seed": 7009
+    },
+    {
+      "text": "“You can have my hat,” says Momo. The birds sing.",
+      "scene": "Wide view. The bareheaded little fox cub Momo sits on the grass in the bottom left corner and smiles up. Far away in the top right corner, high on a tree branch, tiny sky-blue birds sing inside the bright red knitted wool hat nest with a white pompom. Open sky separates Momo from the branch. Little music notes float in the air.",
+      "cast": ["momo", "bird", "hat"],
+      "seed": 7210
+    },
+    {
+      "text": "Mama knits a new hat for Momo. It is red, too!",
+      "scene": "Exactly two foxes in the picture: in a cozy warm room, the mother fox Mama gives the little fox cub Momo a brand new bright red knitted wool hat with a white pompom. Momo wears it and beams with joy. A basket of red yarn sits nearby.",
+      "cast": ["momo", "mama", "hat"],
+      "seed": 7111
+    }
+  ]
+}

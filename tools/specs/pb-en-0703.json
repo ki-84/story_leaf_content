@@ -1,0 +1,133 @@
+{
+  "bookId": "pb-en-0703",
+  "title": "The Big Pancake Morning",
+  "level": 2,
+  "genres": [
+    "かぞく・ともだち",
+    "ゆかい・ユーモア"
+  ],
+  "backend": "lora",
+  "castSpec": "tools/specs/cast/skyport.json",
+  "lora": "tools/lora/output/skyport-cast-v1-bf16.safetensors",
+  "loraMultiplier": 1.2,
+  "style_suffix": "simple pale hand-drawn kawaii children's illustration",
+  "characters": {},
+  "cover": {
+    "scene": "exactly five animal friends standing in a row in a simple cozy kitchen: the bear cub in the middle holding a plate with a tall stack of golden pancakes, the hedgehog child and the white rabbit child on the left, the duckling and the owl on the right, all five smiling, leave the upper part simple for a title",
+    "cast": [
+      "pip",
+      "nana",
+      "bruno",
+      "coco",
+      "olive"
+    ],
+    "seed": 10200
+  },
+  "pages": [
+    {
+      "text": "One sunny morning, Bruno the bear cub woke up very hungry. “Pancakes!” he said. “I want pancakes!”",
+      "scene": "the bear cub sits up in a small bed with a joyful open mouth, morning light through a small round window, simple cozy bedroom",
+      "cast": [
+        "bruno"
+      ],
+      "seed": 10101
+    },
+    {
+      "text": "But Bruno's kitchen was almost empty. He had flour, but no eggs, no milk, no honey. Bruno looked very sad.",
+      "scene": "the bear cub holds one small paper bag of flour and looks into an almost empty open cupboard, sad with one big round teardrop at the corner of one eye and a small wavy downturned mouth, simple cozy kitchen",
+      "cast": [
+        "bruno"
+      ],
+      "seed": 10302
+    },
+    {
+      "text": "Pip the hedgehog knocked on the door. “Why so sad, Bruno?” “I have no eggs,” said Bruno.",
+      "scene": "the hedgehog child stands at an open wooden door talking to the bear cub, who looks worried with tilted eyebrows and a small wavy mouth, simple cozy room",
+      "cast": [
+        "pip",
+        "bruno"
+      ],
+      "seed": 10103
+    },
+    {
+      "text": "“Let's ask our friends!” said Pip. So they walked to Nana's house together.",
+      "scene": "the hedgehog child and the bear cub walk together on a simple path in a grassy meadow with two small flowers, both with calm gentle smiles",
+      "cast": [
+        "pip",
+        "bruno"
+      ],
+      "seed": 10104
+    },
+    {
+      "text": "Nana the rabbit had two big eggs. “Here you are!” she said with a happy hop.",
+      "scene": "the white rabbit child jumps happily holding a small basket with two eggs, smiling joyfully with closed eyes curved like happy arcs, in front of a simple little house",
+      "cast": [
+        "nana"
+      ],
+      "seed": 10105
+    },
+    {
+      "text": "Coco the duckling brought a jug of milk. But Coco tripped at the kitchen door! Oh no!",
+      "scene": "exactly one duckling in the picture: the duckling trips on the doorstep of an open kitchen door while carrying a little white jug of milk, surprised with slightly bigger round dot eyes and a tiny round open mouth and one small sweat drop, simple cozy kitchen entrance",
+      "cast": [
+        "coco"
+      ],
+      "seed": 10306
+    },
+    {
+      "text": "Splash! The milk flew up... and landed right in the bowl. “Lucky duck!” everyone laughed.",
+      "scene": "exactly one duckling in the picture: the duckling sits on the kitchen floor looking up with a happy relieved smile, while a splash of milk lands neatly into one big mixing bowl on the table above, simple kitchen",
+      "cast": [
+        "coco"
+      ],
+      "seed": 10307
+    },
+    {
+      "text": "Wise old Olive the owl came with honey. “A little honey makes everything sweet,” she said.",
+      "scene": "the owl holds a small honey pot with both wings, with a calm gentle smile, standing in a simple cozy kitchen",
+      "cast": [
+        "olive"
+      ],
+      "seed": 10108
+    },
+    {
+      "text": "They mixed and mixed. Flip! Bruno turned the pancakes in the pan.",
+      "scene": "the bear cub flips a pancake in a small frying pan with a joyful open mouth, the duckling watches with sparkling excitement, simple kitchen with a small stove",
+      "cast": [
+        "bruno",
+        "coco"
+      ],
+      "seed": 10109
+    },
+    {
+      "text": "Soon the little kitchen smelled warm and sweet. The pancakes were golden and round.",
+      "scene": "a tall stack of golden round pancakes on a big plate on a wooden table, the hedgehog child and the white rabbit child peek at it with joyful faces, simple cozy kitchen",
+      "cast": [
+        "pip",
+        "nana"
+      ],
+      "seed": 10110
+    },
+    {
+      "text": "“Thank you, friends,” said Bruno. “Pancakes taste best when we share them.”",
+      "scene": "the bear cub smiles warmly holding a plate of pancakes, the owl beside him with a calm gentle smile, simple cozy kitchen",
+      "cast": [
+        "bruno",
+        "olive"
+      ],
+      "seed": 10111
+    },
+    {
+      "text": "So the five friends ate pancakes together, and every plate was soon empty.",
+      "scene": "the hedgehog child, the white rabbit child, the duckling, the bear cub and the owl sit around a small round table eating pancakes together, all smiling joyfully, simple cozy kitchen",
+      "cast": [
+        "pip",
+        "nana",
+        "coco",
+        "bruno",
+        "olive"
+      ],
+      "seed": 10112
+    }
+  ]
+}

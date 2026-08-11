@@ -1,0 +1,37 @@
+# Skyport キャスト LoRA 学習データセット設定 (musubi-tuner)
+[general]
+resolution = [832, 832]
+caption_extension = ".txt"
+batch_size = 1
+enable_bucket = true
+bucket_no_upscale = false
+
+[[datasets]]
+image_directory = "/home/kuwabara/devwork/story_leaf_content/dataset/skyport/pip"
+cache_directory = "/home/kuwabara/devwork/story_leaf_content/dataset/skyport/cache/pip"
+num_repeats = 1
+
+[[datasets]]
+image_directory = "/home/kuwabara/devwork/story_leaf_content/dataset/skyport/nana"
+cache_directory = "/home/kuwabara/devwork/story_leaf_content/dataset/skyport/cache/nana"
+num_repeats = 1
+
+[[datasets]]
+image_directory = "/home/kuwabara/devwork/story_leaf_content/dataset/skyport/coco"
+cache_directory = "/home/kuwabara/devwork/story_leaf_content/dataset/skyport/cache/coco"
+num_repeats = 1
+
+[[datasets]]
+image_directory = "/home/kuwabara/devwork/story_leaf_content/dataset/skyport/bruno"
+cache_directory = "/home/kuwabara/devwork/story_leaf_content/dataset/skyport/cache/bruno"
+num_repeats = 1
+
+[[datasets]]
+image_directory = "/home/kuwabara/devwork/story_leaf_content/dataset/skyport/olive"
+cache_directory = "/home/kuwabara/devwork/story_leaf_content/dataset/skyport/cache/olive"
+num_repeats = 1
+
+[[datasets]]
+image_directory = "/home/kuwabara/devwork/story_leaf_content/dataset/skyport/pairs"
+cache_directory = "/home/kuwabara/devwork/story_leaf_content/dataset/skyport/cache/pairs"
+num_repeats = 2

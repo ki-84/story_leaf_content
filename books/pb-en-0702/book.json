@@ -1,0 +1,99 @@
+{
+  "bookId": "pb-en-0702",
+  "title": "The Lighthouse Mouse",
+  "level": 3,
+  "levelSource": "original",
+  "genres": [
+    "ぼうけん",
+    "どうぶつ"
+  ],
+  "genreSource": "original",
+  "wordCount": 382,
+  "pageCount": 14,
+  "coverImagePath": "images/01.jpg",
+  "source": "original",
+  "attribution": {
+    "title": "The Lighthouse Mouse",
+    "author": "Nobuaki Kuwabara",
+    "illustrator": "AI generated (FLUX.1-schnell), directed by Nobuaki Kuwabara",
+    "translator": null,
+    "publisher": "Nobuaki Kuwabara",
+    "sourceURL": "https://ki-84.github.io/story_leaf_content/",
+    "license": "All Rights Reserved",
+    "licenseURL": "https://ki-84.github.io/story_leaf_content/LICENSE-original.txt",
+    "modified": "生成AI (FLUX.1-schnell) による画像生成・オリジナルテキスト"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Milo lived in a tall white lighthouse by the sea. Every evening, his grandpa climbed the long stairs and lit the great lamp at the top."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "“The light keeps the boats safe,” Grandpa always said. “When the sea is dark, our lamp shows them the way home.” Milo loved to watch it shine."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "One autumn night, a storm came. The wind howled, and the rain beat against the windows. Far out at sea, Old Otter's little red boat was sailing home."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "Suddenly, everything went dark. The great lamp had gone out! Grandpa turned the switch again and again, but nothing happened. The lighthouse stood blind in the storm."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "“The storm broke the lamp,” said Grandpa. “I must fix it, but it will take time.” His voice was worried. “And Old Otter is still out at sea.”"
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "Milo looked out into the black night. Without the light, Old Otter could not find the harbor. The waves were tall and strong. Milo had to do something."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Then he remembered the meadow behind the lighthouse. On summer nights, it was full of fireflies! “Maybe they can help us,” Milo said, and he ran down the stairs."
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "The fireflies were hiding from the rain under the leaves. “Please,” said Milo, “a boat is lost in the dark. Will you shine with me?” The fireflies blinked kindly."
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Hundreds of fireflies followed Milo up the long, long stairs. Together they made a big, warm ball of golden light at the top of the lighthouse."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "Out at sea, Old Otter saw a soft golden glow. “There!” he cried. “There is the lighthouse!” He turned his little red boat toward the light."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "The boat sailed slowly through the tall waves, closer and closer. At last, it slipped safely into the harbor. Old Otter was home."
+    },
+    {
+      "index": 11,
+      "imagePath": "images/13.jpg",
+      "text": "Just then, Grandpa fixed the great lamp. It flashed on, bright and strong. The fireflies cheered — well, they blinked very fast, which is how fireflies cheer."
+    },
+    {
+      "index": 12,
+      "imagePath": "images/14.jpg",
+      "text": "“You saved the night, Milo,” said Grandpa proudly. “A small light is still a light. And many small lights together can be as bright as the sun.”"
+    },
+    {
+      "index": 13,
+      "imagePath": "images/15.jpg",
+      "text": "The next morning, Old Otter brought them a basket of fresh fish. And every summer after that, the fireflies came to visit the little mouse who had asked them for help."
+    }
+  ]
+}

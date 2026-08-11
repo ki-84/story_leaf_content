@@ -9467,6 +9467,62 @@
    "source": "pb",
    "license": "CC BY 4.0",
    "cover": "covers/pb-en-0433.jpg"
+  },
+  {
+   "bookId": "pb-en-0700",
+   "title": "Where Is Momo's Hat?",
+   "level": 1,
+   "genres": [
+    "どうぶつ",
+    "にちじょう"
+   ],
+   "wordCount": 109,
+   "pageCount": 11,
+   "source": "original",
+   "license": "All Rights Reserved",
+   "cover": "covers/pb-en-0700.jpg"
+  },
+  {
+   "bookId": "pb-en-0701",
+   "title": "The Slow, Slow Letter",
+   "level": 2,
+   "genres": [
+    "どうぶつ",
+    "かぞく・ともだち"
+   ],
+   "wordCount": 192,
+   "pageCount": 12,
+   "source": "original",
+   "license": "All Rights Reserved",
+   "cover": "covers/pb-en-0701.jpg"
+  },
+  {
+   "bookId": "pb-en-0702",
+   "title": "The Lighthouse Mouse",
+   "level": 3,
+   "genres": [
+    "ぼうけん",
+    "どうぶつ"
+   ],
+   "wordCount": 382,
+   "pageCount": 14,
+   "source": "original",
+   "license": "All Rights Reserved",
+   "cover": "covers/pb-en-0702.jpg"
+  },
+  {
+   "bookId": "pb-en-0703",
+   "title": "The Big Pancake Morning",
+   "level": 2,
+   "genres": [
+    "かぞく・ともだち",
+    "ゆかい・ユーモア"
+   ],
+   "wordCount": 182,
+   "pageCount": 12,
+   "source": "original",
+   "license": "All Rights Reserved",
+   "cover": "covers/pb-en-0703.jpg"
   }
  ]
 }

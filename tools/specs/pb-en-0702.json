@@ -1,0 +1,165 @@
+{
+  "bookId": "pb-en-0702",
+  "title": "The Lighthouse Mouse",
+  "level": 3,
+  "genres": [
+    "ぼうけん",
+    "どうぶつ"
+  ],
+  "backend": "qwen",
+  "style_prefix": "Children's picture book illustration.",
+  "style_suffix": "Flat colors, soft pastel palette, simple rounded shapes, thick clean outlines, cozy storybook mood, no text, no letters, no words.",
+  "characters": {
+    "milo": "Milo is a small young gray mouse with big round dark eyes with one white sparkle highlight, rosy pink cheeks, big round pink ears, a small pink nose, wearing a bright yellow raincoat.",
+    "grandpa": "Grandpa is a plump old gray mouse with small dark eyes, bushy white eyebrows, a white walrus mustache, a big round pink nose, rosy cheeks, a navy blue captain's cap and a dark blue knitted sweater.",
+    "otter": "Old Otter is a friendly plump brown otter with small dark eyes, rosy cheeks, a cream muzzle and belly, wearing a green rain hat and a red scarf."
+  },
+  "castSheet": {
+    "scene": "Character reference sheet, three cute animal characters standing in a row, full body, front view, evenly spaced on a plain white background, children's picture book style. Left: a small young gray mouse with big dark eyes and round pink ears, wearing a bright yellow raincoat. Middle: a plump old gray mouse with bushy white eyebrows, a white mustache, a navy blue captain's cap and a dark blue knitted sweater. Right: a friendly brown otter with a cream muzzle, wearing a green rain hat and a red scarf.",
+    "seed": 7600,
+    "legend": "left: Milo, a small young gray mouse in a yellow raincoat; middle: Grandpa, a plump old gray mouse with white eyebrows and mustache, a navy captain's cap and a blue sweater; right: Old Otter, a brown otter with a green rain hat and a red scarf",
+    "slots": {
+      "milo": [
+        0.03,
+        0.3
+      ],
+      "grandpa": [
+        0.31,
+        0.68
+      ],
+      "otter": [
+        0.64,
+        0.97
+      ]
+    },
+    "sizes": "Milo is a small child, about half as tall as Grandpa; Old Otter is about as tall as Grandpa."
+  },
+  "cover": {
+    "scene": "Night scene: a tall white lighthouse with a red glass lamp room on top and a red round door stands on a rocky cliff above the dark sea. The lamp room shines with warm golden light into the night sky. Milo the little mouse in his yellow raincoat stands small at the red door, looking up. Dark starry sky above. Absolutely no letters, no words, no writing anywhere in the image.",
+    "cast": [
+      "milo"
+    ],
+    "seed": 7801
+  },
+  "pages": [
+    {
+      "text": "Milo lived in a tall white lighthouse by the sea. Every evening, his grandpa climbed the long stairs and lit the great lamp at the top.",
+      "scene": "Evening. A tall white lighthouse with a red top stands on a rocky cliff above the calm blue sea. Warm light glows in its round windows. Milo the small mouse and Grandpa stand together at the open red door of the lighthouse.",
+      "cast": [
+        "milo",
+        "grandpa"
+      ],
+      "seed": 7602
+    },
+    {
+      "text": "“The light keeps the boats safe,” Grandpa always said. “When the sea is dark, our lamp shows them the way home.” Milo loved to watch it shine.",
+      "scene": "Exactly one animal in the picture: Grandpa the old mouse stands proudly beside the great glowing golden brass lamp in the bright lamp room at the top of the lighthouse, one paw resting on the lamp, smiling warmly. Big glass windows all around show the dark blue evening sky and stars.",
+      "cast": [
+        "grandpa"
+      ],
+      "seed": 7903
+    },
+    {
+      "text": "One autumn night, a storm came. The wind howled, and the rain beat against the windows. Far out at sea, Old Otter's little red boat was sailing home.",
+      "scene": "Stormy night at sea: dark sky, heavy rain and big rolling waves. Old Otter sails his small red fishing boat through the storm, both paws on the oar, wearing his green rain hat.",
+      "cast": [
+        "otter"
+      ],
+      "seed": 7704
+    },
+    {
+      "text": "Suddenly, everything went dark. The great lamp had gone out! Grandpa turned the switch again and again, but nothing happened. The lighthouse stood blind in the storm.",
+      "scene": "Only these two animals: two gray mice, Grandpa and Milo. Grandpa the old mouse stands right next to the wall switch and presses it with his own paw, worried face. Little Milo stands one step away from the wall, holding up one small lit candle with both paws. A clear gap of floor separates the two mice. Rain streams down the big window behind them, dark room.",
+      "cast": [
+        "milo",
+        "grandpa"
+      ],
+      "seed": 8105
+    },
+    {
+      "text": "“The storm broke the lamp,” said Grandpa. “I must fix it, but it will take time.” His voice was worried. “And Old Otter is still out at sea.”",
+      "scene": "Only these two animals: two gray mice, Grandpa and Milo, both with big round pink mouse ears. In a dim room lit by one candle, Grandpa the old mouse, wearing his navy captain's cap, kneels on the wooden floor with a small wrench in his paw and tools spread around him, looking worried. Little Milo, a small gray mouse with big pink ears wearing his yellow raincoat with the hood down, stands beside him listening with wide eyes.",
+      "cast": [
+        "milo",
+        "grandpa"
+      ],
+      "seed": 8006
+    },
+    {
+      "text": "Milo looked out into the black night. Without the light, Old Otter could not find the harbor. The waves were tall and strong. Milo had to do something.",
+      "scene": "Milo in his yellow raincoat stands alone at a big round window of the lighthouse, looking out into the black stormy night, small but determined. Far away, lightning flashes over the dark sea.",
+      "cast": [
+        "milo"
+      ],
+      "seed": 7607
+    },
+    {
+      "text": "Then he remembered the meadow behind the lighthouse. On summer nights, it was full of fireflies! “Maybe they can help us,” Milo said, and he ran down the stairs.",
+      "scene": "Night, inside the lighthouse tower: curved stone interior walls surround a wooden spiral staircase lit by warm little wall lamps. Milo in his yellow raincoat runs down the stairs with a determined, hopeful face, one paw on the railing.",
+      "cast": [
+        "milo"
+      ],
+      "seed": 8108
+    },
+    {
+      "text": "The fireflies were hiding from the rain under the leaves. “Please,” said Milo, “a boat is lost in the dark. Will you shine with me?” The fireflies blinked kindly.",
+      "scene": "In a dark rainy meadow behind the lighthouse, Milo in his yellow raincoat kneels under a big green leaf and talks to many tiny glowing yellow-green fireflies sheltering there. Their soft glow lights his face. Far behind, The lighthouse is a tall white tower with a red glass lamp room on top and a red round door.",
+      "cast": [
+        "milo"
+      ],
+      "seed": 7709
+    },
+    {
+      "text": "Hundreds of fireflies followed Milo up the long, long stairs. Together they made a big, warm ball of golden light at the top of the lighthouse.",
+      "scene": "Inside the round glass lamp room at the top of the lighthouse at night, big glass windows all around showing the dark sky, Milo stands in the middle with his arms raised happily while hundreds of glowing fireflies swirl around him and gather into one big warm ball of golden light.",
+      "cast": [
+        "milo"
+      ],
+      "seed": 7710
+    },
+    {
+      "text": "Out at sea, Old Otter saw a soft golden glow. “There!” he cried. “There is the lighthouse!” He turned his little red boat toward the light.",
+      "scene": "On the dark stormy sea, Old Otter stands in his small red boat and points joyfully at a soft golden glow shining from a lighthouse far away on the cliff. Big waves around the boat. The lighthouse is a tall white tower with a red glass lamp room on top and a red round door.",
+      "cast": [
+        "otter"
+      ],
+      "seed": 7711
+    },
+    {
+      "text": "The boat sailed slowly through the tall waves, closer and closer. At last, it slipped safely into the harbor. Old Otter was home.",
+      "scene": "Night, the storm has passed, dark calm sky with a few stars. The small red boat with Old Otter aboard sails into a little stone harbor below the cliff. Above on the cliff, the tall white lighthouse with a red glass lamp room glows with warm golden firefly light. The dark water near the shore is calm.",
+      "cast": [
+        "otter"
+      ],
+      "seed": 7812
+    },
+    {
+      "text": "Just then, Grandpa fixed the great lamp. It flashed on, bright and strong. The fireflies cheered — well, they blinked very fast, which is how fireflies cheer.",
+      "scene": "The great lamp of the lighthouse shines bright white-gold again. In the lamp room, Grandpa raises his wrench in joy and Milo laughs, while hundreds of happy fireflies blink around them like tiny stars.",
+      "cast": [
+        "milo",
+        "grandpa"
+      ],
+      "seed": 7613
+    },
+    {
+      "text": "“You saved the night, Milo,” said Grandpa proudly. “A small light is still a light. And many small lights together can be as bright as the sun.”",
+      "scene": "Only these two animals: one big old mouse (Grandpa) and one small child mouse (Milo), nobody else. Inside the warm lamp room, Grandpa, wearing his navy captain's cap with the gold emblem, gently puts his paw on little Milo's shoulder and smiles down at him proudly. Milo beams up at him. A few glowing fireflies rest on Milo's yellow hood. Soft golden light around them.",
+      "cast": [
+        "milo",
+        "grandpa"
+      ],
+      "seed": 8114
+    },
+    {
+      "text": "The next morning, Old Otter brought them a basket of fresh fish. And every summer after that, the fireflies came to visit the little mouse who had asked them for help.",
+      "scene": "Sunny calm morning. Old Otter happily hands a basket of fresh fish to Milo and Grandpa at the red round door of the tall white lighthouse with a red glass lamp room. The sea behind them is calm and blue, with two seagulls in the sky.",
+      "cast": [
+        "milo",
+        "grandpa",
+        "otter"
+      ],
+      "seed": 7715
+    }
+  ]
+}

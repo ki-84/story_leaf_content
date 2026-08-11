@@ -4,3 +4,8 @@
 # パイプラインの作業ファイル
 /poc_result.json
 /library_report.json
+# ローカル確認用の HTML ビューア (tools/book_to_html.py が生成)
+/preview/
+# LoRA 学習データと重み (配信不要・大容量)
+/dataset/
+/tools/lora/output/

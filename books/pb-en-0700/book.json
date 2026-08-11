@@ -1,0 +1,84 @@
+{
+  "bookId": "pb-en-0700",
+  "title": "Where Is Momo's Hat?",
+  "level": 1,
+  "levelSource": "original",
+  "genres": [
+    "どうぶつ",
+    "にちじょう"
+  ],
+  "genreSource": "original",
+  "wordCount": 109,
+  "pageCount": 11,
+  "coverImagePath": "images/01.jpg",
+  "source": "original",
+  "attribution": {
+    "title": "Where Is Momo's Hat?",
+    "author": "Nobuaki Kuwabara",
+    "illustrator": "AI generated (FLUX.1-schnell), directed by Nobuaki Kuwabara",
+    "translator": null,
+    "publisher": "Nobuaki Kuwabara",
+    "sourceURL": "https://ki-84.github.io/story_leaf_content/",
+    "license": "All Rights Reserved",
+    "licenseURL": "https://ki-84.github.io/story_leaf_content/LICENSE-original.txt",
+    "modified": "生成AI (FLUX.1-schnell) による画像生成・オリジナルテキスト"
+  },
+  "warnings": [],
+  "pages": [
+    {
+      "index": 0,
+      "imagePath": "images/02.jpg",
+      "text": "Momo has a red hat. She loves her red hat."
+    },
+    {
+      "index": 1,
+      "imagePath": "images/03.jpg",
+      "text": "One day, the wind blows. Oh no! The hat flies away."
+    },
+    {
+      "index": 2,
+      "imagePath": "images/04.jpg",
+      "text": "Momo looks under the tree. No hat."
+    },
+    {
+      "index": 3,
+      "imagePath": "images/05.jpg",
+      "text": "“Rabbit, do you see my red hat?”\n“No,” says Rabbit."
+    },
+    {
+      "index": 4,
+      "imagePath": "images/06.jpg",
+      "text": "“Bear, do you see my red hat?”\n“No,” says Bear."
+    },
+    {
+      "index": 5,
+      "imagePath": "images/07.jpg",
+      "text": "“Duck, do you see my red hat?”\n“No,” says Duck."
+    },
+    {
+      "index": 6,
+      "imagePath": "images/08.jpg",
+      "text": "Momo is sad. Where is her red hat?"
+    },
+    {
+      "index": 7,
+      "imagePath": "images/09.jpg",
+      "text": "Look! A bird has the red hat. It is a nest!"
+    },
+    {
+      "index": 8,
+      "imagePath": "images/10.jpg",
+      "text": "Momo sees the baby birds in the hat. They are warm."
+    },
+    {
+      "index": 9,
+      "imagePath": "images/11.jpg",
+      "text": "“You can have my hat,” says Momo. The birds sing."
+    },
+    {
+      "index": 10,
+      "imagePath": "images/12.jpg",
+      "text": "Mama knits a new hat for Momo. It is red, too!"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "castId": "skyport",
+  "title": "Skyport Village Friends (そらまちの仲間たち)",
+  "confirmed": "2026-08-10",
+  "style_suffix": "Extremely simple and loose Japanese hand-drawn kawaii manga mascot style: thin soft slightly wobbly hand-drawn outline like a gentle pencil sketch, squat pear-shaped soft body, short nubby stub arms, tiny feet, tiny round black dot eyes, each eye with a single tiny round white highlight dot in the upper part, a tiny simple open mouth like a small triangle, faint pink cheek blush, milky pale colors with lots of white and cream, flat minimal shading, no text, no letters.",
+  "sizes": "Nana and Bruno are the tallest; Pip and Olive are a little smaller; Coco is the smallest.",
+  "characters": {
+    "pip": {
+      "trigger": "pipmu",
+      "species": "hedgehog child",
+      "desc": "A small pale-cream hedgehog child with a very round blob body. His back is covered with a soft scalloped border of short round gentle pale-beige bumps. Cream face and belly, empty little paws.",
+      "ref": "tools/specs/cast/skyport-pip.png",
+      "design_seed": 9701,
+      "role": "主人公・好奇心旺盛",
+      "prompt_desc": "a small pale-cream hedgehog child with soft pale-beige scalloped spikes on his back"
+    },
+    "nana": {
+      "trigger": "nanamu",
+      "species": "white rabbit child",
+      "desc": "A soft white rabbit child with a very round chubby blob body, short stubby limbs, long upright ears, and a compact face with the tiny dot eyes, tiny pink nose and small mouth gathered near the center.",
+      "ref": "tools/specs/cast/skyport-nana.png",
+      "design_seed": 9802,
+      "role": "相棒・元気",
+      "prompt_desc": "a round white rabbit child with long upright ears"
+    },
+    "coco": {
+      "trigger": "cocomu",
+      "species": "duckling",
+      "desc": "A tiny round pale-yellow duckling with a very small orange beak, tiny orange webbed feet, and a little tuft of feathers on top of the head.",
+      "ref": "tools/specs/cast/skyport-coco.png",
+      "design_seed": 9603,
+      "role": "お調子者・ユーモア",
+      "prompt_desc": "a tiny round pale-yellow duckling with a very small orange beak"
+    },
+    "bruno": {
+      "trigger": "brunomu",
+      "species": "bear cub",
+      "desc": "A small bear cub child with a perfectly round circle-shaped face, small round ears, a tiny pale tan muzzle, pale cream fur and a round pale-tan tummy patch.",
+      "ref": "tools/specs/cast/skyport-bruno.png",
+      "design_seed": 9604,
+      "role": "おっとり・食いしんぼう",
+      "prompt_desc": "a small pale-cream bear cub with a perfectly round face and a pale-tan tummy patch"
+    },
+    "olive": {
+      "trigger": "olivemu",
+      "species": "owl",
+      "desc": "A round pale-cream owl with very thin round wire glasses over tiny dot eyes, drawn very simply with minimal feather detail, small folded pale-beige wings and a tiny simple beak.",
+      "ref": "tools/specs/cast/skyport-olive.png",
+      "design_seed": 9705,
+      "role": "先生・ものしり",
+      "prompt_desc": "a round pale-cream owl with thin round wire glasses"
+    }
+  }
+}

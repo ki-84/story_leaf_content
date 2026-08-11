@@ -1,0 +1,37 @@
+Story Leaf Original Books — License / オリジナル絵本のライセンス
+================================================================
+
+Scope / 適用範囲
+----------------
+This license applies to the original picture books in this repository
+whose book.json declares  "source": "original"  (bookId pb-en-0700 and
+later original titles), including their text, images, and metadata.
+
+本ライセンスは、本リポジトリ内の book.json に "source": "original" と
+記載されたオリジナル絵本（pb-en-0700 以降のオリジナル作品）の本文・
+画像・メタデータに適用されます。
+
+その他の絵本（Pratham Books / African Storybook 由来の作品）は各冊の
+book.json 内 attribution に記載された CC ライセンス等に従います。
+
+Copyright / 著作権
+------------------
+© 2026 Nobuaki Kuwabara. All Rights Reserved.
+
+Terms / 利用条件
+----------------
+Unauthorized use, reproduction, redistribution, modification, or public
+transmission of these works, in whole or in part, is prohibited without
+the prior written consent of the copyright holder, Nobuaki Kuwabara.
+
+これらの作品の全部または一部を、著作権者 Nobuaki Kuwabara の事前の
+書面による承諾なく利用・複製・再配布・改変・公衆送信することを禁止
+します。
+
+Illustrations were generated with a generative AI model (FLUX.1-schnell)
+under the direction of the author.
+挿絵は著者の指示のもと生成AI (FLUX.1-schnell) で生成したものです。
+
+Contact / 連絡先
+----------------
+qua.flower@gmail.com
