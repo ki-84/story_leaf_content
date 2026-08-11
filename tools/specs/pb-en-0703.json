@@ -21,7 +21,8 @@
       "coco",
       "olive"
     ],
-    "seed": 10200
+    "seed": 10200,
+    "location": "bruno-kitchen"
   },
   "pages": [
     {
@@ -30,7 +31,8 @@
       "cast": [
         "bruno"
       ],
-      "seed": 10101
+      "seed": 10101,
+      "location": "bruno-bedroom"
     },
     {
       "text": "But Bruno's kitchen was almost empty. He had flour, but no eggs, no milk, no honey. Bruno looked very sad.",
@@ -38,7 +40,8 @@
       "cast": [
         "bruno"
       ],
-      "seed": 10302
+      "seed": 10302,
+      "location": "bruno-kitchen"
     },
     {
       "text": "Pip the hedgehog knocked on the door. “Why so sad, Bruno?” “I have no eggs,” said Bruno.",
@@ -47,7 +50,8 @@
         "pip",
         "bruno"
       ],
-      "seed": 10103
+      "seed": 12103,
+      "location": "bruno-kitchen"
     },
     {
       "text": "“Let's ask our friends!” said Pip. So they walked to Nana's house together.",
@@ -56,7 +60,8 @@
         "pip",
         "bruno"
       ],
-      "seed": 10104
+      "seed": 10104,
+      "location": "meadow-path"
     },
     {
       "text": "Nana the rabbit had two big eggs. “Here you are!” she said with a happy hop.",
@@ -64,7 +69,8 @@
       "cast": [
         "nana"
       ],
-      "seed": 10105
+      "seed": 10105,
+      "location": "nana-house"
     },
     {
       "text": "Coco the duckling brought a jug of milk. But Coco tripped at the kitchen door! Oh no!",
@@ -72,7 +78,8 @@
       "cast": [
         "coco"
       ],
-      "seed": 10306
+      "seed": 10306,
+      "location": "bruno-kitchen"
     },
     {
       "text": "Splash! The milk flew up... and landed right in the bowl. “Lucky duck!” everyone laughed.",
@@ -80,7 +87,8 @@
       "cast": [
         "coco"
       ],
-      "seed": 10307
+      "seed": 10307,
+      "location": "bruno-kitchen"
     },
     {
       "text": "Wise old Olive the owl came with honey. “A little honey makes everything sweet,” she said.",
@@ -88,7 +96,8 @@
       "cast": [
         "olive"
       ],
-      "seed": 10108
+      "seed": 10108,
+      "location": "bruno-kitchen"
     },
     {
       "text": "They mixed and mixed. Flip! Bruno turned the pancakes in the pan.",
@@ -97,7 +106,8 @@
         "bruno",
         "coco"
       ],
-      "seed": 10109
+      "seed": 10109,
+      "location": "bruno-kitchen"
     },
     {
       "text": "Soon the little kitchen smelled warm and sweet. The pancakes were golden and round.",
@@ -106,7 +116,8 @@
         "pip",
         "nana"
       ],
-      "seed": 10110
+      "seed": 10110,
+      "location": "bruno-kitchen"
     },
     {
       "text": "“Thank you, friends,” said Bruno. “Pancakes taste best when we share them.”",
@@ -115,7 +126,8 @@
         "bruno",
         "olive"
       ],
-      "seed": 10111
+      "seed": 10111,
+      "location": "bruno-kitchen"
     },
     {
       "text": "So the five friends ate pancakes together, and every plate was soon empty.",
@@ -127,7 +139,36 @@
         "bruno",
         "olive"
       ],
-      "seed": 10112
+      "seed": 11112,
+      "location": "bruno-kitchen"
+    }
+  ],
+  "locations": {
+    "bruno-bedroom": "Bruno's simple cozy bedroom with a small round window",
+    "bruno-kitchen": "Bruno's simple cozy kitchen",
+    "meadow-path": "a simple path in a grassy meadow",
+    "nana-house": "in front of Nana's simple little house"
+  },
+  "story_ledger": [
+    {
+      "item": "flour (パンケーキの材料)",
+      "satisfied_by": "p2"
+    },
+    {
+      "item": "eggs",
+      "satisfied_by": "p5"
+    },
+    {
+      "item": "milk",
+      "satisfied_by": "p6"
+    },
+    {
+      "item": "honey",
+      "satisfied_by": "p8"
+    },
+    {
+      "item": "cook (調理する人)",
+      "satisfied_by": "p9"
     }
   ]
 }
